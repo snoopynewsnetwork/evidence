@@ -1,0 +1,162 @@
+{
+  "role": "county-election-plan: McCracken",
+  "request": {
+    "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/McCracken%20County%20P26.pdf",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:33:45.906309+00:00",
+  "hops": [
+    {
+      "request_url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/McCracken%20County%20P26.pdf",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:33:45.906630+00:00",
+      "status": 200,
+      "response_url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/McCracken%20County%20P26.pdf",
+      "headers": [
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:33:49 GMT"
+        ],
+        [
+          "Content-Type",
+          "application/pdf"
+        ],
+        [
+          "Content-Length",
+          "3632409"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Vary",
+          "Accept-Encoding"
+        ],
+        [
+          "Set-Cookie",
+          "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure"
+        ],
+        [
+          "Set-Cookie",
+          "ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/"
+        ],
+        [
+          "Cache-Control",
+          "private,max-age=0"
+        ],
+        [
+          "Expires",
+          "Mon, 05 Oct 2026 22:33:46 GMT"
+        ],
+        [
+          "Last-Modified",
+          "Fri, 16 Jan 2026 19:44:08 GMT"
+        ],
+        [
+          "ETag",
+          "\"{A391C8A7-D05B-44A5-8A1E-702AFEEA6CB2},1\""
+        ],
+        [
+          "X-SharePointHealthScore",
+          "0"
+        ],
+        [
+          "ResourceTag",
+          "rt:A391C8A7-D05B-44A5-8A1E-702AFEEA6CB2@00000000001"
+        ],
+        [
+          "Public-Extension",
+          "http://schemas.microsoft.com/repl-2"
+        ],
+        [
+          "SPRequestGuid",
+          "fdd946a2-ec92-b05c-6baa-23bd494d51e5"
+        ],
+        [
+          "request-id",
+          "fdd946a2-ec92-b05c-6baa-23bd494d51e5"
+        ],
+        [
+          "X-FRAME-OPTIONS",
+          "SAMEORIGIN"
+        ],
+        [
+          "Content-Security-Policy",
+          "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
+        ],
+        [
+          "SPRequestDuration",
+          "3445"
+        ],
+        [
+          "SPIisLatency",
+          "10"
+        ],
+        [
+          "Set-Cookie",
+          "_InfoPath_Sentinel=; path=/"
+        ],
+        [
+          "X-Powered-By",
+          "ASP.NET"
+        ],
+        [
+          "MicrosoftSharePointTeamServices",
+          "16.0.0.20326"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "X-MS-InvokeApp",
+          "1; RequireReadOnly"
+        ],
+        [
+          "x-azure-ref",
+          "20261020T223345Z-174b95d58c8dllt5hC1CH1nd0w00000003eg000000009wc3"
+        ],
+        [
+          "x-fd-int-roxy-purgeid",
+          "0"
+        ],
+        [
+          "X-Cache",
+          "PRIVATE_NOSTORE"
+        ],
+        [
+          "Accept-Ranges",
+          "bytes"
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:33:49.735197+00:00",
+      "entity": {
+        "path": "source/bodies/1e9eac0ff7bb71bcc7882fc954693e4835d5f129103d845590a4fabbd59a46cd.gz",
+        "raw_bytes": 3632409,
+        "raw_sha256": "1e9eac0ff7bb71bcc7882fc954693e4835d5f129103d845590a4fabbd59a46cd",
+        "stored_bytes": 2443189,
+        "stored_sha256": "903b19d32711cdf308b326954432cea8ccf95b38481e8cdbf60dfe1cb9212fd5"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:33:49.828374+00:00"
+}

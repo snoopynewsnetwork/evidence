@@ -1,0 +1,162 @@
+{
+  "role": "county-election-plan: Hart",
+  "request": {
+    "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Hart%20County%20P26.pdf",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:33:32.442925+00:00",
+  "hops": [
+    {
+      "request_url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Hart%20County%20P26.pdf",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:33:32.443314+00:00",
+      "status": 200,
+      "response_url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Hart%20County%20P26.pdf",
+      "headers": [
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:33:33 GMT"
+        ],
+        [
+          "Content-Type",
+          "application/pdf"
+        ],
+        [
+          "Content-Length",
+          "443618"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Vary",
+          "Accept-Encoding"
+        ],
+        [
+          "Set-Cookie",
+          "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure"
+        ],
+        [
+          "Set-Cookie",
+          "ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/"
+        ],
+        [
+          "Cache-Control",
+          "private,max-age=0"
+        ],
+        [
+          "Expires",
+          "Mon, 05 Oct 2026 22:33:32 GMT"
+        ],
+        [
+          "Last-Modified",
+          "Fri, 09 Jan 2026 20:54:22 GMT"
+        ],
+        [
+          "ETag",
+          "\"{0F8797A8-E828-4101-9E4C-4289A87D3C96},1\""
+        ],
+        [
+          "X-SharePointHealthScore",
+          "0"
+        ],
+        [
+          "ResourceTag",
+          "rt:0F8797A8-E828-4101-9E4C-4289A87D3C96@00000000001"
+        ],
+        [
+          "Public-Extension",
+          "http://schemas.microsoft.com/repl-2"
+        ],
+        [
+          "SPRequestGuid",
+          "fad946a2-dc51-b05c-bfd1-8a8c0c9b1077"
+        ],
+        [
+          "request-id",
+          "fad946a2-dc51-b05c-bfd1-8a8c0c9b1077"
+        ],
+        [
+          "X-FRAME-OPTIONS",
+          "SAMEORIGIN"
+        ],
+        [
+          "Content-Security-Policy",
+          "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
+        ],
+        [
+          "SPRequestDuration",
+          "544"
+        ],
+        [
+          "SPIisLatency",
+          "13"
+        ],
+        [
+          "Set-Cookie",
+          "_InfoPath_Sentinel=; path=/"
+        ],
+        [
+          "X-Powered-By",
+          "ASP.NET"
+        ],
+        [
+          "MicrosoftSharePointTeamServices",
+          "16.0.0.20326"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "X-MS-InvokeApp",
+          "1; RequireReadOnly"
+        ],
+        [
+          "x-azure-ref",
+          "20261020T223332Z-174b95d58c8nqgh4hC1CH1v3fs0000001fng0000000089gq"
+        ],
+        [
+          "x-fd-int-roxy-purgeid",
+          "0"
+        ],
+        [
+          "X-Cache",
+          "PRIVATE_NOSTORE"
+        ],
+        [
+          "Accept-Ranges",
+          "bytes"
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:33:33.408955+00:00",
+      "entity": {
+        "path": "source/bodies/f4059777bc1cc30e4aa5beb63c35c652befb7155389a04910b1e640ade956042.gz",
+        "raw_bytes": 443618,
+        "raw_sha256": "f4059777bc1cc30e4aa5beb63c35c652befb7155389a04910b1e640ade956042",
+        "stored_bytes": 324414,
+        "stored_sha256": "84de7678505ca0de829d1feb9e975e879a2a05697b4e85b9a0a4e25bec272a39"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:33:33.419081+00:00"
+}

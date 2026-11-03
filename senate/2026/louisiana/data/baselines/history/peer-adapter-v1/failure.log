@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/baselines/compare_peer.py", line 39, in <module>
+    eq(C[y]['candidate_totals'],peer['historical_controls'][y]['state_candidate_votes'],'state_candidate_vector')
+                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'state_candidate_votes'

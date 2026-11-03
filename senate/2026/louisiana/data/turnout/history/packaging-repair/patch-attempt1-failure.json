@@ -1,0 +1,7 @@
+{
+  "stage": "packaging script preparation; no source mutation",
+  "tool": "apply_patch",
+  "error": "apply_patch verification failed: invalid patch: multiple operations target /Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/make_manifest.py",
+  "context": "Rejected Delete+Add same-path operations in one patch. No part of rejected patch executed. Retry uses separate Add for new files and Update for existing packaging scripts.",
+  "historical_source_or_count_changes": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2024-VotesRaceByPrecinct-37",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20241105/VotesRaceByPrecinct/Votes_67190_37.htm",
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20241105/VotesRaceByPrecinct/Votes_67190_37.htm",
+  "retrieved_at_utc": "2026-10-20T21:48:42.989898+00:00",
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "39847",
+    "Cache-Control": "public, no-cache=\"Set-Cookie\", max-age=10",
+    "Expires": "Tue, 20 Oct 2026 21:48:53 GMT",
+    "Last-Modified": "Tue, 20 Oct 2026 21:48:43 GMT",
+    "Page-Generation-Time": "56",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Tue, 20 Oct 2026 21:48:43 GMT",
+    "Connection": "close",
+    "Set-Cookie": "AWSALB=KihoOuN/UgWxJu8cBKQHzlcfWLfNDfTUzptu80m+ZRI581ulbwP8C0uihOuETow3qqrHhQOCfssDTmlSoT8QgMGvUsBs1/+ZGhCAqN4lTH3vX49gA/ACEExtNq9s; Expires=Tue, 27 Oct 2026 21:48:43 GMT; Path=/"
+  },
+  "raw_sha256": "04759ba54ed3b2e10d6c97b3b675e8a7153d00ddfcfd0eacfaf9a900cb8ecfa3",
+  "bytes": 39847,
+  "stored_sha256": "5a4c0c5d728b98fc6b47023dbb8d0c56d4fc62a69b80c27b98a6e495c6c4d02a",
+  "stored_bytes": 2155,
+  "asset": "2024-VotesRaceByPrecinct-37.gz",
+  "redirect_scope": "urllib follows redirects; only final response entity/headers retained"
+}

@@ -1,0 +1,40 @@
+year,contest,race_id,source_column,choice_id,header_literal,party_literal,state_votes,sum_parish_votes,sum_native_votes
+2024,Presidential Electors,67190,2,123574,"Kamala D. Harris, Tim Walz Democratic (DEM)",DEM,766870,766870,766870
+2024,Presidential Electors,67190,3,123573,"Jill Stein, Ajamu Baraka Green (GRN)",GRN,7138,7138,7138
+2024,Presidential Electors,67190,4,123239,"Chase Oliver, Mike ter Maat Libertarian (LBT)",LBT,6835,6835,6835
+2024,Presidential Electors,67190,5,123572,"Donald J. Trump, ""JD"" Vance Republican (REP)",REP,1208505,1208505,1208505
+2024,Presidential Electors,67190,6,123575,"Peter Sonski, Lauren Onak American Solidarity Party (OTHER)",OTHER,2240,2240,2240
+2024,Presidential Electors,67190,7,123576,"Randall Terry, Stephen Broden Constitution Party (OTHER)",OTHER,1424,1424,1424
+2024,Presidential Electors,67190,8,123578,"Mattie Preston, Shannel Conner Godliness, Truth, Justice (OTHER)",OTHER,2857,2857,2857
+2024,Presidential Electors,67190,9,123577,"Cornel West, Melina Abdullah Justice For All (OTHER)",OTHER,2623,2623,2623
+2024,Presidential Electors,67190,10,123570,"Claudia de la Cruz, Karina Garcia Socialism and Liberation (OTHER)",OTHER,1481,1481,1481
+2024,Presidential Electors,67190,11,123571,"Rachele Fruit, Dennis Richter Socialist Workers Party (OTHER)",OTHER,361,361,361
+2024,Presidential Electors,67190,12,123569,"Robert F. Kennedy, Jr., Nicole Shanahan We The People (OTHER)",OTHER,6641,6641,6641
+2022,U. S. Senator,61897,2,116035,Beryl A. Billiot (NOPTY),NOPTY,9378,9378,9378
+2022,U. S. Senator,61897,3,115136,"Gary Chambers, Jr. (DEM)",DEM,246933,246933,246933
+2022,U. S. Senator,61897,4,117227,Devin Lance Graham (REP),REP,25275,25275,25275
+2022,U. S. Senator,61897,5,114911,"""Xan"" John (OTHER)",OTHER,2753,2753,2753
+2022,U. S. Senator,61897,6,114861,John Kennedy (REP),REP,851568,851568,851568
+2022,U. S. Senator,61897,7,115670,W. Thomas La Fontaine Olson (NOPTY),NOPTY,1676,1676,1676
+2022,U. S. Senator,61897,8,116755,Bradley McMorris (IND),IND,5388,5388,5388
+2022,U. S. Senator,61897,9,116132,"MV ""Vinny"" Mendoza (DEM)",DEM,11910,11910,11910
+2022,U. S. Senator,61897,10,115416,"""Luke"" Mixon (DEM)",DEM,182887,182887,182887
+2022,U. S. Senator,61897,11,116412,Salvador P. Rodriguez (DEM),DEM,7767,7767,7767
+2022,U. S. Senator,61897,12,117198,Aaron C. Sigler (LBT),LBT,4865,4865,4865
+2022,U. S. Senator,61897,13,115414,Syrita Steib (DEM),DEM,31568,31568,31568
+2022,U. S. Senator,61897,14,115636,Thomas Wenn (OTHER),OTHER,1322,1322,1322
+2020,U. S. Senator,59569,2,112789,Beryl Billiot (NOPTY),NOPTY,17362,17362,17362
+2020,U. S. Senator,59569,3,111401,John Paul Bourgeois (NOPTY),NOPTY,16518,16518,16518
+2020,U. S. Senator,59569,4,112841,"""Bill"" Cassidy (REP)",REP,1228908,1228908,1228908
+2020,U. S. Senator,59569,5,112620,Reno Jean Daret III (NOPTY),NOPTY,3954,3954,3954
+2020,U. S. Senator,59569,6,112172,"Derrick ""Champ"" Edwards (DEM)",DEM,229814,229814,229814
+2020,U. S. Senator,59569,7,112662,"""Xan"" John (OTHER)",OTHER,2813,2813,2813
+2020,U. S. Senator,59569,8,112138,David Drew Knight (DEM),DEM,36962,36962,36962
+2020,U. S. Senator,59569,9,113149,"M.V. ""Vinny"" Mendoza (IND)",IND,7811,7811,7811
+2020,U. S. Senator,59569,10,113121,Jamar Montgomery (NOPTY),NOPTY,5804,5804,5804
+2020,U. S. Senator,59569,11,112998,Dustin Murphy (REP),REP,38383,38383,38383
+2020,U. S. Senator,59569,12,112580,Adrian Perkins (DEM),DEM,394049,394049,394049
+2020,U. S. Senator,59569,13,111893,Antoine Pierce (DEM),DEM,55710,55710,55710
+2020,U. S. Senator,59569,14,112892,Melinda Mary Price (OTHER),OTHER,7680,7680,7680
+2020,U. S. Senator,59569,15,112599,Aaron C. Sigler (LBT),LBT,11321,11321,11321
+2020,U. S. Senator,59569,16,112549,Peter Wenstrup (DEM),DEM,14454,14454,14454

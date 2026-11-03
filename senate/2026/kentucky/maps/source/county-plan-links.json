@@ -1,0 +1,1683 @@
+{
+  "parent_url": "https://elect.ky.gov/Resources/Pages/County-Election-Plans.aspx",
+  "all_anchor_objects": [
+    {
+      "href": "#mainNavContent",
+      "text": "Skip to main navigation"
+    },
+    {
+      "href": "#bodyContent",
+      "text": "Skip to \r\n\tmain content"
+    },
+    {
+      "href": "https://kentucky.gov",
+      "text": "Ky.gov"
+    },
+    {
+      "href": "/",
+      "text": "\r\n            \r\n            \t\r\n\t\t\tCommonwealth of Kentucky\r\n\t\t\t\tState Board of Elections\r\n\t\t\t"
+    },
+    {
+      "href": "/About-Us/Pages/default.aspx",
+      "text": "About Us "
+    },
+    {
+      "href": "/About-Us/Pages/default.aspx",
+      "text": "About Us"
+    },
+    {
+      "href": "/About-Us/Pages/default.aspx",
+      "text": "About Us"
+    },
+    {
+      "href": "/About-Us/Pages/State-Board-of-Elections.aspx",
+      "text": "State Board of Elections"
+    },
+    {
+      "href": "/About-Us/Pages/County-Boards-of-Elections.aspx",
+      "text": "County Boards of Elections"
+    },
+    {
+      "href": "/About-Us/Pages/County-Clerks.aspx",
+      "text": "County Clerks"
+    },
+    {
+      "href": "/About-Us/Pages/Contact-Us.aspx",
+      "text": "Contact Us"
+    },
+    {
+      "href": "/Voters/Pages/default.aspx",
+      "text": "Voters "
+    },
+    {
+      "href": "/Voters/Pages/default.aspx",
+      "text": "Voters"
+    },
+    {
+      "href": "/Voters/Pages/default.aspx",
+      "text": "Voters"
+    },
+    {
+      "href": "https://vrsws.sos.ky.gov/ovrweb/govoteky",
+      "text": "Register Online to Vote"
+    },
+    {
+      "href": "/Voters/Pages/Voting-In-Person-and-By-Mail.aspx",
+      "text": "Upcoming Election Summary"
+    },
+    {
+      "href": "/Voters/Pages/Voter-Rights.aspx",
+      "text": "Voter Rights"
+    },
+    {
+      "href": "/Voters/Pages/Military-or-Overseas-Voters.aspx",
+      "text": "Military or Overseas Voters"
+    },
+    {
+      "href": "/Voters/Pages/College-Students.aspx",
+      "text": "College Students"
+    },
+    {
+      "href": "/Voters/Pages/Become-a-Precinct-Election-Officer.aspx",
+      "text": "Become a Precinct Election Officer"
+    },
+    {
+      "href": "/Voters/Pages/Voter-Registration-Drives.aspx",
+      "text": "Voter Registration Drives"
+    },
+    {
+      "href": "/Voters/Pages/Absentee-Excused-In-Person.aspx",
+      "text": "Voter ID Requirements"
+    },
+    {
+      "href": "/Voters/Pages/Absentee-Voting-By-Mail.aspx",
+      "text": "Eligibility for Absentee Voting"
+    },
+    {
+      "href": "/Voters/Pages/Voters-with-Disabilities.aspx",
+      "text": "Voters with Disabilities"
+    },
+    {
+      "href": "/Voters/Pages/Polling-Locations.aspx",
+      "text": "Polling Locations"
+    },
+    {
+      "href": "/Voters/Pages/Voter-Residency-FAQs.aspx",
+      "text": "Voter Residency FAQs"
+    },
+    {
+      "href": "/Candidates/Pages/default.aspx",
+      "text": "Candidates "
+    },
+    {
+      "href": "/Candidates/Pages/default.aspx",
+      "text": "Candidates"
+    },
+    {
+      "href": "/Candidates/Pages/default.aspx",
+      "text": "Candidate"
+    },
+    {
+      "href": "/Candidates/Pages/Candidate-Filing.aspx",
+      "text": "Candidate Filing"
+    },
+    {
+      "href": "/Candidates/Pages/Qualifications-and-Filing-Fees.aspx",
+      "text": "Qualifications & Filing Fees"
+    },
+    {
+      "href": "/Resources/Pages/Election-Calendar.aspx",
+      "text": "Election Calendars & Schedule"
+    },
+    {
+      "href": "/Candidates/Pages/Request-Voter-Registration-Data.aspx",
+      "text": "Request Voter Registration Data"
+    },
+    {
+      "href": "/results/Pages/default.aspx",
+      "text": "Results "
+    },
+    {
+      "href": "/results/Pages/default.aspx",
+      "text": "Election Results"
+    },
+    {
+      "href": "/results/Pages/default.aspx",
+      "text": "Elections"
+    },
+    {
+      "href": "#",
+      "text": "2020-2029"
+    },
+    {
+      "href": "/results/2020-2029/Pages/default.aspx",
+      "text": "Kentucky Elections Results 2020-2029"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2020.aspx",
+      "text": "2020"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2022.aspx",
+      "text": "2022"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2023.aspx",
+      "text": "2023"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2024.aspx",
+      "text": "2024"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2026.aspx",
+      "text": "2026"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2020recap-sheets.aspx",
+      "text": "2020 Primary and General Recap Sheets"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2022recap-sheets.aspx",
+      "text": "2022 Recap Sheets"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2023Primary-Recap-Sheets.aspx",
+      "text": "2023Primary-Recap-Sheets"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2022-General-Recap-Sheets.aspx",
+      "text": "2022 General Recap Sheets"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2023General-Recap-Sheets.aspx",
+      "text": "2023 General Recap Sheets"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2024Primary-Recap-Sheets.aspx",
+      "text": "2024 Primary Recap Sheets"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+      "text": "2024 General Recap Sheets"
+    },
+    {
+      "href": "/results/2020-2029/Pages/2026Primary-Recap-Sheets.aspx",
+      "text": "2026 Primary Recap Sheets"
+    },
+    {
+      "href": "#",
+      "text": "2010-2019"
+    },
+    {
+      "href": "/results/2010-2019/Pages/default.aspx",
+      "text": "Kentucky Elections Results 2010-2019"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2010primaryandgeneralelectionresults.aspx",
+      "text": "2010 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2011primaryandgeneralelectionresults.aspx",
+      "text": "2011 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2012primaryandgeneralelectionresults.aspx",
+      "text": "2012 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2014PrimaryandGeneralElectionResults.aspx",
+      "text": "2014 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2015primaryandgeneralelectionresults.aspx",
+      "text": "2015 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2016primaryandgeneralelectionresults.aspx",
+      "text": "2016 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2018primaryandgeneralelectionresults.aspx",
+      "text": "2018 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2019-Primary-and-General-Election-Results.aspx",
+      "text": "2019 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2010-2019/Pages/2019recap-sheets.aspx",
+      "text": "2019 Recap Sheets"
+    },
+    {
+      "href": "#",
+      "text": "2000-2009"
+    },
+    {
+      "href": "/results/2000-2009/Pages/default.aspx",
+      "text": "Kentucky Elections Results 2000-2009"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2000primaryandgeneralelectionresults.aspx",
+      "text": "2000 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2001primaryandgeneralelectionresults.aspx",
+      "text": "2001 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2002primaryandgeneralelectionresults.aspx",
+      "text": "2002 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2003primaryandgeneralelectionresults.aspx",
+      "text": "2003 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2004primaryandgeneralelectionresults.aspx",
+      "text": "2004 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2005primaryandgeneralelectionresults.aspx",
+      "text": "2005 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2006primaryandgeneralelectionresults.aspx",
+      "text": "2006 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2007primaryandgeneralelectionresults.aspx",
+      "text": "2007 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2008primaryandgeneralelectionresults.aspx",
+      "text": "2008 Primary and General Election Results"
+    },
+    {
+      "href": "/results/2000-2009/Pages/2009primaryandgeneralelectionresults.aspx",
+      "text": "2009 Primary and General Election Results"
+    },
+    {
+      "href": "#",
+      "text": "1990-1999"
+    },
+    {
+      "href": "/results/1990-1999/Pages/default.aspx",
+      "text": "Kentucky Elections Results 1990-1999"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1990.aspx",
+      "text": "1990 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1991.aspx",
+      "text": "1991 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1992.aspx",
+      "text": "1992 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1993.aspx",
+      "text": "1993 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1994.aspx",
+      "text": "1994 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1995.aspx",
+      "text": "1995 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1996.aspx",
+      "text": "1996 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1997.aspx",
+      "text": "1997 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1998.aspx",
+      "text": "1998 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1990-1999/Pages/1999.aspx",
+      "text": "1999 Primary and General Election Results"
+    },
+    {
+      "href": "#",
+      "text": "1980-1989"
+    },
+    {
+      "href": "/results/1980-1989/Pages/default.aspx",
+      "text": "Kentucky Elections Results 1980-1989"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1980.aspx",
+      "text": "1980 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1981.aspx",
+      "text": "1981 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1982.aspx",
+      "text": "1982 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1983.aspx",
+      "text": "1983 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1984.aspx",
+      "text": "1984 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1985.aspx",
+      "text": "1985 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1986.aspx",
+      "text": "1986 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1987.aspx",
+      "text": "1987 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1988.aspx",
+      "text": "1988 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1980-1989/Pages/1989.aspx",
+      "text": "1989 Primary and General Election Results"
+    },
+    {
+      "href": "#",
+      "text": "1973-1979"
+    },
+    {
+      "href": "/results/1973-1979/Pages/default.aspx",
+      "text": "Kentucky Elections Results 1973-1979"
+    },
+    {
+      "href": "/results/1973-1979/Pages/1973.aspx",
+      "text": "1973 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1973-1979/Pages/1974.aspx",
+      "text": "1974 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1973-1979/Pages/1975.aspx",
+      "text": "1975 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1973-1979/Pages/1976.aspx",
+      "text": "1976 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1973-1979/Pages/1977.aspx",
+      "text": "1977 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1973-1979/Pages/1978.aspx",
+      "text": "1978 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1973-1979/Pages/1979.aspx",
+      "text": "1979 Primary and General Election Results"
+    },
+    {
+      "href": "/results/1973-1979/Pages/1972.aspx",
+      "text": "Primary and General Elections 1955-1972"
+    },
+    {
+      "href": "/results/Pages/Special-Elections.aspx",
+      "text": "Special Elections"
+    },
+    {
+      "href": "/Resources/Pages/default.aspx",
+      "text": "Resources "
+    },
+    {
+      "href": "/Resources/Pages/default.aspx",
+      "text": "Resources"
+    },
+    {
+      "href": "/Resources/Pages/default.aspx",
+      "text": "Resources"
+    },
+    {
+      "href": "/Resources/Pages/Election-Calendar.aspx",
+      "text": "Election Calendars & Schedule"
+    },
+    {
+      "href": "/Resources/Pages/Registration.aspx",
+      "text": "Registration"
+    },
+    {
+      "href": "/Resources/Pages/Turnout.aspx",
+      "text": "Turnout"
+    },
+    {
+      "href": "/Resources/Pages/Motor-Voter.aspx",
+      "text": "Motor Voter"
+    },
+    {
+      "href": "/About-Us/Pages/County-Clerks.aspx",
+      "text": "County Clerks"
+    },
+    {
+      "href": "/Resources/Pages/Voting-Systems.aspx",
+      "text": "Voting Systems"
+    },
+    {
+      "href": "/Resources/Pages/Help-America-Vote-Act-(HAVA).aspx",
+      "text": "Help America Vote Act (HAVA)"
+    },
+    {
+      "href": "/Resources/Pages/List-Maintenance.aspx",
+      "text": "Voter List Maintenance"
+    },
+    {
+      "href": "/Resources/Pages/County-Election-Plans.aspx",
+      "text": "County Election Plans"
+    },
+    {
+      "href": "/Resources/Pages/E-Poll-Book-Products.aspx",
+      "text": "E-Poll Book Products"
+    },
+    {
+      "href": "/Resources/Pages/U.S.-Election-Assistance-Commission.aspx",
+      "text": "U.S. Election Assistance Commission"
+    },
+    {
+      "href": "/Resources/Pages/Voter-Residency-List.aspx",
+      "text": "Voter Residency List"
+    },
+    {
+      "href": "/Frequently-Asked-Questions/Pages/default.aspx",
+      "text": "FAQ "
+    },
+    {
+      "href": "/Frequently-Asked-Questions/Pages/default.aspx",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "href": "/Frequently-Asked-Questions/Pages/default.aspx",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "href": "/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+      "text": "Election Day Information"
+    },
+    {
+      "href": "/Frequently-Asked-Questions/Pages/Voter-Registration.aspx",
+      "text": "Voter Registration"
+    },
+    {
+      "href": "/Resources/Pages/Help-America-Vote-Act-(HAVA).aspx",
+      "text": "Help America Vote Act (HAVA)"
+    },
+    {
+      "href": "/Resources/Pages/default.aspx",
+      "text": "Resources"
+    },
+    {
+      "href": "/Resources/Pages/Election-Calendar.aspx",
+      "text": "Election Calendars & Schedule"
+    },
+    {
+      "href": "/Resources/Pages/Registration.aspx",
+      "text": "Registration"
+    },
+    {
+      "href": "/Resources/Pages/Turnout.aspx",
+      "text": "Turnout"
+    },
+    {
+      "href": "/Resources/Pages/Motor-Voter.aspx",
+      "text": "Motor Voter"
+    },
+    {
+      "href": "/About-Us/Pages/County-Clerks.aspx",
+      "text": "County Clerks"
+    },
+    {
+      "href": "/Resources/Pages/Voting-Systems.aspx",
+      "text": "Voting Systems"
+    },
+    {
+      "href": "/Resources/Pages/Help-America-Vote-Act-(HAVA).aspx",
+      "text": "Help America Vote Act (HAVA)"
+    },
+    {
+      "href": "/Resources/Pages/List-Maintenance.aspx",
+      "text": "Voter List Maintenance"
+    },
+    {
+      "href": "/Resources/Pages/County-Election-Plans.aspx",
+      "text": "County Election Plans"
+    },
+    {
+      "href": "/Resources/Pages/E-Poll-Book-Products.aspx",
+      "text": "E-Poll Book Products"
+    },
+    {
+      "href": "/Resources/Pages/U.S.-Election-Assistance-Commission.aspx",
+      "text": "U.S. Election Assistance Commission"
+    },
+    {
+      "href": "/Resources/Pages/Voter-Residency-List.aspx",
+      "text": "Voter Residency List"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Adair%20County%20P26.pdf",
+      "text": "Adair"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Allen%20County%20P26.pdf",
+      "text": "Allen"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Anderson%20County%20P26.pdf",
+      "text": "Anderson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Ballard%20County%20P26.pdf",
+      "text": "Ballard"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Barren%20County%20P26.pdf",
+      "text": "Barren"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bath%20County%20P26.pdf",
+      "text": "Bath"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bell%20County%20P26.pdf",
+      "text": "Bell"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Boone%20County%20P26.pdf",
+      "text": "Boone"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bourbon%20County%20P26.pdf",
+      "text": "Bourbon"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Boyd%20County%20P26.pdf",
+      "text": "Boyd"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Boyle%20County%20P26.pdf",
+      "text": "Boyle"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bracken%20County%20P26.pdf",
+      "text": "Bracken"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Breathitt%20County%20P26.pdf",
+      "text": "Breathitt"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Breckinridge%20County%20P26.pdf",
+      "text": "Breckinridge"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bullitt%20County%20P26.pdf",
+      "text": "Bullitt"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Butler%20County%20P26.pdf",
+      "text": "Butler"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Caldwell%20County%20P26.pdf",
+      "text": "Caldwell"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Calloway%20County%20P26.pdf",
+      "text": "Calloway"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Campbell%20County%20P26.pdf",
+      "text": "Campbell"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Carlisle%20County%20P26.pdf",
+      "text": "Carlisle"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Carroll%20County%20P26.pdf",
+      "text": "Carroll"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Carter%20County%20P26.pdf",
+      "text": "Carter"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Casey%20County%20P26.pdf",
+      "text": "Casey"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Christian%20County%20P26.pdf",
+      "text": "Christian"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Clark%20County%20P26.pdf",
+      "text": "Clark"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Clay%20County%20P26.pdf",
+      "text": "Clay"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Clinton%20County%20P26.pdf",
+      "text": "Clinton"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Crittenden%20County%20P26.pdf",
+      "text": "Crittenden"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Cumberland%20County%20P26.pdf",
+      "text": "Cumberland"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Daviess%20County%20P26.pdf",
+      "text": "Daviess"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Edmonson%20County%20P26.pdf",
+      "text": "Edmonson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Elliott%20County%20P26.pdf",
+      "text": "Elliott"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Estill%20County%20P26.pdf",
+      "text": "Estill"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Fayette%20County%20P26.pdf",
+      "text": "Fayette"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Fleming%20County%20P26.pdf",
+      "text": "Fleming"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Floyd%20County%20P26.pdf",
+      "text": "Floyd"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Franklin%20County%20P26.pdf",
+      "text": "Franklin"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Fulton%20County%20P26.pdf",
+      "text": "Fulton"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Gallatin%20County%20P26.pdf",
+      "text": "Gallatin"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Garrard%20County%20P26.pdf",
+      "text": "Garrard"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Grant%20County%20P26.pdf",
+      "text": "Grant"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Graves%20County%20P26.pdf",
+      "text": "Graves"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Grayson%20County%20P26.pdf",
+      "text": "Grayson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Green%20County%20P26.pdf",
+      "text": "Green"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Greenup%20County%20P26.pdf",
+      "text": "Greenup"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hancock%20County%20P26.pdf",
+      "text": "Hancock"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hardin%20County%20P26.pdf",
+      "text": "Hardin"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Harlan%20County%20P26.pdf",
+      "text": "Harlan"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Harrison%20County%20P26.pdf",
+      "text": "Harrison"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hart%20County%20P26.pdf",
+      "text": "Hart"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Henderson%20County%20P26.pdf",
+      "text": "Henderson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Henry%20County%20P26.pdf",
+      "text": "Henry"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hickman%20County%20P26.pdf",
+      "text": "Hickman"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hopkins%20County%20P26.pdf",
+      "text": "Hopkins"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Jackson%20County%20P26.pdf",
+      "text": "Jackson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Jefferson%20County%20P26.pdf",
+      "text": "Jefferson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Jessamine%20County%20P26.pdf",
+      "text": "Jessamine"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Johnson%20County%20P26.pdf",
+      "text": "Johnson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Kenton%20County%20P26.pdf",
+      "text": "Kenton"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Knott%20County%20P26.pdf",
+      "text": "Knott"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Knox%20County%20P26.pdf",
+      "text": "Knox"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Larue%20County%20P26.pdf",
+      "text": "Larue"
+    },
+    {
+      "href": "/Resources/Documents/Laurel.pdf",
+      "text": "Laurel"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lawrence%20County%20P26.pdf",
+      "text": "Lawrence"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lee%20County%20P26.pdf",
+      "text": "Lee"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Leslie%20County%20P26.pdf",
+      "text": "Leslie"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Letcher%20County%20P26.pdf",
+      "text": "Letcher"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lewis%20County%20P26.pdf",
+      "text": "Lewis"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lincoln%20County%20P26.pdf",
+      "text": "Lincoln"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Livingston%20County%20P26.pdf",
+      "text": "Livingston"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Logan%20County%20P26.pdf",
+      "text": "Logan"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lyon%20County%20P26.pdf",
+      "text": "Lyon"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Madison%20County%20P26.pdf",
+      "text": "Madison"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Magoffin%20County%20P26.pdf",
+      "text": "Magoffin"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Marion%20County%20P26.pdf",
+      "text": "Marion"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Marshall%20County%20P26.pdf",
+      "text": "Marshall"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Martin%20County%20P26.pdf",
+      "text": "Martin"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Mason%20County%20P26.pdf",
+      "text": "Mason"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/McCracken%20County%20P26.pdf",
+      "text": "McCracken"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/McCreary%20County%20P26.pdf",
+      "text": "McCreary"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/McLean%20County%20P26.pdf",
+      "text": "McLean"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Meade%20County%20P26.pdf",
+      "text": "Meade"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Menifee%20County%20P26.pdf",
+      "text": "Menifee"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Mercer%20County%20P26.pdf",
+      "text": "Mercer"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Metcalfe%20County%20P26.pdf",
+      "text": "Metcalfe"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Montgomery%20County%20P26.pdf",
+      "text": "Montgomery"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Monroe%20County%20P26.pdf",
+      "text": "Monroe"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Morgan%20County%20P26.pdf",
+      "text": "Morgan"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Muhlenberg%20County%20P26.pdf",
+      "text": "Muhlenberg"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Nelson%20County%20P26.pdf",
+      "text": "Nelson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Nicholas%20County%20P26.pdf",
+      "text": "Nicholas"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Ohio%20County%20P26.pdf",
+      "text": "Ohio"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Oldham%20County%20P26.pdf",
+      "text": "Oldham"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Owen%20County%20P26.pdf",
+      "text": "Owen"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Owsley%20County%20P26.pdf",
+      "text": "Owsley"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Pendleton%20County%20P26.pdf",
+      "text": "Pendleton"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Perry%20County%20P26.pdf",
+      "text": "Perry"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Pike%20County%20P26.pdf",
+      "text": "Pike"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Powell%20County%20P26.pdf",
+      "text": "Powell"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Pulaski%20County%20P26.pdf",
+      "text": "Pulaski"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Robertson%20County%20P26.pdf",
+      "text": "Robertson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Rockcastle%20County%20P26.pdf",
+      "text": "Rockcastle"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Rowan%20County%20P26.pdf",
+      "text": "Rowan"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Russell%20County%20P26.pdf",
+      "text": "Russell"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Scott%20County%20P26.pdf",
+      "text": "Scott"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Shelby%20County%20P26.pdf",
+      "text": "Shelby"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Simpson%20County%20P26.pdf",
+      "text": "Simpson"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Spencer%20County%20P26.pdf",
+      "text": "Spencer"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Taylor%20County%20P26.pdf",
+      "text": "Taylor"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Todd%20County%20P26.pdf",
+      "text": "Todd"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Trigg%20County%20P26.pdf",
+      "text": "Trigg"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Trimble%20County%20P26.pdf",
+      "text": "Trimble"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Union%20County%20P26.pdf",
+      "text": "Union"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Warren%20County%20P26.pdf",
+      "text": "Warren"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Washington%20County%20P26.pdf",
+      "text": "Washington"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Wayne%20County%20P26.pdf",
+      "text": "Wayne"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Webster%20County%20P26.pdf",
+      "text": "Webster"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Whitley%20County%20P26.pdf",
+      "text": "Whitley"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Wolfe%20County%20P26.pdf",
+      "text": "Wolfe"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Woodford%20County%20P26.pdf",
+      "text": "Woodford"
+    },
+    {
+      "href": "https://elect.ky.gov/About-Us/Pages/Contact-Us.aspx",
+      "text": "Contact"
+    },
+    {
+      "href": "https://kentucky.gov/policies/Pages/default.aspx",
+      "text": "Policies"
+    },
+    {
+      "href": "https://kentucky.gov/policies/Pages/security.aspx",
+      "text": "Security"
+    },
+    {
+      "href": "https://kentucky.gov/policies/Pages/disclaimer.aspx",
+      "text": "Disclaimer"
+    },
+    {
+      "href": "https://kentucky.gov/policies/Pages/accessibility.aspx",
+      "text": "Accessibility"
+    },
+    {
+      "href": "http://www.kentucky.gov",
+      "text": "Kentucky.gov"
+    }
+  ],
+  "pdf_links": [
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Adair%20County%20P26.pdf",
+      "text": "Adair",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Adair%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Allen%20County%20P26.pdf",
+      "text": "Allen",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Allen%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Anderson%20County%20P26.pdf",
+      "text": "Anderson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Anderson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Ballard%20County%20P26.pdf",
+      "text": "Ballard",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Ballard%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Barren%20County%20P26.pdf",
+      "text": "Barren",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Barren%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bath%20County%20P26.pdf",
+      "text": "Bath",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Bath%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bell%20County%20P26.pdf",
+      "text": "Bell",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Bell%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Boone%20County%20P26.pdf",
+      "text": "Boone",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Boone%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bourbon%20County%20P26.pdf",
+      "text": "Bourbon",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Bourbon%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Boyd%20County%20P26.pdf",
+      "text": "Boyd",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Boyd%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Boyle%20County%20P26.pdf",
+      "text": "Boyle",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Boyle%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bracken%20County%20P26.pdf",
+      "text": "Bracken",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Bracken%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Breathitt%20County%20P26.pdf",
+      "text": "Breathitt",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Breathitt%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Breckinridge%20County%20P26.pdf",
+      "text": "Breckinridge",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Breckinridge%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Bullitt%20County%20P26.pdf",
+      "text": "Bullitt",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Bullitt%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Butler%20County%20P26.pdf",
+      "text": "Butler",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Butler%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Caldwell%20County%20P26.pdf",
+      "text": "Caldwell",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Caldwell%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Calloway%20County%20P26.pdf",
+      "text": "Calloway",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Calloway%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Campbell%20County%20P26.pdf",
+      "text": "Campbell",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Campbell%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Carlisle%20County%20P26.pdf",
+      "text": "Carlisle",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Carlisle%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Carroll%20County%20P26.pdf",
+      "text": "Carroll",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Carroll%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Carter%20County%20P26.pdf",
+      "text": "Carter",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Carter%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Casey%20County%20P26.pdf",
+      "text": "Casey",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Casey%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Christian%20County%20P26.pdf",
+      "text": "Christian",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Christian%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Clark%20County%20P26.pdf",
+      "text": "Clark",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Clark%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Clay%20County%20P26.pdf",
+      "text": "Clay",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Clay%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Clinton%20County%20P26.pdf",
+      "text": "Clinton",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Clinton%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Crittenden%20County%20P26.pdf",
+      "text": "Crittenden",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Crittenden%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Cumberland%20County%20P26.pdf",
+      "text": "Cumberland",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Cumberland%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Daviess%20County%20P26.pdf",
+      "text": "Daviess",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Daviess%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Edmonson%20County%20P26.pdf",
+      "text": "Edmonson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Edmonson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Elliott%20County%20P26.pdf",
+      "text": "Elliott",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Elliott%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Estill%20County%20P26.pdf",
+      "text": "Estill",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Estill%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Fayette%20County%20P26.pdf",
+      "text": "Fayette",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Fayette%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Fleming%20County%20P26.pdf",
+      "text": "Fleming",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Fleming%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Floyd%20County%20P26.pdf",
+      "text": "Floyd",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Floyd%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Franklin%20County%20P26.pdf",
+      "text": "Franklin",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Franklin%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Fulton%20County%20P26.pdf",
+      "text": "Fulton",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Fulton%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Gallatin%20County%20P26.pdf",
+      "text": "Gallatin",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Gallatin%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Garrard%20County%20P26.pdf",
+      "text": "Garrard",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Garrard%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Grant%20County%20P26.pdf",
+      "text": "Grant",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Grant%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Graves%20County%20P26.pdf",
+      "text": "Graves",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Graves%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Grayson%20County%20P26.pdf",
+      "text": "Grayson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Grayson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Green%20County%20P26.pdf",
+      "text": "Green",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Green%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Greenup%20County%20P26.pdf",
+      "text": "Greenup",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Greenup%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hancock%20County%20P26.pdf",
+      "text": "Hancock",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Hancock%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hardin%20County%20P26.pdf",
+      "text": "Hardin",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Hardin%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Harlan%20County%20P26.pdf",
+      "text": "Harlan",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Harlan%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Harrison%20County%20P26.pdf",
+      "text": "Harrison",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Harrison%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hart%20County%20P26.pdf",
+      "text": "Hart",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Hart%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Henderson%20County%20P26.pdf",
+      "text": "Henderson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Henderson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Henry%20County%20P26.pdf",
+      "text": "Henry",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Henry%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hickman%20County%20P26.pdf",
+      "text": "Hickman",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Hickman%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Hopkins%20County%20P26.pdf",
+      "text": "Hopkins",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Hopkins%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Jackson%20County%20P26.pdf",
+      "text": "Jackson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Jackson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Jefferson%20County%20P26.pdf",
+      "text": "Jefferson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Jefferson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Jessamine%20County%20P26.pdf",
+      "text": "Jessamine",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Jessamine%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Johnson%20County%20P26.pdf",
+      "text": "Johnson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Johnson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Kenton%20County%20P26.pdf",
+      "text": "Kenton",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Kenton%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Knott%20County%20P26.pdf",
+      "text": "Knott",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Knott%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Knox%20County%20P26.pdf",
+      "text": "Knox",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Knox%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Larue%20County%20P26.pdf",
+      "text": "Larue",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Larue%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/Laurel.pdf",
+      "text": "Laurel",
+      "url": "https://elect.ky.gov/Resources/Documents/Laurel.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lawrence%20County%20P26.pdf",
+      "text": "Lawrence",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Lawrence%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lee%20County%20P26.pdf",
+      "text": "Lee",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Lee%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Leslie%20County%20P26.pdf",
+      "text": "Leslie",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Leslie%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Letcher%20County%20P26.pdf",
+      "text": "Letcher",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Letcher%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lewis%20County%20P26.pdf",
+      "text": "Lewis",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Lewis%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lincoln%20County%20P26.pdf",
+      "text": "Lincoln",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Lincoln%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Livingston%20County%20P26.pdf",
+      "text": "Livingston",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Livingston%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Logan%20County%20P26.pdf",
+      "text": "Logan",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Logan%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Lyon%20County%20P26.pdf",
+      "text": "Lyon",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Lyon%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Madison%20County%20P26.pdf",
+      "text": "Madison",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Madison%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Magoffin%20County%20P26.pdf",
+      "text": "Magoffin",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Magoffin%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Marion%20County%20P26.pdf",
+      "text": "Marion",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Marion%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Marshall%20County%20P26.pdf",
+      "text": "Marshall",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Marshall%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Martin%20County%20P26.pdf",
+      "text": "Martin",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Martin%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Mason%20County%20P26.pdf",
+      "text": "Mason",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Mason%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/McCracken%20County%20P26.pdf",
+      "text": "McCracken",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/McCracken%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/McCreary%20County%20P26.pdf",
+      "text": "McCreary",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/McCreary%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/McLean%20County%20P26.pdf",
+      "text": "McLean",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/McLean%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Meade%20County%20P26.pdf",
+      "text": "Meade",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Meade%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Menifee%20County%20P26.pdf",
+      "text": "Menifee",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Menifee%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Mercer%20County%20P26.pdf",
+      "text": "Mercer",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Mercer%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Metcalfe%20County%20P26.pdf",
+      "text": "Metcalfe",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Metcalfe%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Montgomery%20County%20P26.pdf",
+      "text": "Montgomery",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Montgomery%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Monroe%20County%20P26.pdf",
+      "text": "Monroe",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Monroe%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Morgan%20County%20P26.pdf",
+      "text": "Morgan",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Morgan%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Muhlenberg%20County%20P26.pdf",
+      "text": "Muhlenberg",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Muhlenberg%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Nelson%20County%20P26.pdf",
+      "text": "Nelson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Nelson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Nicholas%20County%20P26.pdf",
+      "text": "Nicholas",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Nicholas%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Ohio%20County%20P26.pdf",
+      "text": "Ohio",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Ohio%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Oldham%20County%20P26.pdf",
+      "text": "Oldham",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Oldham%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Owen%20County%20P26.pdf",
+      "text": "Owen",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Owen%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Owsley%20County%20P26.pdf",
+      "text": "Owsley",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Owsley%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Pendleton%20County%20P26.pdf",
+      "text": "Pendleton",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Pendleton%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Perry%20County%20P26.pdf",
+      "text": "Perry",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Perry%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Pike%20County%20P26.pdf",
+      "text": "Pike",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Pike%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Powell%20County%20P26.pdf",
+      "text": "Powell",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Powell%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Pulaski%20County%20P26.pdf",
+      "text": "Pulaski",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Pulaski%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Robertson%20County%20P26.pdf",
+      "text": "Robertson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Robertson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Rockcastle%20County%20P26.pdf",
+      "text": "Rockcastle",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Rockcastle%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Rowan%20County%20P26.pdf",
+      "text": "Rowan",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Rowan%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Russell%20County%20P26.pdf",
+      "text": "Russell",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Russell%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Scott%20County%20P26.pdf",
+      "text": "Scott",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Scott%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Shelby%20County%20P26.pdf",
+      "text": "Shelby",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Shelby%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Simpson%20County%20P26.pdf",
+      "text": "Simpson",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Simpson%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Spencer%20County%20P26.pdf",
+      "text": "Spencer",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Spencer%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Taylor%20County%20P26.pdf",
+      "text": "Taylor",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Taylor%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Todd%20County%20P26.pdf",
+      "text": "Todd",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Todd%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Trigg%20County%20P26.pdf",
+      "text": "Trigg",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Trigg%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Trimble%20County%20P26.pdf",
+      "text": "Trimble",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Trimble%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Union%20County%20P26.pdf",
+      "text": "Union",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Union%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Warren%20County%20P26.pdf",
+      "text": "Warren",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Warren%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Washington%20County%20P26.pdf",
+      "text": "Washington",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Washington%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Wayne%20County%20P26.pdf",
+      "text": "Wayne",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Wayne%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Webster%20County%20P26.pdf",
+      "text": "Webster",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Webster%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Whitley%20County%20P26.pdf",
+      "text": "Whitley",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Whitley%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Wolfe%20County%20P26.pdf",
+      "text": "Wolfe",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Wolfe%20County%20P26.pdf"
+    },
+    {
+      "href": "/Resources/Documents/2026PrimaryElectionPlans/Woodford%20County%20P26.pdf",
+      "text": "Woodford",
+      "url": "https://elect.ky.gov/Resources/Documents/2026PrimaryElectionPlans/Woodford%20County%20P26.pdf"
+    }
+  ]
+}

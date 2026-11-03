@@ -1,0 +1,899 @@
+[
+  {
+    "parish_id": "02",
+    "row": {
+      "Precinct": "05/13",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "03",
+    "row": {
+      "Precinct": "00/60",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "26",
+    "row": {
+      "Precinct": "00/157B",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "31",
+    "row": {
+      "Precinct": "01/04",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "31",
+    "row": {
+      "Precinct": "01/07",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "31",
+    "row": {
+      "Precinct": "12/03",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "48",
+    "row": {
+      "Precinct": "04/13",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "55",
+    "row": {
+      "Precinct": "00/118",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "58",
+    "row": {
+      "Precinct": "01/07B",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "58",
+    "row": {
+      "Precinct": "01/08F",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "58",
+    "row": {
+      "Precinct": "04/03E",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "58",
+    "row": {
+      "Precinct": "04/03N",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  },
+  {
+    "parish_id": "58",
+    "row": {
+      "Precinct": "05/02A",
+      "HasReported": "1",
+      "Choice": [
+        {
+          "ID": "112789",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111401",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112841",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112620",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112172",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112662",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112138",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113149",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "113121",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112998",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112580",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "111893",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112892",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112599",
+          "VoteTotal": "0"
+        },
+        {
+          "ID": "112549",
+          "VoteTotal": "0"
+        }
+      ]
+    }
+  }
+]

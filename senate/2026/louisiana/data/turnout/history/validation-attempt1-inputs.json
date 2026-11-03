@@ -1,0 +1,112 @@
+[
+  {
+    "path": "data/turnout/priority-set.json",
+    "bytes": 15320920,
+    "sha256": "69f0244082d967c671fad29bf15bda5941f819271f63c0654366b3202c87337b"
+  },
+  {
+    "path": "data/turnout/source/original-pins.json",
+    "bytes": 13916,
+    "sha256": "76b02394a8165df7382afebdb9f588f43a904a5fa61c79d4eaf37e50f133a727"
+  },
+  {
+    "path": "data/turnout/source/acquired-pins.json",
+    "bytes": 132204,
+    "sha256": "9d06354eb20a859521793e682f6986b7d92448898a8b086e86622c35affb18dc"
+  },
+  {
+    "path": "turnout.md",
+    "bytes": 32017,
+    "sha256": "56f8783f64ff1bcd5b6bf58db5050952036e78780f355c47cc0557f4576f32a4"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/wrong-ballot-denominator.input.json",
+    "bytes": 356,
+    "sha256": "8dc90c3b772edd86f00bc22d13efa42a70c7319b603f0f05e6a8ff5531b43b04"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/lost-administrative-aggregate.input.json",
+    "bytes": 360,
+    "sha256": "ddcc5375c29eb0b7e60512df7f64a4693171278796f20d7393823d632f0a55f2"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/invented-null-zero.result.json",
+    "bytes": 110,
+    "sha256": "d479880a2c4081559028f060acac8420b11be62830d5c1437eef37e586b3db86"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/minimum80-off-by-one.input.json",
+    "bytes": 348,
+    "sha256": "4ae134f7f2690fbec402ee647903da820a356600f04db34119354f45960c2a1d"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/balanced-candidate-transfer.input.json",
+    "bytes": 354,
+    "sha256": "ab175b1367bc5b440de49d0fe9e84890a0d92be1272735fc8905966dc7922129"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/missing-unit.input.json",
+    "bytes": 342,
+    "sha256": "28353b33f3f27f7c1e3467018bc6003c0e8a75662bccb45d992fec8221890289"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/balanced-candidate-transfer.result.json",
+    "bytes": 114,
+    "sha256": "8fbfc5baa52a4beb266e0279e59b5fbffa9cd07f38c900e1190ea61a68e456c2"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/minimum80-off-by-one.result.json",
+    "bytes": 104,
+    "sha256": "b43c6db7fc9273c95ec90afe7e334d452f2eed27af21e9594cb8af686e99af91"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/duplicate-unit.result.json",
+    "bytes": 100,
+    "sha256": "93b2381e7bbff613fc80e8ee84b47e04fb4b5d2df70c5b8b0cb9dcc8d1544d2b"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/duplicate-unit.input.json",
+    "bytes": 347,
+    "sha256": "3f16ff41a5b59ebf6100c6c9ebc19373959bad14e93fd78342de98ca3616a2df"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/lost-administrative-aggregate.result.json",
+    "bytes": 115,
+    "sha256": "f2b510e5bedc6a21cabd778752f872d43083c753b595e29a0f3b64946c1eb5db"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/swapped-native-order.result.json",
+    "bytes": 104,
+    "sha256": "ec982bce4cef6e7a3a5c9cbbfb00028f5d3f980cb5f0ce6f5b2d6e6ef5585abb"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/missing-unit.result.json",
+    "bytes": 98,
+    "sha256": "6ae7a7941d08809cba03d2b4f1c64231ff77c6f005c854de9d026984a5230dad"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/swapped-native-order.input.json",
+    "bytes": 345,
+    "sha256": "debc7d28e3b1ff91eb7ea95254f80738f6f767951e78dbe63d361001239f4a7d"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/invented-null-zero.input.json",
+    "bytes": 346,
+    "sha256": "558eee19c065c0ffc8fce8c1e82dde791c473c4048776fc2bfc2151d81a5749b"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/parish-dispatch-substitution.input.json",
+    "bytes": 364,
+    "sha256": "cba3d78586de2861c79db62680e08cc7296423e386e9bea7f2bc0ce6c7ed2daf"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/wrong-ballot-denominator.result.json",
+    "bytes": 112,
+    "sha256": "9050cb55a0f58efbb656bdf5eed5066c44577798d06ca5ae46897348f3827809"
+  },
+  {
+    "path": "data/turnout/qa-fixtures/parish-dispatch-substitution.result.json",
+    "bytes": 121,
+    "sha256": "63ed3b9ae1f1948ef95b00f63563ffa68f4b8ace3f0e44ac5818d358bc127dca"
+  }
+]

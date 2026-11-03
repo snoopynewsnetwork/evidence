@@ -1,0 +1,1 @@
+{"checks": 146652, "issues": 192, "sample": [{"field": "method_kind", "own": "early_aggregate", "peer": "early_voting_aggregate"}, {"field": "method_kind", "own": "early_aggregate", "peer": "early_voting_aggregate"}, {"field": "method_kind", "own": "early_aggregate", "peer": "early_voting_aggregate"}]}

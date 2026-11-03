@@ -1,0 +1,26 @@
+{
+  "id": "sos-2020-full-results-xlsx",
+  "url": "https://s3-us-west-2.amazonaws.com/mediaresults.sos.la.gov/HumanReadableElectionResults/20201103/Election+Results+(11-03-2020).xlsx",
+  "retrieved_at_utc": "2026-10-18T22:56:26.729113+00:00",
+  "status": 200,
+  "final_url": "https://s3-us-west-2.amazonaws.com/mediaresults.sos.la.gov/HumanReadableElectionResults/20201103/Election+Results+(11-03-2020).xlsx",
+  "raw_sha256": "f49833525c0205ec00987e151bf717c4fe4a027c1bff67d7869049aa3f080e16",
+  "asset": "source/f49833525c0205ec00987e151bf717c4fe4a027c1bff67d7869049aa3f080e16.body.gz",
+  "stored_sha256": "f29cb4b6b80304c121944d77f32200239c7c0a0bae17314a09750aee8f305053",
+  "bytes": 812401,
+  "headers": {
+    "x-amz-request-id": "GDE43X0W0TVC89GF",
+    "x-amz-id-2": "mbYIex2gKs8ilcHZ6/h8MFyH//s/CV+T/a3RNXE7SzagLW/yNJW5W06eK3HRCMxjAhFijo6prouwwzn9J5U5uxMvUt2zYPOV",
+    "Content-Length": "812401",
+    "Accept-Ranges": "bytes",
+    "Date": "Sun, 18 Oct 2026 22:56:26 GMT",
+    "Server": "AmazonS3",
+    "Last-Modified": "Fri, 20 Nov 2020 11:01:32 GMT",
+    "ETag": "\"0478da040ec40830fd3b1b635d94ec24\"",
+    "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "original_asset_readonly": "data/news/sos-2020-full-results-xlsx.html.gz",
+  "original_stored_sha256": "f29cb4b6b80304c121944d77f32200239c7c0a0bae17314a09750aee8f305053",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

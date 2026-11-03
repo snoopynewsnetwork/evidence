@@ -1,0 +1,29 @@
+{
+  "mode": "historical",
+  "A": "A",
+  "B": "B",
+  "other_candidates": [
+    "C"
+  ],
+  "target": 1,
+  "units": [
+    {
+      "key": "high",
+      "volume": 10,
+      "participation": 1,
+      "share": 1,
+      "other_allocation": {
+        "C": 0
+      }
+    },
+    {
+      "key": "low",
+      "volume": 90,
+      "participation": 1,
+      "share": 0,
+      "other_allocation": {
+        "C": 0
+      }
+    }
+  ]
+}

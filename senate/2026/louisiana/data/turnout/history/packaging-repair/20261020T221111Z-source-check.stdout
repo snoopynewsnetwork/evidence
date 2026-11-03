@@ -1,0 +1,1 @@
+{"source_verification": "fail", "differences": [{"field": "common_original_full_body_bytes", "context": "current-closed-primary"}, {"field": "common_original_full_body_bytes", "context": "current-statistics-index"}], "checks": 1806694, "peer_reverse_source_fields": 146652}

@@ -1,0 +1,200 @@
+{
+  "2024": {
+    "race_id": "67190",
+    "choice_ids": [
+      "123574",
+      "123573",
+      "123239",
+      "123572",
+      "123575",
+      "123576",
+      "123578",
+      "123577",
+      "123570",
+      "123571",
+      "123569"
+    ],
+    "source_scope": "Disjoint candidate vectors by literal reporting row kind; early composition/ballot methods not inferred",
+    "method_vectors": {
+      "ward_precinct_source_row": [
+        400437,
+        5004,
+        4575,
+        617868,
+        1544,
+        833,
+        1584,
+        1707,
+        1061,
+        232,
+        4131
+      ],
+      "early_voting_aggregate": [
+        366097,
+        2133,
+        2256,
+        590400,
+        696,
+        591,
+        1273,
+        914,
+        419,
+        128,
+        2508
+      ],
+      "provisional_aggregate": [
+        336,
+        1,
+        4,
+        237,
+        0,
+        0,
+        0,
+        2,
+        1,
+        1,
+        2
+      ]
+    }
+  },
+  "2022": {
+    "race_id": "61897",
+    "choice_ids": [
+      "116035",
+      "115136",
+      "117227",
+      "114911",
+      "114861",
+      "115670",
+      "116755",
+      "116132",
+      "115416",
+      "116412",
+      "117198",
+      "115414",
+      "115636"
+    ],
+    "source_scope": "Disjoint candidate vectors by literal reporting row kind; early composition/ballot methods not inferred",
+    "method_vectors": {
+      "ward_precinct_source_row": [
+        7772,
+        189428,
+        20939,
+        2396,
+        628201,
+        1378,
+        4250,
+        8661,
+        116092,
+        5609,
+        4104,
+        21419,
+        1074
+      ],
+      "early_voting_aggregate": [
+        1605,
+        57457,
+        4331,
+        356,
+        223268,
+        297,
+        1137,
+        3245,
+        66768,
+        2154,
+        757,
+        10143,
+        248
+      ],
+      "provisional_aggregate": [
+        1,
+        48,
+        5,
+        1,
+        99,
+        1,
+        1,
+        4,
+        27,
+        4,
+        4,
+        6,
+        0
+      ]
+    }
+  },
+  "2020": {
+    "race_id": "59569",
+    "choice_ids": [
+      "112789",
+      "111401",
+      "112841",
+      "112620",
+      "112172",
+      "112662",
+      "112138",
+      "113149",
+      "113121",
+      "112998",
+      "112580",
+      "111893",
+      "112892",
+      "112599",
+      "112549"
+    ],
+    "source_scope": "Disjoint candidate vectors by literal reporting row kind; early composition/ballot methods not inferred",
+    "method_vectors": {
+      "ward_precinct_source_row": [
+        12576,
+        11569,
+        702456,
+        2920,
+        115460,
+        1954,
+        18238,
+        4816,
+        3585,
+        22391,
+        177318,
+        22891,
+        4683,
+        7277,
+        5976
+      ],
+      "early_voting_aggregate": [
+        4781,
+        4944,
+        526232,
+        1030,
+        114255,
+        855,
+        18701,
+        2991,
+        2217,
+        15973,
+        216574,
+        32795,
+        2990,
+        4039,
+        8473
+      ],
+      "provisional_aggregate": [
+        5,
+        5,
+        220,
+        4,
+        99,
+        4,
+        23,
+        4,
+        2,
+        19,
+        157,
+        24,
+        7,
+        5,
+        5
+      ]
+    }
+  }
+}

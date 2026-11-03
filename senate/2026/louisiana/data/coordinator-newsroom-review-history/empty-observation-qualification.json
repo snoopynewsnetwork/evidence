@@ -1,0 +1,3 @@
+{
+  "finding": "Coordinator all(empty choices) was mathematically true but is not an observed zero-count publication. Empty/unselected products now retain null all-counts-zero classification. Original entities and empty arrays unchanged; no admitted votes or current approval."
+}

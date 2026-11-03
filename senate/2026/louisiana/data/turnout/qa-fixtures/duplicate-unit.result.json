@@ -1,0 +1,5 @@
+{
+  "name": "duplicate-unit",
+  "status": "correctly_rejected",
+  "reason": "coverage/uniqueness"
+}

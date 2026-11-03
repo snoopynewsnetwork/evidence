@@ -1,0 +1,31 @@
+{
+  "id": "2024-StatsRaceParish-27",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20241105/StatsRaceParish/Stats_67190_27.htm",
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20241105/StatsRaceParish/Stats_67190_27.htm",
+  "retrieved_at_utc": "2026-10-20T21:48:42.090241+00:00",
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "10317",
+    "Cache-Control": "public, no-cache=\"Set-Cookie\", max-age=10",
+    "Expires": "Tue, 20 Oct 2026 21:48:52 GMT",
+    "Last-Modified": "Tue, 20 Oct 2026 21:48:42 GMT",
+    "Page-Generation-Time": "60",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Tue, 20 Oct 2026 21:48:42 GMT",
+    "Connection": "close",
+    "Set-Cookie": "AWSALB=YNgAAIcx3bQxwXUfJAENvINRT7Km1rzhsTi+5S8IQmKggf/Tr5t0MlU6mUb3uD+j6Bj1+1iY1bMsI9I42b4oSmNjgaKS5tVUDLz6Rlf1bDMjijHAB2+VgT8mtFKR; Expires=Tue, 27 Oct 2026 21:48:42 GMT; Path=/"
+  },
+  "raw_sha256": "ab47173ecdc1495da77a4f2fa69dc903a9a0a81844018d9327aeb9d6e687333f",
+  "bytes": 10317,
+  "stored_sha256": "2de194652c48e3beaea1d30de38acc92981584a82be2ef80deda5ce9ebf6ce2b",
+  "stored_bytes": 1849,
+  "asset": "2024-StatsRaceParish-27.gz",
+  "redirect_scope": "urllib follows redirects; only final response entity/headers retained"
+}

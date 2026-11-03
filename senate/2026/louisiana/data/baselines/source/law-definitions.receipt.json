@@ -1,0 +1,24 @@
+{
+  "id": "law-definitions",
+  "url": "https://www.legis.la.gov/legis/Law.aspx?d=81529",
+  "final_url": "https://www.legis.la.gov/legis/Law.aspx?d=81529",
+  "retrieved_at_utc": "2026-10-20T21:56:23.374593+00:00",
+  "status": 200,
+  "headers": {
+    "Cache-Control": "private",
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "Microsoft-IIS/10.0",
+    "Set-Cookie": "ASP.NET_SessionId=oa4sqge0xscxcw1nisat23vz; path=/; HttpOnly; SameSite=Lax",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Powered-By": "ASP.NET",
+    "Date": "Tue, 20 Oct 2026 21:56:23 GMT",
+    "Connection": "close",
+    "Content-Length": "53046"
+  },
+  "raw_sha256": "c7bdbec4f38556440bbb70c4a9f5a7fcae6797b74e9ecf8bbc58c18b5478ef5e",
+  "bytes": 53046,
+  "stored_sha256": "ab01445cc6e5908690c060034e03ed1c95a91729affeb72c008fee98ff802401",
+  "stored_bytes": 12412,
+  "asset": "law-definitions.gz",
+  "redirect_scope": "urllib follows redirects; only final response entity/headers retained"
+}

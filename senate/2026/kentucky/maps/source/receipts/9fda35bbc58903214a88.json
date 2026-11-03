@@ -1,0 +1,150 @@
+{
+  "role": "SBE-parent",
+  "request": {
+    "url": "https://elect.ky.gov/Pages/default.aspx",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:34:23.162103+00:00",
+  "hops": [
+    {
+      "request_url": "https://elect.ky.gov/Pages/default.aspx",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:23.162406+00:00",
+      "status": 200,
+      "response_url": "https://elect.ky.gov/Pages/default.aspx",
+      "headers": [
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:34:23 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "Content-Length",
+          "94664"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Vary",
+          "Accept-Encoding"
+        ],
+        [
+          "Set-Cookie",
+          "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure"
+        ],
+        [
+          "Set-Cookie",
+          "ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/"
+        ],
+        [
+          "Cache-Control",
+          "private, max-age=0"
+        ],
+        [
+          "Expires",
+          "Mon, 05 Oct 2026 22:34:23 GMT"
+        ],
+        [
+          "Last-Modified",
+          "Tue, 20 Oct 2026 22:34:23 GMT"
+        ],
+        [
+          "X-SharePointHealthScore",
+          "0"
+        ],
+        [
+          "X-AspNet-Version",
+          "4.0.30319"
+        ],
+        [
+          "SPRequestGuid",
+          "06da46a2-1cab-b05c-bfd1-8a6dd76b1221"
+        ],
+        [
+          "request-id",
+          "06da46a2-1cab-b05c-bfd1-8a6dd76b1221"
+        ],
+        [
+          "X-FRAME-OPTIONS",
+          "SAMEORIGIN"
+        ],
+        [
+          "Content-Security-Policy",
+          "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
+        ],
+        [
+          "SPRequestDuration",
+          "275"
+        ],
+        [
+          "SPIisLatency",
+          "10"
+        ],
+        [
+          "Set-Cookie",
+          "_InfoPath_Sentinel=; path=/"
+        ],
+        [
+          "X-Powered-By",
+          "ASP.NET"
+        ],
+        [
+          "MicrosoftSharePointTeamServices",
+          "16.0.0.20326"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "X-MS-InvokeApp",
+          "1; RequireReadOnly"
+        ],
+        [
+          "x-azure-ref",
+          "20261020T223423Z-174c78c4ddc7mbc4hC1CHI129g0000000cn0000000002nek"
+        ],
+        [
+          "X-Cache",
+          "CONFIG_NOCACHE"
+        ],
+        [
+          "Accept-Ranges",
+          "bytes"
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:34:23.568831+00:00",
+      "entity": {
+        "path": "source/bodies/83fec205ce6f979392ce452096d09a5b88283746d1f6f36d199a5cce671dd2d3.gz",
+        "raw_bytes": 94664,
+        "raw_sha256": "83fec205ce6f979392ce452096d09a5b88283746d1f6f36d199a5cce671dd2d3",
+        "stored_bytes": 38638,
+        "stored_sha256": "6125795b839a90f2c4d0983483d96e474121c41ceee608de209492dea3852d16"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:34:23.570417+00:00"
+}

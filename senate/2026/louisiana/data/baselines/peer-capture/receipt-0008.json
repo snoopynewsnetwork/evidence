@@ -1,0 +1,32 @@
+{
+  "id": "sos-graphical-config",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/GraphicalConfig",
+  "retrieved_at_utc": "2026-10-18T22:55:47.926700+00:00",
+  "status": 200,
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/GraphicalConfig",
+  "raw_sha256": "1819ee6fe4a103318a2d23a2465e40074d451f51dbed77c8005b9e5c39d2f967",
+  "asset": "source/1819ee6fe4a103318a2d23a2465e40074d451f51dbed77c8005b9e5c39d2f967.body.gz",
+  "stored_sha256": "510cc83c7c05e138bd9bfa98c2bd5a8be9f75da6deaf5d8d4fcfa65e598c2381",
+  "bytes": 469,
+  "headers": {
+    "Content-Type": "application/x-javascript; charset=utf-8",
+    "Content-Length": "469",
+    "Cache-Control": "public, max-age=53",
+    "Expires": "Sun, 18 Oct 2026 22:56:41 GMT",
+    "Last-Modified": "Sun, 18 Oct 2026 22:51:41 GMT",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Sun, 18 Oct 2026 22:55:48 GMT",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALB=Q5TcXM5IlrUcY3KiiaFi+X3K8kIixQDTM+ztUIcRCvnstqhmirvpqKBGsqUVmlrsAykXDx9RvXaBdczqH08AiNR+ucJvPmTEKofv4KSGUkOmk6CR0VAIOlgt7Zw7; Expires=Sun, 25 Oct 2026 22:55:48 GMT; Path=/, AWSALBCORS=Q5TcXM5IlrUcY3KiiaFi+X3K8kIixQDTM+ztUIcRCvnstqhmirvpqKBGsqUVmlrsAykXDx9RvXaBdczqH08AiNR+ucJvPmTEKofv4KSGUkOmk6CR0VAIOlgt7Zw7; Expires=Sun, 25 Oct 2026 22:55:48 GMT; Path=/; SameSite=None; Secure"
+  },
+  "original_asset_readonly": "data/news/sos-graphical-config.html.gz",
+  "original_stored_sha256": "510cc83c7c05e138bd9bfa98c2bd5a8be9f75da6deaf5d8d4fcfa65e598c2381",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

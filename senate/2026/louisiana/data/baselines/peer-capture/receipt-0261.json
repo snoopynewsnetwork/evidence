@@ -1,0 +1,54 @@
+{
+  "id": "law-party-general",
+  "requested_url": "https://www.legis.la.gov/legis/Law.aspx?d=1341868",
+  "parent_source_id": "legis-election-code-index",
+  "retrieval_started_utc": "20261020T214746658739Z",
+  "method": "GET",
+  "redirects": [],
+  "final_url": "https://www.legis.la.gov/legis/Law.aspx?d=1341868",
+  "status": 200,
+  "headers": [
+    [
+      "Cache-Control",
+      "private"
+    ],
+    [
+      "Content-Type",
+      "text/html; charset=utf-8"
+    ],
+    [
+      "Server",
+      "Microsoft-IIS/10.0"
+    ],
+    [
+      "Set-Cookie",
+      "ASP.NET_SessionId=opjqnoc2by0z1ab05pc241m3; path=/; HttpOnly; SameSite=Lax"
+    ],
+    [
+      "X-AspNet-Version",
+      "4.0.30319"
+    ],
+    [
+      "X-Powered-By",
+      "ASP.NET"
+    ],
+    [
+      "Date",
+      "Tue, 20 Oct 2026 21:47:46 GMT"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Content-Length",
+      "26422"
+    ]
+  ],
+  "raw_sha256": "42a617a4d05135dfa015b1c8d261254489191e708115639ca33ba74e3d72e086",
+  "bytes": 26422,
+  "body": "source/42a617a4d05135dfa015b1c8d261254489191e708115639ca33ba74e3d72e086.body.gz",
+  "stored_sha256": "3e7df7e9eabee5adab1e8fc2005f13e840623c48c19cf13157020414a2c2f0c8",
+  "complete_entity": true,
+  "retrieval_completed_utc": "2026-10-20T21:47:46.883124+00:00"
+}

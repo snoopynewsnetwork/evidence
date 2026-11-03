@@ -1,0 +1,36 @@
+{
+  "captured_utc": "2026-10-20T21:51:31.715535+00:00",
+  "scope": "Complete announced source-only peer comparison inputs captured after original-freeze and priority-original-freeze, before comparisons",
+  "files": [
+    {
+      "source_path": "senate/2026/louisiana/data/turnout/source/original-first-witness.json",
+      "captured_path": "original-first-witness.json",
+      "sha256": "5508d1c0392bbe798ecb8b5f1e0e7a8d9d908078fdd69abbdb3c26c74cb680a4",
+      "bytes": 1073
+    },
+    {
+      "source_path": "senate/2026/louisiana/data/turnout/source/acquired-original-first-witness.json",
+      "captured_path": "acquired-original-first-witness.json",
+      "sha256": "e0366211cc722039f7a5446a2e583d5b20936df8292b12b170301336856818d3",
+      "bytes": 343
+    },
+    {
+      "source_path": "senate/2026/louisiana/data/turnout/source/original-pins.json",
+      "captured_path": "original-pins.json",
+      "sha256": "76b02394a8165df7382afebdb9f588f43a904a5fa61c79d4eaf37e50f133a727",
+      "bytes": 13916
+    },
+    {
+      "source_path": "senate/2026/louisiana/data/turnout/source/acquired-pins.json",
+      "captured_path": "acquired-pins.json",
+      "sha256": "9d06354eb20a859521793e682f6986b7d92448898a8b086e86622c35affb18dc",
+      "bytes": 132204
+    },
+    {
+      "source_path": "senate/2026/louisiana/data/turnout/source/independent-stable-schema.json.gz",
+      "captured_path": "independent-stable-schema.json.gz",
+      "sha256": "3d78e1d3e4ae78cc70143a991818a2c7dbc52f733bb45d4d809893b1fc378cc7",
+      "bytes": 1099570
+    }
+  ]
+}

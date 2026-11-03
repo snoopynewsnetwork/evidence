@@ -1,0 +1,24 @@
+{
+  "id": "law-nomination",
+  "url": "https://www.legis.la.gov/legis/Law.aspx?d=1341864",
+  "final_url": "https://www.legis.la.gov/legis/Law.aspx?d=1341864",
+  "retrieved_at_utc": "2026-10-20T21:56:22.056652+00:00",
+  "status": 200,
+  "headers": {
+    "Cache-Control": "private",
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "Microsoft-IIS/10.0",
+    "Set-Cookie": "ASP.NET_SessionId=cmcsddrabak55disr5m0ngor; path=/; HttpOnly; SameSite=Lax",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Powered-By": "ASP.NET",
+    "Date": "Tue, 20 Oct 2026 21:56:22 GMT",
+    "Connection": "close",
+    "Content-Length": "31041"
+  },
+  "raw_sha256": "1f57a7d0ce9ae7f1abe35734f109290c8e4e1de6037e929eb9eefea8d1b47203",
+  "bytes": 31041,
+  "stored_sha256": "f1edd9fb072bf456dbb228fbf03001f2a4bd4cfff33a9510a9a6213228c74275",
+  "stored_bytes": 8019,
+  "asset": "law-nomination.gz",
+  "redirect_scope": "urllib follows redirects; only final response entity/headers retained"
+}

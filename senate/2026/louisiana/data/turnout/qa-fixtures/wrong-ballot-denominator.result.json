@@ -1,0 +1,5 @@
+{
+  "name": "wrong-ballot-denominator",
+  "status": "correctly_rejected",
+  "reason": "candidate denominator"
+}

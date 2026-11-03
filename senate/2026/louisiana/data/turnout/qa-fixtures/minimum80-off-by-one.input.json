@@ -1,0 +1,9 @@
+{
+  "name": "minimum80-off-by-one",
+  "kind": "contract",
+  "operation": "minimum",
+  "base_native_path": "extract/2024-native.json.gz",
+  "base_native_sha256": "403c4e8c8cfecbdaa75ea0416ded8b61e3a7f662285745b85f22e10f0ad69284",
+  "base_contract_sha256": "69f0244082d967c671fad29bf15bda5941f819271f63c0654366b3202c87337b",
+  "expected": "reject"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "parish-native-code-list",
+  "requested_url": "https://www.sos.la.gov/media/054bv5hr/parish-list.pdf",
+  "parent_source_id": "sos-postelection-statistics-index",
+  "retrieval_started_utc": "20261020T214631768232Z",
+  "method": "GET",
+  "redirects": [],
+  "final_url": "https://www.sos.la.gov/media/054bv5hr/parish-list.pdf",
+  "status": 200,
+  "headers": [
+    [
+      "Content-Type",
+      "application/pdf"
+    ],
+    [
+      "Content-Length",
+      "107134"
+    ],
+    [
+      "Cache-Control",
+      "public, must-revalidate, max-age=604800"
+    ],
+    [
+      "Last-Modified",
+      "Sun, 05 Jul 2026 20:03:14 GMT"
+    ],
+    [
+      "Accept-Ranges",
+      "bytes"
+    ],
+    [
+      "ETag",
+      "\"e5b667cfab5b7bbf17696ab50f9080ef\""
+    ],
+    [
+      "Content-Security-Policy",
+      "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com;style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'"
+    ],
+    [
+      "Referrer-Policy",
+      "strict-origin-when-cross-origin"
+    ],
+    [
+      "Permissions-Policy",
+      "camera=(), microphone=(), geolocation=()"
+    ],
+    [
+      "Cross-Origin-Opener-Policy",
+      "same-origin-allow-popups"
+    ],
+    [
+      "Cross-Origin-Resource-Policy",
+      "same-site"
+    ],
+    [
+      "Strict-Transport-Security",
+      "max-age=31536000; includeSubDomains;"
+    ],
+    [
+      "X-Content-Type-Options",
+      "nosniff"
+    ],
+    [
+      "X-Frame-Options",
+      "SAMEORIGIN"
+    ],
+    [
+      "Date",
+      "Tue, 20 Oct 2026 21:46:32 GMT"
+    ],
+    [
+      "Connection",
+      "close"
+    ]
+  ],
+  "raw_sha256": "11bb0baed51d3073d9ed3e9f9fd2fd7788c526ded79f7de70af28d87d5973490",
+  "bytes": 107134,
+  "body": "source/11bb0baed51d3073d9ed3e9f9fd2fd7788c526ded79f7de70af28d87d5973490.body.gz",
+  "stored_sha256": "07f01e88bd38be3d5dc3bc8508a155553399e6508012ed649d7788fa23c81315",
+  "complete_entity": true,
+  "retrieval_completed_utc": "2026-10-20T21:46:32.062201+00:00"
+}

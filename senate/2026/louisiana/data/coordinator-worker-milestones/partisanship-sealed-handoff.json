@@ -1,0 +1,12 @@
+{
+  "actual_agent_id": "4f625056-8184-4b03-97fb-4152b00397e3",
+  "actual_finish_notification_utc": "2026-10-20T22:07:06.796216+00:00",
+  "status": "worker_sealed_root_review_pending",
+  "manifest_sha256": "22aa501bcbcf9a6b99849e41859cf14a7d3216191e22d0f6dd68eced41fe897d",
+  "seal_sha256": "7e3c2305515037ef32169d18af91b331bf8724bdf023e5550957e5339d2ba8c8",
+  "worker_reported_owned_targets": 1607,
+  "worker_reported_final_readonly_checks": 20999,
+  "reported_source_core": "64parishes/12060native records/39candidate columns/full27source orders;146652captured source fields/zero unresolved differences; currentdispatchempty/coordinatorfalse",
+  "reported_arithmetic": "36historicaltargets/73512selected thresholds;61synthetic+2actualhistoricalCLI;72exactofflineproducts",
+  "review_status": "Independent root source/math/CLI/history review remains; no future final outcome equality."
+}

@@ -1,0 +1,238 @@
+[
+  {
+    "own_id": "current-closed-primary",
+    "peer_id": "sos-closed-primary",
+    "requested_url": "https://www.sos.la.gov/elections-voting/closed-party-primary-elections",
+    "historical_source_comparison_scope": false,
+    "observed_whole_bodies_equal": false,
+    "qualification": "Different independently retrieved current HTML observations; no equality or correction chronology inferred; excluded current semantic scope, not a historical count discrepancy",
+    "own": {
+      "body": "history/packaging-repair/current-closed-primary-own-complete-body.gz",
+      "raw_sha256": "b816ccbdb8b4eb05527b6ca695a03f39988adcf76a735c65a3c7dd3e8254a77b",
+      "stored_sha256": "e21847af24526f8e43a3c2f215f105fde16828f49b470adbdb0d4592882e7318",
+      "raw_bytes": 87389,
+      "complete_receipt": {
+        "id": "current-closed-primary",
+        "requested_url": "https://www.sos.la.gov/elections-voting/closed-party-primary-elections",
+        "parent_source_id": "sos-closed-primary",
+        "retrieval_started_utc": "20261020T214631650106Z",
+        "method": "GET",
+        "redirects": [],
+        "final_url": "https://www.sos.la.gov/elections-voting/closed-party-primary-elections",
+        "status": 200,
+        "headers": [
+          [
+            "Content-Type",
+            "text/html; charset=utf-8"
+          ],
+          [
+            "Content-Security-Policy",
+            "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-JNdUcap9IZmY7H4Nciwsvl9K';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'"
+          ],
+          [
+            "Referrer-Policy",
+            "strict-origin-when-cross-origin"
+          ],
+          [
+            "Permissions-Policy",
+            "camera=(), microphone=(), geolocation=()"
+          ],
+          [
+            "Cross-Origin-Opener-Policy",
+            "same-origin-allow-popups"
+          ],
+          [
+            "Cross-Origin-Resource-Policy",
+            "same-site"
+          ],
+          [
+            "Strict-Transport-Security",
+            "max-age=31536000; includeSubDomains;"
+          ],
+          [
+            "X-Content-Type-Options",
+            "nosniff"
+          ],
+          [
+            "X-Frame-Options",
+            "SAMEORIGIN"
+          ],
+          [
+            "Content-Length",
+            "87389"
+          ],
+          [
+            "Date",
+            "Tue, 20 Oct 2026 21:46:31 GMT"
+          ],
+          [
+            "Connection",
+            "close"
+          ]
+        ],
+        "raw_sha256": "b816ccbdb8b4eb05527b6ca695a03f39988adcf76a735c65a3c7dd3e8254a77b",
+        "bytes": 87389,
+        "body": "source/b816ccbdb8b4eb05527b6ca695a03f39988adcf76a735c65a3c7dd3e8254a77b.body.gz",
+        "stored_sha256": "e21847af24526f8e43a3c2f215f105fde16828f49b470adbdb0d4592882e7318",
+        "complete_entity": true,
+        "retrieval_completed_utc": "2026-10-20T21:46:31.823853+00:00"
+      }
+    },
+    "peer": {
+      "body": "history/packaging-repair/current-closed-primary-peer-complete-body.gz",
+      "raw_sha256": "72576171b2d658b6c1895ceb0c5272e5707556639ea1624240ba8425ac25ff22",
+      "stored_sha256": "f9f714ce2ebd3d19991f034cf3bf4f722ca5e2200d3d75cf8316000593c7ccc9",
+      "raw_bytes": 87123,
+      "complete_receipt": {
+        "id": "sos-closed-primary",
+        "url": "https://www.sos.la.gov/elections-voting/closed-party-primary-elections",
+        "retrieved_at_utc": "2026-10-18T01:56:32.760447+00:00",
+        "status": 200,
+        "final_url": "https://www.sos.la.gov/elections-voting/closed-party-primary-elections",
+        "raw_sha256": "72576171b2d658b6c1895ceb0c5272e5707556639ea1624240ba8425ac25ff22",
+        "asset": "sos-closed-primary.html.gz",
+        "stored_sha256": "f9f714ce2ebd3d19991f034cf3bf4f722ca5e2200d3d75cf8316000593c7ccc9",
+        "bytes": 87123,
+        "headers": {
+          "Content-Type": "text/html; charset=utf-8",
+          "Content-Security-Policy": "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-w4I6DVbqvTVCNVdNREZkcKar';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'",
+          "Referrer-Policy": "strict-origin-when-cross-origin",
+          "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+          "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+          "Cross-Origin-Resource-Policy": "same-site",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains;",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Vary": "Accept-Encoding",
+          "Content-Encoding": "gzip",
+          "Date": "Sun, 18 Oct 2026 01:56:33 GMT",
+          "Content-Length": "15170",
+          "Connection": "keep-alive"
+        },
+        "reference_path": "senate/2026/louisiana/data/news/sos-closed-primary.html.gz",
+        "stored_bytes": 15029,
+        "redirect_scope": "Receipt retains final entity/headers only; intermediate redirect entities unknown"
+      }
+    }
+  },
+  {
+    "own_id": "current-statistics-index",
+    "peer_id": "sos-postelection-statistics-index",
+    "requested_url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+    "historical_source_comparison_scope": false,
+    "observed_whole_bodies_equal": false,
+    "qualification": "Different independently retrieved current HTML observations; no equality or correction chronology inferred; excluded current semantic scope, not a historical count discrepancy",
+    "own": {
+      "body": "history/packaging-repair/current-statistics-index-own-complete-body.gz",
+      "raw_sha256": "977264c28dd87b1f9b35f8cee658a1cdb3dbe07d4188b538879c311fe1db05ef",
+      "stored_sha256": "5cfee83b211e7b3902af4ee8fabbd1295401ce2695331f8fcddb9a28367c77fb",
+      "raw_bytes": 82135,
+      "complete_receipt": {
+        "id": "current-statistics-index",
+        "requested_url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+        "parent_source_id": "sos-postelection-statistics-index",
+        "retrieval_started_utc": "20261020T214631759075Z",
+        "method": "GET",
+        "redirects": [],
+        "final_url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+        "status": 200,
+        "headers": [
+          [
+            "Content-Type",
+            "text/html; charset=utf-8"
+          ],
+          [
+            "Content-Security-Policy",
+            "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-41gn/uJwdPNWXnd+fDLv1X5K';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'"
+          ],
+          [
+            "Referrer-Policy",
+            "strict-origin-when-cross-origin"
+          ],
+          [
+            "Permissions-Policy",
+            "camera=(), microphone=(), geolocation=()"
+          ],
+          [
+            "Cross-Origin-Opener-Policy",
+            "same-origin-allow-popups"
+          ],
+          [
+            "Cross-Origin-Resource-Policy",
+            "same-site"
+          ],
+          [
+            "Strict-Transport-Security",
+            "max-age=31536000; includeSubDomains;"
+          ],
+          [
+            "X-Content-Type-Options",
+            "nosniff"
+          ],
+          [
+            "X-Frame-Options",
+            "SAMEORIGIN"
+          ],
+          [
+            "Date",
+            "Tue, 20 Oct 2026 21:46:31 GMT"
+          ],
+          [
+            "Transfer-Encoding",
+            "chunked"
+          ],
+          [
+            "Connection",
+            "close"
+          ],
+          [
+            "Connection",
+            "Transfer-Encoding"
+          ]
+        ],
+        "raw_sha256": "977264c28dd87b1f9b35f8cee658a1cdb3dbe07d4188b538879c311fe1db05ef",
+        "bytes": 82135,
+        "body": "source/977264c28dd87b1f9b35f8cee658a1cdb3dbe07d4188b538879c311fe1db05ef.body.gz",
+        "stored_sha256": "5cfee83b211e7b3902af4ee8fabbd1295401ce2695331f8fcddb9a28367c77fb",
+        "complete_entity": true,
+        "retrieval_completed_utc": "2026-10-20T21:46:31.883972+00:00"
+      }
+    },
+    "peer": {
+      "body": "history/packaging-repair/current-statistics-index-peer-complete-body.gz",
+      "raw_sha256": "fac8b85526c0dc19f2c2e79387f8efe06599870e1cbcb5ec3279011b01dc0e00",
+      "stored_sha256": "efa28ed8200bb2619b9fa1cf4fe9907745574f102f2447150f07423e3dc7b5a2",
+      "raw_bytes": 81864,
+      "complete_receipt": {
+        "id": "sos-postelection-statistics-index",
+        "url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+        "retrieved_at_utc": "2026-10-18T22:55:20.485782+00:00",
+        "status": 200,
+        "final_url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+        "raw_sha256": "fac8b85526c0dc19f2c2e79387f8efe06599870e1cbcb5ec3279011b01dc0e00",
+        "asset": "sos-postelection-statistics-index.html.gz",
+        "stored_sha256": "efa28ed8200bb2619b9fa1cf4fe9907745574f102f2447150f07423e3dc7b5a2",
+        "bytes": 81864,
+        "headers": {
+          "Content-Type": "text/html; charset=utf-8",
+          "Content-Security-Policy": "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-B70q4AtbCfoLOc8KOdUssjXK';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'",
+          "Referrer-Policy": "strict-origin-when-cross-origin",
+          "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+          "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+          "Cross-Origin-Resource-Policy": "same-site",
+          "Strict-Transport-Security": "max-age=31536000; includeSubDomains;",
+          "X-Content-Type-Options": "nosniff",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Vary": "Accept-Encoding",
+          "Content-Encoding": "gzip",
+          "Date": "Sun, 18 Oct 2026 22:55:20 GMT",
+          "Content-Length": "13892",
+          "Connection": "keep-alive"
+        },
+        "reference_path": "senate/2026/louisiana/data/news/sos-postelection-statistics-index.html.gz",
+        "stored_bytes": 13751,
+        "redirect_scope": "Receipt retains final entity/headers only; intermediate redirect entities unknown"
+      }
+    }
+  }
+]

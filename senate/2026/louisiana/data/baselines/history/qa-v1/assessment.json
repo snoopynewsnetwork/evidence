@@ -1,0 +1,11 @@
+{
+  "classification": "checker tolerance error",
+  "exact_failed_claim": "final_candidate_votes dictionary equality to A50/B60/C25",
+  "observed": {
+    "A": 50.0,
+    "B": 60.0,
+    "C": 24.999999999999996
+  },
+  "repair": "recursive independent expected-value comparison, numeric abs1e-10/rel1e-12; calculator unchanged",
+  "source_changes": false
+}

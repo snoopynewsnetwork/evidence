@@ -1,0 +1,24 @@
+{
+  "id": "law-primary",
+  "url": "https://www.legis.la.gov/legis/Law.aspx?d=81616",
+  "final_url": "https://www.legis.la.gov/legis/Law.aspx?d=81616",
+  "retrieved_at_utc": "2026-10-20T21:56:23.948167+00:00",
+  "status": 200,
+  "headers": {
+    "Cache-Control": "private",
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "Microsoft-IIS/10.0",
+    "Set-Cookie": "ASP.NET_SessionId=yhjavclks4u53ro3zjuhdv3b; path=/; HttpOnly; SameSite=Lax",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Powered-By": "ASP.NET",
+    "Date": "Tue, 20 Oct 2026 21:56:23 GMT",
+    "Connection": "close",
+    "Content-Length": "31009"
+  },
+  "raw_sha256": "d54c6c54a253004095604afcd928a27a950bfcc112dc9eb1913c8f12e4dab4c5",
+  "bytes": 31009,
+  "stored_sha256": "e9c5c9d0fa9f42bc81a9c9ade28ddc98a7992f25f8ec38b6d1d8afde22e8a912",
+  "stored_bytes": 8330,
+  "asset": "law-primary.gz",
+  "redirect_scope": "urllib follows redirects; only final response entity/headers retained"
+}

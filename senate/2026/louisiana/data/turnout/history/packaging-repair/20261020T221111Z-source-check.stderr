@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/repair_verify.py", line 143, in <module>
+    if __name__=='__main__':source_proof()
+                            ^^^^^^^^^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/repair_verify.py", line 142, in source_proof
+    assert not differences
+AssertionError

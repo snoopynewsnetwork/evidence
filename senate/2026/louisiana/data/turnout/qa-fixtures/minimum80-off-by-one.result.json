@@ -1,0 +1,5 @@
+{
+  "name": "minimum80-off-by-one",
+  "status": "correctly_rejected",
+  "reason": "integer minimum80"
+}

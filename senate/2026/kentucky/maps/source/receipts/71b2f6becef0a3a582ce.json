@@ -1,0 +1,103 @@
+{
+  "role": "dgi-vtd-batch-47",
+  "observation": null,
+  "request": {
+    "url": "https://kygisserver.ky.gov/arcgis/rest/services/GeoprocessingServices/Ky_ABC_Identify_WGS84WM/MapServer/0/query?objectIds=2351%2C2352%2C2353%2C2354%2C2355%2C2356%2C2357%2C2358%2C2359%2C2360%2C2361%2C2362%2C2363%2C2364%2C2365%2C2366%2C2367%2C2368%2C2369%2C2370%2C2371%2C2372%2C2373%2C2374%2C2375%2C2376%2C2377%2C2378%2C2379%2C2380%2C2381%2C2382%2C2383%2C2384%2C2385%2C2386%2C2387%2C2388%2C2389%2C2390%2C2391%2C2392%2C2393%2C2394%2C2395%2C2396%2C2397%2C2398%2C2399%2C2400&outFields=%2A&returnGeometry=true&returnZ=true&returnM=true&returnTrueCurves=true&f=json",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:36:44.557665+00:00",
+  "hops": [
+    {
+      "request_url": "https://kygisserver.ky.gov/arcgis/rest/services/GeoprocessingServices/Ky_ABC_Identify_WGS84WM/MapServer/0/query?objectIds=2351%2C2352%2C2353%2C2354%2C2355%2C2356%2C2357%2C2358%2C2359%2C2360%2C2361%2C2362%2C2363%2C2364%2C2365%2C2366%2C2367%2C2368%2C2369%2C2370%2C2371%2C2372%2C2373%2C2374%2C2375%2C2376%2C2377%2C2378%2C2379%2C2380%2C2381%2C2382%2C2383%2C2384%2C2385%2C2386%2C2387%2C2388%2C2389%2C2390%2C2391%2C2392%2C2393%2C2394%2C2395%2C2396%2C2397%2C2398%2C2399%2C2400&outFields=%2A&returnGeometry=true&returnZ=true&returnM=true&returnTrueCurves=true&f=json",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:44.557900+00:00",
+      "status": 200,
+      "response_url": "https://kygisserver.ky.gov/arcgis/rest/services/GeoprocessingServices/Ky_ABC_Identify_WGS84WM/MapServer/0/query?objectIds=2351%2C2352%2C2353%2C2354%2C2355%2C2356%2C2357%2C2358%2C2359%2C2360%2C2361%2C2362%2C2363%2C2364%2C2365%2C2366%2C2367%2C2368%2C2369%2C2370%2C2371%2C2372%2C2373%2C2374%2C2375%2C2376%2C2377%2C2378%2C2379%2C2380%2C2381%2C2382%2C2383%2C2384%2C2385%2C2386%2C2387%2C2388%2C2389%2C2390%2C2391%2C2392%2C2393%2C2394%2C2395%2C2396%2C2397%2C2398%2C2399%2C2400&outFields=%2A&returnGeometry=true&returnZ=true&returnM=true&returnTrueCurves=true&f=json",
+      "headers": [
+        [
+          "Cache-Control",
+          "public, must-revalidate, max-age=0"
+        ],
+        [
+          "Content-Type",
+          "application/json;charset=UTF-8"
+        ],
+        [
+          "Expires",
+          "Thu, 01 Jan 1970 00:00:00 GMT"
+        ],
+        [
+          "ETag",
+          "\"4fc6bde0\""
+        ],
+        [
+          "Vary",
+          "Origin"
+        ],
+        [
+          "Server",
+          "Microsoft-IIS/10.0"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "X-XSS-Protection",
+          "1; mode=block"
+        ],
+        [
+          "Server",
+          ""
+        ],
+        [
+          "X-AspNet-Version",
+          "4.0.30319"
+        ],
+        [
+          "X-Powered-By",
+          "ASP.NET"
+        ],
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:36:44 GMT"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Content-Length",
+          "72"
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:36:44.717257+00:00",
+      "entity": {
+        "path": "source/bodies/b7328cec6dd4d8a470d2d71623d77830ee4e4992ed2a0a9345a405c2202f7c67.gz",
+        "raw_bytes": 72,
+        "raw_sha256": "b7328cec6dd4d8a470d2d71623d77830ee4e4992ed2a0a9345a405c2202f7c67",
+        "stored_bytes": 89,
+        "stored_sha256": "d274d53fd52d1ac9054a2a3700f8f9f436eca5809be0c0a7877846664221dc80"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:36:44.717318+00:00"
+}

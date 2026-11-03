@@ -1,0 +1,45 @@
+{
+  "status": "pass",
+  "years": {
+    "2024": {
+      "parishes": 64,
+      "native_rows": 3933,
+      "candidate_columns": 11,
+      "state_candidate_total": 2006975,
+      "missing_ordinary_controls": 5,
+      "native_kind_counts": {
+        "ward_precinct_source_row": 3805,
+        "early_voting_aggregate": 64,
+        "provisional_aggregate": 64
+      },
+      "source_csv_api_xlsx_candidate_reconciliation": "pass"
+    },
+    "2022": {
+      "parishes": 64,
+      "native_rows": 4065,
+      "candidate_columns": 13,
+      "state_candidate_total": 1383290,
+      "missing_ordinary_controls": 11,
+      "native_kind_counts": {
+        "ward_precinct_source_row": 3937,
+        "early_voting_aggregate": 64,
+        "provisional_aggregate": 64
+      },
+      "source_csv_api_xlsx_candidate_reconciliation": "pass"
+    },
+    "2020": {
+      "parishes": 64,
+      "native_rows": 4062,
+      "candidate_columns": 15,
+      "state_candidate_total": 2071543,
+      "missing_ordinary_controls": 13,
+      "native_kind_counts": {
+        "ward_precinct_source_row": 3934,
+        "early_voting_aggregate": 64,
+        "provisional_aggregate": 64
+      },
+      "source_csv_api_xlsx_candidate_reconciliation": "pass"
+    }
+  },
+  "negative_fixtures": 9
+}

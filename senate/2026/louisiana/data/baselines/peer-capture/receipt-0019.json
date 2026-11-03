@@ -1,0 +1,33 @@
+{
+  "id": "sos-2020-race-metadata",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20201103/RacesCandidates_Multiparish.htm",
+  "retrieved_at_utc": "2026-10-18T22:56:26.957562+00:00",
+  "status": 200,
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20201103/RacesCandidates_Multiparish.htm",
+  "raw_sha256": "1ab93e3e5982c321f898a0d1534641075588ba8df279b7bb56f78af65ebec86b",
+  "asset": "source/1ab93e3e5982c321f898a0d1534641075588ba8df279b7bb56f78af65ebec86b.body.gz",
+  "stored_sha256": "99144430ddc34821226c7ecedc862f64ba7ef72a96ec19d46bfc43cfacf4a544",
+  "bytes": 51395,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "51395",
+    "Cache-Control": "public, no-cache=\"Set-Cookie\", max-age=10",
+    "Expires": "Sun, 18 Oct 2026 22:56:37 GMT",
+    "Last-Modified": "Sun, 18 Oct 2026 22:56:27 GMT",
+    "Page-Generation-Time": "43",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Sun, 18 Oct 2026 22:56:27 GMT",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALB=j+hxldnO8Kb4+LjZgsIaUCfx0W4BEjicz6BHa36M4N2pZAV2n+bKBMaIcidDevv8ZMx2h7f2jX9xdHLMlamnRJ3U7+/ZZ5tU6Uj8rlrQ6IxQQC3xeU8FVvfSKqFU; Expires=Sun, 25 Oct 2026 22:56:27 GMT; Path=/, AWSALBCORS=j+hxldnO8Kb4+LjZgsIaUCfx0W4BEjicz6BHa36M4N2pZAV2n+bKBMaIcidDevv8ZMx2h7f2jX9xdHLMlamnRJ3U7+/ZZ5tU6Uj8rlrQ6IxQQC3xeU8FVvfSKqFU; Expires=Sun, 25 Oct 2026 22:56:27 GMT; Path=/; SameSite=None; Secure, ASP.NET_SessionId=d4uw0cyrzj1kc0rbtkxvn35f; path=/; secure; HttpOnly; SameSite=Lax"
+  },
+  "original_asset_readonly": "data/news/sos-2020-race-metadata.html.gz",
+  "original_stored_sha256": "99144430ddc34821226c7ecedc862f64ba7ef72a96ec19d46bfc43cfacf4a544",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

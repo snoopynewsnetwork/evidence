@@ -1,0 +1,502 @@
+{
+  "status": "pass_fresh_captured_original_guarded_replay",
+  "captured_checker_sha256": "275d6651150b613fec6697bbf1c9fc7025b53579ae2f05601ee5355da2765fef",
+  "complete_outputs": 46,
+  "actual_denial_probes": 14,
+  "actual_result": {
+    "scope": "Captured own original extraction/build scripts only, individual fixed own body+receipt pins; no live peer/current discovery/network/producer helpers",
+    "archive_sha256": "ec8c4be012afb23b689b630872055130d85ae00d34c39753d5d2828ac958a9f1",
+    "runs": [
+      {
+        "captured_script": "extract_originals.py",
+        "captured_script_sha256": "368f127296fdf300fb5b0ab4da7a1245a39d8222275a74693b0fefb81571d17c",
+        "returncode": 0,
+        "stdout_sha256": "0e44e5477594215218e2fd5c3c697915372c86c5a59b0f369c1536c4a09a0108",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "denials": [
+          {
+            "probe": "network",
+            "denied": true,
+            "error": "DENY network/process producer socket.__new__"
+          },
+          {
+            "probe": "mutable_news",
+            "denied": true,
+            "error": "DENY external/current/mutable source read /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/coordinator-la-original-replay-wr1_k2wn/repo/senate/2026/louisiana/data/news/manifest.json"
+          },
+          {
+            "probe": "coordinator_helper",
+            "denied": true,
+            "error": "DENY external/current/mutable source read /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/coordinator-la-original-replay-wr1_k2wn/repo/senate/2026/louisiana/data/preflight_primary_sources.py"
+          },
+          {
+            "probe": "peer_current_source",
+            "denied": true,
+            "error": "DENY external/current/mutable source read /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/coordinator-la-original-replay-wr1_k2wn/repo/senate/2026/louisiana/data/baselines/native-results.json.gz"
+          },
+          {
+            "probe": "current_discovery",
+            "denied": true,
+            "error": "DENY external/current/mutable source read /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/coordinator-la-original-replay-wr1_k2wn/repo/senate/2026/louisiana/data/turnout/source/original-pins.json"
+          },
+          {
+            "probe": "outside_temp_write",
+            "denied": true,
+            "error": "DENY outside-temp write /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/denied-outside-replay.tmp"
+          },
+          {
+            "probe": "producer_import",
+            "denied": true,
+            "error": "DENY producer/helper import acquire"
+          }
+        ]
+      },
+      {
+        "captured_script": "build_turnout.py",
+        "captured_script_sha256": "2293c5e32081e31cafb3438cdb177040d200b18c8131c8ecb7a7843290b165d8",
+        "returncode": 0,
+        "stdout_sha256": "6b5c8614c6d2778172b1384be63972fe3ad554b001b2a22d98c0fd2fa2191397",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "denials": [
+          {
+            "probe": "network",
+            "denied": true,
+            "error": "DENY network/process producer socket.__new__"
+          },
+          {
+            "probe": "mutable_news",
+            "denied": true,
+            "error": "DENY external/current/mutable source read /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/coordinator-la-original-replay-wr1_k2wn/repo/senate/2026/louisiana/data/news/manifest.json"
+          },
+          {
+            "probe": "coordinator_helper",
+            "denied": true,
+            "error": "DENY external/current/mutable source read /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/coordinator-la-original-replay-wr1_k2wn/repo/senate/2026/louisiana/data/preflight_primary_sources.py"
+          },
+          {
+            "probe": "peer_current_source",
+            "denied": true,
+            "error": "DENY external/current/mutable source read /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/coordinator-la-original-replay-wr1_k2wn/repo/senate/2026/louisiana/data/baselines/native-results.json.gz"
+          },
+          {
+            "probe": "current_discovery",
+            "denied": true,
+            "error": "DENY external/current/mutable source read /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/coordinator-la-original-replay-wr1_k2wn/repo/senate/2026/louisiana/data/turnout/source/original-pins.json"
+          },
+          {
+            "probe": "outside_temp_write",
+            "denied": true,
+            "error": "DENY outside-temp write /private/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/denied-outside-replay.tmp"
+          },
+          {
+            "probe": "producer_import",
+            "denied": true,
+            "error": "DENY producer/helper import acquire"
+          }
+        ]
+      }
+    ],
+    "whole_byte_comparison": [
+      {
+        "path": "data/county-turnout.csv",
+        "old_sha256": "8df56f50cb5f6a0595693a7c2c1e3b9b8465547276e91320ff4dcba04acc6df2",
+        "new_sha256": "8df56f50cb5f6a0595693a7c2c1e3b9b8465547276e91320ff4dcba04acc6df2",
+        "old_bytes": 18235,
+        "new_bytes": 18235,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/candidate-controls.csv",
+        "old_sha256": "26b8110fff1eb8b876c180c6291337aa13d889bcb5755f8082d015a9a760ccb5",
+        "new_sha256": "26b8110fff1eb8b876c180c6291337aa13d889bcb5755f8082d015a9a760ccb5",
+        "old_bytes": 3758,
+        "new_bytes": 3758,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2020-native.json.gz",
+        "old_sha256": "871c111ec6ea6bd95c531c80c9cb14d714cd7740ef2db90b87f10a8ff5e91664",
+        "new_sha256": "871c111ec6ea6bd95c531c80c9cb14d714cd7740ef2db90b87f10a8ff5e91664",
+        "old_bytes": 226320,
+        "new_bytes": 226320,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2020-parishes.json",
+        "old_sha256": "24594c9a22a01261ccabb109b16a558cfba7bc504012e0a9a13b29e9b6c990e5",
+        "new_sha256": "24594c9a22a01261ccabb109b16a558cfba7bc504012e0a9a13b29e9b6c990e5",
+        "old_bytes": 69309,
+        "new_bytes": 69309,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2020-whole-workbook-positions.json.gz",
+        "old_sha256": "fd8ec8acb40057ad51c319e306631f675a3b848b26ffa6b917e7b1e9e9ba2086",
+        "new_sha256": "fd8ec8acb40057ad51c319e306631f675a3b848b26ffa6b917e7b1e9e9ba2086",
+        "old_bytes": 1028115,
+        "new_bytes": 1028115,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2022-native.json.gz",
+        "old_sha256": "ed280af0d4351e5e1e0b320b6c1fe0ea75636d414756d6927806443740c2af24",
+        "new_sha256": "ed280af0d4351e5e1e0b320b6c1fe0ea75636d414756d6927806443740c2af24",
+        "old_bytes": 213788,
+        "new_bytes": 213788,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2022-parishes.json",
+        "old_sha256": "b72d21c95d49491f086510d53f8a47e31de75aec90f3716813649a6d90d25b17",
+        "new_sha256": "b72d21c95d49491f086510d53f8a47e31de75aec90f3716813649a6d90d25b17",
+        "old_bytes": 67723,
+        "new_bytes": 67723,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2022-whole-workbook-positions.json.gz",
+        "old_sha256": "94e2f252e662366f0b602a5995e2e058bccef0950aa15847c552de7990c220b9",
+        "new_sha256": "94e2f252e662366f0b602a5995e2e058bccef0950aa15847c552de7990c220b9",
+        "old_bytes": 795762,
+        "new_bytes": 795762,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2024-native.json.gz",
+        "old_sha256": "403c4e8c8cfecbdaa75ea0416ded8b61e3a7f662285745b85f22e10f0ad69284",
+        "new_sha256": "403c4e8c8cfecbdaa75ea0416ded8b61e3a7f662285745b85f22e10f0ad69284",
+        "old_bytes": 190506,
+        "new_bytes": 190506,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2024-parishes.json",
+        "old_sha256": "8a39170e5845206f8f98ca08af4f7707fd8820d2eed59274986828e28e764cbf",
+        "new_sha256": "8a39170e5845206f8f98ca08af4f7707fd8820d2eed59274986828e28e764cbf",
+        "old_bytes": 66171,
+        "new_bytes": 66171,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/2024-whole-workbook-positions.json.gz",
+        "old_sha256": "e42fb184c14eb3fd24d23036f91efeba3d87fef03b7108dc32a4c697ead05e00",
+        "new_sha256": "e42fb184c14eb3fd24d23036f91efeba3d87fef03b7108dc32a4c697ead05e00",
+        "old_bytes": 307363,
+        "new_bytes": 307363,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/extract/source-only-selected-controls.json.gz",
+        "old_sha256": "da5fd9b2afdb1011a383578ad13665a387e13737991348c5ae504459d2a7549c",
+        "new_sha256": "da5fd9b2afdb1011a383578ad13665a387e13737991348c5ae504459d2a7549c",
+        "old_bytes": 457818,
+        "new_bytes": 457818,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/historical-controls.json",
+        "old_sha256": "11f4cb78b3c494541cbb93321dd7642d6583cac155f8a2d87cc8d39ebaf2d59d",
+        "new_sha256": "11f4cb78b3c494541cbb93321dd7642d6583cac155f8a2d87cc8d39ebaf2d59d",
+        "old_bytes": 17674,
+        "new_bytes": 17674,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/method-candidate-controls.json",
+        "old_sha256": "f601e0609449cc161c7bc70111b5fb54480f96f33d20dd22a535a0ded540fad9",
+        "new_sha256": "f601e0609449cc161c7bc70111b5fb54480f96f33d20dd22a535a0ded540fad9",
+        "old_bytes": 3242,
+        "new_bytes": 3242,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/native-control-discrepancies.json",
+        "old_sha256": "97e7d4d66676cfe9ec600cb158f716335630ce2e83e3c01fadeb934ab31d6ea1",
+        "new_sha256": "97e7d4d66676cfe9ec600cb158f716335630ce2e83e3c01fadeb934ab31d6ea1",
+        "old_bytes": 11570,
+        "new_bytes": 11570,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders-summary.json",
+        "old_sha256": "c8aee9a8bb36e9bf03cc6abb58b36d9a0b91f2d5312907be1514fa6a4ac153a4",
+        "new_sha256": "c8aee9a8bb36e9bf03cc6abb58b36d9a0b91f2d5312907be1514fa6a4ac153a4",
+        "old_bytes": 662472,
+        "new_bytes": 662472,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-native-votes.csv",
+        "old_sha256": "371f71d480b49269982aebe960992b82f972daa0b0e6c430e605c6f5ff150828",
+        "new_sha256": "371f71d480b49269982aebe960992b82f972daa0b0e6c430e605c6f5ff150828",
+        "old_bytes": 616305,
+        "new_bytes": 616305,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-parish-early_votes.csv",
+        "old_sha256": "25d65790ac5ada7591a2180d62e4459da708a5b20c2a38b050990649f28ee8df",
+        "new_sha256": "25d65790ac5ada7591a2180d62e4459da708a5b20c2a38b050990649f28ee8df",
+        "old_bytes": 6147,
+        "new_bytes": 6147,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-parish-ordinary_votes.csv",
+        "old_sha256": "78fb8fbb4a1aec1616870e73af974cf087471657807ae6bb821bf04fdac924cf",
+        "new_sha256": "78fb8fbb4a1aec1616870e73af974cf087471657807ae6bb821bf04fdac924cf",
+        "old_bytes": 6182,
+        "new_bytes": 6182,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-parish-provisional_votes.csv",
+        "old_sha256": "45581101c1f0193ce43dbae9253dfddd143a2353647c89206683d7d9458265ea",
+        "new_sha256": "45581101c1f0193ce43dbae9253dfddd143a2353647c89206683d7d9458265ea",
+        "old_bytes": 3725,
+        "new_bytes": 3725,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-parish-qualified.csv",
+        "old_sha256": "47ce32e4016b8de53a50a9fd2a02081fe24ad8fa7f650c41c48d80c6c7ab401a",
+        "new_sha256": "47ce32e4016b8de53a50a9fd2a02081fe24ad8fa7f650c41c48d80c6c7ab401a",
+        "old_bytes": 6458,
+        "new_bytes": 6458,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-parish-race_qualified.csv",
+        "old_sha256": "8a3923b8b0e9032ee2c1853b080811ede6eec8f139b888ab09b1625611f450a1",
+        "new_sha256": "8a3923b8b0e9032ee2c1853b080811ede6eec8f139b888ab09b1625611f450a1",
+        "old_bytes": 6415,
+        "new_bytes": 6415,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-parish-race_voted.csv",
+        "old_sha256": "4e1bb1f54e53fb084a4b2d0134a72dcaf0fc81fe92de1ff20688802cf22d8371",
+        "new_sha256": "4e1bb1f54e53fb084a4b2d0134a72dcaf0fc81fe92de1ff20688802cf22d8371",
+        "old_bytes": 6486,
+        "new_bytes": 6486,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-parish-voted.csv",
+        "old_sha256": "eaf501e69ea1fae246fef41851f1d8d47d879cce28f3b0f90f7143bfb5c3adcb",
+        "new_sha256": "eaf501e69ea1fae246fef41851f1d8d47d879cce28f3b0f90f7143bfb5c3adcb",
+        "old_bytes": 6381,
+        "new_bytes": 6381,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2020-parish-votes.csv",
+        "old_sha256": "0b57fe4027daff803161ac01408796e6ed4ea4713b06aeb4d954fd83d40f4aab",
+        "new_sha256": "0b57fe4027daff803161ac01408796e6ed4ea4713b06aeb4d954fd83d40f4aab",
+        "old_bytes": 6485,
+        "new_bytes": 6485,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-native-votes.csv",
+        "old_sha256": "c06373ce015ba3e3d82b024847efbf5eac34a25f0f34882e1e757bd39f4acbe2",
+        "new_sha256": "c06373ce015ba3e3d82b024847efbf5eac34a25f0f34882e1e757bd39f4acbe2",
+        "old_bytes": 603520,
+        "new_bytes": 603520,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-parish-early_votes.csv",
+        "old_sha256": "3991c66cb374f7699733c2677302d1b677ec8663ef8f0d34f348ee188d89a187",
+        "new_sha256": "3991c66cb374f7699733c2677302d1b677ec8663ef8f0d34f348ee188d89a187",
+        "old_bytes": 6096,
+        "new_bytes": 6096,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-parish-ordinary_votes.csv",
+        "old_sha256": "2a98f1220352d539135b56bb68f878a4aa74b0ed51fd5dd5d989eb44ec30e19a",
+        "new_sha256": "2a98f1220352d539135b56bb68f878a4aa74b0ed51fd5dd5d989eb44ec30e19a",
+        "old_bytes": 6326,
+        "new_bytes": 6326,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-parish-provisional_votes.csv",
+        "old_sha256": "b1269804cc404815a0a64811c0a82688adb1d343ddae5b4ef3eba8ba000c7878",
+        "new_sha256": "b1269804cc404815a0a64811c0a82688adb1d343ddae5b4ef3eba8ba000c7878",
+        "old_bytes": 3432,
+        "new_bytes": 3432,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-parish-qualified.csv",
+        "old_sha256": "2e5df29aaefa8c5be34cb2426bd0d3969b02a99c8ff7503762e5439a8d26dda9",
+        "new_sha256": "2e5df29aaefa8c5be34cb2426bd0d3969b02a99c8ff7503762e5439a8d26dda9",
+        "old_bytes": 6437,
+        "new_bytes": 6437,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-parish-race_qualified.csv",
+        "old_sha256": "2e5df29aaefa8c5be34cb2426bd0d3969b02a99c8ff7503762e5439a8d26dda9",
+        "new_sha256": "2e5df29aaefa8c5be34cb2426bd0d3969b02a99c8ff7503762e5439a8d26dda9",
+        "old_bytes": 6437,
+        "new_bytes": 6437,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-parish-race_voted.csv",
+        "old_sha256": "4abe8a44999672f0c88526d37b07236ad6b8ef9e16f2539d6dc3f9fc3626b232",
+        "new_sha256": "4abe8a44999672f0c88526d37b07236ad6b8ef9e16f2539d6dc3f9fc3626b232",
+        "old_bytes": 6340,
+        "new_bytes": 6340,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-parish-voted.csv",
+        "old_sha256": "88e477b3d753a14495fdf1b54d8b9b5281054c52b956f69c11f78b54d457b6fe",
+        "new_sha256": "88e477b3d753a14495fdf1b54d8b9b5281054c52b956f69c11f78b54d457b6fe",
+        "old_bytes": 6349,
+        "new_bytes": 6349,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2022-parish-votes.csv",
+        "old_sha256": "0a3991ea3f266b6c9c9065b76824b5e439c5192d9b966e65a10e8254424f42a9",
+        "new_sha256": "0a3991ea3f266b6c9c9065b76824b5e439c5192d9b966e65a10e8254424f42a9",
+        "old_bytes": 6287,
+        "new_bytes": 6287,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-native-votes.csv",
+        "old_sha256": "9b2ba23c718ae8ce8d0dfaea3d7a6f6205e94fc67d65dcff4519eefb6fd14cb7",
+        "new_sha256": "9b2ba23c718ae8ce8d0dfaea3d7a6f6205e94fc67d65dcff4519eefb6fd14cb7",
+        "old_bytes": 594327,
+        "new_bytes": 594327,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-parish-early_votes.csv",
+        "old_sha256": "15e64d83a305dd4192008f8630b4b1b0234a849990110e276c84be83eba1b463",
+        "new_sha256": "15e64d83a305dd4192008f8630b4b1b0234a849990110e276c84be83eba1b463",
+        "old_bytes": 6177,
+        "new_bytes": 6177,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-parish-ordinary_votes.csv",
+        "old_sha256": "2f52259866c1b41a5867edf21fb4467d28736b4a8508cb408ba020bc3c9736fb",
+        "new_sha256": "2f52259866c1b41a5867edf21fb4467d28736b4a8508cb408ba020bc3c9736fb",
+        "old_bytes": 6253,
+        "new_bytes": 6253,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-parish-provisional_votes.csv",
+        "old_sha256": "8f92f6a340481d591508ae74bbeddbd88af414682b4b527f2b4ccbd67a12d871",
+        "new_sha256": "8f92f6a340481d591508ae74bbeddbd88af414682b4b527f2b4ccbd67a12d871",
+        "old_bytes": 3683,
+        "new_bytes": 3683,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-parish-qualified.csv",
+        "old_sha256": "0c3948c4401b04af85ccb29662ed0bd6d0323cc5f83fdab0a0087dc846343991",
+        "new_sha256": "0c3948c4401b04af85ccb29662ed0bd6d0323cc5f83fdab0a0087dc846343991",
+        "old_bytes": 6440,
+        "new_bytes": 6440,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-parish-race_qualified.csv",
+        "old_sha256": "0c3948c4401b04af85ccb29662ed0bd6d0323cc5f83fdab0a0087dc846343991",
+        "new_sha256": "0c3948c4401b04af85ccb29662ed0bd6d0323cc5f83fdab0a0087dc846343991",
+        "old_bytes": 6440,
+        "new_bytes": 6440,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-parish-race_voted.csv",
+        "old_sha256": "24acd3493630874bdb6fbb5e06615c3fe942d8994d226e9a51674965a53923be",
+        "new_sha256": "24acd3493630874bdb6fbb5e06615c3fe942d8994d226e9a51674965a53923be",
+        "old_bytes": 6398,
+        "new_bytes": 6398,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-parish-voted.csv",
+        "old_sha256": "24acd3493630874bdb6fbb5e06615c3fe942d8994d226e9a51674965a53923be",
+        "new_sha256": "24acd3493630874bdb6fbb5e06615c3fe942d8994d226e9a51674965a53923be",
+        "old_bytes": 6398,
+        "new_bytes": 6398,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/orders/2024-parish-votes.csv",
+        "old_sha256": "37b70d47a5e9bc609277f2c6423ccec1047049e55dbe448e0d5ca71d3758df52",
+        "new_sha256": "37b70d47a5e9bc609277f2c6423ccec1047049e55dbe448e0d5ca71d3758df52",
+        "old_bytes": 6412,
+        "new_bytes": 6412,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/priority-set.json",
+        "old_sha256": "69f0244082d967c671fad29bf15bda5941f819271f63c0654366b3202c87337b",
+        "new_sha256": "69f0244082d967c671fad29bf15bda5941f819271f63c0654366b3202c87337b",
+        "old_bytes": 15320920,
+        "new_bytes": 15320920,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/source-statistics-controls.json.gz",
+        "old_sha256": "3e4c2835659ec5bfd6b6e45ef0f7aa79ca3f457931da1cae49ec8b151e8c667e",
+        "new_sha256": "3e4c2835659ec5bfd6b6e45ef0f7aa79ca3f457931da1cae49ec8b151e8c667e",
+        "old_bytes": 103296,
+        "new_bytes": 103296,
+        "whole_bytes_equal": true
+      },
+      {
+        "path": "data/turnout/statistics-scope-discrepancies.json",
+        "old_sha256": "80a29c0ac858eaa8ea181f140df9539621c112dfa0c812e4d15f7fb574619ca3",
+        "new_sha256": "80a29c0ac858eaa8ea181f140df9539621c112dfa0c812e4d15f7fb574619ca3",
+        "old_bytes": 1269,
+        "new_bytes": 1269,
+        "whole_bytes_equal": true
+      }
+    ],
+    "metadata_exceptions": [],
+    "status": "pass",
+    "network_and_external_read_write_denials_exercised": true,
+    "producer_import_denial_exercised": true
+  },
+  "whole_process_logs": [
+    {
+      "path": "data/coordinator-isolated-replay-logs/isolated-build_turnout.py.stderr.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+    },
+    {
+      "path": "data/coordinator-isolated-replay-logs/isolated-build_turnout.py.stdout.gz",
+      "raw_bytes": 206842,
+      "raw_sha256": "6b5c8614c6d2778172b1384be63972fe3ad554b001b2a22d98c0fd2fa2191397",
+      "stored_sha256": "3589f2f5b65a446cee2505fd3bbc47c4930e6d93ea540b3a3c066877b7ba0592"
+    },
+    {
+      "path": "data/coordinator-isolated-replay-logs/isolated-extract_originals.py.stderr.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+    },
+    {
+      "path": "data/coordinator-isolated-replay-logs/isolated-extract_originals.py.stdout.gz",
+      "raw_bytes": 2072,
+      "raw_sha256": "0e44e5477594215218e2fd5c3c697915372c86c5a59b0f369c1536c4a09a0108",
+      "stored_sha256": "3879b91f15abdf27fcb54b6eafce53b242c17b1d2ed8ac78e0a7c14a126f91a8"
+    }
+  ],
+  "producer_manifest_unchanged": "dffc8ddefc7f92f37b7c19e7a3c16c7d905c928f48e01f7d4e3f7edc2b96d69f",
+  "scope": "Verification helper executed with all proof/log paths rebound exclusively to a fresh temporary mirror. Only two exact captured original extraction/build scripts execute within the helper sandbox. Complete regenerated file bytes match historical captured originals, not newer bodies. All sealed producer files remain unchanged."
+}

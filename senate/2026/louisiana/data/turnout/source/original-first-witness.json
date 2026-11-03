@@ -1,0 +1,28 @@
+{
+  "frozen_at_utc": "2026-10-20T21:45:56.305609+00:00",
+  "phase": "independent source-only whole original, cell positions, complete selected headers/controls/native rows; before peer numerical derivatives",
+  "peer_agent_id": null,
+  "source_pins_sha256": "76b02394a8165df7382afebdb9f588f43a904a5fa61c79d4eaf37e50f133a727",
+  "files": [
+    {
+      "path": "extract/2024-whole-workbook-positions.json.gz",
+      "sha256": "e42fb184c14eb3fd24d23036f91efeba3d87fef03b7108dc32a4c697ead05e00",
+      "bytes": 307363
+    },
+    {
+      "path": "extract/2022-whole-workbook-positions.json.gz",
+      "sha256": "94e2f252e662366f0b602a5995e2e058bccef0950aa15847c552de7990c220b9",
+      "bytes": 795762
+    },
+    {
+      "path": "extract/2020-whole-workbook-positions.json.gz",
+      "sha256": "fd8ec8acb40057ad51c319e306631f675a3b848b26ffa6b917e7b1e9e9ba2086",
+      "bytes": 1028115
+    },
+    {
+      "path": "extract/source-only-selected-controls.json.gz",
+      "sha256": "da5fd9b2afdb1011a383578ad13665a387e13737991348c5ae504459d2a7549c",
+      "bytes": 457818
+    }
+  ]
+}

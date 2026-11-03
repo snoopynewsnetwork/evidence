@@ -1,0 +1,11 @@
+{
+  "id": "current-closed-primary",
+  "requested_url": "https://www.sos.la.gov/elections-voting/closed-party-primary-elections",
+  "parent_source_id": "sos-closed-primary",
+  "retrieval_started_utc": "20261020T214622895206Z",
+  "method": "GET",
+  "redirects": [],
+  "error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+  "complete_entity": false,
+  "retrieval_completed_utc": "2026-10-20T21:46:22.901923+00:00"
+}

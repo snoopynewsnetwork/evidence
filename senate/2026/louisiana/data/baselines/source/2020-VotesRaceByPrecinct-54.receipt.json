@@ -1,0 +1,31 @@
+{
+  "id": "2020-VotesRaceByPrecinct-54",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20201103/VotesRaceByPrecinct/Votes_59569_54.htm",
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20201103/VotesRaceByPrecinct/Votes_59569_54.htm",
+  "retrieved_at_utc": "2026-10-20T21:48:55.571503+00:00",
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "10486",
+    "Cache-Control": "public, no-cache=\"Set-Cookie\", max-age=10",
+    "Expires": "Tue, 20 Oct 2026 21:49:05 GMT",
+    "Last-Modified": "Tue, 20 Oct 2026 21:48:55 GMT",
+    "Page-Generation-Time": "24",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Tue, 20 Oct 2026 21:48:55 GMT",
+    "Connection": "close",
+    "Set-Cookie": "AWSALB=myuW2CR80QIwHeO1NQkOjbk9L6K4/kMoHR6EIlbYxeuZmg+2xJL1FS/0zeBMqmFHyS3i8qwF+GP3Bl3x2+tRTSGdMoiK1A24WrSWkNHnNkoUygeWaC7ZC+rvuxs0; Expires=Tue, 27 Oct 2026 21:48:55 GMT; Path=/"
+  },
+  "raw_sha256": "5f4e7cbe97b44026adf5bc76e0b5134fe7b7580eb3220ecc1cd3d45cc75d8da2",
+  "bytes": 10486,
+  "stored_sha256": "fe45c70ae27354dc8d16e397de744857e809ab8e5dd176fe1998e733097bac77",
+  "stored_bytes": 753,
+  "asset": "2020-VotesRaceByPrecinct-54.gz",
+  "redirect_scope": "urllib follows redirects; only final response entity/headers retained"
+}

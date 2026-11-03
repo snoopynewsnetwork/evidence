@@ -1,0 +1,70 @@
+{
+  "id": "current-statistics-index",
+  "requested_url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+  "parent_source_id": "sos-postelection-statistics-index",
+  "retrieval_started_utc": "20261020T214631759075Z",
+  "method": "GET",
+  "redirects": [],
+  "final_url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+  "status": 200,
+  "headers": [
+    [
+      "Content-Type",
+      "text/html; charset=utf-8"
+    ],
+    [
+      "Content-Security-Policy",
+      "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-41gn/uJwdPNWXnd+fDLv1X5K';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'"
+    ],
+    [
+      "Referrer-Policy",
+      "strict-origin-when-cross-origin"
+    ],
+    [
+      "Permissions-Policy",
+      "camera=(), microphone=(), geolocation=()"
+    ],
+    [
+      "Cross-Origin-Opener-Policy",
+      "same-origin-allow-popups"
+    ],
+    [
+      "Cross-Origin-Resource-Policy",
+      "same-site"
+    ],
+    [
+      "Strict-Transport-Security",
+      "max-age=31536000; includeSubDomains;"
+    ],
+    [
+      "X-Content-Type-Options",
+      "nosniff"
+    ],
+    [
+      "X-Frame-Options",
+      "SAMEORIGIN"
+    ],
+    [
+      "Date",
+      "Tue, 20 Oct 2026 21:46:31 GMT"
+    ],
+    [
+      "Transfer-Encoding",
+      "chunked"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Connection",
+      "Transfer-Encoding"
+    ]
+  ],
+  "raw_sha256": "977264c28dd87b1f9b35f8cee658a1cdb3dbe07d4188b538879c311fe1db05ef",
+  "bytes": 82135,
+  "body": "source/977264c28dd87b1f9b35f8cee658a1cdb3dbe07d4188b538879c311fe1db05ef.body.gz",
+  "stored_sha256": "5cfee83b211e7b3902af4ee8fabbd1295401ce2695331f8fcddb9a28367c77fb",
+  "complete_entity": true,
+  "retrieval_completed_utc": "2026-10-20T21:46:31.883972+00:00"
+}

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/build_turnout.py", line 192, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/build_turnout.py", line 106, in main
+    assert sum(int(s[field]) for s in smap.values())==int(state_stats[field])==int(race_stats['HighLevel'][field])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

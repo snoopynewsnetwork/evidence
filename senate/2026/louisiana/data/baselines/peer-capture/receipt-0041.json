@@ -1,0 +1,90 @@
+{
+  "id": "2020-native-votes-05",
+  "requested_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20201103/VotesRaceByPrecinct/Votes_59569_05.htm",
+  "parent_source_id": "sos-graphical-public-client",
+  "retrieval_started_utc": "20261020T214743737854Z",
+  "method": "GET",
+  "redirects": [],
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20201103/VotesRaceByPrecinct/Votes_59569_05.htm",
+  "status": 200,
+  "headers": [
+    [
+      "Content-Type",
+      "application/json; charset=utf-8"
+    ],
+    [
+      "Content-Length",
+      "29844"
+    ],
+    [
+      "Cache-Control",
+      "public, no-cache=\"Set-Cookie\", max-age=10"
+    ],
+    [
+      "Expires",
+      "Tue, 20 Oct 2026 21:47:53 GMT"
+    ],
+    [
+      "Last-Modified",
+      "Tue, 20 Oct 2026 21:47:43 GMT"
+    ],
+    [
+      "Page-Generation-Time",
+      "111"
+    ],
+    [
+      "X-UA-Compatible",
+      "IE=edge"
+    ],
+    [
+      "Strict-Transport-Security",
+      "max-age=31536000; includeSubDomains"
+    ],
+    [
+      "X-Frame-Options",
+      "SAMEORIGIN"
+    ],
+    [
+      "X-Content-Type-Options",
+      "nosniff"
+    ],
+    [
+      "Referrer-Policy",
+      "strict-origin"
+    ],
+    [
+      "X-Permitted-Cross-Domain-Policies",
+      "none"
+    ],
+    [
+      "Feature-Policy",
+      "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'"
+    ],
+    [
+      "Date",
+      "Tue, 20 Oct 2026 21:47:43 GMT"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Set-Cookie",
+      "AWSALB=cgss8Ww9RWHdhUpbB2JnXmbvwCBfi2foczeJHmwymLsOU0RJ6N05Aa39cArsjHchNxn3HDj32E/vtp2yqow1U9p4zGR0zr3KZQnbIPtrJwiufte4mbtRz0HD9CU2; Expires=Tue, 27 Oct 2026 21:47:43 GMT; Path=/"
+    ],
+    [
+      "Set-Cookie",
+      "AWSALBCORS=cgss8Ww9RWHdhUpbB2JnXmbvwCBfi2foczeJHmwymLsOU0RJ6N05Aa39cArsjHchNxn3HDj32E/vtp2yqow1U9p4zGR0zr3KZQnbIPtrJwiufte4mbtRz0HD9CU2; Expires=Tue, 27 Oct 2026 21:47:43 GMT; Path=/; SameSite=None; Secure"
+    ],
+    [
+      "Set-Cookie",
+      "ASP.NET_SessionId=pnatvfbnmvlnjkqwm0mh1pri; path=/; secure; HttpOnly; SameSite=Lax"
+    ]
+  ],
+  "raw_sha256": "46406f3334feaf6c3515be0950bbc0d361ca2380797c072f1e6cea100dd6c292",
+  "bytes": 29844,
+  "body": "source/46406f3334feaf6c3515be0950bbc0d361ca2380797c072f1e6cea100dd6c292.body.gz",
+  "stored_sha256": "42dc9a58ea6b52a375f2221bb3900670684882b7b36794da567b7458938ede1c",
+  "complete_entity": true,
+  "retrieval_completed_utc": "2026-10-20T21:47:43.929791+00:00"
+}

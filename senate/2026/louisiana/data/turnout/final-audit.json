@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "scope": "Pre-manifest complete historical source/context, original replay and meaningful negative proof. No current/future manifest or seal digest. The ACTUAL post-manifest read-only audit prints stdout only.",
+  "proof_pins": {
+    "captured-final-peer-source-verification.json": "5ac44b4a3c00b72d0c8a0323870b7efe84c1dea1195f36b9ed311443884e6085",
+    "isolated-original-replay.json": "8183d72a975ad5d038fe9fd870fc88acd407b4167e8f296bcc52a5d320e941e1",
+    "complete-context-negative-validation.json": "d5a41ab8a9981b9cbf547c90b5af3a01a8170d4a8c1ffe5dd0e1638609489857"
+  },
+  "validation_sha256": "f6ac999f4e3cba6c0a6bd426937257863674212673211445b3bd52c354487057",
+  "current_reverse_digest_dependencies": [],
+  "coordinator_acceptance": false,
+  "current_native_dispatch": []
+}

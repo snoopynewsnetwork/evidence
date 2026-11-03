@@ -1,0 +1,33 @@
+{
+  "id": "sos-graphical-election-mode",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=ElectionMode.htm",
+  "retrieved_at_utc": "2026-10-18T22:56:07.853893+00:00",
+  "status": 200,
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=ElectionMode.htm",
+  "raw_sha256": "f0e369ac21421ded69159cf78a8a5b47e7d07047d553c6e9a7414801d29c4c41",
+  "asset": "source/f0e369ac21421ded69159cf78a8a5b47e7d07047d553c6e9a7414801d29c4c41.body.gz",
+  "stored_sha256": "265b1764804de0f1097c0b902de3014a54b56bfa0e28c3aee70286be1d984c2d",
+  "bytes": 21,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "21",
+    "Cache-Control": "public, max-age=8",
+    "Expires": "Sun, 18 Oct 2026 22:56:16 GMT",
+    "Last-Modified": "Sun, 18 Oct 2026 22:56:06 GMT",
+    "Page-Generation-Time": "24",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Sun, 18 Oct 2026 22:56:07 GMT",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALB=Le2JSYafEKvPkbH5Y1YVG4mprDouRnW0IaLX1UDgXHbBBrkujlqSOA1UxMMzn/L1WK6wrFmGazfyZjBh1OAaU1xPi2txe58fW0c0i25N61WDmFCyxq4HmoogiGG6; Expires=Sun, 25 Oct 2026 22:56:07 GMT; Path=/, AWSALBCORS=Le2JSYafEKvPkbH5Y1YVG4mprDouRnW0IaLX1UDgXHbBBrkujlqSOA1UxMMzn/L1WK6wrFmGazfyZjBh1OAaU1xPi2txe58fW0c0i25N61WDmFCyxq4HmoogiGG6; Expires=Sun, 25 Oct 2026 22:56:07 GMT; Path=/; SameSite=None; Secure"
+  },
+  "original_asset_readonly": "data/news/sos-graphical-election-mode.html.gz",
+  "original_stored_sha256": "265b1764804de0f1097c0b902de3014a54b56bfa0e28c3aee70286be1d984c2d",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

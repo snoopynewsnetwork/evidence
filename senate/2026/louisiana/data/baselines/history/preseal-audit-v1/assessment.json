@@ -1,0 +1,6 @@
+{
+  "classification": "preseal checker sequencing error",
+  "failed_checks": "links to final-seal.json and asset-manifest.json before they have been created",
+  "source_model_changes": false,
+  "repair": "allow exactly these two expected future files only in explicit --preseal mode; final audit requires actual files and verifies membership/hashes"
+}

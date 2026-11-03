@@ -1,0 +1,5 @@
+{
+  "name": "invented-null-zero",
+  "status": "correctly_rejected",
+  "reason": "null/control preservation"
+}

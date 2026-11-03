@@ -1,0 +1,44 @@
+{
+  "2024": {
+    "all_candidate_votes": 2006975,
+    "candidate_count": 11,
+    "native_count": 3933,
+    "workbook_native_reconciliation": [
+      {
+        "sheet": "Multi-Parish(Precinct)",
+        "expected": 3933,
+        "matched": 3933,
+        "missing": [],
+        "extra": []
+      }
+    ]
+  },
+  "2022": {
+    "all_candidate_votes": 1383290,
+    "candidate_count": 13,
+    "native_count": 4065,
+    "workbook_native_reconciliation": [
+      {
+        "sheet": "Multi-Parish(Precinct)",
+        "expected": 4065,
+        "matched": 4065,
+        "missing": [],
+        "extra": []
+      }
+    ]
+  },
+  "2020": {
+    "all_candidate_votes": 2071543,
+    "candidate_count": 15,
+    "native_count": 4062,
+    "workbook_native_reconciliation": [
+      {
+        "sheet": "Multi-Parish(Precinct)",
+        "expected": 4062,
+        "matched": 4062,
+        "missing": [],
+        "extra": []
+      }
+    ]
+  }
+}

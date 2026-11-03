@@ -1,0 +1,33 @@
+{
+  "id": "sos-2026-november-race-metadata",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20261103/RacesCandidates_Multiparish.htm",
+  "retrieved_at_utc": "2026-10-18T23:20:51.109356+00:00",
+  "status": 200,
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20261103/RacesCandidates_Multiparish.htm",
+  "raw_sha256": "da4ad5c4e2e17e15f1b84d1a27b950ba522cd34d58921465bc58b126be6ea3b9",
+  "asset": "source/da4ad5c4e2e17e15f1b84d1a27b950ba522cd34d58921465bc58b126be6ea3b9.body.gz",
+  "stored_sha256": "87a68443323c758e905b9df237390dfe12eb38fc41f81ba1f15785abd5dcfa40",
+  "bytes": 51488,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "51488",
+    "Cache-Control": "public, no-cache=\"Set-Cookie\", max-age=10",
+    "Expires": "Sun, 18 Oct 2026 23:21:01 GMT",
+    "Last-Modified": "Sun, 18 Oct 2026 23:20:51 GMT",
+    "Page-Generation-Time": "31",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Sun, 18 Oct 2026 23:20:51 GMT",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALB=qr3QdZXNYUbTEW/rboPBvWrsNugyXzakju8TVhw2x928PvkToPnafZZCKZy48zd04A5QAoTeag4W5ErzMt/pPQ4KBDoL91GaikyBf2+SdXCnO8JvC9UvJLrwcnCR; Expires=Sun, 25 Oct 2026 23:20:51 GMT; Path=/, AWSALBCORS=qr3QdZXNYUbTEW/rboPBvWrsNugyXzakju8TVhw2x928PvkToPnafZZCKZy48zd04A5QAoTeag4W5ErzMt/pPQ4KBDoL91GaikyBf2+SdXCnO8JvC9UvJLrwcnCR; Expires=Sun, 25 Oct 2026 23:20:51 GMT; Path=/; SameSite=None; Secure, ASP.NET_SessionId=f5y24lyzziui3xjtndxc4yn1; path=/; secure; HttpOnly; SameSite=Lax"
+  },
+  "original_asset_readonly": "data/news/sos-2026-november-race-metadata.html.gz",
+  "original_stored_sha256": "87a68443323c758e905b9df237390dfe12eb38fc41f81ba1f15785abd5dcfa40",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

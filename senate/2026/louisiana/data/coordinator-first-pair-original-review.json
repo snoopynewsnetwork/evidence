@@ -1,0 +1,101 @@
+{
+  "status": "pass",
+  "checks": 1770532,
+  "baseline_manifest_sha256": "22aa501bcbcf9a6b99849e41859cf14a7d3216191e22d0f6dd68eced41fe897d",
+  "counts": {
+    "whole_original_body_and_receipt_roles": 436,
+    "complete_workbook_ZIP_members": 196,
+    "whole_physical_cell_values_and_XML_records": 667697,
+    "complete_three_lane_native_vectors": 12060,
+    "native_candidate_cells": 157038,
+    "complete_candidate_label_party_metadata_controls": 39
+  },
+  "complete_physical_workbook_rows": 149741,
+  "complete_original_JSON_position_nodes": 833897,
+  "source_JSON_contexts": 409,
+  "source_contests": [
+    {
+      "year": "2024",
+      "race": "67190",
+      "native_records": 3933,
+      "parishes": 64,
+      "candidate_columns": 11,
+      "complete_candidate_totals": [
+        766870,
+        7138,
+        6835,
+        1208505,
+        2240,
+        1424,
+        2857,
+        2623,
+        1481,
+        361,
+        6641
+      ],
+      "all_candidate_total": 2006975
+    },
+    {
+      "year": "2022",
+      "race": "61897",
+      "native_records": 4065,
+      "parishes": 64,
+      "candidate_columns": 13,
+      "complete_candidate_totals": [
+        9378,
+        246933,
+        25275,
+        2753,
+        851568,
+        1676,
+        5388,
+        11910,
+        182887,
+        7767,
+        4865,
+        31568,
+        1322
+      ],
+      "all_candidate_total": 1383290
+    },
+    {
+      "year": "2020",
+      "race": "59569",
+      "native_records": 4062,
+      "parishes": 64,
+      "candidate_columns": 15,
+      "complete_candidate_totals": [
+        17362,
+        16518,
+        1228908,
+        3954,
+        229814,
+        2813,
+        36962,
+        7811,
+        5804,
+        38383,
+        394049,
+        55710,
+        7680,
+        11321,
+        14454
+      ],
+      "all_candidate_total": 2071543
+    }
+  ],
+  "full_source_orders": 27,
+  "native_primary": {
+    "denominator": 2006975,
+    "native_units": 3933,
+    "minimum80": 1516,
+    "preceding1515": 1605350,
+    "crossing": 1605649,
+    "top15": 689455,
+    "crossing_geography": "Bienville ward06/precinct03 +299"
+  },
+  "manual_browser_or_image_claim": false,
+  "current_native_geometry_or_ID_approval": false,
+  "scope": "Independent whole receipt/body hash, ZIP/member/physical OOXML-cell/CSV/API/native positional and full JSON-source witness replay without producer imports/writers. General/race voter controls and current legal/geometry/ballot/remaining scopes stay qualified. Raw complete original lexical bytes retained; no source normalization, native allocation or forecast.",
+  "all_baseline_owned_bytes_unchanged": true
+}

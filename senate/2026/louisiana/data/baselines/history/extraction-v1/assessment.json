@@ -1,0 +1,1 @@
+{"classification":"extractor assumption error","failure":"KeyError: VoterCountQualified","claim_rejected":"every native result object supplies registration/voted fields","source_inputs":"Pinned complete receipts; unchanged originals","repair":"sum available numeric fields with missing count; do not substitute zero or infer administrative registration"}

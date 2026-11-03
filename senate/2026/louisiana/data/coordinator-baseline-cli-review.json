@@ -1,0 +1,1621 @@
+{
+  "status": "pass",
+  "checks": 130,
+  "actual_CLI_cases": 53,
+  "expected_invalid": 42,
+  "calculator_sha256": "a1988960a9c25c9fa9240bc934f4ee5a2e73b15a8589de834a1d71b5a87bece0",
+  "producer_import_or_write": false,
+  "network": false,
+  "method": "Own actual subprocess CLI fixtures with hand-derived fixed counts/final denominators, selected-only/clipping/unknown/no-pool controls, named third-candidate lead and strict global invalid rejection. Actual full inputs and strict output bodies retained; this is deterministic arithmetic, not legal call or probability.",
+  "proofs": [
+    {
+      "name": "fixed-count-final-pair-and-complete-field",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "69d873f5d39907bf5cb24dce568432f541fde2a72e16698d3efa5292a1684c31",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 100.0,
+        "counted_lead": -20.0,
+        "remaining_pair_votes": 80.0,
+        "final_pair_votes": 180.0,
+        "final_all_candidate_votes": 400.0,
+        "unknown_units": [],
+        "baseline_lead": -60.0,
+        "baseline_pair_margin": -0.3333333333333333,
+        "baseline_all_candidate_margin": -0.15,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 40.0,
+              "B": 60.0,
+              "C": 200.0
+            },
+            "remaining": 100.0,
+            "pair_remaining": 80.0,
+            "other_remaining": 19.999999999999996,
+            "share": 0.25,
+            "participation": 0.8,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "below",
+        "final_candidate_votes": {
+          "A": 60.0,
+          "B": 120.0,
+          "C": 220.0
+        },
+        "arithmetic_plurality_leaders": [
+          "C"
+        ],
+        "uniform": {
+          "status": "feasible",
+          "unbounded_shift": 0.375,
+          "bounded_shift": 0.3749999999999999,
+          "achieved_lead": -1.7763568394002505e-14,
+          "residual": -1.7763568394002505e-14,
+          "contributions": [
+            {
+              "key": "u1",
+              "pair_volume": 80.0,
+              "pair_weight": 1.0,
+              "all_volume_weight": 1.0,
+              "participation": 0.8,
+              "baseline_share": 0.25,
+              "target_share": 0.6249999999999999,
+              "target_net_votes": 19.999999999999982,
+              "baseline_net_votes": -40.0,
+              "net_gain": 59.999999999999986,
+              "one_share_point_net_votes": 1.6,
+              "clipped": false
+            }
+          ]
+        },
+        "selected_only": {
+          "status": "feasible",
+          "required_share": 0.625,
+          "fixed_other_and_counted_lead": -20.0,
+          "selected_pair_volume": 80.0,
+          "final_pair_target_lead": 0.0
+        }
+      },
+      "output_sha256": "c522b9bb45530fb7b1fb06b60ed945686ed83768e816bd91187a5a241ca43733",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "final_pair_votes": 180,
+        "final_all_candidate_votes": 400,
+        "counted_lead": -20,
+        "baseline_lead": -60,
+        "selected_required": 0.625,
+        "candidate_votes": {
+          "A": 60,
+          "B": 120,
+          "C": 220
+        },
+        "leaders": [
+          "C"
+        ]
+      }
+    },
+    {
+      "name": "other-unit-held-fixed",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": 0.2, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "42776dfc8b4ffab656d5f3851d930a662bd4b6e1aba62ce8f750f2021674e828",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 140.0,
+        "counted_lead": 0.0,
+        "remaining_pair_votes": 100.0,
+        "final_pair_votes": 240.0,
+        "final_all_candidate_votes": 315.0,
+        "unknown_units": [],
+        "baseline_lead": -10.000000000000004,
+        "baseline_pair_margin": -0.04166666666666668,
+        "baseline_all_candidate_margin": -0.03174603174603176,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 10.0,
+              "B": 30.0,
+              "C": 5.0
+            },
+            "remaining": 50.0,
+            "pair_remaining": 50.0,
+            "other_remaining": 0.0,
+            "share": 0.2,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          },
+          {
+            "key": "u2",
+            "counted": {
+              "A": 60.0,
+              "B": 40.0,
+              "C": 20.0
+            },
+            "remaining": 100.0,
+            "pair_remaining": 50.0,
+            "other_remaining": 50.0,
+            "share": 0.7,
+            "participation": 0.5,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "below",
+        "final_candidate_votes": {
+          "A": 115.0,
+          "B": 125.0,
+          "C": 75.0
+        },
+        "arithmetic_plurality_leaders": [
+          "B"
+        ],
+        "uniform": {
+          "status": "feasible",
+          "unbounded_shift": 0.05000000000000002,
+          "bounded_shift": 0.04999999999999999,
+          "achieved_lead": 0.0,
+          "residual": 0.0,
+          "contributions": [
+            {
+              "key": "u1",
+              "pair_volume": 50.0,
+              "pair_weight": 0.5,
+              "all_volume_weight": 0.3333333333333333,
+              "participation": 1.0,
+              "baseline_share": 0.2,
+              "target_share": 0.25,
+              "target_net_votes": -25.0,
+              "baseline_net_votes": -30.0,
+              "net_gain": 4.999999999999999,
+              "one_share_point_net_votes": 1.0,
+              "clipped": false
+            },
+            {
+              "key": "u2",
+              "pair_volume": 50.0,
+              "pair_weight": 0.5,
+              "all_volume_weight": 0.6666666666666666,
+              "participation": 0.5,
+              "baseline_share": 0.7,
+              "target_share": 0.75,
+              "target_net_votes": 25.0,
+              "baseline_net_votes": 19.999999999999996,
+              "net_gain": 5.000000000000004,
+              "one_share_point_net_votes": 1.0,
+              "clipped": false
+            }
+          ]
+        },
+        "selected_only": {
+          "status": "feasible",
+          "required_share": 0.30000000000000004,
+          "fixed_other_and_counted_lead": 19.999999999999996,
+          "selected_pair_volume": 50.0,
+          "final_pair_target_lead": 0.0
+        }
+      },
+      "output_sha256": "0248917b4652266b8e7d3d94db3ddbcbfded70903b08c2b5577fec0ccd53a9c6",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "final_pair_votes": 240,
+        "final_all_candidate_votes": 315,
+        "baseline_lead": -10,
+        "selected_required": 0.3,
+        "uniform_shift": 0.05,
+        "candidate_votes": {
+          "A": 115,
+          "B": 125,
+          "C": 75
+        }
+      }
+    },
+    {
+      "name": "final-pair-cushion-denominator",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0.01, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": 0.2, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "3c3c3bacb21c4c6aa67f61a5443e0638cdc6cb447fd0a2fc7fda820e1ff175d8",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.01,
+        "counted_pair_votes": 140.0,
+        "counted_lead": 0.0,
+        "remaining_pair_votes": 100.0,
+        "final_pair_votes": 240.0,
+        "final_all_candidate_votes": 315.0,
+        "unknown_units": [],
+        "baseline_lead": -10.000000000000004,
+        "baseline_pair_margin": -0.04166666666666668,
+        "baseline_all_candidate_margin": -0.03174603174603176,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 10.0,
+              "B": 30.0,
+              "C": 5.0
+            },
+            "remaining": 50.0,
+            "pair_remaining": 50.0,
+            "other_remaining": 0.0,
+            "share": 0.2,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          },
+          {
+            "key": "u2",
+            "counted": {
+              "A": 60.0,
+              "B": 40.0,
+              "C": 20.0
+            },
+            "remaining": 100.0,
+            "pair_remaining": 50.0,
+            "other_remaining": 50.0,
+            "share": 0.7,
+            "participation": 0.5,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "below",
+        "final_candidate_votes": {
+          "A": 115.0,
+          "B": 125.0,
+          "C": 75.0
+        },
+        "arithmetic_plurality_leaders": [
+          "B"
+        ],
+        "uniform": {
+          "status": "feasible",
+          "unbounded_shift": 0.06200000000000002,
+          "bounded_shift": 0.062,
+          "achieved_lead": 2.4000000000000057,
+          "residual": 5.773159728050814e-15,
+          "contributions": [
+            {
+              "key": "u1",
+              "pair_volume": 50.0,
+              "pair_weight": 0.5,
+              "all_volume_weight": 0.3333333333333333,
+              "participation": 1.0,
+              "baseline_share": 0.2,
+              "target_share": 0.262,
+              "target_net_votes": -23.799999999999997,
+              "baseline_net_votes": -30.0,
+              "net_gain": 6.2,
+              "one_share_point_net_votes": 1.0,
+              "clipped": false
+            },
+            {
+              "key": "u2",
+              "pair_volume": 50.0,
+              "pair_weight": 0.5,
+              "all_volume_weight": 0.6666666666666666,
+              "participation": 0.5,
+              "baseline_share": 0.7,
+              "target_share": 0.762,
+              "target_net_votes": 26.200000000000003,
+              "baseline_net_votes": 19.999999999999996,
+              "net_gain": 6.2000000000000055,
+              "one_share_point_net_votes": 1.0,
+              "clipped": false
+            }
+          ]
+        },
+        "selected_only": {
+          "status": "feasible",
+          "required_share": 0.32400000000000007,
+          "fixed_other_and_counted_lead": 19.999999999999996,
+          "selected_pair_volume": 50.0,
+          "final_pair_target_lead": 2.4
+        }
+      },
+      "output_sha256": "02549ba0a67cba7d75b187804975b4986a5b040e276b4dee28b075508d66bb5a",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "selected_required": 0.324,
+        "uniform_shift": 0.062
+      }
+    },
+    {
+      "name": "selected-unknown-conditional-share",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "f151ee06c4a1523c3f8a1db62c487b0f0d3d1cc286b5fc6770652ea349f0b6eb",
+      "complete_strict_output": {
+        "status": "unknown-preference",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 140.0,
+        "counted_lead": 0.0,
+        "remaining_pair_votes": 100.0,
+        "final_pair_votes": 240.0,
+        "final_all_candidate_votes": 315.0,
+        "unknown_units": [
+          "u1"
+        ],
+        "baseline_lead": null,
+        "baseline_pair_margin": null,
+        "baseline_all_candidate_margin": null,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 10.0,
+              "B": 30.0,
+              "C": 5.0
+            },
+            "remaining": 50.0,
+            "pair_remaining": 50.0,
+            "other_remaining": 0.0,
+            "share": null,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          },
+          {
+            "key": "u2",
+            "counted": {
+              "A": 60.0,
+              "B": 40.0,
+              "C": 20.0
+            },
+            "remaining": 100.0,
+            "pair_remaining": 50.0,
+            "other_remaining": 50.0,
+            "share": 0.7,
+            "participation": 0.5,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "unknown",
+        "final_candidate_votes": {
+          "A": null,
+          "B": null,
+          "C": 75.0
+        },
+        "arithmetic_plurality_leaders": null,
+        "uniform": {
+          "status": "unknown-preference",
+          "unbounded_shift": null,
+          "bounded_shift": null
+        },
+        "selected_only": {
+          "status": "feasible",
+          "required_share": 0.30000000000000004,
+          "fixed_other_and_counted_lead": 19.999999999999996,
+          "selected_pair_volume": 50.0,
+          "final_pair_target_lead": 0.0
+        }
+      },
+      "output_sha256": "ced2799042b075eba39afcc8dc678745357d37b41d56cd677f97edc30f7b50da",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "status": "unknown-preference",
+        "selected_required": 0.3
+      }
+    },
+    {
+      "name": "unknown-other-unit-not-neutral",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": 0.2, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": null, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "76696987cf915fb0c03a4ca6b1bdea7b23308a8e38e55958b5930e64d1ab5e4a",
+      "complete_strict_output": {
+        "status": "unknown-preference",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 140.0,
+        "counted_lead": 0.0,
+        "remaining_pair_votes": 100.0,
+        "final_pair_votes": 240.0,
+        "final_all_candidate_votes": 315.0,
+        "unknown_units": [
+          "u2"
+        ],
+        "baseline_lead": null,
+        "baseline_pair_margin": null,
+        "baseline_all_candidate_margin": null,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 10.0,
+              "B": 30.0,
+              "C": 5.0
+            },
+            "remaining": 50.0,
+            "pair_remaining": 50.0,
+            "other_remaining": 0.0,
+            "share": 0.2,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          },
+          {
+            "key": "u2",
+            "counted": {
+              "A": 60.0,
+              "B": 40.0,
+              "C": 20.0
+            },
+            "remaining": 100.0,
+            "pair_remaining": 50.0,
+            "other_remaining": 50.0,
+            "share": null,
+            "participation": 0.5,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "unknown",
+        "final_candidate_votes": {
+          "A": null,
+          "B": null,
+          "C": 75.0
+        },
+        "arithmetic_plurality_leaders": null,
+        "uniform": {
+          "status": "unknown-preference",
+          "unbounded_shift": null,
+          "bounded_shift": null
+        },
+        "selected_only": {
+          "status": "unknown-other-units",
+          "unknown_units": [
+            "u2"
+          ],
+          "required_share": null
+        }
+      },
+      "output_sha256": "87ceec439b81af3d24f6bb347292310d73d6cfeac5b53240ec3d1871011c5567",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "status": "unknown-preference",
+        "selected_status": "unknown-other-units"
+      }
+    },
+    {
+      "name": "clipped-share-root-distinct-from-unbounded",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 0, \"B\": 0, \"C\": 0}, \"remaining\": 90, \"participation\": 1, \"share\": 0.99, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 0, \"B\": 0, \"C\": 0}, \"remaining\": 10, \"participation\": 1, \"share\": 0.01, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "f6665d9e46b1ab34cbbc172baf78e83e87552aef4a5dd8d5af4a6ae9c45beafb",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 0.0,
+        "counted_lead": 0.0,
+        "remaining_pair_votes": 100.0,
+        "final_pair_votes": 100.0,
+        "final_all_candidate_votes": 100.0,
+        "unknown_units": [],
+        "baseline_lead": 78.4,
+        "baseline_pair_margin": 0.784,
+        "baseline_all_candidate_margin": 0.784,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 0.0,
+              "B": 0.0,
+              "C": 0.0
+            },
+            "remaining": 90.0,
+            "pair_remaining": 90.0,
+            "other_remaining": 0.0,
+            "share": 0.99,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          },
+          {
+            "key": "u2",
+            "counted": {
+              "A": 0.0,
+              "B": 0.0,
+              "C": 0.0
+            },
+            "remaining": 10.0,
+            "pair_remaining": 10.0,
+            "other_remaining": 0.0,
+            "share": 0.01,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "met",
+        "final_candidate_votes": {
+          "A": 89.19999999999999,
+          "B": 10.8,
+          "C": 0.0
+        },
+        "arithmetic_plurality_leaders": [
+          "A"
+        ],
+        "uniform": {
+          "status": "feasible",
+          "unbounded_shift": -0.392,
+          "bounded_shift": -0.4344444444444445,
+          "achieved_lead": -1.5987211554602254e-14,
+          "residual": -1.5987211554602254e-14,
+          "contributions": [
+            {
+              "key": "u1",
+              "pair_volume": 90.0,
+              "pair_weight": 0.9,
+              "all_volume_weight": 0.9,
+              "participation": 1.0,
+              "baseline_share": 0.99,
+              "target_share": 0.5555555555555555,
+              "target_net_votes": 9.999999999999984,
+              "baseline_net_votes": 88.2,
+              "net_gain": -78.20000000000002,
+              "one_share_point_net_votes": 1.8,
+              "clipped": false
+            },
+            {
+              "key": "u2",
+              "pair_volume": 10.0,
+              "pair_weight": 0.1,
+              "all_volume_weight": 0.1,
+              "participation": 1.0,
+              "baseline_share": 0.01,
+              "target_share": 0,
+              "target_net_votes": -10.0,
+              "baseline_net_votes": -9.8,
+              "net_gain": -0.2,
+              "one_share_point_net_votes": 0.2,
+              "clipped": true
+            }
+          ]
+        },
+        "selected_only": {
+          "status": "feasible",
+          "required_share": 0.5544444444444444,
+          "fixed_other_and_counted_lead": -9.8,
+          "selected_pair_volume": 90.0,
+          "final_pair_target_lead": 0.0
+        }
+      },
+      "output_sha256": "08e063ee51d0b89aba4db731980cf1423aa0d60205fe2a8f4dc72278982e3609",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "uniform_shift": -0.4344444444444444
+      }
+    },
+    {
+      "name": "no-positive-pair-pool-0",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 20, \"C\": 0}, \"remaining\": 0, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "dc0dfd3cbdd472793909db64e6a9c7f2602fd587c4659bc0ac811408816f5de9",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 60.0,
+        "counted_lead": 20.0,
+        "remaining_pair_votes": 0.0,
+        "final_pair_votes": 60.0,
+        "final_all_candidate_votes": 60.0,
+        "unknown_units": [],
+        "baseline_lead": 20.0,
+        "baseline_pair_margin": 0.3333333333333333,
+        "baseline_all_candidate_margin": 0.3333333333333333,
+        "no_positive_pool": true,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 40.0,
+              "B": 20.0,
+              "C": 0.0
+            },
+            "remaining": 0.0,
+            "pair_remaining": 0.0,
+            "other_remaining": 0.0,
+            "share": null,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "met",
+        "final_candidate_votes": {
+          "A": 40.0,
+          "B": 20.0,
+          "C": 0.0
+        },
+        "arithmetic_plurality_leaders": [
+          "A"
+        ],
+        "uniform": {
+          "status": "no-positive-pool",
+          "unbounded_shift": null,
+          "bounded_shift": null,
+          "fixed_target_status": "met"
+        },
+        "selected_only": {
+          "status": "no-positive-pool",
+          "required_share": null,
+          "fixed_lead": 20.0,
+          "fixed_target_status": "met"
+        }
+      },
+      "output_sha256": "87fb89fd577e386bb5864c403f3633e4257cadfab0c514cb9be787833692abf8",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "uniform_status": "no-positive-pool",
+        "selected_status": "no-positive-pool"
+      }
+    },
+    {
+      "name": "no-positive-pair-pool-100",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 20, \"C\": 0}, \"remaining\": 100, \"participation\": 0, \"share\": null, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "0a57bea526a2249886a668978bfdbabfa049fe4afc9702770e6a11acd23ec15d",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 60.0,
+        "counted_lead": 20.0,
+        "remaining_pair_votes": 0.0,
+        "final_pair_votes": 60.0,
+        "final_all_candidate_votes": 160.0,
+        "unknown_units": [],
+        "baseline_lead": 20.0,
+        "baseline_pair_margin": 0.3333333333333333,
+        "baseline_all_candidate_margin": 0.125,
+        "no_positive_pool": true,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 40.0,
+              "B": 20.0,
+              "C": 0.0
+            },
+            "remaining": 100.0,
+            "pair_remaining": 0.0,
+            "other_remaining": 100.0,
+            "share": null,
+            "participation": 0.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "met",
+        "final_candidate_votes": {
+          "A": 40.0,
+          "B": 20.0,
+          "C": 100.0
+        },
+        "arithmetic_plurality_leaders": [
+          "C"
+        ],
+        "uniform": {
+          "status": "no-positive-pool",
+          "unbounded_shift": null,
+          "bounded_shift": null,
+          "fixed_target_status": "met"
+        },
+        "selected_only": {
+          "status": "no-positive-pool",
+          "required_share": null,
+          "fixed_lead": 20.0,
+          "fixed_target_status": "met"
+        }
+      },
+      "output_sha256": "14198f6c675d07f75c0dd7f7eb60f8366e489f58156c34df3b0e02721d7ad7e1",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "uniform_status": "no-positive-pool",
+        "selected_status": "no-positive-pool"
+      }
+    },
+    {
+      "name": "raw-selected-already-secured",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 100, \"B\": 0, \"C\": 0}, \"remaining\": 10, \"participation\": 1, \"share\": 0.5, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "919bae0d4dbcbbb5d35f5224ee9b4ba3136772aa2007df90ac19de48e06b285e",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 100.0,
+        "counted_lead": 100.0,
+        "remaining_pair_votes": 10.0,
+        "final_pair_votes": 110.0,
+        "final_all_candidate_votes": 110.0,
+        "unknown_units": [],
+        "baseline_lead": 100.0,
+        "baseline_pair_margin": 0.9090909090909091,
+        "baseline_all_candidate_margin": 0.9090909090909091,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 100.0,
+              "B": 0.0,
+              "C": 0.0
+            },
+            "remaining": 10.0,
+            "pair_remaining": 10.0,
+            "other_remaining": 0.0,
+            "share": 0.5,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "met",
+        "final_candidate_votes": {
+          "A": 105.0,
+          "B": 5.0,
+          "C": 0.0
+        },
+        "arithmetic_plurality_leaders": [
+          "A"
+        ],
+        "uniform": {
+          "status": "already-secured",
+          "unbounded_shift": -5.0,
+          "bounded_shift": null,
+          "raw_target_lead": 0.0,
+          "minimum_possible_lead": 90.0
+        },
+        "selected_only": {
+          "status": "already-secured",
+          "required_share": -4.5,
+          "fixed_other_and_counted_lead": 100.0,
+          "selected_pair_volume": 10.0,
+          "final_pair_target_lead": 0.0
+        }
+      },
+      "output_sha256": "0359e444d0116e9b15e464e498755ff5c09932780d9b49f915e79a57931b2f05",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "selected_status": "already-secured"
+      }
+    },
+    {
+      "name": "raw-selected-impossible",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 0, \"B\": 100, \"C\": 0}, \"remaining\": 10, \"participation\": 1, \"share\": 0.5, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "e81b03e07e962df173b601e2970a20080ac4130f8956a368352786d28726cb98",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 100.0,
+        "counted_lead": -100.0,
+        "remaining_pair_votes": 10.0,
+        "final_pair_votes": 110.0,
+        "final_all_candidate_votes": 110.0,
+        "unknown_units": [],
+        "baseline_lead": -100.0,
+        "baseline_pair_margin": -0.9090909090909091,
+        "baseline_all_candidate_margin": -0.9090909090909091,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 0.0,
+              "B": 100.0,
+              "C": 0.0
+            },
+            "remaining": 10.0,
+            "pair_remaining": 10.0,
+            "other_remaining": 0.0,
+            "share": 0.5,
+            "participation": 1.0,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "below",
+        "final_candidate_votes": {
+          "A": 5.0,
+          "B": 105.0,
+          "C": 0.0
+        },
+        "arithmetic_plurality_leaders": [
+          "B"
+        ],
+        "uniform": {
+          "status": "impossible",
+          "unbounded_shift": 5.0,
+          "bounded_shift": null,
+          "raw_target_lead": 0.0,
+          "maximum_possible_lead": -90.0
+        },
+        "selected_only": {
+          "status": "impossible",
+          "required_share": 5.5,
+          "fixed_other_and_counted_lead": -100.0,
+          "selected_pair_volume": 10.0,
+          "final_pair_target_lead": 0.0
+        }
+      },
+      "output_sha256": "3b9e67d0013e1a56c6d1ac87e9c7eeb0049bd9d20b44ae442ac42e993d1dddc1",
+      "empty_stderr": true,
+      "independent_expected_quantities": {
+        "selected_status": "impossible"
+      }
+    },
+    {
+      "name": "explicit-null-selection-is-supported",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": null, \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "8c88a74d473c0d96de64d255698e27b64ae7e5c009f3abd9eec1795d73710540",
+      "complete_strict_output": {
+        "status": "ok",
+        "mode": "live",
+        "A": "A",
+        "B": "B",
+        "other_candidates": [
+          "C"
+        ],
+        "assumption": "Own stipulated arithmetic, not election prediction",
+        "target_pair_margin": 0.0,
+        "counted_pair_votes": 100.0,
+        "counted_lead": -20.0,
+        "remaining_pair_votes": 80.0,
+        "final_pair_votes": 180.0,
+        "final_all_candidate_votes": 400.0,
+        "unknown_units": [],
+        "baseline_lead": -60.0,
+        "baseline_pair_margin": -0.3333333333333333,
+        "baseline_all_candidate_margin": -0.15,
+        "no_positive_pool": false,
+        "units": [
+          {
+            "key": "u1",
+            "counted": {
+              "A": 40.0,
+              "B": 60.0,
+              "C": 200.0
+            },
+            "remaining": 100.0,
+            "pair_remaining": 80.0,
+            "other_remaining": 19.999999999999996,
+            "share": 0.25,
+            "participation": 0.8,
+            "other_allocation": {
+              "C": 1.0
+            }
+          }
+        ],
+        "fixed_target_status": "below",
+        "final_candidate_votes": {
+          "A": 60.0,
+          "B": 120.0,
+          "C": 220.0
+        },
+        "arithmetic_plurality_leaders": [
+          "C"
+        ],
+        "uniform": {
+          "status": "feasible",
+          "unbounded_shift": 0.375,
+          "bounded_shift": 0.3749999999999999,
+          "achieved_lead": -1.7763568394002505e-14,
+          "residual": -1.7763568394002505e-14,
+          "contributions": [
+            {
+              "key": "u1",
+              "pair_volume": 80.0,
+              "pair_weight": 1.0,
+              "all_volume_weight": 1.0,
+              "participation": 0.8,
+              "baseline_share": 0.25,
+              "target_share": 0.6249999999999999,
+              "target_net_votes": 19.999999999999982,
+              "baseline_net_votes": -40.0,
+              "net_gain": 59.999999999999986,
+              "one_share_point_net_votes": 1.6,
+              "clipped": false
+            }
+          ]
+        }
+      },
+      "output_sha256": "fdacac2383648439bcd7bc96a6b0088e64e39e06eb17a117b341d65c99cb7ba4",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-target-None",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": null, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "bed3b982e75a1fc0ac944dd7d066ee6e789be8864002a0e20e98ff256eaf9d44",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target must be finite numeric"
+      },
+      "output_sha256": "38fdcafbffafee3496b08128eed8e25b0bbd0b4f2b180f649a173dc531513649",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-target-True",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": true, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "07c27e16eb06b5aaa69ba88210b565d1cc21479216202e881f8f5fefff43e8fa",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target must be finite numeric"
+      },
+      "output_sha256": "38fdcafbffafee3496b08128eed8e25b0bbd0b4f2b180f649a173dc531513649",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-target-'0'",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": \"0\", \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "3f3456de52973de63c9410141e80c532e43c0c3bb8e8122561981f6cabb26bd0",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target must be finite numeric"
+      },
+      "output_sha256": "38fdcafbffafee3496b08128eed8e25b0bbd0b4f2b180f649a173dc531513649",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-target--1.01",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": -1.01, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "721af4ed9d81cdbbb7878bf114d5a927b462df7e63aecfdc784853bcd280b558",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target outside bounds"
+      },
+      "output_sha256": "515c8bfa27bce0caf949fd2b792d996504cfdf6f77764e6f9ff2443bc58e272e",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-target-1.01",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 1.01, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "190274545afd51282347cedd29ed072f74eb250674a48c450424cf2a2c25ace4",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target outside bounds"
+      },
+      "output_sha256": "515c8bfa27bce0caf949fd2b792d996504cfdf6f77764e6f9ff2443bc58e272e",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-target-nan",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": NaN, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "7cad6b72649cdb4099c1848be72ab285eabe426739f805452af4acc920ebf312",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "nonfinite JSON token: NaN"
+      },
+      "output_sha256": "0c87064aac9873cf2f6fe36363479ea58a2e2abef034a0dfc57287a959e1ceda",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-target-inf",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": Infinity, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "2e5268a28a5ea23ca39ee6914fd212f8fa9f25cb77130ad538ba59fc07a5fb77",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "nonfinite JSON token: Infinity"
+      },
+      "output_sha256": "056bbe2688a7e482b6def3e76fc8d11f1f2384e430c61e07a00c7a7d61587d02",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-target--inf",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": -Infinity, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "36c3d5ffd051b13a7a16ef0dd3abcf5fd5382dde4d2a74a5ec165d366dc7d1da",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "nonfinite JSON token: -Infinity"
+      },
+      "output_sha256": "c20796bc9d87d5dbebf7d5bf29a1ac5f27d32048c1c686d0be1a5cedcf6bdafb",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "global-key-before-unknown-''",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \"\", \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "d357615e4ec1f4ffe2a89bf7060a915e5fa377cfd16e5332abfc55d9dbc93ef8",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "identity must be nonblank string"
+      },
+      "output_sha256": "1f0d256b7822d5ea6367a7d842b5a5b80f5d5b75265d4617a3339302cb783e34",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "global-key-before-unknown-' '",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \" \", \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "7c12215310e5007fbd5fe030d3336ee33dc8f3fe2b3208a83e89282933abcb7f",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "identity must be nonblank string"
+      },
+      "output_sha256": "1f0d256b7822d5ea6367a7d842b5a5b80f5d5b75265d4617a3339302cb783e34",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "global-key-before-unknown-None",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": null, \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "7ba33c130ee008c97501d2c44dd39facb66b894df11ebacec88406f92cac9c88",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "identity must be nonblank string"
+      },
+      "output_sha256": "1f0d256b7822d5ea6367a7d842b5a5b80f5d5b75265d4617a3339302cb783e34",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "global-key-before-unknown-12",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": 12, \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "b29f0218cd22967205ee1427f32b58af6140c8dbf97827239ae8d7a5a5398bb4",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "identity must be nonblank string"
+      },
+      "output_sha256": "1f0d256b7822d5ea6367a7d842b5a5b80f5d5b75265d4617a3339302cb783e34",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "global-key-before-unknown-False",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": false, \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "a33438e89825869fb3f8e7b12e169f0f40f84f49d82e15f20f73b7b1a3437fa7",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "identity must be nonblank string"
+      },
+      "output_sha256": "1f0d256b7822d5ea6367a7d842b5a5b80f5d5b75265d4617a3339302cb783e34",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "global-key-before-unknown-'u1'",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u1\", \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "13b564010f5178dfcbecb9b9674be843c394d6ff9f5c5e57df94f4fc878e5404",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "duplicate unit keys"
+      },
+      "output_sha256": "baa23ead05fe1256c708d1ccedbec069283e999888d607bc90cbdc6b207dca46",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-remaining--1",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": -1, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "f9228e7b71300edee1782c7fe0f1d6d14a61a07792674034fbdc28fcbfc90f81",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "remaining outside bounds"
+      },
+      "output_sha256": "0a152e9d257ba8377223d90164c5823424c47fdb3c3996a35890a78dda938df5",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-remaining-None",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": null, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "239b10f3894be5ecc7b284851b089dcfe472b418da6539abe63a6a882ed2990a",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "remaining must be finite numeric"
+      },
+      "output_sha256": "3cba115a2591a90b57d594afce13e164f187e69c54bccf4bb6ab6450b172b557",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-remaining-True",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": true, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "4c1ed1331a3f52be69ced2a2c53321e0d3d58c5eb8eaf2e2a6b120a50852a667",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "remaining must be finite numeric"
+      },
+      "output_sha256": "3cba115a2591a90b57d594afce13e164f187e69c54bccf4bb6ab6450b172b557",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-participation-1.01",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 1.01, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "5f1b46c96f53542348f5c22ae6fab5cab9bf56781a0026b7b385bd7e510a6bf4",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "participation outside bounds"
+      },
+      "output_sha256": "1087741d5e618132910aefaeca6babb69e2eba71f7f3213f150c7f5776e7e96c",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-participation--1",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": -1, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "df3672ae14191c8ca1f253635f81db1384292aa3b18b3b1d5de4791b16ea8bfb",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "participation outside bounds"
+      },
+      "output_sha256": "1087741d5e618132910aefaeca6babb69e2eba71f7f3213f150c7f5776e7e96c",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-share-False",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": false, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "83b2e52d623d13937bcc0d108c9b74a842edd28c9704d6f40d9627af79ac1135",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "share must be finite numeric"
+      },
+      "output_sha256": "462cfcf9dfc8eed28f659ef5c1d1ecb65b0b0909f5d5d6f84df421dffc77ac28",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-share-1.01",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 1.01, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "27b35ba0f32bfecf8589b25c795801db608d74fd58c78cc58eda803ee281c35a",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "share outside bounds"
+      },
+      "output_sha256": "7874238864d52e63c9f5ea8f5b00c37d20b741a044bc35636c957b1572230452",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-share--1",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": -1, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "3d8bf115ac161cffdec96b82731940d79c96ac0d6c87e86030fc9bd8d95b011c",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "share outside bounds"
+      },
+      "output_sha256": "7874238864d52e63c9f5ea8f5b00c37d20b741a044bc35636c957b1572230452",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-other_allocation-{'C': 0}",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 0}}]}\n",
+      "input_sha256": "7b4bfc575059c89b68469126681f4f8f5d309d8e8a98a7c3e31fee5d5283ad71",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "other allocations must sum to one; no other field requires participation=1"
+      },
+      "output_sha256": "bfff734a07040e18cd878a0084e609dcc5241e68d1f3de53399050489f4f22a6",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-other_allocation-{'C': inf}",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": Infinity}}]}\n",
+      "input_sha256": "c7c1dc5769706e22e677f1237f2e18db4f1f938a85f30fd482683c1fa8874507",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "nonfinite JSON token: Infinity"
+      },
+      "output_sha256": "056bbe2688a7e482b6def3e76fc8d11f1f2384e430c61e07a00c7a7d61587d02",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-other_allocation-{}",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {}}]}\n",
+      "input_sha256": "6dfeba8615013b6617be7cf6ceb5d1f72f207da39aaa555806abdd133813659b",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "other allocation requires complete field"
+      },
+      "output_sha256": "b450404bcee841a9a550c61a831f697ecc0051cd2f771722e5b5c41a5dcf7210",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-counted-None",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": null, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "13937b55fad8bbfc7a4499c3ae84fc6d1407919936aa33c1647efa2319dcb9c3",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted must contain complete distinct candidate field"
+      },
+      "output_sha256": "eb785c510e82e4ea1542812710032b079dfc5c492ea8ee0ddadeabe6bc276248",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-extra-0",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}, \"extra\": 0}]}\n",
+      "input_sha256": "8625b93b39db260b0eec592f506d38e1cfd50c827ff2d343718599722b52e81f",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unsupported fields: {'extra'}"
+      },
+      "output_sha256": "c827f33ef95d1cb69f508ac8eeba881500ed9c121856185d7cfe017d19f32412",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-counted-A",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": -1, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "72d0e7ac45b81ca744fd01339f12fe90fb739e177350e585590f895d206d9157",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted A outside bounds"
+      },
+      "output_sha256": "51a1374c6288c7b345b3d0f302a912292ded638c9ab693275ae678773fa52359",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-counted-B",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": true, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "d8dc45a547b3d1ed7af441be60110ecbe63759dff9d7f7889d8fc9f9dc4af997",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted B must be finite numeric"
+      },
+      "output_sha256": "1f1627509d06c475b93890d33d2e718f8639b1f734f96d073730f49db40e47c9",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-counted-C",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": null}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "ed951018c281c347f5d2adca3a5a4b8058c156dfe453ee13329ab7388339437f",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted C must be finite numeric"
+      },
+      "output_sha256": "a05b89713065bb8862ac66ba01e1186d278d61f4cee6dbfa06e0f7791c0c4280",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-B",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"A\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "88cad84eed0e83bce667361720fe80d44c9ab4ad397d31d63b71128f0656d6da",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "candidate identity collision"
+      },
+      "output_sha256": "5409c809685e84c53228a008f2a7e6af125aafabf94b3888631c98fdb24512ec",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-other_candidates",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"A\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "3057fb0986b96856ef55b881f5efd4439d2bfedeac90960980b5351551caf013",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "candidate identity collision"
+      },
+      "output_sha256": "5409c809685e84c53228a008f2a7e6af125aafabf94b3888631c98fdb24512ec",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-mode",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"future\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "bafb6b5b616792c9ef320d117665d927b1c70dc282de5916b2a10ccaee862e9d",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unsupported mode"
+      },
+      "output_sha256": "7503e1b9e5dbd0258a271cc722e1db303fd4ba6bf34aa122405731eb9ec239d0",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-selected_unit",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"missing\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "a8826cd14ff1a29c8a14646caec477b78279903e99681bd54cc08b94c074c8da",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "selected_unit must exist"
+      },
+      "output_sha256": "fb197f880351a3402c1fcdc7904fa07bdf773e4c0ca925bfc171a433593c69aa",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-units",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": null}\n",
+      "input_sha256": "9ad093dcf72a7f3de44a595c4d8dbb62426d1393ede1b5898b46e18b2d7ccfc6",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "units must be array"
+      },
+      "output_sha256": "24c321b5cbd401206475f44ea30fd4c85be54f61ed1be41d43a70432a979a195",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-extra",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}], \"extra\": 1}\n",
+      "input_sha256": "2cccee8ff0a4075972744d3a36c384012f7f6b05f9e26888147b48fef70b86c9",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unsupported fields: {'extra'}"
+      },
+      "output_sha256": "c827f33ef95d1cb69f508ac8eeba881500ed9c121856185d7cfe017d19f32412",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "inconsistent-counted-field-total",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}, \"all_candidate_total\": 299}]}\n",
+      "input_sha256": "c956cab2273949c24be1b82a1aeea5be937da056957a5065b9c620c2bc3d9347",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "all-candidate total unbalanced"
+      },
+      "output_sha256": "12c6886dec84a7634a4bc1df7877b09da216c5549da2a4dd08dfdd0ad8bad563",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "missing-counted-other-field",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "da48fbbe5d8cb6cc55ac22f1c3e101b0938fe30a03c5aebdf17dec47e6d46541",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted must contain complete distinct candidate field"
+      },
+      "output_sha256": "eb785c510e82e4ea1542812710032b079dfc5c492ea8ee0ddadeabe6bc276248",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "overflow-integer-counted",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "8b55489ab5fec5108a120bc07767fd7791c54b7c4ef6636f59a74d5115d41aae",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "int too large to convert to float"
+      },
+      "output_sha256": "c4f6ce07403f98da027fe75e79c0269b47a268b7419be9addbc6161e0049c583",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "global-invalid-share-outside-zero-pool",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"C\": 5}, \"remaining\": 0, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"C\": 20}, \"remaining\": 100, \"participation\": 0.5, \"share\": -1, \"other_allocation\": {\"C\": 1}}]}\n",
+      "input_sha256": "940ff43c8b9db704459f873dfeecca8b43f29b71144e7af7618e68b7afe73cff",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "share outside bounds"
+      },
+      "output_sha256": "7874238864d52e63c9f5ea8f5b00c37d20b741a044bc35636c957b1572230452",
+      "empty_stderr": true,
+      "independent_expected_quantities": null
+    },
+    {
+      "name": "duplicate-root-field",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\":\"live\",\"mode\":\"historical\"}",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "duplicate JSON object field: mode"
+      },
+      "output_sha256": "3da225fa06423a014f72b60b8d356152dc88e6d0d678a7307effd64fb83d620b",
+      "empty_stderr": true
+    },
+    {
+      "name": "duplicate-unit-field",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_utf8": "{\"mode\": \"live\", \"A\": \"A\", \"B\": \"B\", \"other_candidates\": [\"C\"], \"assumption\": \"Own stipulated arithmetic, not election prediction\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"C\": 200}, \"remaining\": 100, \"remaining\": 50, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "duplicate JSON object field: remaining"
+      },
+      "output_sha256": "7419320fe382279951cee5b4d8809249e613bff986d6a0271d5e218d121a56fe",
+      "empty_stderr": true
+    }
+  ]
+}

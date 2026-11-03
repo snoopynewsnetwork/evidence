@@ -1,0 +1,53 @@
+{
+  "sealed_utc": "2026-10-20T22:04:36.899232+00:00",
+  "assignment": "Louisiana partisanship actual original question2",
+  "scope": "Completed original-only historical numerical research and conditional arithmetic; no future/final-outcome/calculator-equality or current ballot/geometry/collector/probability proof",
+  "owned_report": "senate/2026/louisiana/county-partisanship.md",
+  "parish_contests": 192,
+  "parishes_per_contest": 64,
+  "native_counts": {
+    "2024": 3933,
+    "2022": 4065,
+    "2020": 4062
+  },
+  "candidate_columns": 39,
+  "historical_native_primary": {
+    "total": 2006975,
+    "rows": 3933,
+    "minimum80_count": 1516,
+    "threshold": 1605580,
+    "previous": 1605350,
+    "crossing": 1605649
+  },
+  "current_canonical_dispatch": null,
+  "current_canonical_units": [],
+  "coordinator_acceptance": false,
+  "checks": {
+    "actual_synthetic_CLI": 61,
+    "complete_historical_CLI": 2,
+    "piecewise_state_targets": 36,
+    "selected_only_substitutions": 73512,
+    "offline_byte_exact_reproductions": 72,
+    "captured_historical_peer_field_comparisons": 146652,
+    "preseal_checks": 19381
+  },
+  "proof_hashes": {
+    "original-freeze.json": "174a6ebb86b8ca797145244d85408ca182de38f75e5007e4cd285d6ad293121b",
+    "priority-original-freeze.json": "d5beb09b410d06c2818ac7796f9bd8e3a3a360b44735ddd7016a921e4fa5be11",
+    "validation.json": "e5d6ee0d2b7871313b0ce5da96d200e77264ee00c183cf8ff31db758cafc5866",
+    "reproduction.json": "e3aded8de3442e09379ce0826289552a11a75ee216991442e0f46a19a59bebfe",
+    "peer-source-agreement.json": "f36fe49b29d115a2528ccb9858e0db891fdecd7d9b01b45f9978227ca0fa13bf",
+    "preseal-audit2.json": "384a30258e0f9e3b25a9bf3a5fbeaab4842ece5091e920d64f5346aee280ba72",
+    "source/SCHEMA.md": "7d0dd9d7e71a8bc5bbd8841eaf5e00aeaeef800b75b910bf3150c57881f1a72a"
+  },
+  "source_qualifications": [
+    "General and selected-race registration/voted scopes differ in2022/2020; exact source fields retained",
+    "Blank/under/over/ballots/generic and eligible named write-in scopes unavailable",
+    "Early aggregate method composition, registration roll cutoff/active-inactive definitions unknown",
+    "Final2026 ballot/current IDs/current geometry/live cadence/remaining eligibility/pool/calibration unverified",
+    "Receipts retain complete final entities; intermediate redirect entities unavailable"
+  ],
+  "final_audit_command": "python3 -B senate/2026/louisiana/data/baselines/audit.py",
+  "final_audit_protocol": "Run actually after seal+manifest with stdout only; no owned-file writes after MF. Report actual result to coordinator and END.",
+  "manifest_rule": "Includes every owned file including histories/proofs/validation/final seal; excludes ONLY asset-manifest.json itself"
+}

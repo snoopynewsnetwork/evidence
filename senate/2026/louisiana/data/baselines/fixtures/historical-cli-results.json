@@ -1,0 +1,20 @@
+[
+  {
+    "scenario": "2024-native-base-native-volume",
+    "input_sha256": "c743daa2c17e6db1d772d503b2663566780d10f7cdde14f1a664dbb33812a615",
+    "stdout_sha256": "cc6082aaa9eab6ede0b577b2a016d489d554bac8cbfd49103ebd22a815809f79",
+    "exit": 0,
+    "stderr": "",
+    "units": 3933,
+    "passed": true
+  },
+  {
+    "scenario": "2020-parish-base-2024-volume-mix",
+    "input_sha256": "0b74db9ad27df42f6ade2fc3f5fff460abbcb74d39d1087c55fcaf8201db3eaa",
+    "stdout_sha256": "8e509b28c4c5dd5de272f4e203979462c06865b12120ae870e6b69e96732416e",
+    "exit": 0,
+    "stderr": "",
+    "units": 64,
+    "passed": true
+  }
+]

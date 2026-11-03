@@ -1,0 +1,41 @@
+{
+  "role": "KYGeoNet-parent",
+  "request": {
+    "url": "https://www.kygeonet.ky.gov/",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:34:21.219543+00:00",
+  "hops": [
+    {
+      "request_url": "https://www.kygeonet.ky.gov/",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:21.219918+00:00",
+      "ended_utc": "2026-10-20T22:34:23.161013+00:00",
+      "status": null,
+      "headers": null,
+      "entity": null,
+      "error_type": "URLError",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kygeonet.ky.gov'. (_ssl.c:1006)>",
+      "metadata_availability": "No HTTP response observed; unavailable values remain null."
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:34:23.161311+00:00"
+}

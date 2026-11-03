@@ -1,0 +1,283 @@
+{
+  "scope": "Individual exact shared original stored bodies with full receipt roles; no aggregate/discovery replay dependency",
+  "archive_parts": [
+    {
+      "path": "history/packaging-repair/shared-original-stored-bodies.tar.gz.part001",
+      "bytes": 2054283,
+      "sha256": "bd530bdcf0054fe77ed3cd2cf5fdec72fe230764ee59780c3513b1f140ba82cc"
+    }
+  ],
+  "archive_sha256": "bd530bdcf0054fe77ed3cd2cf5fdec72fe230764ee59780c3513b1f140ba82cc",
+  "entities": [
+    {
+      "id": "sos-closed-primary",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-closed-primary.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-closed-primary.html.gz",
+      "stored_sha256": "f9f714ce2ebd3d19991f034cf3bf4f722ca5e2200d3d75cf8316000593c7ccc9",
+      "stored_bytes": 15029,
+      "raw_sha256": "72576171b2d658b6c1895ceb0c5272e5707556639ea1624240ba8425ac25ff22",
+      "raw_bytes": 87123,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-closed-primary"
+    },
+    {
+      "id": "governor-house-suspension",
+      "original_reference_path": "senate/2026/louisiana/data/news/governor-house-suspension.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/governor-house-suspension.html.gz",
+      "stored_sha256": "44c0ef8898b9efb8ec8e58ce301e8c06bf8f99bc23c0b607880a786280a915a4",
+      "stored_bytes": 6630,
+      "raw_sha256": "d7f2eef9ff1ffae419421cf086d43af095f63ca1ebf9492f24d61138c4576b04",
+      "raw_bytes": 34672,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=governor-house-suspension"
+    },
+    {
+      "id": "sos-results-index",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-results-index.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-results-index.html.gz",
+      "stored_sha256": "a88aadbe3e80178c0439fbc46a73a8f63683372d4f4198373c6c616ba2222285",
+      "stored_bytes": 13576,
+      "raw_sha256": "79e1cbdc8ef3b811c43a3509fc628b11f1fe460c75075abfad1a040ed3786ef0",
+      "raw_bytes": 81893,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-results-index"
+    },
+    {
+      "id": "sos-may-data-advisory",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-may-data-advisory.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-may-data-advisory.html.gz",
+      "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837",
+      "stored_bytes": 20,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw_bytes": 0,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-may-data-advisory"
+    },
+    {
+      "id": "sos-public-runtime-script",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-public-runtime-script.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-public-runtime-script.html.gz",
+      "stored_sha256": "cbf0fa5850eb4662202ac089b7dacac7d6f3ff4bfa29f2726ff9b86cd4a6a764",
+      "stored_bytes": 1628,
+      "raw_sha256": "ed8f01cef8363a1889213250df9dc1e7bceedbfa9606ee782106f6051b19bb46",
+      "raw_bytes": 5288,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-public-runtime-script"
+    },
+    {
+      "id": "sos-current-election-dates",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-current-election-dates.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-current-election-dates.html.gz",
+      "stored_sha256": "436d06cd1ad8e51f0202d21bbc4102fb11244f9eb6dc5512163443a69cb9d890",
+      "stored_bytes": 16616,
+      "raw_sha256": "00ece64e5598d44b1373d036281193dd9a3f59e310474a6363d74a51b729f35c",
+      "raw_bytes": 106359,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-current-election-dates"
+    },
+    {
+      "id": "sos-postelection-statistics-index",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-postelection-statistics-index.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-postelection-statistics-index.html.gz",
+      "stored_sha256": "efa28ed8200bb2619b9fa1cf4fe9907745574f102f2447150f07423e3dc7b5a2",
+      "stored_bytes": 13751,
+      "raw_sha256": "fac8b85526c0dc19f2c2e79387f8efe06599870e1cbcb5ec3279011b01dc0e00",
+      "raw_bytes": 81864,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-postelection-statistics-index"
+    },
+    {
+      "id": "sos-runtime-resolved-graphical",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-runtime-resolved-graphical.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-runtime-resolved-graphical.html.gz",
+      "stored_sha256": "0cf1900142aa1ad3684f1081394659fd6023f2f72528fffa5713745ccdf281db",
+      "stored_bytes": 6347,
+      "raw_sha256": "267325ddeb5ff66b054c031f16cd80779cc76ce79fe062383e0b205a58737115",
+      "raw_bytes": 35210,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-runtime-resolved-graphical"
+    },
+    {
+      "id": "sos-graphical-config",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-graphical-config.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-graphical-config.html.gz",
+      "stored_sha256": "510cc83c7c05e138bd9bfa98c2bd5a8be9f75da6deaf5d8d4fcfa65e598c2381",
+      "stored_bytes": 247,
+      "raw_sha256": "1819ee6fe4a103318a2d23a2465e40074d451f51dbed77c8005b9e5c39d2f967",
+      "raw_bytes": 469,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-graphical-config"
+    },
+    {
+      "id": "sos-graphical-public-client",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-graphical-public-client.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-graphical-public-client.html.gz",
+      "stored_sha256": "6e70578a1c1cfe5080813997f2e1cd6229369d7ed6af4046dcf14ec41e0580ad",
+      "stored_bytes": 24552,
+      "raw_sha256": "836508ca4be279a8957be0df5030b318f7d64204fd09ab084ffc7e16eaf2b9b2",
+      "raw_bytes": 94208,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-graphical-public-client"
+    },
+    {
+      "id": "sos-current-2026-calendar",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-current-2026-calendar.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-current-2026-calendar.html.gz",
+      "stored_sha256": "a1c6bbb1603690bda9dfa56f38464d141e14d3ac4c76b8a8dab384e7e0f65345",
+      "stored_bytes": 70025,
+      "raw_sha256": "67ceeafd50946e114d39941423f2d6bbf616de080031873b7400bf0ce158f6dd",
+      "raw_bytes": 79394,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-current-2026-calendar"
+    },
+    {
+      "id": "sos-graphical-election-dates",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-graphical-election-dates.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-graphical-election-dates.html.gz",
+      "stored_sha256": "0f96070ceb5eb184a5be7468d862cd907c779cceeeb091f8bf9f61b91e72f52f",
+      "stored_bytes": 3494,
+      "raw_sha256": "3ca905856cca28b22d7363a09d6fa892d4ff52f0888744627590034045d9faec",
+      "raw_bytes": 91491,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-graphical-election-dates"
+    },
+    {
+      "id": "sos-graphical-data-config",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-graphical-data-config.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-graphical-data-config.html.gz",
+      "stored_sha256": "a862963c9127836444b86afc723a5f3cbe88e89caa6b1c30ee40d648e80082af",
+      "stored_bytes": 227,
+      "raw_sha256": "43c003a17ffde219bdeee1b70c88e3b7f506fbfeb4931004653263e54b04819e",
+      "raw_bytes": 436,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-graphical-data-config"
+    },
+    {
+      "id": "sos-graphical-election-mode",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-graphical-election-mode.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-graphical-election-mode.html.gz",
+      "stored_sha256": "265b1764804de0f1097c0b902de3014a54b56bfa0e28c3aee70286be1d984c2d",
+      "stored_bytes": 41,
+      "raw_sha256": "f0e369ac21421ded69159cf78a8a5b47e7d07047d553c6e9a7414801d29c4c41",
+      "raw_bytes": 21,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-graphical-election-mode"
+    },
+    {
+      "id": "sos-2024-full-results-xlsx",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2024-full-results-xlsx.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2024-full-results-xlsx.html.gz",
+      "stored_sha256": "b2065e9d4686292d8d897ed51af7b7f36e7bd9a0a79423e1a50f920d6c4cc1dc",
+      "stored_bytes": 256037,
+      "raw_sha256": "3d43ecabb2bdc0a072375a92547d1be8b761b993134d2dd34f12c60cb38c05a7",
+      "raw_bytes": 262098,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2024-full-results-xlsx"
+    },
+    {
+      "id": "sos-2024-race-metadata",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2024-race-metadata.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2024-race-metadata.html.gz",
+      "stored_sha256": "0c5b887f3040a6b59061bea25c8688e9a249743bb386d0ba4d6b72e2f1f7e460",
+      "stored_bytes": 2148,
+      "raw_sha256": "d570fafbdde5ae79cf8b4e13f1fd20a344a91d14501ec6a8cad0f645689b7cb2",
+      "raw_bytes": 9027,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2024-race-metadata"
+    },
+    {
+      "id": "sos-2022-full-results-xlsx",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2022-full-results-xlsx.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2022-full-results-xlsx.html.gz",
+      "stored_sha256": "12686f105db7d209d627ef517e9b57502e5d66427e8c2016576bb0a2b85e8747",
+      "stored_bytes": 626717,
+      "raw_sha256": "f81b8d87fad958166c2f56f8f0542efad9509d38d4be62d88b7fb7ae9b0e8b06",
+      "raw_bytes": 634119,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2022-full-results-xlsx"
+    },
+    {
+      "id": "sos-2022-race-metadata",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2022-race-metadata.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2022-race-metadata.html.gz",
+      "stored_sha256": "997682e33ccc4d50c6077e48e1aa3d444e87c7b5d83fd8dd3830e7268625e80a",
+      "stored_bytes": 4995,
+      "raw_sha256": "a023510b0c44c62f02cbe7061def7a2eef9fdf3e3cef122246611fb2433e23a5",
+      "raw_bytes": 27682,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2022-race-metadata"
+    },
+    {
+      "id": "sos-2020-full-results-xlsx",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2020-full-results-xlsx.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2020-full-results-xlsx.html.gz",
+      "stored_sha256": "f29cb4b6b80304c121944d77f32200239c7c0a0bae17314a09750aee8f305053",
+      "stored_bytes": 804255,
+      "raw_sha256": "f49833525c0205ec00987e151bf717c4fe4a027c1bff67d7869049aa3f080e16",
+      "raw_bytes": 812401,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2020-full-results-xlsx"
+    },
+    {
+      "id": "sos-2020-race-metadata",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2020-race-metadata.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2020-race-metadata.html.gz",
+      "stored_sha256": "99144430ddc34821226c7ecedc862f64ba7ef72a96ec19d46bfc43cfacf4a544",
+      "stored_bytes": 7407,
+      "raw_sha256": "1ab93e3e5982c321f898a0d1534641075588ba8df279b7bb56f78af65ebec86b",
+      "raw_bytes": 51395,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2020-race-metadata"
+    },
+    {
+      "id": "sos-2024-selected-parish-csv",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2024-selected-parish-csv.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2024-selected-parish-csv.html.gz",
+      "stored_sha256": "9c912f8d2a6825fb6e48be478fd73d19a2cd7a022d8176ff735f22a4c8eb87e4",
+      "stored_bytes": 2240,
+      "raw_sha256": "a981b8675e9f550e299e3afdbab18c5b0dcd84fde65a09b1a41c7718bd7a5e09",
+      "raw_bytes": 6679,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2024-selected-parish-csv"
+    },
+    {
+      "id": "sos-2024-selected-precinct-csv",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2024-selected-precinct-csv.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2024-selected-precinct-csv.html.gz",
+      "stored_sha256": "ca9c5356d46bd9ad6c83cd44fa57df87ed93f9494134869168b5a5d571d10f7a",
+      "stored_bytes": 42425,
+      "raw_sha256": "94e9506044f438dee1bff352caf6259983f0317d5187188770fd0d7d7cb61e05",
+      "raw_bytes": 375861,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2024-selected-precinct-csv"
+    },
+    {
+      "id": "sos-2022-selected-parish-csv",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2022-selected-parish-csv.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2022-selected-parish-csv.html.gz",
+      "stored_sha256": "6683b9dadd3d9451e39321967871592da282c7b1f7d45707874d1b89136d52fa",
+      "stored_bytes": 2452,
+      "raw_sha256": "e16ad4f9d337d17c40595e6ad71942b3b58dc71bb86e5db423d997610d7eec53",
+      "raw_bytes": 6854,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2022-selected-parish-csv"
+    },
+    {
+      "id": "sos-2022-selected-precinct-csv",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2022-selected-precinct-csv.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2022-selected-precinct-csv.html.gz",
+      "stored_sha256": "ef293db79d9a82b099fe9a65b8f836530ccf7783a8c0f8272859d619151481fb",
+      "stored_bytes": 55934,
+      "raw_sha256": "3262ec4a70a9b5e63d029f8374a9af37ff3584845b4c6a64bfad593d2e60f9a5",
+      "raw_bytes": 390207,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2022-selected-precinct-csv"
+    },
+    {
+      "id": "sos-2020-selected-parish-csv",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2020-selected-parish-csv.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2020-selected-parish-csv.html.gz",
+      "stored_sha256": "a6e6ef715b91d179aae27e989121a442b0e0129739aacc72604b9b14d742b533",
+      "stored_bytes": 2809,
+      "raw_sha256": "0908cf4c404232bef5457b1de2f96ffe9a87975e64299da3b90823e5a293cddd",
+      "raw_bytes": 7818,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2020-selected-parish-csv"
+    },
+    {
+      "id": "sos-2020-selected-precinct-csv",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2020-selected-precinct-csv.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2020-selected-precinct-csv.html.gz",
+      "stored_sha256": "b08b8c6d4af676a4968ed700dd7f5153cff961511f5d9458250030e428bf5b6b",
+      "stored_bytes": 64492,
+      "raw_sha256": "c60c06e3e06b31a0034bccf4190680d756039ae1d2c582123dcf835aa840cb94",
+      "raw_bytes": 424369,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2020-selected-precinct-csv"
+    },
+    {
+      "id": "sos-2026-november-race-metadata",
+      "original_reference_path": "senate/2026/louisiana/data/news/sos-2026-november-race-metadata.html.gz",
+      "archive_member": "senate/2026/louisiana/data/news/sos-2026-november-race-metadata.html.gz",
+      "stored_sha256": "87a68443323c758e905b9df237390dfe12eb38fc41f81ba1f15785abd5dcfa40",
+      "stored_bytes": 7935,
+      "raw_sha256": "da4ad5c4e2e17e15f1b84d1a27b950ba522cd34d58921465bc58b126be6ea3b9",
+      "raw_bytes": 51488,
+      "complete_receipt_role": "peer archive member senate/2026/louisiana/data/baselines/source/receipts.json / id=sos-2026-november-race-metadata"
+    }
+  ]
+}

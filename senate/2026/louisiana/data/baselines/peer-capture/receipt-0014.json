@@ -1,0 +1,27 @@
+{
+  "id": "sos-2024-full-results-xlsx",
+  "url": "https://s3-us-west-2.amazonaws.com/mediaresults.sos.la.gov/HumanReadableElectionResults/20241105/Election+Results+(11-05-2024).xlsx",
+  "retrieved_at_utc": "2026-10-18T22:56:26.427754+00:00",
+  "status": 200,
+  "final_url": "https://s3-us-west-2.amazonaws.com/mediaresults.sos.la.gov/HumanReadableElectionResults/20241105/Election+Results+(11-05-2024).xlsx",
+  "raw_sha256": "3d43ecabb2bdc0a072375a92547d1be8b761b993134d2dd34f12c60cb38c05a7",
+  "asset": "source/3d43ecabb2bdc0a072375a92547d1be8b761b993134d2dd34f12c60cb38c05a7.body.gz",
+  "stored_sha256": "b2065e9d4686292d8d897ed51af7b7f36e7bd9a0a79423e1a50f920d6c4cc1dc",
+  "bytes": 262098,
+  "headers": {
+    "x-amz-request-id": "GDE4A2GT8DP9CH3E",
+    "x-amz-id-2": "gP+KRiZsVamx+fVhzQOL8B9MZ69UsASOotp0yt98kYnQa0UThJ5cOwU6nngT8LkSLdX0PFFIetvwW/fVl43C3EFgnVVXALIs",
+    "Content-Length": "262098",
+    "Accept-Ranges": "bytes",
+    "Date": "Sun, 18 Oct 2026 22:56:26 GMT",
+    "Server": "AmazonS3",
+    "Last-Modified": "Fri, 22 Nov 2024 11:01:07 GMT",
+    "ETag": "\"f0de56223ee5aeec431829b7096da645\"",
+    "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "original_asset_readonly": "data/news/sos-2024-full-results-xlsx.html.gz",
+  "original_stored_sha256": "b2065e9d4686292d8d897ed51af7b7f36e7bd9a0a79423e1a50f920d6c4cc1dc",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

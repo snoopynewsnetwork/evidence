@@ -1,0 +1,54 @@
+{
+  "status": "pass",
+  "differences": [],
+  "years": {
+    "2024": {
+      "native_rows_compared": 3933,
+      "parishes_compared": 64,
+      "candidate_columns_compared": 11,
+      "source_order_and_crossing_from_independent_vectors": {
+        "count": 1516,
+        "before": 1605350,
+        "at": 1605649,
+        "key": "[\"2024\",\"67190\",\"07\",\"06\",\"03\"]"
+      },
+      "native_method_counts": {
+        "ward_precinct_source_row": 3805,
+        "early_voting_aggregate": 64,
+        "provisional_aggregate": 64
+      }
+    },
+    "2022": {
+      "native_rows_compared": 4065,
+      "parishes_compared": 64,
+      "candidate_columns_compared": 13,
+      "source_order_and_crossing_from_independent_vectors": {
+        "count": 1907,
+        "before": 1106608,
+        "at": 1106852,
+        "key": "[\"2022\",\"61897\",\"56\",\"00\",\"19\"]"
+      },
+      "native_method_counts": {
+        "ward_precinct_source_row": 3937,
+        "early_voting_aggregate": 64,
+        "provisional_aggregate": 64
+      }
+    },
+    "2020": {
+      "native_rows_compared": 4062,
+      "parishes_compared": 64,
+      "candidate_columns_compared": 15,
+      "source_order_and_crossing_from_independent_vectors": {
+        "count": 1552,
+        "before": 1657026,
+        "at": 1657333,
+        "key": "[\"2020\",\"59569\",\"26\",\"00\",\"K011\"]"
+      },
+      "native_method_counts": {
+        "ward_precinct_source_row": 3934,
+        "early_voting_aggregate": 64,
+        "provisional_aggregate": 64
+      }
+    }
+  }
+}

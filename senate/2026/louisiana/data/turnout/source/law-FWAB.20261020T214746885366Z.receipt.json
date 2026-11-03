@@ -1,0 +1,54 @@
+{
+  "id": "law-FWAB",
+  "requested_url": "https://www.legis.la.gov/legis/Law.aspx?d=726711",
+  "parent_source_id": "legis-election-code-index",
+  "retrieval_started_utc": "20261020T214746885366Z",
+  "method": "GET",
+  "redirects": [],
+  "final_url": "https://www.legis.la.gov/legis/Law.aspx?d=726711",
+  "status": 200,
+  "headers": [
+    [
+      "Cache-Control",
+      "private"
+    ],
+    [
+      "Content-Type",
+      "text/html; charset=utf-8"
+    ],
+    [
+      "Server",
+      "Microsoft-IIS/10.0"
+    ],
+    [
+      "Set-Cookie",
+      "ASP.NET_SessionId=pjxproyx4piumxmmxryajrep; path=/; HttpOnly; SameSite=Lax"
+    ],
+    [
+      "X-AspNet-Version",
+      "4.0.30319"
+    ],
+    [
+      "X-Powered-By",
+      "ASP.NET"
+    ],
+    [
+      "Date",
+      "Tue, 20 Oct 2026 21:47:46 GMT"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Content-Length",
+      "23187"
+    ]
+  ],
+  "raw_sha256": "d38be97764af2a823b826acd491e09e990a2ab31a6701efedfef6b1f572a3189",
+  "bytes": 23187,
+  "body": "source/d38be97764af2a823b826acd491e09e990a2ab31a6701efedfef6b1f572a3189.body.gz",
+  "stored_sha256": "48f127777566f63b8ff58614bf7d91067a756c402ba747b9c4c073d7f92c8f29",
+  "complete_entity": true,
+  "retrieval_completed_utc": "2026-10-20T21:47:47.113355+00:00"
+}

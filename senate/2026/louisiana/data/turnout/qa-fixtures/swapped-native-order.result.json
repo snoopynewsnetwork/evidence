@@ -1,0 +1,5 @@
+{
+  "name": "swapped-native-order",
+  "status": "correctly_rejected",
+  "reason": "full native order"
+}

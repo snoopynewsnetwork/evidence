@@ -1,0 +1,106 @@
+{
+  "id": "census-county-codes",
+  "requested_url": "https://www2.census.gov/geo/docs/reference/codes2020/national_county2020.txt",
+  "parent_source_id": "Census official geography reference",
+  "retrieval_started_utc": "20261020T214705401768Z",
+  "method": "GET",
+  "redirects": [],
+  "final_url": "https://www2.census.gov/geo/docs/reference/codes2020/national_county2020.txt",
+  "status": 200,
+  "headers": [
+    [
+      "Date",
+      "Tue, 20 Oct 2026 21:47:05 GMT"
+    ],
+    [
+      "Content-Type",
+      "text/plain"
+    ],
+    [
+      "Content-Length",
+      "126639"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Content-Security-Policy",
+      "default-src 'self' 'unsafe-inline' 'unsafe-eval' census.gov *.census.gov http://www.census.gov assets.adobedtm.com www.googletagmanager.com https://dpm.demdex.net https://cm.everesttech.net https://uscensusbureau.demdex.net dap.digitalgov.gov www.google-analytics.com; frame-ancestors 'self';"
+    ],
+    [
+      "X-Frame-Options",
+      "SAMEORIGIN"
+    ],
+    [
+      "X-Content-Type-Options",
+      "nosniff"
+    ],
+    [
+      "Cache-Control",
+      "public, max-age=14400"
+    ],
+    [
+      "Referrer-Policy",
+      "strict-origin-when-cross-origin"
+    ],
+    [
+      "Last-Modified",
+      "Mon, 13 Feb 2023 20:11:55 GMT"
+    ],
+    [
+      "Accept-Ranges",
+      "bytes"
+    ],
+    [
+      "Server-Timing",
+      "cfCacheStatus;desc=\"HIT\""
+    ],
+    [
+      "Server-Timing",
+      "cfEdge;dur=13,cfOrigin;dur=0"
+    ],
+    [
+      "Vary",
+      "Accept-Encoding"
+    ],
+    [
+      "X-XSS-Protection",
+      "1; mode=block"
+    ],
+    [
+      "set-cookie",
+      "__cf_bm=5g_nzflZ7Yk3kr15AqeB9tDvSzlftT4KLKWJZGm2FCM-1792532825.5167708-1.0.1.1-10haQi_t0mcPG96OQrueKeCCoNhIDJJp8X1heRKGU5AajJCAAzPllMoQtd8COdu_b9wvEw8C3xw_mMmqIgrP9XXar8J7lsFCjvSD9NTkj__K2d_5dkpA2FaDwCAlKAJd; HttpOnly; SameSite=None; Secure; Path=/; Domain=www2.census.gov; Expires=Tue, 20 Oct 2026 22:17:05 GMT"
+    ],
+    [
+      "Strict-Transport-Security",
+      "max-age=31536000"
+    ],
+    [
+      "Age",
+      "35155"
+    ],
+    [
+      "expires",
+      "Wed, 21 Oct 2026 01:47:05 GMT"
+    ],
+    [
+      "cf-cache-status",
+      "HIT"
+    ],
+    [
+      "Server",
+      "cloudflare"
+    ],
+    [
+      "CF-RAY",
+      "a4db380f7d0db680-ORD"
+    ]
+  ],
+  "raw_sha256": "9f6e5f6eb6ac2f5e9a36d5fd01dec77991bddc75118f748a069441a4782970d6",
+  "bytes": 126639,
+  "body": "source/9f6e5f6eb6ac2f5e9a36d5fd01dec77991bddc75118f748a069441a4782970d6.body.gz",
+  "stored_sha256": "bcb240df1d84eb88c83b19f5b5c39b6905afaca0277821c206a047196a70cce8",
+  "complete_entity": true,
+  "retrieval_completed_utc": "2026-10-20T21:47:05.506658+00:00"
+}

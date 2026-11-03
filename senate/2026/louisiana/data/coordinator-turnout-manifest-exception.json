@@ -1,0 +1,24 @@
+{
+  "status": "confirmed_packaging_exception_requires_same_original_bounded_repair",
+  "manifest_sha256": "d95ab6f276e4feeea3662671d03c62328ed4ffebc850197fcca34b0919e382dc",
+  "listed_targets": 643,
+  "actual_owned_files": 645,
+  "declared_exclusions": [
+    "data/turnout/asset-manifest.json",
+    "data/turnout/final-audit.json"
+  ],
+  "actual_unlisted": [
+    "data/turnout/asset-manifest.json",
+    "data/turnout/final-audit.json"
+  ],
+  "missing": [],
+  "all643listed_targets_exact_hash_size": true,
+  "unlisted_audit_body": {
+    "path": "data/turnout/final-audit.json",
+    "bytes": 656,
+    "sha256": "031acefbd77ec716d2080091213ca7de16f3f05703c3f9e4dc990d2bb3ec4b91"
+  },
+  "source_or_count_defect": false,
+  "required_resolution": "Preserve every645oldbody at oldpath/hash including643targets+MF+unlisted audit; capture final peer before comparison; remove current manifest/audit reverse dependency acyclically, seal first/MF last includes final audit/validation/seal/history and excludes ONLY itself. Actual final audit then read-only stdout without owned writes. Same original worker only when actual slot and final peer available; no immediate contact/restart.",
+  "coordinator_acceptance": false
+}

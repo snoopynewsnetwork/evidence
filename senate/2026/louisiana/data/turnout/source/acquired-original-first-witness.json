@@ -1,0 +1,6 @@
+{
+  "pins_sha256": "9d06354eb20a859521793e682f6986b7d92448898a8b086e86622c35affb18dc",
+  "whole_json_path": "extract/acquired-whole-json-witness.json.gz",
+  "whole_json_sha256": "b2b3949c0f9e5387e49ce7bb73276682aa77322f4cf6b6b7d541a7673104577d",
+  "phase": "whole original source bodies and complete JSON structures before peer derivatives"
+}

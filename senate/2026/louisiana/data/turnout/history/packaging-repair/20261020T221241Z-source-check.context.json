@@ -1,0 +1,6 @@
+{
+  "returncode": 0,
+  "script_sha256": "fd9bdda7a870cc04d840c0d7ffc2d5109f9f1fbc747bf6428b02bfd6b24a3b47",
+  "own_inventory_sha256": "5ce1c788da760a1bd0bd2c343364de230f4d873480c3fc44254584dfe2c3927b",
+  "peer_inventory_sha256": "1e87a8d347a08ef589d792147b9710430143445f2997c5a635c65d89337ec8e0"
+}

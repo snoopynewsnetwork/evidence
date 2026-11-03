@@ -1,0 +1,26 @@
+{
+  "mode": "live",
+  "A": "A",
+  "B": "B",
+  "other_candidates": [
+    "C"
+  ],
+  "target": 0,
+  "units": [
+    {
+      "key": "u",
+      "counted": {
+        "A": 20,
+        "B": 0,
+        "C": 0
+      },
+      "remaining": 1,
+      "share": 0.5,
+      "participation": 0.8,
+      "other_allocation": {
+        "C": 1
+      }
+    }
+  ],
+  "selected_unit": "u"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "lost-administrative-aggregate",
+  "status": "correctly_rejected",
+  "reason": "coverage/uniqueness"
+}

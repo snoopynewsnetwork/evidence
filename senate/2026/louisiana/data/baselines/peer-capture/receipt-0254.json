@@ -1,0 +1,66 @@
+{
+  "id": "current-closed-primary",
+  "requested_url": "https://www.sos.la.gov/elections-voting/closed-party-primary-elections",
+  "parent_source_id": "sos-closed-primary",
+  "retrieval_started_utc": "20261020T214631650106Z",
+  "method": "GET",
+  "redirects": [],
+  "final_url": "https://www.sos.la.gov/elections-voting/closed-party-primary-elections",
+  "status": 200,
+  "headers": [
+    [
+      "Content-Type",
+      "text/html; charset=utf-8"
+    ],
+    [
+      "Content-Security-Policy",
+      "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-JNdUcap9IZmY7H4Nciwsvl9K';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'"
+    ],
+    [
+      "Referrer-Policy",
+      "strict-origin-when-cross-origin"
+    ],
+    [
+      "Permissions-Policy",
+      "camera=(), microphone=(), geolocation=()"
+    ],
+    [
+      "Cross-Origin-Opener-Policy",
+      "same-origin-allow-popups"
+    ],
+    [
+      "Cross-Origin-Resource-Policy",
+      "same-site"
+    ],
+    [
+      "Strict-Transport-Security",
+      "max-age=31536000; includeSubDomains;"
+    ],
+    [
+      "X-Content-Type-Options",
+      "nosniff"
+    ],
+    [
+      "X-Frame-Options",
+      "SAMEORIGIN"
+    ],
+    [
+      "Content-Length",
+      "87389"
+    ],
+    [
+      "Date",
+      "Tue, 20 Oct 2026 21:46:31 GMT"
+    ],
+    [
+      "Connection",
+      "close"
+    ]
+  ],
+  "raw_sha256": "b816ccbdb8b4eb05527b6ca695a03f39988adcf76a735c65a3c7dd3e8254a77b",
+  "bytes": 87389,
+  "body": "source/b816ccbdb8b4eb05527b6ca695a03f39988adcf76a735c65a3c7dd3e8254a77b.body.gz",
+  "stored_sha256": "e21847af24526f8e43a3c2f215f105fde16828f49b470adbdb0d4592882e7318",
+  "complete_entity": true,
+  "retrieval_completed_utc": "2026-10-20T21:46:31.823853+00:00"
+}

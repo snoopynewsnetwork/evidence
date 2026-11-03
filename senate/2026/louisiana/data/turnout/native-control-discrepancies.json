@@ -1,0 +1,508 @@
+[
+  {
+    "year": "2024",
+    "parish_key": "LA:24",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"24\",\"00\",\"22B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 21198,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:24",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"24\",\"00\",\"22B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 15530,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:31",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"31\",\"12\",\"03\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 28003,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:31",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"31\",\"12\",\"03\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 18251,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:48",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"48\",\"05\",\"05\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 29404,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:48",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"48\",\"05\",\"05\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 18923,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:58",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"58\",\"05\",\"02A\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 25925,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:58",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"58\",\"05\",\"02A\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 16213,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:63",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"63\",\"00\",\"02B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 8003,
+    "difference": null
+  },
+  {
+    "year": "2024",
+    "parish_key": "LA:63",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2024\",\"67190\",\"63\",\"00\",\"02B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 6039,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:11",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"11\",\"07\",\"02A\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 6202,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:11",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"11\",\"07\",\"02A\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 3263,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:17",
+    "field": "voted",
+    "native_sum": 138992,
+    "parish_control": 139002,
+    "difference": -10
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:22",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"22\",\"07\",\"6\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 12967,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:22",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"22\",\"07\",\"6\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 6399,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:26",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"26\",\"00\",\"157B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 275898,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:26",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"26\",\"00\",\"157B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 120339,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:31",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"31\",\"12\",\"03\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 27104,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:31",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"31\",\"12\",\"03\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 12775,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:45",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"45\",\"05\",\"6\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 36179,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:45",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"45\",\"05\",\"6\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 18263,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:48",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"48\",\"04\",\"13\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 29537,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:48",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"48\",\"04\",\"13\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 11929,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:58",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"58\",\"01\",\"08F\"]",
+      "[\"2022\",\"61897\",\"58\",\"04\",\"03E\"]",
+      "[\"2022\",\"61897\",\"58\",\"04\",\"03N\"]",
+      "[\"2022\",\"61897\",\"58\",\"05\",\"02A\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 25494,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:58",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"58\",\"01\",\"08F\"]",
+      "[\"2022\",\"61897\",\"58\",\"04\",\"03E\"]",
+      "[\"2022\",\"61897\",\"58\",\"04\",\"03N\"]",
+      "[\"2022\",\"61897\",\"58\",\"05\",\"02A\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 11358,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:63",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"63\",\"00\",\"02B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 7803,
+    "difference": null
+  },
+  {
+    "year": "2022",
+    "parish_key": "LA:63",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2022\",\"61897\",\"63\",\"00\",\"02B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 4334,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:02",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"02\",\"05\",\"13\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 13992,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:02",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"02\",\"05\",\"13\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 9915,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:03",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"03\",\"00\",\"60\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 82899,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:03",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"03\",\"00\",\"60\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 62879,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:09",
+    "field": "voted",
+    "native_sum": 106418,
+    "parish_control": 106414,
+    "difference": 4
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:10",
+    "field": "qualified",
+    "native_sum": 130643,
+    "parish_control": 130647,
+    "difference": -4
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:17",
+    "field": "voted",
+    "native_sum": 210249,
+    "parish_control": 210240,
+    "difference": 9
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:26",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"26\",\"00\",\"157B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 282451,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:26",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"26\",\"00\",\"157B\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 195709,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:31",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"31\",\"01\",\"04\"]",
+      "[\"2020\",\"59569\",\"31\",\"01\",\"07\"]",
+      "[\"2020\",\"59569\",\"31\",\"12\",\"03\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 27947,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:31",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"31\",\"01\",\"04\"]",
+      "[\"2020\",\"59569\",\"31\",\"01\",\"07\"]",
+      "[\"2020\",\"59569\",\"31\",\"12\",\"03\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 19437,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:36",
+    "field": "qualified",
+    "native_sum": 273812,
+    "parish_control": 273816,
+    "difference": -4
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:48",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"48\",\"04\",\"13\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 30706,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:48",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"48\",\"04\",\"13\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 21624,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:55",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"55\",\"00\",\"118\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 65591,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:55",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"55\",\"00\",\"118\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 46636,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:58",
+    "field": "qualified",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"58\",\"01\",\"07B\"]",
+      "[\"2020\",\"59569\",\"58\",\"01\",\"08F\"]",
+      "[\"2020\",\"59569\",\"58\",\"04\",\"03E\"]",
+      "[\"2020\",\"59569\",\"58\",\"04\",\"03N\"]",
+      "[\"2020\",\"59569\",\"58\",\"05\",\"02A\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 26283,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:58",
+    "field": "voted",
+    "missing_native_keys": [
+      "[\"2020\",\"59569\",\"58\",\"01\",\"07B\"]",
+      "[\"2020\",\"59569\",\"58\",\"01\",\"08F\"]",
+      "[\"2020\",\"59569\",\"58\",\"04\",\"03E\"]",
+      "[\"2020\",\"59569\",\"58\",\"04\",\"03N\"]",
+      "[\"2020\",\"59569\",\"58\",\"05\",\"02A\"]"
+    ],
+    "native_sum": null,
+    "parish_control": 17377,
+    "difference": null
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:60",
+    "field": "qualified",
+    "native_sum": 25147,
+    "parish_control": 25152,
+    "difference": -5
+  }
+]

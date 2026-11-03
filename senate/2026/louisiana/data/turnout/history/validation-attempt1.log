@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/validate_turnout.py", line 142, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/validate_turnout.py", line 130, in main
+    assert link in ['data/turnout/asset-manifest.json','data/turnout/final-audit.json'],'broken relative link '+link
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: broken relative link data/turnout/validation.json

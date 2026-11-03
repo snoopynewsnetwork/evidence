@@ -1,0 +1,15 @@
+{
+  "status": "pass_every_fixed_body_root_companion_recursive_reference_and_historical_resolver",
+  "checks": 14179493,
+  "roots": 30,
+  "companions": 1431,
+  "complete_recursive_references": 14172170,
+  "partitions": 95,
+  "fixed_files": 2369,
+  "whole_historical_resolvers": 3300,
+  "authority_path": "data/coordinator-priority-acceptance.json",
+  "authority_sha256": "0fb54a4c9d4086bab1e216bfd8c447ca4ab5ee1051328af8144d7845d9ca13ca",
+  "historical_native_priority": 1516,
+  "producer_write": false,
+  "network": false
+}

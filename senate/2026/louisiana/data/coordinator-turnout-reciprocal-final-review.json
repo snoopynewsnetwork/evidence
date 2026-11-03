@@ -1,0 +1,36 @@
+{
+  "status": "pass_final_membership_history_originalfirst_and_unchanged_contract",
+  "checks": 11645,
+  "final_producer_seals": [
+    {
+      "path": "data/turnout/asset-manifest.json",
+      "bytes": 153858,
+      "sha256": "dffc8ddefc7f92f37b7c19e7a3c16c7d905c928f48e01f7d4e3f7edc2b96d69f"
+    },
+    {
+      "path": "data/baselines/asset-manifest.json",
+      "bytes": 340989,
+      "sha256": "22aa501bcbcf9a6b99849e41859cf14a7d3216191e22d0f6dd68eced41fe897d"
+    }
+  ],
+  "complete_old_turnout_bodies": 645,
+  "complete_final_peer_bodies": 1608,
+  "original_baseline_frozen_bodies": 835,
+  "prior_own_manifest_packaging_exception": "643 targets excluded itself and final-audit.json; all645 prior bodies preserved. Correct final733 targets include audit, seal, history and validation and exclude only manifest.",
+  "changed_old_paths": [
+    "data/turnout/asset-manifest.json",
+    "data/turnout/final-audit.json",
+    "data/turnout/final_audit.py",
+    "data/turnout/make_manifest.py",
+    "data/turnout/source/SCHEMA.md",
+    "data/turnout/validation.json",
+    "turnout.md"
+  ],
+  "current_contract_and_original_CSV_byte_unchanged": true,
+  "source_core_peer_equality_only": true,
+  "current_native_dispatch": [],
+  "coordinator_acceptance": false,
+  "producer_write": false,
+  "network": false,
+  "scope": "Complete immutable captures verified by exact oldpath+whole SHA and every old manifest target, never comparing older witness hashes to rewritten current bodies. Final peer source freeze verified independently. No future or calculator/scenario/outcome equality inferred."
+}

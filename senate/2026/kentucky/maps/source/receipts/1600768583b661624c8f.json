@@ -1,0 +1,82 @@
+{
+  "role": "DGI-open-data-parent",
+  "request": {
+    "url": "https://opengisdata.ky.gov/",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:33:44.420843+00:00",
+  "hops": [
+    {
+      "request_url": "https://opengisdata.ky.gov/",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:33:44.421215+00:00",
+      "status": 200,
+      "response_url": "https://opengisdata.ky.gov/",
+      "headers": [
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:33:45 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "Content-Length",
+          "42997"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Strict-Transport-Security",
+          "max-age=31536000"
+        ],
+        [
+          "ETag",
+          "W/\"a7f5-AJP4dvjiKr50aNLtqfTaWRXZM7Q\""
+        ],
+        [
+          "Strict-Transport-Security",
+          "max-age=31536000"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "Content-Security-Policy",
+          "upgrade-insecure-requests"
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:33:45.386680+00:00",
+      "entity": {
+        "path": "source/bodies/59fb60b8579c0fc94e1a0959ab06a4d13e6e1658b57260501c606e3486bb7acf.gz",
+        "raw_bytes": 42997,
+        "raw_sha256": "59fb60b8579c0fc94e1a0959ab06a4d13e6e1658b57260501c606e3486bb7acf",
+        "stored_bytes": 9283,
+        "stored_sha256": "30ee2610738f1e74fed7d7e6ca6f4911e191c79d4d448ee073a334c71c57be2c"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:33:45.388168+00:00"
+}

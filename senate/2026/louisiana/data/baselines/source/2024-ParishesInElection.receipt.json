@@ -1,0 +1,31 @@
+{
+  "id": "2024-ParishesInElection",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20241105/ParishesInElection.htm",
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20241105/ParishesInElection.htm",
+  "retrieved_at_utc": "2026-10-20T21:48:21.399643+00:00",
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "5851",
+    "Cache-Control": "public, no-cache=\"Set-Cookie\", max-age=10",
+    "Expires": "Tue, 20 Oct 2026 21:48:31 GMT",
+    "Last-Modified": "Tue, 20 Oct 2026 21:48:21 GMT",
+    "Page-Generation-Time": "65",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Tue, 20 Oct 2026 21:48:21 GMT",
+    "Connection": "close",
+    "Set-Cookie": "AWSALB=rUFZIKCTXV0dVnbWzNSeBDPAnlgp0QZapCWId0rf/OkJNMYL8iOCACRHf8rCcibrmKS3mkx/I6KMk3Xf4S0c/nfPLKpEMpwiqBwfRGQ/aqVl628niG38gNYlV9DG; Expires=Tue, 27 Oct 2026 21:48:21 GMT; Path=/"
+  },
+  "raw_sha256": "09d07f1174c0ad0e8fdec3f555f03485034fd1475f14a938e63a6407fead6960",
+  "bytes": 5851,
+  "stored_sha256": "84d6ea73cec1e7bf6f8ac04341598f66c954d388782f2f0e59e628fdbeb55008",
+  "stored_bytes": 594,
+  "asset": "2024-ParishesInElection.gz",
+  "redirect_scope": "urllib follows redirects; only final response entity/headers retained"
+}

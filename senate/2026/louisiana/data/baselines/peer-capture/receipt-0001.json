@@ -1,0 +1,25 @@
+{
+  "id": "governor-house-suspension",
+  "url": "https://gov.louisiana.gov/news/5093",
+  "retrieved_at_utc": "2026-10-18T01:56:33.338558+00:00",
+  "status": 200,
+  "final_url": "https://gov.louisiana.gov/news/5093",
+  "raw_sha256": "d7f2eef9ff1ffae419421cf086d43af095f63ca1ebf9492f24d61138c4576b04",
+  "asset": "source/d7f2eef9ff1ffae419421cf086d43af095f63ca1ebf9492f24d61138c4576b04.body.gz",
+  "stored_sha256": "44c0ef8898b9efb8ec8e58ce301e8c06bf8f99bc23c0b607880a786280a915a4",
+  "bytes": 34672,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 01:56:33 GMT",
+    "Content-Type": "text/html;charset=UTF-8",
+    "Content-Length": "8469",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding",
+    "Server": "Microsoft-IIS/10.0",
+    "X-Powered-By": "ASP.NET"
+  },
+  "original_asset_readonly": "data/news/governor-house-suspension.html.gz",
+  "original_stored_sha256": "44c0ef8898b9efb8ec8e58ce301e8c06bf8f99bc23c0b607880a786280a915a4",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

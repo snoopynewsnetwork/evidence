@@ -1,0 +1,302 @@
+{
+  "status": "pass_independent_source_weight_exact_affine_roots",
+  "checks": 2597253,
+  "source_native_baselines": 12060,
+  "whole_state_targets": 36,
+  "all_unit_selected_and_contribution_rows": 73512,
+  "maximum_shift_difference": 5.551115123125783e-17,
+  "maximum_floating_output_net_residual_votes": 2.7284841053187847e-10,
+  "method": "Source-checked full candidate vectors and explicit named-pair indices; independent Fraction affine-breakpoint sweep, not producer bisection. Every native or parish unit and every nonpriority source is included. Zero-pool preference remains unknown. All named other candidates remain separate; pair target does not certify plurality/majority or current legal outcome.",
+  "producer_import_or_write": false,
+  "network": false,
+  "proofs": [
+    {
+      "scenario": "2020-native-base-native-volume",
+      "target_pair_margin": 0.0,
+      "units": 4062,
+      "bounded_shift": 0.2644469634524155,
+      "unbounded_shift": 0.2572030559035144,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-native-base-native-volume",
+      "target_pair_margin": 0.01,
+      "units": 4062,
+      "bounded_shift": 0.26986964150829884,
+      "unbounded_shift": 0.2622030559035144,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-native-high-1.2-native-volume-early1.25",
+      "target_pair_margin": 0.0,
+      "units": 4062,
+      "bounded_shift": 0.25889945289904787,
+      "unbounded_shift": 0.2521961719141563,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-native-high-1.2-native-volume-early1.25",
+      "target_pair_margin": 0.01,
+      "units": 4062,
+      "bounded_shift": 0.26432115964442676,
+      "unbounded_shift": 0.2571961719141563,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-native-low-0.8-native-volume",
+      "target_pair_margin": 0.0,
+      "units": 4062,
+      "bounded_shift": 0.2644469634524155,
+      "unbounded_shift": 0.2572030559035144,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-native-low-0.8-native-volume",
+      "target_pair_margin": 0.01,
+      "units": 4062,
+      "bounded_shift": 0.26986964150829884,
+      "unbounded_shift": 0.2622030559035144,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-parish-base-2024-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.2601191488194843,
+      "unbounded_shift": 0.2601191488194843,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-parish-base-2024-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.2651191488194843,
+      "unbounded_shift": 0.2651191488194843,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-parish-high-2020-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.2572030559035144,
+      "unbounded_shift": 0.2572030559035144,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-parish-high-2020-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.2622030559035144,
+      "unbounded_shift": 0.2622030559035144,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-parish-low-2022-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.25876026035798716,
+      "unbounded_shift": 0.25876026035798716,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2020-parish-low-2022-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.26376026035798716,
+      "unbounded_shift": 0.26376026035798716,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-native-base-native-volume",
+      "target_pair_margin": 0.0,
+      "units": 4065,
+      "bounded_shift": 0.286910613598018,
+      "unbounded_shift": 0.2752091258906455,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-native-base-native-volume",
+      "target_pair_margin": 0.01,
+      "units": 4065,
+      "bounded_shift": 0.29235467703334894,
+      "unbounded_shift": 0.2802091258906455,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-native-high-1.2-native-volume-early1.25",
+      "target_pair_margin": 0.0,
+      "units": 4065,
+      "bounded_shift": 0.2874562271176052,
+      "unbounded_shift": 0.2764171997991755,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-native-high-1.2-native-volume-early1.25",
+      "target_pair_margin": 0.01,
+      "units": 4065,
+      "bounded_shift": 0.29288403933002444,
+      "unbounded_shift": 0.2814171997991755,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-native-low-0.8-native-volume",
+      "target_pair_margin": 0.0,
+      "units": 4065,
+      "bounded_shift": 0.286910613598018,
+      "unbounded_shift": 0.2752091258906455,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-native-low-0.8-native-volume",
+      "target_pair_margin": 0.01,
+      "units": 4065,
+      "bounded_shift": 0.29235467703334894,
+      "unbounded_shift": 0.2802091258906455,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-parish-base-2024-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.2768602755134743,
+      "unbounded_shift": 0.2768602755134743,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-parish-base-2024-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.2818676342232457,
+      "unbounded_shift": 0.2818602755134743,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-parish-high-2020-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.27438258639247604,
+      "unbounded_shift": 0.27438258639247604,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-parish-high-2020-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.27938258639247604,
+      "unbounded_shift": 0.27938258639247604,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-parish-low-2022-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.2752091258906455,
+      "unbounded_shift": 0.2752091258906455,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2022-parish-low-2022-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.2802091258906455,
+      "unbounded_shift": 0.2802091258906455,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-native-base-native-volume",
+      "target_pair_margin": 0.0,
+      "units": 3933,
+      "bounded_shift": 0.11428825630382324,
+      "unbounded_shift": 0.11178510409415934,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-native-base-native-volume",
+      "target_pair_margin": 0.01,
+      "units": 3933,
+      "bounded_shift": 0.11957061240784236,
+      "unbounded_shift": 0.11678510409415935,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-native-high-1.2-native-volume-early1.25",
+      "target_pair_margin": 0.0,
+      "units": 3933,
+      "bounded_shift": 0.11462410999484512,
+      "unbounded_shift": 0.11237546140510096,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-native-high-1.2-native-volume-early1.25",
+      "target_pair_margin": 0.01,
+      "units": 3933,
+      "bounded_shift": 0.11987485678694369,
+      "unbounded_shift": 0.11737546140510095,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-native-low-0.8-native-volume",
+      "target_pair_margin": 0.0,
+      "units": 3933,
+      "bounded_shift": 0.11428825630382324,
+      "unbounded_shift": 0.11178510409415934,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-native-low-0.8-native-volume",
+      "target_pair_margin": 0.01,
+      "units": 3933,
+      "bounded_shift": 0.11957061240784236,
+      "unbounded_shift": 0.11678510409415935,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-parish-base-2024-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.11178510409415934,
+      "unbounded_shift": 0.11178510409415934,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-parish-base-2024-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.11678510409415935,
+      "unbounded_shift": 0.11678510409415935,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-parish-high-2020-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.1086867488625549,
+      "unbounded_shift": 0.1086867488625549,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-parish-high-2020-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.1136867488625549,
+      "unbounded_shift": 0.1136867488625549,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-parish-low-2022-volume-mix",
+      "target_pair_margin": 0.0,
+      "units": 64,
+      "bounded_shift": 0.11034671233919058,
+      "unbounded_shift": 0.11034671233919058,
+      "exact_affine_residual": "0"
+    },
+    {
+      "scenario": "2024-parish-low-2022-volume-mix",
+      "target_pair_margin": 0.01,
+      "units": 64,
+      "bounded_shift": 0.11534671233919057,
+      "unbounded_shift": 0.11534671233919057,
+      "exact_affine_residual": "0"
+    }
+  ]
+}

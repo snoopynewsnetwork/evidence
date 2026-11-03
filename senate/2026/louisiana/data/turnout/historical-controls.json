@@ -1,0 +1,662 @@
+{
+  "2024": {
+    "contest": "Presidential Electors",
+    "date": "11/05/2024",
+    "election_source_metadata": {
+      "PKElectionID": "331",
+      "ElectionDate": "11/05/2024",
+      "Order": "13",
+      "ResultsOfficial": "1",
+      "PostElectionStatsAvailable": "1",
+      "DisplayTurnoutStats": "1",
+      "RaceStatsExist": "1",
+      "PWPStatsExist": "1",
+      "TurnoutMessage": null,
+      "CONG_MapName": "CONG_2011",
+      "SEN_MapName": "SEN_2011",
+      "REP_MapName": "REP_2011"
+    },
+    "race_id": "67190",
+    "race_source_metadata": {
+      "ID": "67190",
+      "SpecificTitle": "Presidential Electors",
+      "GeneralTitle": "Presidential Electors",
+      "OfficeLevel": "010",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "CanHaveRunoff": "0",
+      "Choice": [
+        {
+          "Color": "0xffec6c",
+          "ID": "123574",
+          "Desc": "Kamala D. Harris, Tim Walz Democratic"
+        },
+        {
+          "Color": "0xa20017",
+          "ID": "123573",
+          "Desc": "Jill Stein, Ajamu Baraka Green"
+        },
+        {
+          "Color": "0x009899",
+          "ID": "123239",
+          "Desc": "Chase Oliver, Mike ter Maat Libertarian"
+        },
+        {
+          "Color": "0xed1b24",
+          "ID": "123572",
+          "Desc": "Donald J. Trump, \"JD\" Vance Republican"
+        },
+        {
+          "Color": "0x8970cb",
+          "ID": "123575",
+          "Desc": "Peter Sonski, Lauren Onak American Solidarity Party"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "123576",
+          "Desc": "Randall Terry, Stephen Broden Constitution Party"
+        },
+        {
+          "Color": "0xff836b",
+          "ID": "123578",
+          "Desc": "Mattie Preston, Shannel Conner Godliness, Truth, Justice"
+        },
+        {
+          "Color": "0x81b1d5",
+          "ID": "123577",
+          "Desc": "Cornel West, Melina Abdullah Justice For All"
+        },
+        {
+          "Color": "0x2db04a",
+          "ID": "123570",
+          "Desc": "Claudia de la Cruz, Karina Garcia Socialism and Liberation"
+        },
+        {
+          "Color": "0x02538a",
+          "ID": "123571",
+          "Desc": "Rachele Fruit, Dennis Richter Socialist Workers Party"
+        },
+        {
+          "Color": "0x642a7f",
+          "ID": "123569",
+          "Desc": "Robert F. Kennedy, Jr., Nicole Shanahan We The People"
+        }
+      ]
+    },
+    "race_metadata_WriteTime": "2026-01-10T06:09:43.980",
+    "candidate_universe": [
+      {
+        "source_column": 2,
+        "choice_id": "123574",
+        "header_literal": "Kamala D. Harris, Tim Walz Democratic (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 3,
+        "choice_id": "123573",
+        "header_literal": "Jill Stein, Ajamu Baraka Green (GRN)",
+        "party_literal": "GRN"
+      },
+      {
+        "source_column": 4,
+        "choice_id": "123239",
+        "header_literal": "Chase Oliver, Mike ter Maat Libertarian (LBT)",
+        "party_literal": "LBT"
+      },
+      {
+        "source_column": 5,
+        "choice_id": "123572",
+        "header_literal": "Donald J. Trump, \"JD\" Vance Republican (REP)",
+        "party_literal": "REP"
+      },
+      {
+        "source_column": 6,
+        "choice_id": "123575",
+        "header_literal": "Peter Sonski, Lauren Onak American Solidarity Party (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 7,
+        "choice_id": "123576",
+        "header_literal": "Randall Terry, Stephen Broden Constitution Party (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 8,
+        "choice_id": "123578",
+        "header_literal": "Mattie Preston, Shannel Conner Godliness, Truth, Justice (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 9,
+        "choice_id": "123577",
+        "header_literal": "Cornel West, Melina Abdullah Justice For All (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 10,
+        "choice_id": "123570",
+        "header_literal": "Claudia de la Cruz, Karina Garcia Socialism and Liberation (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 11,
+        "choice_id": "123571",
+        "header_literal": "Rachele Fruit, Dennis Richter Socialist Workers Party (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 12,
+        "choice_id": "123569",
+        "header_literal": "Robert F. Kennedy, Jr., Nicole Shanahan We The People (OTHER)",
+        "party_literal": "OTHER"
+      }
+    ],
+    "state_candidate_vector": [
+      766870,
+      7138,
+      6835,
+      1208505,
+      2240,
+      1424,
+      2857,
+      2623,
+      1481,
+      361,
+      6641
+    ],
+    "state_candidate_total": 2006975,
+    "parishes": 64,
+    "native_rows": 3933,
+    "native_kinds": {
+      "ward_precinct_source_row": 3805,
+      "early_voting_aggregate": 64,
+      "provisional_aggregate": 64
+    },
+    "qualified": 3046376,
+    "voted": 2021164,
+    "race_qualified": 3046376,
+    "race_voted": 2021164,
+    "voted_minus_candidate_votes": 14189,
+    "stats_state_WriteTime": "2026-01-10T06:10:14.677",
+    "stats_parish_WriteTime": "2026-01-10T06:10:14.697",
+    "winner_header": "Donald J. Trump, \"JD\" Vance Republican (REP)",
+    "winner_votes": 1208505,
+    "winner_share": "241701/401395",
+    "historical_majority_no_runoff": false,
+    "ballots_cast": null,
+    "blank": null,
+    "undervotes": null,
+    "overvotes": null,
+    "generic_writeins": null,
+    "named_writeins": null
+  },
+  "2022": {
+    "contest": "U. S. Senator",
+    "date": "11/08/2022",
+    "election_source_metadata": {
+      "PKElectionID": "318",
+      "ElectionDate": "11/08/2022",
+      "Order": "24",
+      "ResultsOfficial": "1",
+      "PostElectionStatsAvailable": "1",
+      "DisplayTurnoutStats": "1",
+      "RaceStatsExist": "1",
+      "PWPStatsExist": "1",
+      "TurnoutMessage": null,
+      "CONG_MapName": "CONG_2011",
+      "SEN_MapName": "SEN_2011",
+      "REP_MapName": "REP_2011"
+    },
+    "race_id": "61897",
+    "race_source_metadata": {
+      "ID": "61897",
+      "SpecificTitle": "U. S. Senator",
+      "GeneralTitle": "U.S. Senator",
+      "OfficeLevel": "140",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "CanHaveRunoff": "1",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "116035",
+          "Desc": "Beryl A. Billiot (NOPTY)"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "115136",
+          "Desc": "Gary Chambers, Jr. (DEM)"
+        },
+        {
+          "Color": "0xffec6c",
+          "ID": "117227",
+          "Desc": "Devin Lance Graham (REP)"
+        },
+        {
+          "Color": "0xff836b",
+          "ID": "114911",
+          "Desc": "\"Xan\" John (OTHER)"
+        },
+        {
+          "Color": "0xa20017",
+          "ID": "114861",
+          "Desc": "John Kennedy (REP)"
+        },
+        {
+          "Color": "0x81b1d5",
+          "ID": "115670",
+          "Desc": "W. Thomas La Fontaine Olson (NOPTY)"
+        },
+        {
+          "Color": "0x009899",
+          "ID": "116755",
+          "Desc": "Bradley McMorris (IND)"
+        },
+        {
+          "Color": "0xed1b24",
+          "ID": "116132",
+          "Desc": "MV \"Vinny\" Mendoza (DEM)"
+        },
+        {
+          "Color": "0x2db04a",
+          "ID": "115416",
+          "Desc": "\"Luke\" Mixon (DEM)"
+        },
+        {
+          "Color": "0x02538a",
+          "ID": "116412",
+          "Desc": "Salvador P. Rodriguez (DEM)"
+        },
+        {
+          "Color": "0x642a7f",
+          "ID": "117198",
+          "Desc": "Aaron C. Sigler (LBT)"
+        },
+        {
+          "Color": "0xf15a25",
+          "ID": "115414",
+          "Desc": "Syrita Steib (DEM)"
+        },
+        {
+          "Color": "0xa67c52",
+          "ID": "115636",
+          "Desc": "Thomas Wenn (OTHER)"
+        }
+      ]
+    },
+    "race_metadata_WriteTime": "2026-01-10T06:17:27.710",
+    "candidate_universe": [
+      {
+        "source_column": 2,
+        "choice_id": "116035",
+        "header_literal": "Beryl A. Billiot (NOPTY)",
+        "party_literal": "NOPTY"
+      },
+      {
+        "source_column": 3,
+        "choice_id": "115136",
+        "header_literal": "Gary Chambers, Jr. (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 4,
+        "choice_id": "117227",
+        "header_literal": "Devin Lance Graham (REP)",
+        "party_literal": "REP"
+      },
+      {
+        "source_column": 5,
+        "choice_id": "114911",
+        "header_literal": "\"Xan\" John (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 6,
+        "choice_id": "114861",
+        "header_literal": "John Kennedy (REP)",
+        "party_literal": "REP"
+      },
+      {
+        "source_column": 7,
+        "choice_id": "115670",
+        "header_literal": "W. Thomas La Fontaine Olson (NOPTY)",
+        "party_literal": "NOPTY"
+      },
+      {
+        "source_column": 8,
+        "choice_id": "116755",
+        "header_literal": "Bradley McMorris (IND)",
+        "party_literal": "IND"
+      },
+      {
+        "source_column": 9,
+        "choice_id": "116132",
+        "header_literal": "MV \"Vinny\" Mendoza (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 10,
+        "choice_id": "115416",
+        "header_literal": "\"Luke\" Mixon (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 11,
+        "choice_id": "116412",
+        "header_literal": "Salvador P. Rodriguez (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 12,
+        "choice_id": "117198",
+        "header_literal": "Aaron C. Sigler (LBT)",
+        "party_literal": "LBT"
+      },
+      {
+        "source_column": 13,
+        "choice_id": "115414",
+        "header_literal": "Syrita Steib (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 14,
+        "choice_id": "115636",
+        "header_literal": "Thomas Wenn (OTHER)",
+        "party_literal": "OTHER"
+      }
+    ],
+    "state_candidate_vector": [
+      9378,
+      246933,
+      25275,
+      2753,
+      851568,
+      1676,
+      5388,
+      11910,
+      182887,
+      7767,
+      4865,
+      31568,
+      1322
+    ],
+    "state_candidate_total": 1383290,
+    "parishes": 64,
+    "native_rows": 4065,
+    "native_kinds": {
+      "ward_precinct_source_row": 3937,
+      "early_voting_aggregate": 64,
+      "provisional_aggregate": 64
+    },
+    "qualified": 3018815,
+    "voted": 1410476,
+    "race_qualified": 3018815,
+    "race_voted": 1410466,
+    "voted_minus_candidate_votes": 27186,
+    "stats_state_WriteTime": "2026-01-10T06:19:34.277",
+    "stats_parish_WriteTime": "2026-01-10T06:19:34.450",
+    "winner_header": "John Kennedy (REP)",
+    "winner_votes": 851568,
+    "winner_share": "425784/691645",
+    "historical_majority_no_runoff": true,
+    "ballots_cast": null,
+    "blank": null,
+    "undervotes": null,
+    "overvotes": null,
+    "generic_writeins": null,
+    "named_writeins": null
+  },
+  "2020": {
+    "contest": "U. S. Senator",
+    "date": "11/03/2020",
+    "election_source_metadata": {
+      "PKElectionID": "307",
+      "ElectionDate": "11/03/2020",
+      "Order": "35",
+      "ResultsOfficial": "1",
+      "PostElectionStatsAvailable": "1",
+      "DisplayTurnoutStats": "1",
+      "RaceStatsExist": "1",
+      "PWPStatsExist": "1",
+      "TurnoutMessage": null,
+      "CONG_MapName": "CONG_2011",
+      "SEN_MapName": "SEN_2011",
+      "REP_MapName": "REP_2011"
+    },
+    "race_id": "59569",
+    "race_source_metadata": {
+      "ID": "59569",
+      "SpecificTitle": "U. S. Senator",
+      "GeneralTitle": "U.S. Senator",
+      "OfficeLevel": "140",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "CanHaveRunoff": "1",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "112789",
+          "Desc": "Beryl Billiot (NOPTY)"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "111401",
+          "Desc": "John Paul Bourgeois (NOPTY)"
+        },
+        {
+          "Color": "0xffec6c",
+          "ID": "112841",
+          "Desc": "\"Bill\" Cassidy (REP)"
+        },
+        {
+          "Color": "0xff836b",
+          "ID": "112620",
+          "Desc": "Reno Jean Daret III (NOPTY)"
+        },
+        {
+          "Color": "0xa20017",
+          "ID": "112172",
+          "Desc": "Derrick \"Champ\" Edwards (DEM)"
+        },
+        {
+          "Color": "0x81b1d5",
+          "ID": "112662",
+          "Desc": "\"Xan\" John (OTHER)"
+        },
+        {
+          "Color": "0x009899",
+          "ID": "112138",
+          "Desc": "David Drew Knight (DEM)"
+        },
+        {
+          "Color": "0xed1b24",
+          "ID": "113149",
+          "Desc": "M.V. \"Vinny\" Mendoza (IND)"
+        },
+        {
+          "Color": "0x2db04a",
+          "ID": "113121",
+          "Desc": "Jamar Montgomery (NOPTY)"
+        },
+        {
+          "Color": "0x02538a",
+          "ID": "112998",
+          "Desc": "Dustin Murphy (REP)"
+        },
+        {
+          "Color": "0x642a7f",
+          "ID": "112580",
+          "Desc": "Adrian Perkins (DEM)"
+        },
+        {
+          "Color": "0xf15a25",
+          "ID": "111893",
+          "Desc": "Antoine Pierce (DEM)"
+        },
+        {
+          "Color": "0xa67c52",
+          "ID": "112892",
+          "Desc": "Melinda Mary Price (OTHER)"
+        },
+        {
+          "Color": "0xffcc06",
+          "ID": "112599",
+          "Desc": "Aaron C. Sigler (LBT)"
+        },
+        {
+          "Color": "0xcfd5f9",
+          "ID": "112549",
+          "Desc": "Peter Wenstrup (DEM)"
+        }
+      ]
+    },
+    "race_metadata_WriteTime": "2026-01-10T06:24:45.430",
+    "candidate_universe": [
+      {
+        "source_column": 2,
+        "choice_id": "112789",
+        "header_literal": "Beryl Billiot (NOPTY)",
+        "party_literal": "NOPTY"
+      },
+      {
+        "source_column": 3,
+        "choice_id": "111401",
+        "header_literal": "John Paul Bourgeois (NOPTY)",
+        "party_literal": "NOPTY"
+      },
+      {
+        "source_column": 4,
+        "choice_id": "112841",
+        "header_literal": "\"Bill\" Cassidy (REP)",
+        "party_literal": "REP"
+      },
+      {
+        "source_column": 5,
+        "choice_id": "112620",
+        "header_literal": "Reno Jean Daret III (NOPTY)",
+        "party_literal": "NOPTY"
+      },
+      {
+        "source_column": 6,
+        "choice_id": "112172",
+        "header_literal": "Derrick \"Champ\" Edwards (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 7,
+        "choice_id": "112662",
+        "header_literal": "\"Xan\" John (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 8,
+        "choice_id": "112138",
+        "header_literal": "David Drew Knight (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 9,
+        "choice_id": "113149",
+        "header_literal": "M.V. \"Vinny\" Mendoza (IND)",
+        "party_literal": "IND"
+      },
+      {
+        "source_column": 10,
+        "choice_id": "113121",
+        "header_literal": "Jamar Montgomery (NOPTY)",
+        "party_literal": "NOPTY"
+      },
+      {
+        "source_column": 11,
+        "choice_id": "112998",
+        "header_literal": "Dustin Murphy (REP)",
+        "party_literal": "REP"
+      },
+      {
+        "source_column": 12,
+        "choice_id": "112580",
+        "header_literal": "Adrian Perkins (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 13,
+        "choice_id": "111893",
+        "header_literal": "Antoine Pierce (DEM)",
+        "party_literal": "DEM"
+      },
+      {
+        "source_column": 14,
+        "choice_id": "112892",
+        "header_literal": "Melinda Mary Price (OTHER)",
+        "party_literal": "OTHER"
+      },
+      {
+        "source_column": 15,
+        "choice_id": "112599",
+        "header_literal": "Aaron C. Sigler (LBT)",
+        "party_literal": "LBT"
+      },
+      {
+        "source_column": 16,
+        "choice_id": "112549",
+        "header_literal": "Peter Wenstrup (DEM)",
+        "party_literal": "DEM"
+      }
+    ],
+    "state_candidate_vector": [
+      17362,
+      16518,
+      1228908,
+      3954,
+      229814,
+      2813,
+      36962,
+      7811,
+      5804,
+      38383,
+      394049,
+      55710,
+      7680,
+      11321,
+      14454
+    ],
+    "state_candidate_total": 2071543,
+    "parishes": 64,
+    "native_rows": 4062,
+    "native_kinds": {
+      "ward_precinct_source_row": 3934,
+      "early_voting_aggregate": 64,
+      "provisional_aggregate": 64
+    },
+    "qualified": 3093003,
+    "voted": 2169400,
+    "race_qualified": 3092988,
+    "race_voted": 2169413,
+    "voted_minus_candidate_votes": 97857,
+    "stats_state_WriteTime": "2026-01-10T06:26:49.477",
+    "stats_parish_WriteTime": "2026-01-10T06:26:49.540",
+    "winner_header": "\"Bill\" Cassidy (REP)",
+    "winner_votes": 1228908,
+    "winner_share": "1228908/2071543",
+    "historical_majority_no_runoff": true,
+    "ballots_cast": null,
+    "blank": null,
+    "undervotes": null,
+    "overvotes": null,
+    "generic_writeins": null,
+    "named_writeins": null
+  }
+}

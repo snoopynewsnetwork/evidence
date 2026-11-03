@@ -1,0 +1,113 @@
+{
+  "status": "preserved_coordinator_adapter_error",
+  "error": "Traceback (most recent call last):\n  File \"/Users/tqbf/codebase/snn/senate/2026/louisiana/data/review_first_pair_originals.py\", line 54, in <module>\n    ck(got==witness[position],('complete original physical OOXML row',year,member,ri));position+=1;workbook_rows[year,member,ri]=cells\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/tqbf/codebase/snn/senate/2026/louisiana/data/review_first_pair_originals.py\", line 11, in ck\n    assert v,(N,label)\nAssertionError: (650420, ('complete original physical OOXML row', '2024', 'xl/worksheets/sheet1.xml', 8))\n",
+  "whole_offending_witness_row": {
+    "year": "2024",
+    "sheet_ordinal": 1,
+    "sheet_name": "Multi-Parish(Parish)",
+    "member": "xl/worksheets/sheet1.xml",
+    "physical_row": 8,
+    "row_attributes": {},
+    "cells": [
+      {
+        "physical_cell": 1,
+        "attributes": {
+          "s": "6",
+          "t": "inlineStr"
+        },
+        "value": "Total Votes",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" s=\"6\" t=\"inlineStr\"><ns0:is><ns0:t>Total Votes</ns0:t></ns0:is></ns0:c>"
+      },
+      {
+        "physical_cell": 2,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "766870",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>766870</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 3,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "7138",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>7138</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 4,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "6835",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>6835</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 5,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "1208505",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>1208505</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 6,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "2240",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>2240</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 7,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "1424",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>1424</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 8,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "2857",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>2857</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 9,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "2623",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>2623</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 10,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "1481",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>1481</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 11,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "361",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>361</ns0:v></ns0:c>"
+      },
+      {
+        "physical_cell": 12,
+        "attributes": {
+          "t": "n"
+        },
+        "value": "6641",
+        "xml": "<ns0:c xmlns:ns0=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" t=\"n\"><ns0:v>6641</ns0:v></ns0:c>"
+      }
+    ]
+  },
+  "scope": "Inspecting raw numeric XML v strings versus independently typed numeric representation. Entire original workbook/body/source counts unchanged.",
+  "resolution": "The physical workbook witness intentionally retains literal numeric <v> text as a string, alongside t=n and whole XML. Root now compares that complete lexical representation, then independently converts selected count cells to integers when reconciling CSV/API vectors. No source/witness/count repair."
+}

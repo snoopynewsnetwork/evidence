@@ -1,0 +1,163 @@
+{
+  "role": "sbe-city-overlay-batch-66",
+  "observation": null,
+  "request": {
+    "url": "https://services3.arcgis.com/ghsX9CKghMvyYjBU/ArcGIS/rest/services/sbe_vtd_cities_260827/FeatureServer/0/query?objectIds=3301%2C3302%2C3303%2C3304%2C3305%2C3306%2C3307%2C3308%2C3309%2C3310%2C3311%2C3312%2C3313%2C3314%2C3315%2C3316%2C3317%2C3318%2C3319%2C3320%2C3321%2C3322%2C3323%2C3324%2C3325%2C3326%2C3327%2C3328%2C3329%2C3330%2C3331%2C3332%2C3333%2C3334%2C3335%2C3336%2C3337%2C3338%2C3339%2C3340%2C3341%2C3342%2C3343%2C3344%2C3345%2C3346%2C3347%2C3348%2C3349%2C3350&outFields=%2A&returnGeometry=true&returnZ=true&returnM=true&returnTrueCurves=true&f=json",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:36:07.216148+00:00",
+  "hops": [
+    {
+      "request_url": "https://services3.arcgis.com/ghsX9CKghMvyYjBU/ArcGIS/rest/services/sbe_vtd_cities_260827/FeatureServer/0/query?objectIds=3301%2C3302%2C3303%2C3304%2C3305%2C3306%2C3307%2C3308%2C3309%2C3310%2C3311%2C3312%2C3313%2C3314%2C3315%2C3316%2C3317%2C3318%2C3319%2C3320%2C3321%2C3322%2C3323%2C3324%2C3325%2C3326%2C3327%2C3328%2C3329%2C3330%2C3331%2C3332%2C3333%2C3334%2C3335%2C3336%2C3337%2C3338%2C3339%2C3340%2C3341%2C3342%2C3343%2C3344%2C3345%2C3346%2C3347%2C3348%2C3349%2C3350&outFields=%2A&returnGeometry=true&returnZ=true&returnM=true&returnTrueCurves=true&f=json",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:07.216451+00:00",
+      "status": 200,
+      "response_url": "https://services3.arcgis.com/ghsX9CKghMvyYjBU/ArcGIS/rest/services/sbe_vtd_cities_260827/FeatureServer/0/query?objectIds=3301%2C3302%2C3303%2C3304%2C3305%2C3306%2C3307%2C3308%2C3309%2C3310%2C3311%2C3312%2C3313%2C3314%2C3315%2C3316%2C3317%2C3318%2C3319%2C3320%2C3321%2C3322%2C3323%2C3324%2C3325%2C3326%2C3327%2C3328%2C3329%2C3330%2C3331%2C3332%2C3333%2C3334%2C3335%2C3336%2C3337%2C3338%2C3339%2C3340%2C3341%2C3342%2C3343%2C3344%2C3345%2C3346%2C3347%2C3348%2C3349%2C3350&outFields=%2A&returnGeometry=true&returnZ=true&returnM=true&returnTrueCurves=true&f=json",
+      "headers": [
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:36:14 GMT"
+        ],
+        [
+          "Content-Type",
+          "application/json; charset=utf-8"
+        ],
+        [
+          "Content-Length",
+          "387374"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Cache-Control",
+          "public, max-age=30, s-maxage=30"
+        ],
+        [
+          "Last-Modified",
+          "Fri, 28 Aug 2026 14:41:30 GMT"
+        ],
+        [
+          "ETag",
+          "sd122476_2054016514"
+        ],
+        [
+          "Vary",
+          "X-Esri-Authorization"
+        ],
+        [
+          "x-arcgis-upstream",
+          "us1h03c00-services"
+        ],
+        [
+          "Strict-Transport-Security",
+          "max-age=63072000"
+        ],
+        [
+          "X-ArcGIS-Trace-Id",
+          "20261020T223607Z-15f786f7784cdvsshC1CHIzwk000000004k000000000uqbh"
+        ],
+        [
+          "x-esri-query-request-units",
+          "1"
+        ],
+        [
+          "x-esri-tiles-basic-query-mode",
+          "true"
+        ],
+        [
+          "x-esri-tiles-basic-query-type",
+          "Basic"
+        ],
+        [
+          "x-esri-org-request-units-per-min",
+          "usage=36;max=28800"
+        ],
+        [
+          "x-esri-query-max-vertex-count",
+          "631"
+        ],
+        [
+          "x-esri-query-max-vertex-count",
+          "559"
+        ],
+        [
+          "x-esri-query-geometry-field-name",
+          "Shape"
+        ],
+        [
+          "X-ArcGIS-Correlation-Id",
+          "af79e3fd5dea861f"
+        ],
+        [
+          "X-ArcGIS-Instance",
+          "2hyjso3px000000"
+        ],
+        [
+          "Request-Context",
+          "appId=cid-v1:76c62117-7333-4258-8b6f-ed44d6def619"
+        ],
+        [
+          "Access-Control-Expose-Headers",
+          "Request-Context"
+        ],
+        [
+          "Access-Control-Allow-Origin",
+          "*"
+        ],
+        [
+          "Access-Control-Allow-Headers",
+          "Content-Type, Authorization, X-Esri-Authorization"
+        ],
+        [
+          "Access-Control-Allow-Credentials",
+          "true"
+        ],
+        [
+          "x-azure-ref",
+          "20261020T223607Z-15f786f7784cdvsshC1CHIzwk000000004k000000000uqbh"
+        ],
+        [
+          "x-fd-int-roxy-purgeid",
+          "0"
+        ],
+        [
+          "X-Cache",
+          "TCP_MISS"
+        ],
+        [
+          "Accept-Ranges",
+          "bytes"
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:36:14.573628+00:00",
+      "entity": {
+        "path": "source/bodies/2ed7d8199a77f16ba79866fa121112642f9f5becc2cba7c504faa9e8b13c5208.gz",
+        "raw_bytes": 387374,
+        "raw_sha256": "2ed7d8199a77f16ba79866fa121112642f9f5becc2cba7c504faa9e8b13c5208",
+        "stored_bytes": 119638,
+        "stored_sha256": "79f35e2c6979c5afb3dac9c6eaf301d525f6fe3801af0492f1a73f5edd55b5b0"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:36:14.587125+00:00"
+}

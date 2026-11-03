@@ -1,0 +1,33 @@
+{
+  "id": "sos-current-2026-calendar",
+  "url": "https://www.sos.la.gov/media/p31j4zkc/elections-calendar-2026.pdf",
+  "retrieved_at_utc": "2026-10-18T22:55:47.927265+00:00",
+  "status": 200,
+  "final_url": "https://www.sos.la.gov/media/p31j4zkc/elections-calendar-2026.pdf",
+  "raw_sha256": "67ceeafd50946e114d39941423f2d6bbf616de080031873b7400bf0ce158f6dd",
+  "asset": "source/67ceeafd50946e114d39941423f2d6bbf616de080031873b7400bf0ce158f6dd.body.gz",
+  "stored_sha256": "a1c6bbb1603690bda9dfa56f38464d141e14d3ac4c76b8a8dab384e7e0f65345",
+  "bytes": 79394,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "Content-Length": "79394",
+    "Cache-Control": "public, must-revalidate, max-age=604800",
+    "Last-Modified": "Mon, 27 Jul 2026 16:50:54 GMT",
+    "Accept-Ranges": "bytes",
+    "ETag": "\"f5a2987acfecf3ee128146933da975c3\"",
+    "Content-Security-Policy": "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com;style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "Cross-Origin-Resource-Policy": "same-site",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains;",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Date": "Sun, 18 Oct 2026 22:55:48 GMT",
+    "Connection": "keep-alive"
+  },
+  "original_asset_readonly": "data/news/sos-current-2026-calendar.html.gz",
+  "original_stored_sha256": "a1c6bbb1603690bda9dfa56f38464d141e14d3ac4c76b8a8dab384e7e0f65345",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

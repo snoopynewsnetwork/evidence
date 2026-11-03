@@ -1,0 +1,31 @@
+{
+  "id": "sos-postelection-statistics-index",
+  "url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+  "retrieved_at_utc": "2026-10-18T22:55:20.485782+00:00",
+  "status": 200,
+  "final_url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+  "raw_sha256": "fac8b85526c0dc19f2c2e79387f8efe06599870e1cbcb5ec3279011b01dc0e00",
+  "asset": "source/fac8b85526c0dc19f2c2e79387f8efe06599870e1cbcb5ec3279011b01dc0e00.body.gz",
+  "stored_sha256": "efa28ed8200bb2619b9fa1cf4fe9907745574f102f2447150f07423e3dc7b5a2",
+  "bytes": 81864,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Security-Policy": "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-B70q4AtbCfoLOc8KOdUssjXK';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "Cross-Origin-Resource-Policy": "same-site",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains;",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Date": "Sun, 18 Oct 2026 22:55:20 GMT",
+    "Content-Length": "13892",
+    "Connection": "keep-alive"
+  },
+  "original_asset_readonly": "data/news/sos-postelection-statistics-index.html.gz",
+  "original_stored_sha256": "efa28ed8200bb2619b9fa1cf4fe9907745574f102f2447150f07423e3dc7b5a2",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

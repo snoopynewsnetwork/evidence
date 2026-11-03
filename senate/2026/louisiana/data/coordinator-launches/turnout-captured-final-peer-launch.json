@@ -1,0 +1,23 @@
+{
+  "agent_id": "50fd7a21-788d-47d2-b03a-2a379c81a18b",
+  "same_original_worker": true,
+  "profile": "Verification",
+  "fresh_all_four_profile_notes_read": true,
+  "provider_draft_inspected": true,
+  "provider": "codex/gpt-6.1-sol",
+  "actual_agent_updated": true,
+  "settings": {
+    "model": "gpt-6.1-sol",
+    "modeId": "auto-review",
+    "thinkingOptionId": "medium"
+  },
+  "actual_resume_utc": "2026-10-20T22:07:06.796216+00:00",
+  "released_slot": "Actual Louisiana original baseline4f625056-8184-4b03-97fb-4152b00397e3 finished sealed handoff",
+  "sole_other_active_researcher": "Same original Kentucky turnoutb2a7de63-14d6-4adf-9164-6a199028479d bounded Verification",
+  "prompt": {
+    "path": "senate/2026/louisiana/data/coordinator-launches/turnout-captured-final-peer-prompt.txt",
+    "bytes": 7752,
+    "sha256": "64ee203350afea247254609c5f54797ec828a237b2a424223f94ac0ef7e5c339"
+  },
+  "scope": "Capture every645oldownbody including unlisted audit, final1608peer bodies and all individual originals/receipts before comparison. Bounded source reciprocal and acyclic only-self-excluded MF repair; no source/model/geometry/current approval."
+}

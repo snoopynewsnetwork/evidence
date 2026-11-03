@@ -1,0 +1,87 @@
+{
+  "role": "Kenton-PDF-linked-public-map-viewer",
+  "observation": null,
+  "request": {
+    "url": "https://linkgis.org/mapviewer_voting/",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:37:35.657429+00:00",
+  "hops": [
+    {
+      "request_url": "https://linkgis.org/mapviewer_voting/",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:37:35.660566+00:00",
+      "status": 200,
+      "response_url": "https://linkgis.org/mapviewer_voting/",
+      "headers": [
+        [
+          "Server",
+          "nginx"
+        ],
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:37:35 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html"
+        ],
+        [
+          "Content-Length",
+          "6568"
+        ],
+        [
+          "Last-Modified",
+          "Mon, 25 Feb 2019 16:39:54 GMT"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "ETag",
+          "\"5c741a5a-19a8\""
+        ],
+        [
+          "Strict-Transport-Security",
+          "max-age=15768000"
+        ],
+        [
+          "X-Powered-By",
+          "PleskLin"
+        ],
+        [
+          "Accept-Ranges",
+          "bytes"
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:37:35.894858+00:00",
+      "entity": {
+        "path": "source/bodies/ada2977cf38af36212403fd5170620695459591dbd3874e955d0c805f09af5d9.gz",
+        "raw_bytes": 6568,
+        "raw_sha256": "ada2977cf38af36212403fd5170620695459591dbd3874e955d0c805f09af5d9",
+        "stored_bytes": 2276,
+        "stored_sha256": "15fefb0b42f34c9cea22d9d339ba83d1b11b4f5fde70ea8d077b632feaa8d588"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:37:35.895840+00:00"
+}

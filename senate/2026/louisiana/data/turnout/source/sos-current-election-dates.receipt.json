@@ -1,0 +1,31 @@
+{
+  "id": "sos-current-election-dates",
+  "url": "https://www.sos.la.gov/elections-voting/election-dates",
+  "retrieved_at_utc": "2026-10-18T22:55:20.485606+00:00",
+  "status": 200,
+  "final_url": "https://www.sos.la.gov/elections-voting/election-dates",
+  "raw_sha256": "00ece64e5598d44b1373d036281193dd9a3f59e310474a6363d74a51b729f35c",
+  "asset": "source/00ece64e5598d44b1373d036281193dd9a3f59e310474a6363d74a51b729f35c.body.gz",
+  "stored_sha256": "436d06cd1ad8e51f0202d21bbc4102fb11244f9eb6dc5512163443a69cb9d890",
+  "bytes": 106359,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Security-Policy": "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-eNDOpBCZKJPBCj7fWSRQy2Q8';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "Cross-Origin-Resource-Policy": "same-site",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains;",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Date": "Sun, 18 Oct 2026 22:55:20 GMT",
+    "Content-Length": "16803",
+    "Connection": "keep-alive"
+  },
+  "original_asset_readonly": "data/news/sos-current-election-dates.html.gz",
+  "original_stored_sha256": "436d06cd1ad8e51f0202d21bbc4102fb11244f9eb6dc5512163443a69cb9d890",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

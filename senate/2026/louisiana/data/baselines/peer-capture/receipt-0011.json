@@ -1,0 +1,33 @@
+{
+  "id": "sos-graphical-election-dates",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=ElectionDates.htm",
+  "retrieved_at_utc": "2026-10-18T22:56:07.853302+00:00",
+  "status": 200,
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=ElectionDates.htm",
+  "raw_sha256": "3ca905856cca28b22d7363a09d6fa892d4ff52f0888744627590034045d9faec",
+  "asset": "source/3ca905856cca28b22d7363a09d6fa892d4ff52f0888744627590034045d9faec.body.gz",
+  "stored_sha256": "0f96070ceb5eb184a5be7468d862cd907c779cceeeb091f8bf9f61b91e72f52f",
+  "bytes": 91491,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "91491",
+    "Cache-Control": "public, no-cache=\"Set-Cookie\", max-age=10",
+    "Expires": "Sun, 18 Oct 2026 22:56:17 GMT",
+    "Last-Modified": "Sun, 18 Oct 2026 22:56:07 GMT",
+    "Page-Generation-Time": "31",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Sun, 18 Oct 2026 22:56:08 GMT",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALB=p7T0W1QcbLr1kHRrB8CAypKWn/SmVLLrQlBjVgzTWKglzj+D8WiP19WaDMV1VbyszKwchLsfyuUAW4Rg1bhde1MOttf5iGvkyinh9lbH28tce18IAPJR07fimVYI; Expires=Sun, 25 Oct 2026 22:56:07 GMT; Path=/, AWSALBCORS=p7T0W1QcbLr1kHRrB8CAypKWn/SmVLLrQlBjVgzTWKglzj+D8WiP19WaDMV1VbyszKwchLsfyuUAW4Rg1bhde1MOttf5iGvkyinh9lbH28tce18IAPJR07fimVYI; Expires=Sun, 25 Oct 2026 22:56:07 GMT; Path=/; SameSite=None; Secure, ASP.NET_SessionId=fs0isd1iv43j1em5quqaradm; path=/; secure; HttpOnly; SameSite=Lax"
+  },
+  "original_asset_readonly": "data/news/sos-graphical-election-dates.html.gz",
+  "original_stored_sha256": "0f96070ceb5eb184a5be7468d862cd907c779cceeeb091f8bf9f61b91e72f52f",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

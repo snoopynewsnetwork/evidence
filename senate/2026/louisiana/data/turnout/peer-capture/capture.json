@@ -1,0 +1,135 @@
+{
+  "captured_at_utc": "2026-10-20T21:51:56.400366+00:00",
+  "peer_agent_id": "4f625056-8184-4b03-97fb-4152b00397e3",
+  "own_stable_source_schema_sha256": "c06214a017d265758ab4019681354e7a11187f5d8b946df66c3a16fee2557951",
+  "inputs": [
+    {
+      "peer_source_path": "data/baselines/original-freeze.json",
+      "raw_sha256": "174a6ebb86b8ca797145244d85408ca182de38f75e5007e4cd285d6ad293121b",
+      "raw_bytes": 823970,
+      "captured_path": "peer-capture/original-freeze.json.gz",
+      "stored_sha256": "33a6ee844050444fe05e51fc709c1d1244415fb010b004e19feeaf53fe7c7b30",
+      "compression": "gzip_of_exact_bytes"
+    },
+    {
+      "peer_source_path": "data/baselines/source/receipts.json",
+      "raw_sha256": "ebfbb689ea4fd12f14d62e0df4cd05fb12b1b4c5dcddb1af3ecb8c4328714052",
+      "raw_bytes": 56104,
+      "captured_path": "peer-capture/source__receipts.json.gz",
+      "stored_sha256": "525b9855661de81cbd9d96f207f7a6b22f8f90da08bbfe3588c703e3d438dd30",
+      "compression": "gzip_of_exact_bytes"
+    },
+    {
+      "peer_source_path": "data/baselines/controls.json",
+      "raw_sha256": "45e56ffab5a2e9a6bf0dce2ccefd466619258bcf6bcaf08422a078424f20f68f",
+      "raw_bytes": 7061,
+      "captured_path": "peer-capture/controls.json.gz",
+      "stored_sha256": "8f5eb1c60dd32ec2737480234596493204d3823fe5a8376655a62d06190abd84",
+      "compression": "gzip_of_exact_bytes"
+    },
+    {
+      "peer_source_path": "data/baselines/parish-controls.csv",
+      "raw_sha256": "3aea59633ec0e57eeeaca5643d80238d2be7e2fad71d2f68b128edaa49ba130e",
+      "raw_bytes": 24700,
+      "captured_path": "peer-capture/parish-controls.csv.gz",
+      "stored_sha256": "90945007baeb7414d51ac84e11c7f122f9074ccdb680778a3932a37fc2bccf63",
+      "compression": "gzip_of_exact_bytes"
+    },
+    {
+      "peer_source_path": "data/baselines/candidates.csv",
+      "raw_sha256": "05deec8fb32e1bd31f0951c1fc8292a17718022cd8f40cd282cfc09cad02ea71",
+      "raw_bytes": 4975,
+      "captured_path": "peer-capture/candidates.csv.gz",
+      "stored_sha256": "a5fc46a36d7466e8232b6a468879dbe59ff06cd5c50937314c72f5ecf0da44e4",
+      "compression": "gzip_of_exact_bytes"
+    },
+    {
+      "peer_source_path": "data/baselines/native-results.json.gz",
+      "raw_sha256": "9be2a7892d3a0500fb4c60d49953bf59b1f78d17c6d4ecc5f09fad5ebd0f2b8d",
+      "raw_bytes": 1192044,
+      "captured_path": "peer-capture/native-results.json.gz",
+      "stored_sha256": "9be2a7892d3a0500fb4c60d49953bf59b1f78d17c6d4ecc5f09fad5ebd0f2b8d",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/native-coverage.json",
+      "raw_sha256": "24e1c26e66a00e847d6499227c6df298a9d5cf8b47185a820d9234378904fef7",
+      "raw_bytes": 70370,
+      "captured_path": "peer-capture/native-coverage.json.gz",
+      "stored_sha256": "37422a968d6385133e92f202060ad86570985d0b9aedbc1909e4212ae1d4962b",
+      "compression": "gzip_of_exact_bytes"
+    },
+    {
+      "peer_source_path": "data/baselines/full-orders.json.gz",
+      "raw_sha256": "d5e1817a792255bf22d51f71ce67756b0c34ff19a7048273976728a8a87ec898",
+      "raw_bytes": 69883,
+      "captured_path": "peer-capture/full-orders.json.gz",
+      "stored_sha256": "d5e1817a792255bf22d51f71ce67756b0c34ff19a7048273976728a8a87ec898",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/source/json-position-witness.json.gz",
+      "raw_sha256": "30c3cef53a28a386d829d9eb8043a52946c45f72d6bb9ed1da46bfc0a02a789d",
+      "raw_bytes": 3473621,
+      "captured_path": "peer-capture/source__json-position-witness.json.gz",
+      "stored_sha256": "30c3cef53a28a386d829d9eb8043a52946c45f72d6bb9ed1da46bfc0a02a789d",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/source/workbook-position-witness.json.gz",
+      "raw_sha256": "ed3bd8b2e3379eab09662f7497c9ed13b10ab08f597bb083186e37b2b2abebfb",
+      "raw_bytes": 3831371,
+      "captured_path": "peer-capture/source__workbook-position-witness.json.gz",
+      "stored_sha256": "ed3bd8b2e3379eab09662f7497c9ed13b10ab08f597bb083186e37b2b2abebfb",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/source/2024-parish-csv-positions.json.gz",
+      "raw_sha256": "ed0138c72015e8cdc0ff73bab85dd5c0e8a2b2a21a505f911bfffe7cbb3b8709",
+      "raw_bytes": 2511,
+      "captured_path": "peer-capture/source__2024-parish-csv-positions.json.gz",
+      "stored_sha256": "ed0138c72015e8cdc0ff73bab85dd5c0e8a2b2a21a505f911bfffe7cbb3b8709",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/source/2024-precinct-csv-positions.json.gz",
+      "raw_sha256": "c6369ae1e483ff35840677de7c2b582b338aaf774c4f84b96b10828224e56c40",
+      "raw_bytes": 53747,
+      "captured_path": "peer-capture/source__2024-precinct-csv-positions.json.gz",
+      "stored_sha256": "c6369ae1e483ff35840677de7c2b582b338aaf774c4f84b96b10828224e56c40",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/source/2022-parish-csv-positions.json.gz",
+      "raw_sha256": "32c32523c967c922961a57948109fdabf027f8a86d18d9830f48d0c2abf32ca2",
+      "raw_bytes": 2736,
+      "captured_path": "peer-capture/source__2022-parish-csv-positions.json.gz",
+      "stored_sha256": "32c32523c967c922961a57948109fdabf027f8a86d18d9830f48d0c2abf32ca2",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/source/2022-precinct-csv-positions.json.gz",
+      "raw_sha256": "baf102270285e4ab319bde3093143e39dcd6356a66172d7586adb65aa5cd82b6",
+      "raw_bytes": 68105,
+      "captured_path": "peer-capture/source__2022-precinct-csv-positions.json.gz",
+      "stored_sha256": "baf102270285e4ab319bde3093143e39dcd6356a66172d7586adb65aa5cd82b6",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/source/2020-parish-csv-positions.json.gz",
+      "raw_sha256": "fbdc5c3d241a1efb99e509836b47358bfef46b001bf943543944253e30f41509",
+      "raw_bytes": 3099,
+      "captured_path": "peer-capture/source__2020-parish-csv-positions.json.gz",
+      "stored_sha256": "fbdc5c3d241a1efb99e509836b47358bfef46b001bf943543944253e30f41509",
+      "compression": "preserved_gzip"
+    },
+    {
+      "peer_source_path": "data/baselines/source/2020-precinct-csv-positions.json.gz",
+      "raw_sha256": "7809c2392ada9769aa1cf7b82e96e84c7cd09107adfe4dc7cc7ca6c349ea2c7a",
+      "raw_bytes": 76987,
+      "captured_path": "peer-capture/source__2020-precinct-csv-positions.json.gz",
+      "stored_sha256": "7809c2392ada9769aa1cf7b82e96e84c7cd09107adfe4dc7cc7ca6c349ea2c7a",
+      "compression": "preserved_gzip"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "current-statistics-index",
+  "requested_url": "https://www.sos.la.gov/elections-voting/post-election-statistic-files",
+  "parent_source_id": "sos-postelection-statistics-index",
+  "retrieval_started_utc": "20261020T214622896122Z",
+  "method": "GET",
+  "redirects": [],
+  "error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+  "complete_entity": false,
+  "retrieval_completed_utc": "2026-10-20T21:46:22.902393+00:00"
+}

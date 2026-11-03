@@ -1,0 +1,106 @@
+{
+  "role": "SBE-DGI-city-overlay-service-item",
+  "request": {
+    "url": "https://www.arcgis.com/sharing/rest/content/items/32c69983b17e43c8b4a7acf6a4123ade?f=pjson",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:34:38.915426+00:00",
+  "hops": [
+    {
+      "request_url": "https://www.arcgis.com/sharing/rest/content/items/32c69983b17e43c8b4a7acf6a4123ade?f=pjson",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:38.915754+00:00",
+      "status": 200,
+      "response_url": "https://www.arcgis.com/sharing/rest/content/items/32c69983b17e43c8b4a7acf6a4123ade?f=pjson",
+      "headers": [
+        [
+          "Content-Type",
+          "text/plain;charset=utf-8"
+        ],
+        [
+          "Transfer-Encoding",
+          "chunked"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:34:39 GMT"
+        ],
+        [
+          "Strict-Transport-Security",
+          "max-age=31536000"
+        ],
+        [
+          "Server",
+          "ArcGIS Online"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "Cache-Control",
+          "no-cache"
+        ],
+        [
+          "Pragma",
+          "no-cache"
+        ],
+        [
+          "Expires",
+          "-1"
+        ],
+        [
+          "Vary",
+          "Origin"
+        ],
+        [
+          "X-Cache",
+          "Miss from cloudfront"
+        ],
+        [
+          "Via",
+          "1.1 a7bc8344485537068a2a5c5b0897102c.cloudfront.net (CloudFront)"
+        ],
+        [
+          "X-Amz-Cf-Pop",
+          "ORD51-P2"
+        ],
+        [
+          "X-Amz-Cf-Id",
+          "2167t4yzKphD5Hjj3RLceA8oEX9DNDNXKRqiKIKd-IhMInmivAv6Bg=="
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:34:39.003422+00:00",
+      "entity": {
+        "path": "source/bodies/f8c5a9c0f41063088d3698dab94c9d1c8abd74981fe1bf599c1adac4834fa6ae.gz",
+        "raw_bytes": 4646,
+        "raw_sha256": "f8c5a9c0f41063088d3698dab94c9d1c8abd74981fe1bf599c1adac4834fa6ae",
+        "stored_bytes": 1982,
+        "stored_sha256": "0ee96f289c0bf3fa63c6fcd8a27dd83ad907ec280c6d528ddb6869b365fe4c56"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:34:39.003715+00:00"
+}

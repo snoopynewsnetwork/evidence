@@ -1,0 +1,58 @@
+[
+  {
+    "year": "2022",
+    "parish_key": "LA:17",
+    "field": "All_Voted",
+    "general_statistics": 139002,
+    "selected_race_statistics": 138992,
+    "race_minus_general": -10
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:09",
+    "field": "All_Voted",
+    "general_statistics": 106414,
+    "selected_race_statistics": 106418,
+    "race_minus_general": 4
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:10",
+    "field": "All",
+    "general_statistics": 130647,
+    "selected_race_statistics": 130643,
+    "race_minus_general": -4
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:17",
+    "field": "All_Voted",
+    "general_statistics": 210240,
+    "selected_race_statistics": 210249,
+    "race_minus_general": 9
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:31",
+    "field": "All",
+    "general_statistics": 27947,
+    "selected_race_statistics": 27945,
+    "race_minus_general": -2
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:36",
+    "field": "All",
+    "general_statistics": 273816,
+    "selected_race_statistics": 273812,
+    "race_minus_general": -4
+  },
+  {
+    "year": "2020",
+    "parish_key": "LA:60",
+    "field": "All",
+    "general_statistics": 25152,
+    "selected_race_statistics": 25147,
+    "race_minus_general": -5
+  }
+]

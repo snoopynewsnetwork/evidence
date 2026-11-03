@@ -1,0 +1,574 @@
+[
+  {
+    "name": "counted-fixed-final-denominator",
+    "input": "counted-fixed-final-denominator.input.json",
+    "exit": 0,
+    "expected": {
+      "final_pair_votes": 110,
+      "final_all_candidate_votes": 135,
+      "baseline_lead": -10,
+      "final_candidate_votes": {
+        "A": 50,
+        "B": 60,
+        "C": 25
+      },
+      "uniform.unbounded_shift": 0.0625
+    },
+    "passed": true
+  },
+  {
+    "name": "unknown-positive-pool",
+    "input": "unknown-positive-pool.input.json",
+    "exit": 0,
+    "expected": {
+      "status": "unknown-preference",
+      "baseline_lead": null
+    },
+    "passed": true
+  },
+  {
+    "name": "no-pool-below",
+    "input": "no-pool-below.input.json",
+    "exit": 0,
+    "expected": {
+      "no_positive_pool": true,
+      "fixed_target_status": "below",
+      "uniform.status": "no-positive-pool"
+    },
+    "passed": true
+  },
+  {
+    "name": "no-pool-secured",
+    "input": "no-pool-secured.input.json",
+    "exit": 0,
+    "expected": {
+      "fixed_target_status": "met",
+      "final_pair_votes": 35
+    },
+    "passed": true
+  },
+  {
+    "name": "negative-lead",
+    "input": "negative-lead.input.json",
+    "exit": 0,
+    "expected": {
+      "uniform.status": "impossible"
+    },
+    "passed": true
+  },
+  {
+    "name": "secured-even-zero-share",
+    "input": "secured-even-zero-share.input.json",
+    "exit": 0,
+    "expected": {
+      "uniform.status": "already-secured"
+    },
+    "passed": true
+  },
+  {
+    "name": "selected-only-impossible",
+    "input": "selected-only-impossible.input.json",
+    "exit": 0,
+    "expected": {
+      "selected_only.status": "impossible",
+      "selected_only.required_share": 6.75
+    },
+    "passed": true
+  },
+  {
+    "name": "selected-only-secured",
+    "input": "selected-only-secured.input.json",
+    "exit": 0,
+    "expected": {
+      "selected_only.status": "already-secured",
+      "selected_only.required_share": -12
+    },
+    "passed": true
+  },
+  {
+    "name": "selected-unknown-other",
+    "input": "selected-unknown-other.input.json",
+    "exit": 0,
+    "expected": {
+      "selected_only.status": "unknown-other-units"
+    },
+    "passed": true
+  },
+  {
+    "name": "selected-unknown-self-solvable",
+    "input": "selected-unknown-self-solvable.input.json",
+    "exit": 0,
+    "expected": {
+      "selected_only.status": "feasible",
+      "selected_only.required_share": 0.5625
+    },
+    "passed": true
+  },
+  {
+    "name": "zero-pair-undefined",
+    "input": "zero-pair-undefined.input.json",
+    "exit": 0,
+    "expected": {
+      "baseline_pair_margin": null,
+      "final_pair_votes": 0,
+      "no_positive_pool": true
+    },
+    "passed": true
+  },
+  {
+    "name": "pair-leader-loses-fullfield",
+    "input": "pair-leader-loses-fullfield.input.json",
+    "exit": 0,
+    "expected": {
+      "arithmetic_plurality_leaders": [
+        "C"
+      ],
+      "baseline_lead": 10
+    },
+    "passed": true
+  },
+  {
+    "name": "clipping-root-distinct",
+    "input": "clipping-root-distinct.input.json",
+    "exit": 0,
+    "expected": {
+      "uniform.unbounded_shift": 0.4,
+      "uniform.bounded_shift": 0.4444444444444444,
+      "uniform.achieved_lead": 0
+    },
+    "passed": true
+  },
+  {
+    "name": "clipping-endpoint",
+    "input": "clipping-endpoint.input.json",
+    "exit": 0,
+    "expected": {
+      "uniform.bounded_shift": 1,
+      "uniform.achieved_lead": 100
+    },
+    "passed": true
+  },
+  {
+    "name": "literal-spaces-preserved",
+    "input": "literal-spaces-preserved.input.json",
+    "exit": 0,
+    "expected": {
+      "selected_only.status": "feasible"
+    },
+    "passed": true
+  },
+  {
+    "name": "unknown-duplicate-key",
+    "input": "unknown-duplicate-key.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "unknown-blank-key",
+    "input": "unknown-blank-key.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "unknown-nonstring-key",
+    "input": "unknown-nonstring-key.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "unknown-missing-key",
+    "input": "unknown-missing-key.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "no-pool-duplicate-key",
+    "input": "no-pool-duplicate-key.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "no-pool-blank-key",
+    "input": "no-pool-blank-key.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "no-pool-nonstring-key",
+    "input": "no-pool-nonstring-key.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "no-pool-missing-key",
+    "input": "no-pool-missing-key.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-target-True",
+    "input": "invalid-target-True.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-target-None",
+    "input": "invalid-target-None.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-target-'0'",
+    "input": "invalid-target-_0_.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-target--1.01",
+    "input": "invalid-target--1_01.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-target-1.01",
+    "input": "invalid-target-1_01.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-remaining--1",
+    "input": "invalid-remaining--1.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-remaining-True",
+    "input": "invalid-remaining-True.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-remaining-None",
+    "input": "invalid-remaining-None.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-remaining-'2'",
+    "input": "invalid-remaining-_2_.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-participation--0.1",
+    "input": "invalid-participation--0_1.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-participation-1.1",
+    "input": "invalid-participation-1_1.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-participation-True",
+    "input": "invalid-participation-True.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-participation-None",
+    "input": "invalid-participation-None.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-share--0.1",
+    "input": "invalid-share--0_1.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-share-1.1",
+    "input": "invalid-share-1_1.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-share-True",
+    "input": "invalid-share-True.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-share-'0.5'",
+    "input": "invalid-share-_0_5_.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-count--1",
+    "input": "invalid-count--1.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-count-True",
+    "input": "invalid-count-True.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-count-None",
+    "input": "invalid-count-None.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "invalid-count-'3'",
+    "input": "invalid-count-_3_.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "unbalanced-other",
+    "input": "unbalanced-other.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "candidate-pair-collision",
+    "input": "candidate-pair-collision.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "candidate-other-collision",
+    "input": "candidate-other-collision.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "unsupported-mode",
+    "input": "unsupported-mode.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "all-total-smaller-pair",
+    "input": "all-total-smaller-pair.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "aggregate-overflow",
+    "input": "aggregate-overflow.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-target-NaN",
+    "input": "nonfinite-target-NaN.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-remaining-NaN",
+    "input": "nonfinite-remaining-NaN.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-share-NaN",
+    "input": "nonfinite-share-NaN.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-target-Infinity",
+    "input": "nonfinite-target-Infinity.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-remaining-Infinity",
+    "input": "nonfinite-remaining-Infinity.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-share-Infinity",
+    "input": "nonfinite-share-Infinity.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-target--Infinity",
+    "input": "nonfinite-target--Infinity.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-remaining--Infinity",
+    "input": "nonfinite-remaining--Infinity.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "nonfinite-share--Infinity",
+    "input": "nonfinite-share--Infinity.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "duplicate-object-field",
+    "input": "duplicate-object-field.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  },
+  {
+    "name": "duplicate-count-candidate",
+    "input": "duplicate-count-candidate.input.json",
+    "exit": 2,
+    "expected": {
+      "invalid": true
+    },
+    "passed": true
+  }
+]

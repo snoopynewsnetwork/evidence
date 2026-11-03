@@ -1,0 +1,11 @@
+{
+  "id": "2024-StatsParish",
+  "requested_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20241105/StatsParish.htm",
+  "parent_source_id": "sos-graphical-public-client",
+  "retrieval_started_utc": "20261020T214622858691Z",
+  "method": "GET",
+  "redirects": [],
+  "error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+  "complete_entity": false,
+  "retrieval_completed_utc": "2026-10-20T21:46:22.873610+00:00"
+}

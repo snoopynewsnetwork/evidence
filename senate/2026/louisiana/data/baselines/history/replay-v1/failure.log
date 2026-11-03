@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/baselines/reproduce.py", line 8, in <module>
+    src=D/a['path'];b=src.read_bytes();assert H(b)==a['sha256'] and len(b)==a['bytes'];p=dest/a['path'];p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(b)
+                                                                    ^^^^^^^^^^^^^^^^^^
+AssertionError

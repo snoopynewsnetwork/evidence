@@ -1,0 +1,254 @@
+[
+  {
+    "year": "2024",
+    "date_folder": "20241105",
+    "source_race": {
+      "ID": "67190",
+      "SpecificTitle": "Presidential Electors",
+      "GeneralTitle": "Presidential Electors",
+      "OfficeLevel": "010",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "CanHaveRunoff": "0",
+      "Choice": [
+        {
+          "Color": "0xffec6c",
+          "ID": "123574",
+          "Desc": "Kamala D. Harris, Tim Walz Democratic"
+        },
+        {
+          "Color": "0xa20017",
+          "ID": "123573",
+          "Desc": "Jill Stein, Ajamu Baraka Green"
+        },
+        {
+          "Color": "0x009899",
+          "ID": "123239",
+          "Desc": "Chase Oliver, Mike ter Maat Libertarian"
+        },
+        {
+          "Color": "0xed1b24",
+          "ID": "123572",
+          "Desc": "Donald J. Trump, \"JD\" Vance Republican"
+        },
+        {
+          "Color": "0x8970cb",
+          "ID": "123575",
+          "Desc": "Peter Sonski, Lauren Onak American Solidarity Party"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "123576",
+          "Desc": "Randall Terry, Stephen Broden Constitution Party"
+        },
+        {
+          "Color": "0xff836b",
+          "ID": "123578",
+          "Desc": "Mattie Preston, Shannel Conner Godliness, Truth, Justice"
+        },
+        {
+          "Color": "0x81b1d5",
+          "ID": "123577",
+          "Desc": "Cornel West, Melina Abdullah Justice For All"
+        },
+        {
+          "Color": "0x2db04a",
+          "ID": "123570",
+          "Desc": "Claudia de la Cruz, Karina Garcia Socialism and Liberation"
+        },
+        {
+          "Color": "0x02538a",
+          "ID": "123571",
+          "Desc": "Rachele Fruit, Dennis Richter Socialist Workers Party"
+        },
+        {
+          "Color": "0x642a7f",
+          "ID": "123569",
+          "Desc": "Robert F. Kennedy, Jr., Nicole Shanahan We The People"
+        }
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "date_folder": "20221108",
+    "source_race": {
+      "ID": "61897",
+      "SpecificTitle": "U. S. Senator",
+      "GeneralTitle": "U.S. Senator",
+      "OfficeLevel": "140",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "CanHaveRunoff": "1",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "116035",
+          "Desc": "Beryl A. Billiot (NOPTY)"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "115136",
+          "Desc": "Gary Chambers, Jr. (DEM)"
+        },
+        {
+          "Color": "0xffec6c",
+          "ID": "117227",
+          "Desc": "Devin Lance Graham (REP)"
+        },
+        {
+          "Color": "0xff836b",
+          "ID": "114911",
+          "Desc": "\"Xan\" John (OTHER)"
+        },
+        {
+          "Color": "0xa20017",
+          "ID": "114861",
+          "Desc": "John Kennedy (REP)"
+        },
+        {
+          "Color": "0x81b1d5",
+          "ID": "115670",
+          "Desc": "W. Thomas La Fontaine Olson (NOPTY)"
+        },
+        {
+          "Color": "0x009899",
+          "ID": "116755",
+          "Desc": "Bradley McMorris (IND)"
+        },
+        {
+          "Color": "0xed1b24",
+          "ID": "116132",
+          "Desc": "MV \"Vinny\" Mendoza (DEM)"
+        },
+        {
+          "Color": "0x2db04a",
+          "ID": "115416",
+          "Desc": "\"Luke\" Mixon (DEM)"
+        },
+        {
+          "Color": "0x02538a",
+          "ID": "116412",
+          "Desc": "Salvador P. Rodriguez (DEM)"
+        },
+        {
+          "Color": "0x642a7f",
+          "ID": "117198",
+          "Desc": "Aaron C. Sigler (LBT)"
+        },
+        {
+          "Color": "0xf15a25",
+          "ID": "115414",
+          "Desc": "Syrita Steib (DEM)"
+        },
+        {
+          "Color": "0xa67c52",
+          "ID": "115636",
+          "Desc": "Thomas Wenn (OTHER)"
+        }
+      ]
+    }
+  },
+  {
+    "year": "2020",
+    "date_folder": "20201103",
+    "source_race": {
+      "ID": "59569",
+      "SpecificTitle": "U. S. Senator",
+      "GeneralTitle": "U.S. Senator",
+      "OfficeLevel": "140",
+      "IsPresidentialNominee": "0",
+      "IsMultiParish": "1",
+      "NumberToBeElected": "1",
+      "SummaryText": null,
+      "FullText": null,
+      "IsClosedParty": "0",
+      "CanHaveRunoff": "1",
+      "Choice": [
+        {
+          "Color": "0x8970cb",
+          "ID": "112789",
+          "Desc": "Beryl Billiot (NOPTY)"
+        },
+        {
+          "Color": "0xb6dc6b",
+          "ID": "111401",
+          "Desc": "John Paul Bourgeois (NOPTY)"
+        },
+        {
+          "Color": "0xffec6c",
+          "ID": "112841",
+          "Desc": "\"Bill\" Cassidy (REP)"
+        },
+        {
+          "Color": "0xff836b",
+          "ID": "112620",
+          "Desc": "Reno Jean Daret III (NOPTY)"
+        },
+        {
+          "Color": "0xa20017",
+          "ID": "112172",
+          "Desc": "Derrick \"Champ\" Edwards (DEM)"
+        },
+        {
+          "Color": "0x81b1d5",
+          "ID": "112662",
+          "Desc": "\"Xan\" John (OTHER)"
+        },
+        {
+          "Color": "0x009899",
+          "ID": "112138",
+          "Desc": "David Drew Knight (DEM)"
+        },
+        {
+          "Color": "0xed1b24",
+          "ID": "113149",
+          "Desc": "M.V. \"Vinny\" Mendoza (IND)"
+        },
+        {
+          "Color": "0x2db04a",
+          "ID": "113121",
+          "Desc": "Jamar Montgomery (NOPTY)"
+        },
+        {
+          "Color": "0x02538a",
+          "ID": "112998",
+          "Desc": "Dustin Murphy (REP)"
+        },
+        {
+          "Color": "0x642a7f",
+          "ID": "112580",
+          "Desc": "Adrian Perkins (DEM)"
+        },
+        {
+          "Color": "0xf15a25",
+          "ID": "111893",
+          "Desc": "Antoine Pierce (DEM)"
+        },
+        {
+          "Color": "0xa67c52",
+          "ID": "112892",
+          "Desc": "Melinda Mary Price (OTHER)"
+        },
+        {
+          "Color": "0xffcc06",
+          "ID": "112599",
+          "Desc": "Aaron C. Sigler (LBT)"
+        },
+        {
+          "Color": "0xcfd5f9",
+          "ID": "112549",
+          "Desc": "Peter Wenstrup (DEM)"
+        }
+      ]
+    }
+  }
+]

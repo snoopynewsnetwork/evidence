@@ -1,0 +1,11 @@
+{
+  "id": "2022-ParishesInElection",
+  "requested_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20221108/ParishesInElection.htm",
+  "parent_source_id": "sos-graphical-public-client",
+  "retrieval_started_utc": "20261020T214622881750Z",
+  "method": "GET",
+  "redirects": [],
+  "error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+  "complete_entity": false,
+  "retrieval_completed_utc": "2026-10-20T21:46:22.888749+00:00"
+}

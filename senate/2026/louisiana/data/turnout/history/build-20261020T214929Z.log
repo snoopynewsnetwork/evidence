@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/build_turnout.py", line 189, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/louisiana/data/turnout/build_turnout.py", line 129, in main
+    vals=[u[ufield] for u in normal];assert all(v is not None for v in vals)
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

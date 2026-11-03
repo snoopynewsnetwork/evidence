@@ -1,0 +1,7 @@
+{
+  "classification": "freeze inventory included in-progress stdout file",
+  "failure": "source/extraction data hashes all match; only open extraction-attempt2.log acquired 918 stdout bytes after original freeze",
+  "preserved_completed_log_sha256": "4dea0acad6dadd53557ca174f26f889fd51b4c1985050c28b9820f7821933a2f",
+  "reconstruction": "exact original frozen empty bytes restored by known SHA256 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855, bytes0; original freeze unchanged; completed stdout retained separately",
+  "source_or_numeric_change": false
+}

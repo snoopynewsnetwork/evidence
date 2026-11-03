@@ -1,0 +1,70 @@
+{
+  "id": "current-qualifying",
+  "requested_url": "https://www.sos.la.gov/elections-voting/qualify-for-an-election",
+  "parent_source_id": "sos-results-index",
+  "retrieval_started_utc": "20261020T214705193681Z",
+  "method": "GET",
+  "redirects": [],
+  "final_url": "https://www.sos.la.gov/elections-voting/qualify-for-an-election",
+  "status": 200,
+  "headers": [
+    [
+      "Content-Type",
+      "text/html; charset=utf-8"
+    ],
+    [
+      "Content-Security-Policy",
+      "img-src *.appdomain.cloud *.sos.la.gov data: 'self' www.google-analytics.com www.googletagmanager.com;script-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud 'self' www.google.com www.googletagmanager.com www.gstatic.com 'nonce-yL779CyiB6lBfEWPdKPZ86jx';style-src *.calendly.com *.sos.la.gov 'self' 'unsafe-inline';frame-src *.calendly.com *.sos.la.gov *.youtube.com calendly.com https://marketplace.umbraco.com/ https://s3.amazonaws.com/staticcontent.sos.la.gov/CPP/default.html 'self' www.google.com;connect-src *.calendly.com *.sos.la.gov *.watson.appdomain.cloud *.watsonplatform.net 'self' www.google-analytics.com;font-src data: https://fonts.gstatic.com 'self';object-src none;default-src 'self';media-src 'self';base-uri 'self'"
+    ],
+    [
+      "Referrer-Policy",
+      "strict-origin-when-cross-origin"
+    ],
+    [
+      "Permissions-Policy",
+      "camera=(), microphone=(), geolocation=()"
+    ],
+    [
+      "Cross-Origin-Opener-Policy",
+      "same-origin-allow-popups"
+    ],
+    [
+      "Cross-Origin-Resource-Policy",
+      "same-site"
+    ],
+    [
+      "Strict-Transport-Security",
+      "max-age=31536000; includeSubDomains;"
+    ],
+    [
+      "X-Content-Type-Options",
+      "nosniff"
+    ],
+    [
+      "X-Frame-Options",
+      "SAMEORIGIN"
+    ],
+    [
+      "Date",
+      "Tue, 20 Oct 2026 21:47:05 GMT"
+    ],
+    [
+      "Transfer-Encoding",
+      "chunked"
+    ],
+    [
+      "Connection",
+      "close"
+    ],
+    [
+      "Connection",
+      "Transfer-Encoding"
+    ]
+  ],
+  "raw_sha256": "698cdb3551affaae14c272b11f6630c4f095d52eee658ae0abff073ae3f8abf6",
+  "bytes": 99802,
+  "body": "source/698cdb3551affaae14c272b11f6630c4f095d52eee658ae0abff073ae3f8abf6.body.gz",
+  "stored_sha256": "833defc3a87ace84255187fa5bfbde898b440e82467a3282de9a8ea6c57729c3",
+  "complete_entity": true,
+  "retrieval_completed_utc": "2026-10-20T21:47:05.330933+00:00"
+}

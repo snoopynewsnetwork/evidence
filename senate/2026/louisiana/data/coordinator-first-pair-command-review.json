@@ -1,0 +1,311 @@
+{
+  "status": "pass_actual_readonly_commands_completed",
+  "commands": [
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/review_first_pair_originals.py"
+      ],
+      "started_utc": "2026-10-20T22:18:56.049658+00:00",
+      "finished_utc": "2026-10-20T22:19:15.334084+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-first-pair-original-root-3.result.json.gz",
+          "raw_bytes": 488,
+          "raw_sha256": "d1d060da12320a6946ae4bfaa77a28138d792386b4fe519a7f58bf95cd42a642",
+          "stored_bytes": 302,
+          "stored_sha256": "3bbb544539f43c7b637f4a069e3b3c4363fa8af42e239c626351d55ccfdd8084"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-first-pair-original-root-3.stdout.gz",
+          "raw_bytes": 2050,
+          "raw_sha256": "b59f796f9018eca962efba2835a45444c4bb0d2b1ef63c344164ca247b698d9e",
+          "stored_bytes": 1034,
+          "stored_sha256": "b0f0d0568074a8503be8d253dc090aab1048680a1d26c1299ae2695c2e70fff1"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-first-pair-original-root-3.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/baselines/audit.py"
+      ],
+      "started_utc": "2026-10-20T22:07:34.507440+00:00",
+      "finished_utc": "2026-10-20T22:07:35.885913+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-baseline-final-root-1.result.json.gz",
+          "raw_bytes": 466,
+          "raw_sha256": "2fabf44d9003b574f891d4ffab2b9a5c68b6b3a4889497bdefa28b171235be3f",
+          "stored_bytes": 288,
+          "stored_sha256": "c55019187a4e05cfe97cb4a8d3418272ee4d912757ee29caf3208fef8bd86b41"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-baseline-final-root-1.stdout.gz",
+          "raw_bytes": 3567,
+          "raw_sha256": "aea803e38c0e25785bfd695bca6eda101c427e887289f7609ff027229d4c7477",
+          "stored_bytes": 944,
+          "stored_sha256": "e0a070d61b100f8d2cf2742ab73dae187cc958dbb86e690eae3370106bba572f"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-baseline-final-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/review_baseline_math.py"
+      ],
+      "started_utc": "2026-10-20T22:27:07.036115+00:00",
+      "finished_utc": "2026-10-20T22:27:14.646151+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-math-root-2.result.json.gz",
+          "raw_bytes": 451,
+          "raw_sha256": "cc0d3202e2a433ff6f04160c6a6b74df034e39fdeacb7c8f706cf448bfc29757",
+          "stored_bytes": 290,
+          "stored_sha256": "6afbfaeccccedeac3f9408c4ab71bde8d845fd5dfa904bf6c1045de5ad5a925a"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-math-root-2.stdout.gz",
+          "raw_bytes": 748,
+          "raw_sha256": "8807d00f2c1c7ce1c98718e5c2596bd02393e28db1d477c116711ab5f6023f59",
+          "stored_bytes": 483,
+          "stored_sha256": "fe941a99d7570470d5a5c875072cde01fe845dbbcfc79b681169a49721a6431d"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-math-root-2.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/review_finished_reciprocal.py"
+      ],
+      "started_utc": "2026-10-20T22:27:57.772587+00:00",
+      "finished_utc": "2026-10-20T22:27:58.519330+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-turnout-reciprocal-root-1.result.json.gz",
+          "raw_bytes": 485,
+          "raw_sha256": "c9b02d11dbf8a15b1cfdde7c4b09c830efde4669c9a57ec19f0bf982c879ff65",
+          "stored_bytes": 297,
+          "stored_sha256": "b2514b5ffd679db675f6b3155aec7e2d2875d8ae58c05daad9a1ee5e4c671bdd"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-turnout-reciprocal-root-1.stdout.gz",
+          "raw_bytes": 1464,
+          "raw_sha256": "e1fba9cff82a27568c19ba9d858b258904ade3d298e49531223b3530caaffdc4",
+          "stored_bytes": 763,
+          "stored_sha256": "d5d5b6d2d09046b1211dd4b774fa2a314be633387df6749fc083833bcae179e3"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-turnout-reciprocal-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/turnout/repair_readonly.py"
+      ],
+      "started_utc": "2026-10-20T22:27:58.634295+00:00",
+      "finished_utc": "2026-10-20T22:28:02.696406+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-turnout-final-root-1.result.json.gz",
+          "raw_bytes": 472,
+          "raw_sha256": "cc8b7cce1b91909d7d959e63fc587d415b9b2cee9ceb5f079a81bdb16ff34a03",
+          "stored_bytes": 296,
+          "stored_sha256": "49fc9dea05bde52f6e26c0874d685b9887f1e513fd3a5c942527b5229c4dffcc"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-turnout-final-root-1.stdout.gz",
+          "raw_bytes": 1856,
+          "raw_sha256": "5a12d0462df3967838ca632d94a1e17b7f5a02832492febcdbd0b4bd7bd2e7ec",
+          "stored_bytes": 893,
+          "stored_sha256": "582c028ec988a2b7f6410e800678c27879e94a90fabc393cea83e046e5e5c23b"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-turnout-final-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/accept_source_research.py"
+      ],
+      "started_utc": "2026-10-20T22:30:35.530687+00:00",
+      "finished_utc": "2026-10-20T22:32:52.771058+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-source-authority-1.result.json.gz",
+          "raw_bytes": 467,
+          "raw_sha256": "b4b8dd6cc9c93555f69a129cdc0dd7490bb54658628b217f6753fc16b7975be9",
+          "stored_bytes": 297,
+          "stored_sha256": "ae66f15f849593db42f8656c27f6a732037e7038fbb365743e74e7e7b8415fe7"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-source-authority-1.stdout.gz",
+          "raw_bytes": 324,
+          "raw_sha256": "f16a600e1317be03c6bd32cd412a8d7f2942de940c781882a3cb0c7a934013b3",
+          "stored_bytes": 246,
+          "stored_sha256": "193652b88ca6787cab677197b5630792adb2a563780a0bf92deebfb1d26155b1"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-source-authority-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/validate_source_acceptance.py"
+      ],
+      "started_utc": "2026-10-20T22:33:44.363308+00:00",
+      "finished_utc": "2026-10-20T22:35:41.855061+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-authority-readonly-1.result.json.gz",
+          "raw_bytes": 475,
+          "raw_sha256": "deee75399acbdd3acca054ff7ad5db7ff4dbd544c3d1f3eda5a4e0197e3e1e9d",
+          "stored_bytes": 300,
+          "stored_sha256": "e656d4083a8db8465ccea6d7bcc54674fd81c7c1449f4deb349b2a2db84bd8a0"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-authority-readonly-1.stdout.gz",
+          "raw_bytes": 496,
+          "raw_sha256": "0d97c7da4bb2ea2c63f3eccaf22bc4c6cc11068c6efd5a8ea16cc19ba676f6cf",
+          "stored_bytes": 307,
+          "stored_sha256": "99840edab64777e77655d3ea1eeeeedf4624755e71df575e940837d380f2e3c9"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-authority-readonly-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/review_turnout_isolated_replay.py"
+      ],
+      "started_utc": "2026-10-20T22:36:35.970689+00:00",
+      "finished_utc": "2026-10-20T22:36:41.567318+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-fresh-isolated-root-1.result.json.gz",
+          "raw_bytes": 481,
+          "raw_sha256": "4eeee9f5b68a6a467fb7f833651fd3527491a034fc447465495bd19643a0629c",
+          "stored_bytes": 302,
+          "stored_sha256": "ad7f1ab1bd7fb12572342b4a8608042a02e6562232d7c6a63a1dfb43aa27c979"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-fresh-isolated-root-1.stdout.gz",
+          "raw_bytes": 712,
+          "raw_sha256": "f14b0aa32eca6e55233a768c8985bfc9ca71a48885fa38d72bac3d86f9427a40",
+          "stored_bytes": 450,
+          "stored_sha256": "607fd49d090825d80e0bd576edf676c27a30892b32a3ac639a86f4ba5a5b2d14"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-fresh-isolated-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/louisiana/data/baselines/reproduce.py"
+      ],
+      "started_utc": "2026-10-20T22:36:37.136295+00:00",
+      "finished_utc": "2026-10-20T22:37:14.261175+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-la-fresh-baseline-reproduce-root-1.result.json.gz",
+          "raw_bytes": 490,
+          "raw_sha256": "260ef55ab1402f1b5acba6221af642b82b16a490df9ab3ff1c882264676d9e8a",
+          "stored_bytes": 298,
+          "stored_sha256": "3d4539ccbcb9a431f9b5679b01cc7bb20834e80af91b2f28c81cfb7d2a539f49"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-fresh-baseline-reproduce-root-1.stdout.gz",
+          "raw_bytes": 14330,
+          "raw_sha256": "e3aded8de3442e09379ce0826289552a11a75ee216991442e0f46a19a59bebfe",
+          "stored_bytes": 3858,
+          "stored_sha256": "ae3efd98a65901725e2a1f641cc1007e5e8d88224e1f7c14de7a0c47f1d00423"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-la-fresh-baseline-reproduce-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    }
+  ]
+}

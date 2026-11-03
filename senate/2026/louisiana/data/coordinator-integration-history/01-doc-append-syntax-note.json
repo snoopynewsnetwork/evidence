@@ -1,0 +1,4 @@
+{
+  "scope": "Coordinator documentation append command only; no producer/source outputs touched",
+  "failure": "Python parse-time SyntaxError from redundant parenthesis in README/strategy append expression; interpreter parsed nothing and changed neither README nor strategy. Exact surrounding prose was subsequently applied with explicit scope variable and existing-heading guards. The research-review Markdown heredocs had completed before this separate Python block."
+}

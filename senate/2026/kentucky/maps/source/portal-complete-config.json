@@ -1,0 +1,38 @@
+[
+  {
+    "attributes": {
+      "name": "layout-editor-engine/config/environment",
+      "content": "%7B%22modulePrefix%22%3A%22layout-editor-engine%22%2C%22environment%22%3A%22production%22%7D"
+    },
+    "decoded_complete_object": {
+      "modulePrefix": "layout-editor-engine",
+      "environment": "production"
+    }
+  },
+  {
+    "attributes": {
+      "name": "opendata-ui/config/asset-manifest",
+      "content": "%7B%22bundles%22%3A%7B%22layout-editor-engine%22%3A%7B%22assets%22%3A%5B%7B%22uri%22%3A%22https%3A//hubcdn.arcgis.com/opendata-ui/assets/engines-dist/layout-editor-engine/assets/engine-df5d6d568a67b740b1bc69b5907d45e8.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A//hubcdn.arcgis.com/opendata-ui/assets/engines-dist/layout-editor-engine/assets/engine-vendor-39c58838e72528ccebe6ce81c86c73c0.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A//hubcdn.arcgis.com/opendata-ui/assets/engines-dist/layout-editor-engine/config/environment-5bb3b01107194718f6f073c51768e0e4.js%22%2C%22type%22%3A%22js%22%7D%5D%7D%7D%7D"
+    },
+    "decoded_complete_object": {
+      "bundles": {
+        "layout-editor-engine": {
+          "assets": [
+            {
+              "uri": "https://hubcdn.arcgis.com/opendata-ui/assets/engines-dist/layout-editor-engine/assets/engine-df5d6d568a67b740b1bc69b5907d45e8.js",
+              "type": "js"
+            },
+            {
+              "uri": "https://hubcdn.arcgis.com/opendata-ui/assets/engines-dist/layout-editor-engine/assets/engine-vendor-39c58838e72528ccebe6ce81c86c73c0.js",
+              "type": "js"
+            },
+            {
+              "uri": "https://hubcdn.arcgis.com/opendata-ui/assets/engines-dist/layout-editor-engine/config/environment-5bb3b01107194718f6f073c51768e0e4.js",
+              "type": "js"
+            }
+          ]
+        }
+      }
+    }
+  }
+]

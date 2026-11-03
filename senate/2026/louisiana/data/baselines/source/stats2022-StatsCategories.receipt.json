@@ -1,0 +1,31 @@
+{
+  "id": "stats2022-StatsCategories",
+  "url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20221108/StatsCategories.htm",
+  "final_url": "https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20221108/StatsCategories.htm",
+  "retrieved_at_utc": "2026-10-20T21:48:10.416075+00:00",
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "5507",
+    "Cache-Control": "public, no-cache=\"Set-Cookie\", max-age=10",
+    "Expires": "Tue, 20 Oct 2026 21:48:20 GMT",
+    "Last-Modified": "Tue, 20 Oct 2026 21:48:10 GMT",
+    "Page-Generation-Time": "23",
+    "X-UA-Compatible": "IE=edge",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Feature-Policy": "accelerometer 'none'; camera 'self'; geolocation 'self'; gyroscope 'none'; magnetometer 'none'; microphone 'self'; payment 'self'; usb 'none'",
+    "Date": "Tue, 20 Oct 2026 21:48:10 GMT",
+    "Connection": "close",
+    "Set-Cookie": "AWSALB=8f4L1JI9SGsnP8MvpihajftO9F9bj/jicA6fkM/dOrvSNHgBrZ0QEhCM237lhp1l41uYNMknC7mYJQzDS4h8mjIeCYrfDLPQYlpxKfQQ/zE7bl4MmX49XYuGfIKW; Expires=Tue, 27 Oct 2026 21:48:10 GMT; Path=/"
+  },
+  "raw_sha256": "cc3c8ac88c4c67e54a8d82d91e32ec158d336058907fb31fb0a06d9cb4fda950",
+  "bytes": 5507,
+  "stored_sha256": "e8eb17106226c758b34c8093fc2ad94a05de23422f82487d181982e8f3c6c8b3",
+  "stored_bytes": 978,
+  "asset": "stats2022-StatsCategories.gz",
+  "redirect_scope": "urllib follows redirects; only final response entity/headers retained"
+}

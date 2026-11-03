@@ -1,0 +1,27 @@
+{
+  "actual_agent_id": "50fd7a21-788d-47d2-b03a-2a379c81a18b",
+  "actual_finished_utc": "2026-10-20T22:01:44.866492+00:00",
+  "status": "worker_complete_root_review_pending",
+  "reported_MF_sha256": "d95ab6f276e4feeea3662671d03c62328ed4ffebc850197fcca34b0919e382dc",
+  "reported_contract_sha256": "69f0244082d967c671fad29bf15bda5941f819271f63c0654366b3202c87337b",
+  "historical_source_primary": {
+    "native_count": 3933,
+    "parents": 64,
+    "denominator": 2006975,
+    "top15_votes": 689455,
+    "minimum80_count": 1516,
+    "minimum80_votes": 1605649,
+    "preceding1515": 1605350,
+    "crossing": "Bienville ward06/precinct03 +299",
+    "remainder_count": 2417,
+    "remainder_votes": 401326,
+    "priority_types": {
+      "ordinary": 1452,
+      "EarlyVoting": 64
+    }
+  },
+  "reported_manifest_scope": "643 targets, excludes only manifest/final-audit per worker; exact membership not yet independently reviewed, potential postseal audit-log exclusion must be investigated without altering originals.",
+  "source_comparison": "Frozen independently derived shared source schema only, not later peer contract/calculator or reciprocal final signoff.",
+  "current_approval": false,
+  "coordinator_acceptance": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sos-public-runtime-script",
+  "url": "https://www.sos.la.gov/scripts/sosscript.js",
+  "retrieved_at_utc": "2026-10-18T22:55:20.485198+00:00",
+  "status": 200,
+  "final_url": "https://www.sos.la.gov/scripts/sosscript.js",
+  "raw_sha256": "ed8f01cef8363a1889213250df9dc1e7bceedbfa9606ee782106f6051b19bb46",
+  "asset": "source/ed8f01cef8363a1889213250df9dc1e7bceedbfa9606ee782106f6051b19bb46.body.gz",
+  "stored_sha256": "cbf0fa5850eb4662202ac089b7dacac7d6f3ff4bfa29f2726ff9b86cd4a6a764",
+  "bytes": 5288,
+  "headers": {
+    "Content-Type": "text/javascript",
+    "Last-Modified": "Mon, 20 Jul 2026 12:11:30 GMT",
+    "Accept-Ranges": "bytes",
+    "ETag": "\"1dd1840e59991a8\"",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups",
+    "Cross-Origin-Resource-Policy": "same-site",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains;",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Encoding": "gzip",
+    "Content-Length": "1630",
+    "Date": "Sun, 18 Oct 2026 22:55:20 GMT",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding"
+  },
+  "original_asset_readonly": "data/news/sos-public-runtime-script.html.gz",
+  "original_stored_sha256": "cbf0fa5850eb4662202ac089b7dacac7d6f3ff4bfa29f2726ff9b86cd4a6a764",
+  "redirect_history_scope": "Legacy receipt preserves final entity and final headers only; intermediate redirect response entities unavailable.",
+  "receipt_scope": "Complete copied individual recovery receipt, not adoption of prepared counts"
+}

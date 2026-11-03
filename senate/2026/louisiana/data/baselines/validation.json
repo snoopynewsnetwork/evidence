@@ -1,0 +1,300 @@
+{
+  "actual_cli_fixture_count": 61,
+  "actual_cli_passed": 61,
+  "fixture_results": "fixtures/results.json",
+  "scenario_checks": [
+    {
+      "scenario": "2020-native-base-native-volume.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.2644469634524155,
+      "residual": 4.4536402343808845e-11,
+      "unit_count": 4062,
+      "passed": true
+    },
+    {
+      "scenario": "2020-native-base-native-volume.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2698696415082989,
+      "residual": -4.001776687800884e-11,
+      "unit_count": 4062,
+      "passed": true
+    },
+    {
+      "scenario": "2020-native-high-1.2-native-volume-early1.25.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.25889945289904803,
+      "residual": -2.0665321537327586e-10,
+      "unit_count": 4062,
+      "passed": true
+    },
+    {
+      "scenario": "2020-native-high-1.2-native-volume-early1.25.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2643211596444269,
+      "residual": -1.0913936421275139e-10,
+      "unit_count": 4062,
+      "passed": true
+    },
+    {
+      "scenario": "2020-native-low-0.8-native-volume.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.26444696345241786,
+      "residual": 3.51092054734492e-11,
+      "unit_count": 4062,
+      "passed": true
+    },
+    {
+      "scenario": "2020-native-low-0.8-native-volume.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.26986964150830123,
+      "residual": -3.092281986027956e-11,
+      "unit_count": 4062,
+      "passed": true
+    },
+    {
+      "scenario": "2020-parish-base-2024-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.2601191488194843,
+      "residual": -1.0135181582882069e-10,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2020-parish-base-2024-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2651191488194843,
+      "residual": -3.092281986027956e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2020-parish-high-2020-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.2572030559035144,
+      "residual": -1.907949354063021e-10,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2020-parish-high-2020-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2622030559035144,
+      "residual": 1.9281287677586079e-10,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2020-parish-low-2022-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.2587602603579872,
+      "residual": 1.9885870727875954e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2020-parish-low-2022-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.26376026035798716,
+      "residual": -9.094947017729282e-12,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2022-native-base-native-volume.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.286910613598018,
+      "residual": 7.15015824326315e-11,
+      "unit_count": 4065,
+      "passed": true
+    },
+    {
+      "scenario": "2022-native-base-native-volume.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.292354677033349,
+      "residual": -5.275069270282984e-11,
+      "unit_count": 4065,
+      "passed": true
+    },
+    {
+      "scenario": "2022-native-high-1.2-native-volume-early1.25.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.2874562271176042,
+      "residual": 2.4947290760968244e-11,
+      "unit_count": 4065,
+      "passed": true
+    },
+    {
+      "scenario": "2022-native-high-1.2-native-volume-early1.25.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2928840393300231,
+      "residual": -1.3460521586239338e-10,
+      "unit_count": 4065,
+      "passed": true
+    },
+    {
+      "scenario": "2022-native-low-0.8-native-volume.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.28691061359801623,
+      "residual": 5.582397218095725e-11,
+      "unit_count": 4065,
+      "passed": true
+    },
+    {
+      "scenario": "2022-native-low-0.8-native-volume.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2923546770333471,
+      "residual": -4.3655745685100555e-11,
+      "unit_count": 4065,
+      "passed": true
+    },
+    {
+      "scenario": "2022-parish-base-2024-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.2768602755134743,
+      "residual": 1.3302425827532716e-10,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2022-parish-base-2024-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2818676342232456,
+      "residual": 2.000888343900442e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2022-parish-high-2020-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.27438258639247615,
+      "residual": 7.058531537040835e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2022-parish-high-2020-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2793825863924761,
+      "residual": 1.0186340659856796e-10,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2022-parish-low-2022-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.2752091258906455,
+      "residual": -4.915534645988373e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2022-parish-low-2022-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.2802091258906455,
+      "residual": -1.6370904631912708e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2024-native-base-native-volume.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.11428825630382322,
+      "residual": -4.163439037974115e-11,
+      "unit_count": 3933,
+      "passed": true
+    },
+    {
+      "scenario": "2024-native-base-native-volume.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.11957061240784235,
+      "residual": 3.2741809263825417e-11,
+      "unit_count": 3933,
+      "passed": true
+    },
+    {
+      "scenario": "2024-native-high-1.2-native-volume-early1.25.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.11462410999484533,
+      "residual": -2.355247941121519e-12,
+      "unit_count": 3933,
+      "passed": true
+    },
+    {
+      "scenario": "2024-native-high-1.2-native-volume-early1.25.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.11987485678694389,
+      "residual": 4.001776687800884e-11,
+      "unit_count": 3933,
+      "passed": true
+    },
+    {
+      "scenario": "2024-native-low-0.8-native-volume.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.11428825630382203,
+      "residual": -3.7760836124611785e-11,
+      "unit_count": 3933,
+      "passed": true
+    },
+    {
+      "scenario": "2024-native-low-0.8-native-volume.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.11957061240784118,
+      "residual": 1.2732925824820995e-11,
+      "unit_count": 3933,
+      "passed": true
+    },
+    {
+      "scenario": "2024-parish-base-2024-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.11178510409415934,
+      "residual": -2.6014745913016668e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2024-parish-base-2024-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.11678510409415933,
+      "residual": -1.8189894035458565e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2024-parish-high-2020-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.10868674886255479,
+      "residual": -9.251266419596504e-12,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2024-parish-high-2020-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.11368674886255477,
+      "residual": -7.275957614183426e-12,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2024-parish-low-2022-volume-mix.input.json.gz",
+      "target": 0,
+      "independent_shift": 0.11034671233919063,
+      "residual": -2.1453061549436825e-11,
+      "unit_count": 64,
+      "passed": true
+    },
+    {
+      "scenario": "2024-parish-low-2022-volume-mix.input.json.gz",
+      "target": 0.01,
+      "independent_shift": 0.11534671233919062,
+      "residual": -1.6370904631912708e-11,
+      "unit_count": 64,
+      "passed": true
+    }
+  ],
+  "selected_only_checks": 73512,
+  "selected_only_residual_failures": 0,
+  "failures": [],
+  "passed": true,
+  "scope": "Arithmetic and supplied historical fields only; no calibrated probability, legal call, 2026 turnout/current geometry or future outcome validation"
+}

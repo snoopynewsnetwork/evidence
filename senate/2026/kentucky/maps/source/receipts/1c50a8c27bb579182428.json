@@ -1,0 +1,146 @@
+{
+  "role": "LRC-GIS-parent",
+  "request": {
+    "url": "https://legislature.ky.gov/Public%20Services/GIS/Pages/default.aspx",
+    "method": "GET",
+    "body_utf8": null,
+    "configured_headers": {
+      "User-Agent": "Kentucky-map-source-research/1.0",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "options": {
+      "automatic_redirects": false,
+      "maximum_observed_hops": 8,
+      "read_only_public_source": true
+    }
+  },
+  "started_utc": "2026-10-20T22:33:43.243205+00:00",
+  "hops": [
+    {
+      "request_url": "https://legislature.ky.gov/Public%20Services/GIS/Pages/default.aspx",
+      "request_method": "GET",
+      "request_body_utf8": null,
+      "configured_headers": {
+        "User-Agent": "Kentucky-map-source-research/1.0",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:33:43.246309+00:00",
+      "status": 200,
+      "response_url": "https://legislature.ky.gov/Public%20Services/GIS/Pages/default.aspx",
+      "headers": [
+        [
+          "Date",
+          "Tue, 20 Oct 2026 22:33:44 GMT"
+        ],
+        [
+          "Content-Type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "Content-Length",
+          "61742"
+        ],
+        [
+          "Connection",
+          "close"
+        ],
+        [
+          "Set-Cookie",
+          "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure"
+        ],
+        [
+          "Set-Cookie",
+          "ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/"
+        ],
+        [
+          "Cache-Control",
+          "private"
+        ],
+        [
+          "Expires",
+          "Tue, 20 Oct 2026 22:39:44 GMT"
+        ],
+        [
+          "Vary",
+          "*"
+        ],
+        [
+          "X-SharePointHealthScore",
+          "0"
+        ],
+        [
+          "X-AspNet-Version",
+          "4.0.30319"
+        ],
+        [
+          "SPRequestGuid",
+          "fdd946a2-cc21-b05c-bfd1-8938afb306cc"
+        ],
+        [
+          "request-id",
+          "fdd946a2-cc21-b05c-bfd1-8938afb306cc"
+        ],
+        [
+          "X-FRAME-OPTIONS",
+          "SAMEORIGIN"
+        ],
+        [
+          "Content-Security-Policy",
+          "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
+        ],
+        [
+          "SPRequestDuration",
+          "195"
+        ],
+        [
+          "SPIisLatency",
+          "16"
+        ],
+        [
+          "Set-Cookie",
+          "_InfoPath_Sentinel=; path=/"
+        ],
+        [
+          "X-Powered-By",
+          "ASP.NET"
+        ],
+        [
+          "MicrosoftSharePointTeamServices",
+          "16.0.0.20326"
+        ],
+        [
+          "X-Content-Type-Options",
+          "nosniff"
+        ],
+        [
+          "X-MS-InvokeApp",
+          "1; RequireReadOnly"
+        ],
+        [
+          "x-azure-ref",
+          "20261020T223344Z-174b95d58c8lvwqxhC1CH1ue8w0000001ff0000000002xpu"
+        ],
+        [
+          "X-Cache",
+          "CONFIG_NOCACHE"
+        ],
+        [
+          "Accept-Ranges",
+          "bytes"
+        ]
+      ],
+      "ended_utc": "2026-10-20T22:33:44.416918+00:00",
+      "entity": {
+        "path": "source/bodies/07f5cb993afb0c5434b7d2d820f42bfa438fd16497d9746d8ea160db9318ddf3.gz",
+        "raw_bytes": 61742,
+        "raw_sha256": "07f5cb993afb0c5434b7d2d820f42bfa438fd16497d9746d8ea160db9318ddf3",
+        "stored_bytes": 25441,
+        "stored_sha256": "f88da1329ea4b7055b10b9b39f1339ff34a70750c0e68ebd83e2d3170e638b15"
+      }
+    }
+  ],
+  "wire_bytes_available": false,
+  "body_semantics": "Full HTTP response entity bytes returned by urllib; no invented transport/TLS metadata.",
+  "ended_utc": "2026-10-20T22:33:44.418083+00:00"
+}

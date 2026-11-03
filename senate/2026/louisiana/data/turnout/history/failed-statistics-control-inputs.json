@@ -1,0 +1,50 @@
+[
+  {
+    "year": "2024",
+    "field": "All",
+    "stats_state": "3046376",
+    "stats_parish_sum": 3046376,
+    "race_high": "3046376",
+    "race_parish_sum": 3046376
+  },
+  {
+    "year": "2024",
+    "field": "All_Voted",
+    "stats_state": "2021164",
+    "stats_parish_sum": 2021164,
+    "race_high": "2021164",
+    "race_parish_sum": 2021164
+  },
+  {
+    "year": "2022",
+    "field": "All",
+    "stats_state": "3018815",
+    "stats_parish_sum": 3018815,
+    "race_high": "3018815",
+    "race_parish_sum": 3018815
+  },
+  {
+    "year": "2022",
+    "field": "All_Voted",
+    "stats_state": "1410476",
+    "stats_parish_sum": 1410476,
+    "race_high": "1410466",
+    "race_parish_sum": 1410466
+  },
+  {
+    "year": "2020",
+    "field": "All",
+    "stats_state": "3093003",
+    "stats_parish_sum": 3093003,
+    "race_high": "3092988",
+    "race_parish_sum": 3092988
+  },
+  {
+    "year": "2020",
+    "field": "All_Voted",
+    "stats_state": "2169400",
+    "stats_parish_sum": 2169400,
+    "race_high": "2169413",
+    "race_parish_sum": 2169413
+  }
+]
