@@ -1,0 +1,50 @@
+{
+  "id": "644c102376e5f90d",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Taylor.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:58.315069+00:00",
+  "role": "2024 county recap: Taylor",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Taylor.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:59 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:58 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:16 GMT",
+        "ETag": "W/\"{E29C8603-8110-4031-AFCC-FDF6DEDF61BB},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:E29C8603-8110-4031-AFCC-FDF6DEDF61BB@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d3d546a2-8c48-b05c-6baa-2cb59fe7d956",
+        "request-id": "d3d546a2-8c48-b05c-6baa-2cb59fe7d956",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "452",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212058Z-174c78c4ddcc65dchC1CHInn100000001pfg0000000022w3",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "ee8ed4aeae6828c6b4144f38ce2caddd8e143e93b179ac44bbdc8cc15bcad26f",
+      "raw_bytes": 736605,
+      "body": "source/bodies/ee8ed4aeae6828c6b4144f38ce2caddd8e143e93b179ac44bbdc8cc15bcad26f.gz",
+      "stored_sha256": "227307d855d91617d333dd6e99568e48478678a3233ec7d6a695b3def4066113",
+      "stored_bytes": 633858
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Taylor.pdf",
+  "status": 200
+}

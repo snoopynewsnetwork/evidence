@@ -1,0 +1,23 @@
+{
+  "scope": "Bounded captured-final SOURCE CORE only; no calculator/scenario/target/outcome or current/future equality conclusions",
+  "worker_agent_id": "b2a7de63-14d6-4adf-9164-6a199028479d",
+  "peer_agent_id": "ce1620b8-8df0-406b-bdb1-a8522aeea2f4",
+  "own_pre_resume_manifest_sha256": "9721574f385847d85c2cea99e8704425838138d10e9958a81a2586e9fa9629e2",
+  "own_pre_resume_body_index_sha256": "7300ad31726da3bf49babc5ecf6e3d3019405b8c82b4f33368fa9e10220141b9",
+  "peer_final_manifest_sha256": "9415e66193d21382abc5bc9f5ab97b3943ce2498c64e33acb3aade7dfdf5b2a4",
+  "peer_finalseal_sha256": "57c55633ae06cb3799061f258ebe15fd2246549e5e59547070bab6d7312c4f68",
+  "peer_complete_body_index_sha256": "fdd06295b6e741eb146080396ca6a0e945766566f06f35b0027e8a19496f3938",
+  "source_core_result": "PASS: complete original bytes/positions/counts/headers/parties/method/admin/statistical fields in common context verified;88literal/schema differences retained exactly",
+  "comparison_summary": "reciprocal/comparison/summary.json",
+  "full_parent_packets": "reciprocal/comparison/all120-complete-parent-child-packets.jsonl.gz",
+  "full_statistical_child_arrays": "reciprocal/comparison/all120-statistical-child-arrays.jsonl.gz",
+  "full_order_packets": "reciprocal/comparison/complete-source-orders.jsonl.gz",
+  "original_replay": "reciprocal/replay/result.json",
+  "complete_corruption_fixtures": "reciprocal/fixtures/summary.json",
+  "own_qualified_native": "3220source slices /2042278reported marks, noncanonical",
+  "peer_qualified_native": "3150accepted contexts incl23zero-pair/3127positive; excludes70Laurel/Madison plusScott; distinct noncanonical scope",
+  "peer_reverse_proof": "Captured historical stable-v1/v2 only; no current/future body equality inferred",
+  "independent_complete_native_agreement": false,
+  "coordinator_acceptance": false,
+  "all_original_numeric_source_order_null_mask_admin_fields_unchanged": true
+}

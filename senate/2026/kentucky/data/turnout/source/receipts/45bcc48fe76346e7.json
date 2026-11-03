@@ -1,0 +1,50 @@
+{
+  "id": "45bcc48fe76346e7",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Livingston.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:35.943907+00:00",
+  "role": "2024 county recap: Livingston",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Livingston.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:36 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:36 GMT",
+        "Last-Modified": "Mon, 17 Mar 2025 19:39:11 GMT",
+        "ETag": "W/\"{318AA610-BF32-410E-955E-056F1A09D12A},3\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:318AA610-BF32-410E-955E-056F1A09D12A@00000000003",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cdd546a2-6cd1-b05c-bfd1-86b60dbf3bac",
+        "request-id": "cdd546a2-6cd1-b05c-bfd1-86b60dbf3bac",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "36",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212035Z-r1cf8987fd5f8v8lhC1CHIwaqg00000018c0000000000f7y",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "cbc110f1541e9e3a218a18990846717f1e5dddf973c8e6f66e84bb4ad81f90cb",
+      "raw_bytes": 408340,
+      "body": "source/bodies/cbc110f1541e9e3a218a18990846717f1e5dddf973c8e6f66e84bb4ad81f90cb.gz",
+      "stored_sha256": "15612435a77bd11905ee118204d876583fac2e75e8846e9ff131482f673f82d8",
+      "stored_bytes": 360874
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Livingston.pdf",
+  "status": 200
+}

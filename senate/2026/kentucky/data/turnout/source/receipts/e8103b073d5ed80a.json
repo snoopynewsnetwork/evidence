@@ -1,0 +1,48 @@
+{
+  "id": "e8103b073d5ed80a",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "retrieved_at_utc": "2026-10-20T21:19:37.492922+00:00",
+  "role": "2024-recaps",
+  "parent": null,
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:38 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private, max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:37 GMT",
+        "Last-Modified": "Tue, 20 Oct 2026 21:19:37 GMT",
+        "X-SharePointHealthScore": "0",
+        "X-AspNet-Version": "4.0.30319",
+        "SPRequestGuid": "bfd546a2-7c94-b05c-bfd1-8aa07bcdbe68",
+        "request-id": "bfd546a2-7c94-b05c-bfd1-8aa07bcdbe68",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "303",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211937Z-174b95d58c8m2lhbhC1CH1t1q80000000900000000002gg5",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "1bc38f936ebddf040b06454e75f8cca50cd9d97755680ee7c212ad1ee8171a50",
+      "raw_bytes": 118515,
+      "body": "source/bodies/1bc38f936ebddf040b06454e75f8cca50cd9d97755680ee7c212ad1ee8171a50.gz",
+      "stored_sha256": "9366030bec825fc8c0caf2a1518011a04c7ff3142cea7a553475ce73a2ee831a",
+      "stored_bytes": 49864
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "status": 200
+}

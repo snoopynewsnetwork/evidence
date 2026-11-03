@@ -1,0 +1,770 @@
+[
+  {
+    "label": "Adair",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Adair.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Allen",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Allen.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Anderson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Anderson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Ballard",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Ballard.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Barren",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Barren.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Bath",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bath.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Bell",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bell.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Boone",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boone.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Bourbon",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bourbon.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Boyd",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boyd.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Boyle",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boyle.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Bracken",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bracken.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Breathitt",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Breathitt.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Breckinridge",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Breckinridge.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Bullitt",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bullitt.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Butler",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Butler.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Caldwell",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Caldwell.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Calloway",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Calloway.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Campbell",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Campbell.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Carlisle",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carlisle.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Carroll",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carroll.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Carter",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carter.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Casey",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Casey.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Christian",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Christian.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Clark",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Clark.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Clay",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Clay.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Clinton",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Clinton.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Crittenden",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Crittenden.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Cumberland",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Cumberland.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Daviess",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Daviess.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Edmonson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Edmonson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Elliott",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Elliott.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Estill",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Estill.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Fayette",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fayette.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Fleming",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fleming.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Floyd",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Floyd.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Franklin",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Franklin.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Fulton",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fulton.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Gallatin",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Gallatin.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Garrard",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Garrard.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Grant",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Grant.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Graves",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Graves.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Grayson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Grayson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Green",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Green.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Greenup",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Greenup.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Hancock",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hancock.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Hardin",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hardin.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Harlan",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Harlan.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Harrison",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Harrison.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Hart",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hart.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Henderson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Henderson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Henry",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Henry.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Hickman",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hickman.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Hopkins",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hopkins.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Jackson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jackson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Jefferson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jefferson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Jessamine",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jessamine.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Johnson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Johnson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Kenton",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Kenton.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Knott",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Knott.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Knox",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Knox.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "LaRue",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/LaRue.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Laurel",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Laurel.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Lawrence",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Lawrence.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Lee",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Lee.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Leslie",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Leslie.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Letcher",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Letcher.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Lewis",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Lewis.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Lincoln",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Lincoln.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Livingston",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Livingston.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Logan",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Logan.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Lyon",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Lyon.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Madison",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Madison.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Magoffin",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Magoffin.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Marion",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Marion.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Marshall",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Marshall.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Martin",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Martin.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Mason",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Mason.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "McCracken",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McCracken.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "McCreary",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McCreary.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "McLean",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McLean.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Meade",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Meade.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Menifee",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Menifee.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Mercer",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Mercer.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Metcalfe",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Metcalfe.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Monroe",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Monroe.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Montgomery",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Montgomery.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Morgan",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Morgan.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Muhlenberg",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Muhlenberg.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Nelson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Nelson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Nicholas",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Nicholas.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Ohio",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Ohio.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Oldham",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Oldham.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Owen",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Owen.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Owsley",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Owsley.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Pendleton",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pendleton.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Perry",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Perry.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Pike",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pike.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Powell",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Powell.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Pulaski",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pulaski.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Robertson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Robertson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Rockcastle",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Rockcastle.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Rowan",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Rowan.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Russell",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Russell.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Scott",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Scott.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Shelby",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Shelby.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Simpson",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Simpson.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Spencer",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Spencer.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Taylor",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Taylor.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Todd",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Todd.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Trigg",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Trigg.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Trimble",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Trimble.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Union",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Union.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Warren",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Warren.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Washington",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Washington.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Wayne",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Wayne.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Webster",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Webster.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Whitley",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Whitley.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Wolfe",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Wolfe.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "Woodford",
+    "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Woodford.pdf",
+    "role": "2024 county recap",
+    "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx"
+  },
+  {
+    "label": "General Voter Turnout by Precinct",
+    "url": "https://elect.ky.gov/Resources/Documents/2024G%20Voter%20Turnout%20by%20Precinct.pdf",
+    "role": "unofficial turnout sensitivity",
+    "parent": "https://elect.ky.gov/Resources/Pages/Turnout.aspx"
+  },
+  {
+    "label": "General Voter Turnout by County",
+    "url": "https://elect.ky.gov/Resources/Documents/2024G%20Voter%20Turnout%20by%20County.pdf",
+    "role": "unofficial turnout sensitivity",
+    "parent": "https://elect.ky.gov/Resources/Pages/Turnout.aspx"
+  },
+  {
+    "label": "General Voter Turnout by Precinct",
+    "url": "https://elect.ky.gov/Resources/Documents/voterturnoutprecinct-2022G-20221227-014251.pdf",
+    "role": "unofficial turnout sensitivity",
+    "parent": "https://elect.ky.gov/Resources/Pages/Turnout.aspx"
+  },
+  {
+    "label": "General Voter Turnout by County",
+    "url": "https://elect.ky.gov/Resources/Documents/voterturnoutcounty-2022G-20221227-014248.pdf",
+    "role": "unofficial turnout sensitivity",
+    "parent": "https://elect.ky.gov/Resources/Pages/Turnout.aspx"
+  },
+  {
+    "label": "General Voter Turnout by Precinct",
+    "url": "https://elect.ky.gov/Resources/Documents/2020G%20Turnout%20by%20Precinct.pdf",
+    "role": "unofficial turnout sensitivity",
+    "parent": "https://elect.ky.gov/Resources/Pages/Turnout.aspx"
+  },
+  {
+    "label": "General Voter Turnout by County",
+    "url": "https://elect.ky.gov/Resources/Documents/2020G%20Turnout%20by%20County.pdf",
+    "role": "unofficial turnout sensitivity",
+    "parent": "https://elect.ky.gov/Resources/Pages/Turnout.aspx"
+  },
+  {
+    "label": "By County",
+    "url": "https://elect.ky.gov/Resources/Documents/voterstatscounty-November%20General%202024.pdf",
+    "role": "general registration sensitivity",
+    "parent": "https://elect.ky.gov/Resources/Pages/Registration-Statistics.aspx"
+  },
+  {
+    "label": "By Precinct",
+    "url": "https://elect.ky.gov/Resources/Documents/voterstatsprecinct-November%20General%202024.pdf",
+    "role": "general registration sensitivity",
+    "parent": "https://elect.ky.gov/Resources/Pages/Registration-Statistics.aspx"
+  }
+]

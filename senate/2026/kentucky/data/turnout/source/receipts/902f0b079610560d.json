@@ -1,0 +1,50 @@
+{
+  "id": "902f0b079610560d",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Marshall.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:38.892221+00:00",
+  "role": "2024 county recap: Marshall",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Marshall.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:39 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:39 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:09 GMT",
+        "ETag": "W/\"{852E14D1-4ECE-4271-A2A1-07F2F80B886B},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:852E14D1-4ECE-4271-A2A1-07F2F80B886B@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "ced546a2-4c89-b05c-bfd1-817b80b258e0",
+        "request-id": "ced546a2-4c89-b05c-bfd1-817b80b258e0",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "591",
+        "SPIisLatency": "14",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212038Z-r1cf8987fd5fqp56hC1CHIhrrc00000006eg000000009sk1",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "f2aa829f45e44498ec6694cf3b1a364fc9c48eb9099020de3b330347f402b4c1",
+      "raw_bytes": 944927,
+      "body": "source/bodies/f2aa829f45e44498ec6694cf3b1a364fc9c48eb9099020de3b330347f402b4c1.gz",
+      "stored_sha256": "3c89d0fb19700b54e3a842d0b0271c31933219d2a9c9d3e868b1cbf3f1467cdb",
+      "stored_bytes": 786724
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Marshall.pdf",
+  "status": 200
+}

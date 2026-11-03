@@ -1,0 +1,50 @@
+{
+  "id": "89a4bd122f73cabf",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Shelby.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:55.705610+00:00",
+  "role": "2024 county recap: Shelby",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Shelby.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:56 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:55 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:15 GMT",
+        "ETag": "W/\"{046396FB-217E-4274-A5EF-58DA067820F8},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:046396FB-217E-4274-A5EF-58DA067820F8@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d2d546a2-1ca6-b05c-6baa-2d78a532598b",
+        "request-id": "d2d546a2-1ca6-b05c-6baa-2d78a532598b",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "787",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212055Z-17d5c4ffc576qd2nhC1CH1ft6400000020400000000007sg",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "420a6b90c8745780f0f25b14a866beead9d641a717bd3dd0cad57b10bd229503",
+      "raw_bytes": 1239173,
+      "body": "source/bodies/420a6b90c8745780f0f25b14a866beead9d641a717bd3dd0cad57b10bd229503.gz",
+      "stored_sha256": "f792cd9717fe39d440c23dfb2f90823f6bca386dc267aa0e0001e0bce178af6d",
+      "stored_bytes": 1039337
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Shelby.pdf",
+  "status": 200
+}

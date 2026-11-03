@@ -1,0 +1,50 @@
+{
+  "id": "d8da19c4c9d402e9",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bell.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:43.585232+00:00",
+  "role": "2024 county recap: Bell",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bell.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:44 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:43 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:02 GMT",
+        "ETag": "W/\"{77D2E1F8-9895-453F-B72A-58F56B0C1A46},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:77D2E1F8-9895-453F-B72A-58F56B0C1A46@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c1d546a2-fc03-b05c-6baa-288112db6fc1",
+        "request-id": "c1d546a2-fc03-b05c-6baa-288112db6fc1",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "744",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211943Z-174b95d58c8mpq4mhC1CH18fv80000001efg000000000z2y",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "dbbd8afb3ca046efc585bcd5c4119ffd2229c909881490e8463fee6260850137",
+      "raw_bytes": 1108437,
+      "body": "source/bodies/dbbd8afb3ca046efc585bcd5c4119ffd2229c909881490e8463fee6260850137.gz",
+      "stored_sha256": "4e080d39fcf2709b268d7d334d1d7d41b82cb4aa977d0a0e84bcc9f57f17851c",
+      "stored_bytes": 944453
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bell.pdf",
+  "status": 200
+}

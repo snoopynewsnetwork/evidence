@@ -1,0 +1,50 @@
+{
+  "id": "fd4a53fdd55023a6",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Warren.pdf",
+  "retrieved_at_utc": "2026-10-20T21:21:02.036937+00:00",
+  "role": "2024 county recap: Warren",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Warren.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:21:02 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:21:02 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:18 GMT",
+        "ETag": "W/\"{13163555-76BD-4DA9-9662-BA99EBCD6870},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:13163555-76BD-4DA9-9662-BA99EBCD6870@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d4d546a2-bc30-b05c-bfd1-881f671816ea",
+        "request-id": "d4d546a2-bc30-b05c-bfd1-881f671816ea",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "57",
+        "SPIisLatency": "13",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212102Z-174c78c4ddc7mbc4hC1CHI129g0000000ccg000000000rw7",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "79de7e7ecec2893a59f741ad9c44465ee5d15ea69594ef7333244764abc1167f",
+      "raw_bytes": 1624177,
+      "body": "source/bodies/79de7e7ecec2893a59f741ad9c44465ee5d15ea69594ef7333244764abc1167f.gz",
+      "stored_sha256": "94cd2ab525013ab8152ddfada4a5aa63607e702222bdebf34ce613d5c6d8da61",
+      "stored_bytes": 1363613
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Warren.pdf",
+  "status": 200
+}

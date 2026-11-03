@@ -1,0 +1,50 @@
+{
+  "id": "29aa7bea247c3623",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/LaRue.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:32.022350+00:00",
+  "role": "2024 county recap: LaRue",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/LaRue.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:32 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:32 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:01 GMT",
+        "ETag": "W/\"{6A30891E-EE78-4159-BDDB-707A6586018F},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:6A30891E-EE78-4159-BDDB-707A6586018F@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "ccd546a2-fcd7-b05c-bfd1-871df514fae4",
+        "request-id": "ccd546a2-fcd7-b05c-bfd1-871df514fae4",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "342",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212032Z-r1cf8987fd52r7dthC1CHIsdww000000020g0000000065d2",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "92976fbe3c503899fe131b254b02d992050637745e8225bfd02c2d02287303f4",
+      "raw_bytes": 508672,
+      "body": "source/bodies/92976fbe3c503899fe131b254b02d992050637745e8225bfd02c2d02287303f4.gz",
+      "stored_sha256": "dfb5ed48c90bea9699a1a39b3927eab16e241215f8c2330c0a0f1865f9aae580",
+      "stored_bytes": 446009
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/LaRue.pdf",
+  "status": 200
+}

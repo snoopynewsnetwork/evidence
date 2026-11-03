@@ -1,0 +1,10 @@
+all fixed files and complete companions PASS
+all whole historical gzip/tar bodies PASS
+Ordered partitions passed through 4,500,000 references.
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/maps/scripts/replay_authority.py", line 60, in <module>
+    if __name__=='__main__':main()
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/maps/scripts/replay_authority.py", line 44, in main
+    ptr,value=next(expected);assert ptr==r['pointer'],('order',current,ptr,r['pointer']);assert sem(value)==r['full_recursive_semantic_sha256'],('semantic',current,ptr)
+AssertionError: ('order', 'data/turnout/priority-set.json', '/state', '')
+Cause: initial 31 root-field semantic entries and later complete priority companion use different reference traversal entry points. Narrow adapter fix limits root-field entry mode to first source-file occurrence. Source untouched.

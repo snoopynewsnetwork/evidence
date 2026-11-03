@@ -1,0 +1,50 @@
+{
+  "id": "d58392a14c53434b",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hart.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:24.353971+00:00",
+  "role": "2024 county recap: Hart",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hart.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:24 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:24 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:12 GMT",
+        "ETag": "W/\"{697C42BE-B2D4-41BD-AC1E-E9CE25B4E83A},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:697C42BE-B2D4-41BD-AC1E-E9CE25B4E83A@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cad546a2-6cf7-b05c-bfd1-8fc791eab2d2",
+        "request-id": "cad546a2-6cf7-b05c-bfd1-8fc791eab2d2",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "287",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212024Z-174b95d58c8vj4z7hC1CH1etkc0000001eeg000000002s9m",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "0cd65576b788de4d94f01ebeb9d4c5f00d9bc08147c34e9533d2651cbec79abc",
+      "raw_bytes": 478976,
+      "body": "source/bodies/0cd65576b788de4d94f01ebeb9d4c5f00d9bc08147c34e9533d2651cbec79abc.gz",
+      "stored_sha256": "bb924eb9743e987158d2988efd40050584f952eda9fbdb858718e27370da472b",
+      "stored_bytes": 462837
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hart.pdf",
+  "status": 200
+}

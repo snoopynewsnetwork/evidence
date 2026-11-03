@@ -1,0 +1,100 @@
+[
+  {
+    "object_ids": [
+      149,
+      2259
+    ],
+    "intersection_area_in_native_crs_units_squared": 0.049886798681250594
+  },
+  {
+    "object_ids": [
+      469,
+      2662
+    ],
+    "intersection_area_in_native_crs_units_squared": 244.53281486412212
+  },
+  {
+    "object_ids": [
+      511,
+      2684
+    ],
+    "intersection_area_in_native_crs_units_squared": 41.268788990544294
+  },
+  {
+    "object_ids": [
+      723,
+      724
+    ],
+    "intersection_area_in_native_crs_units_squared": 0.00947547405134053
+  },
+  {
+    "object_ids": [
+      2151,
+      4502
+    ],
+    "intersection_area_in_native_crs_units_squared": 3.343965571643376
+  },
+  {
+    "object_ids": [
+      5360,
+      5361
+    ],
+    "intersection_area_in_native_crs_units_squared": 76157.43351636773
+  },
+  {
+    "object_ids": [
+      5362,
+      5363
+    ],
+    "intersection_area_in_native_crs_units_squared": 2551.657084877654
+  },
+  {
+    "object_ids": [
+      5364,
+      5365
+    ],
+    "intersection_area_in_native_crs_units_squared": 0.04598727596743279
+  },
+  {
+    "object_ids": [
+      5366,
+      5367
+    ],
+    "intersection_area_in_native_crs_units_squared": 404.2085950222951
+  },
+  {
+    "object_ids": [
+      5368,
+      5369
+    ],
+    "intersection_area_in_native_crs_units_squared": 82.18817513078652
+  },
+  {
+    "object_ids": [
+      5370,
+      5371
+    ],
+    "intersection_area_in_native_crs_units_squared": 8761.316109545625
+  },
+  {
+    "object_ids": [
+      5372,
+      5373
+    ],
+    "intersection_area_in_native_crs_units_squared": 163.21334646056914
+  },
+  {
+    "object_ids": [
+      5374,
+      5375
+    ],
+    "intersection_area_in_native_crs_units_squared": 59.65334798709146
+  },
+  {
+    "object_ids": [
+      5376,
+      5377
+    ],
+    "intersection_area_in_native_crs_units_squared": 27.99111814066189
+  }
+]

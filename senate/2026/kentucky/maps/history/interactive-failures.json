@@ -1,0 +1,8 @@
+{
+  "scope": "Exploratory read-only adapters failed; no source or peer bytes changed. Controlling source inputs remain original paths in the authority and complete owned HTTP receipts.",
+  "failures": [
+    {"code": "[(x['path'],x['source_ids']) for x in a['complete_original_entity_roles'][:30]]", "error": "KeyError: 'source_ids'", "cause": "Original role objects have distinct literal schemas; optional source_ids cannot be assumed.", "fix": "Do not project original roles; complete replay reads full objects and tests mandatory raw/stored fields."},
+    {"code": "s=raw(fetch('https://www.kygeonet.ky.gov/','KYGeoNet-parent')).decode(errors='replace')", "error": "AttributeError: 'NoneType' object has no attribute 'decode'", "cause": "Bounded HTTP acquisition returned no response entity. Complete no-body-failure receipts retained.", "fix": "Keep source unavailable; use actual DGI authority/open-data chain without synthesizing missing metadata."},
+    {"code": "d=fitz.open(stream=body(ROOT/r['entity']['path']),filetype='pdf'); pages=[{'page':i+1,'complete_link_annotations':p.get_links(),'all_text_urls':re.findall(r'https?://[^\\s<>]+',p.get_text())} for i,p in enumerate(d)]; save(ROOT/'documents/complete-link-annotations.json',pages)", "error": "TypeError: Object of type Rect is not JSON serializable", "cause": "PyMuPDF link annotation contains typed Rect/Point objects.", "fix": "Inspect reader constructor/type and serialize every Rect/Point coordinate without reducing precision. Original annotation objects remain fully recoverable from complete original PDFs."}
+  ]
+}

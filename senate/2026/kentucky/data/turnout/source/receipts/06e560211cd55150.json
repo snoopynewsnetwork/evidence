@@ -1,0 +1,50 @@
+{
+  "id": "06e560211cd55150",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Wolfe.pdf",
+  "retrieved_at_utc": "2026-10-20T21:21:04.723011+00:00",
+  "role": "2024 county recap: Wolfe",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Wolfe.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:21:04 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:21:04 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:17 GMT",
+        "ETag": "W/\"{788158CA-51D9-4305-94BF-52C81929DD9B},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:788158CA-51D9-4305-94BF-52C81929DD9B@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d4d546a2-9cd2-b05c-6baa-26319fe755ce",
+        "request-id": "d4d546a2-9cd2-b05c-6baa-26319fe755ce",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "84",
+        "SPIisLatency": "13",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212104Z-174c78c4ddcgg45bhC1CHI6rwn0000000220000000008efx",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "bcacf9af7ff4bd1f63745a3b6eaf3621157493e57950f49d85483aad32d7606f",
+      "raw_bytes": 75879,
+      "body": "source/bodies/bcacf9af7ff4bd1f63745a3b6eaf3621157493e57950f49d85483aad32d7606f.gz",
+      "stored_sha256": "fad5c00fab2c72c1d832c651e14ddac5f4703f23a56c2f97726c4d020b0c2f48",
+      "stored_bytes": 64603
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Wolfe.pdf",
+  "status": 200
+}

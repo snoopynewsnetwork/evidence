@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/reciprocal/scripts/reconcile.py", line 107, in <module>
+    summary['critical_difference_count']=len(critical);save('summary.json',summary);print(json.dumps({k:v for k,v in summary.items() if k not in ['peer_unresolved_contexts_excluded']},indent=2));assert not critical,critical[:2]
+                                                                                                                                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: [{'class': 'certificate_scope', 'source_key': ('69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1', 7, 49, 1), 'own': 'state_footer', 'captured_peer': 'state-footer'}, {'class': 'certificate_county_literal', 'source_key': ('69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1', 7, 49, 1), 'own': None, 'captured_peer': 'Total Votes'}]

@@ -1,0 +1,48 @@
+{
+  "id": "169aede87bd0f011",
+  "requested_url": "https://elect.ky.gov/Resources/Pages/Registration-Statistics.aspx",
+  "retrieved_at_utc": "2026-10-20T21:19:38.893366+00:00",
+  "role": "registration-index",
+  "parent": null,
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/Resources/Pages/Registration-Statistics.aspx",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:39 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private, max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:39 GMT",
+        "Last-Modified": "Tue, 20 Oct 2026 21:19:39 GMT",
+        "X-SharePointHealthScore": "0",
+        "X-AspNet-Version": "4.0.30319",
+        "SPRequestGuid": "bfd546a2-2ce9-b05c-bfd1-89b3d2e1c5ea",
+        "request-id": "bfd546a2-2ce9-b05c-bfd1-89b3d2e1c5ea",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "240",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211939Z-174b95d58c8wqls2hC1CH1kuww00000001g000000000855a",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "f2486c1b84c25e91e3fce4ff93253a0e8f9271d1bd4fa58654578582d62d8074",
+      "raw_bytes": 211277,
+      "body": "source/bodies/f2486c1b84c25e91e3fce4ff93253a0e8f9271d1bd4fa58654578582d62d8074.gz",
+      "stored_sha256": "ee7ea2e4607b138f7217a7129f04a6a722d97c5744af6c6cf2af0212df79c26b",
+      "stored_bytes": 43957
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/Resources/Pages/Registration-Statistics.aspx",
+  "status": 200
+}

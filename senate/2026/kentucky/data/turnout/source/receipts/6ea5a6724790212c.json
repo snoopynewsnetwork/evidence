@@ -1,0 +1,50 @@
+{
+  "id": "6ea5a6724790212c",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Ballard.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:41.833380+00:00",
+  "role": "2024 county recap: Ballard",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Ballard.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:42 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:42 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:02 GMT",
+        "ETag": "W/\"{E1D21AFB-7D93-4272-970C-1870BD48B7B3},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:E1D21AFB-7D93-4272-970C-1870BD48B7B3@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c0d546a2-2c9d-b05c-6baa-279ac642622c",
+        "request-id": "c0d546a2-2c9d-b05c-6baa-279ac642622c",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "44",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211941Z-174b95d58c8blp54hC1CH1bqk00000001ey0000000004u46",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "b99b7958e0dac2cb00c980ea34e48b8a6bfb31912abf2989bbf0037c449851ce",
+      "raw_bytes": 331180,
+      "body": "source/bodies/b99b7958e0dac2cb00c980ea34e48b8a6bfb31912abf2989bbf0037c449851ce.gz",
+      "stored_sha256": "001020a0d53d405acf873335db9b97427ba65e17eb6d41f3810f530e384ebde9",
+      "stored_bytes": 300401
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Ballard.pdf",
+  "status": 200
+}

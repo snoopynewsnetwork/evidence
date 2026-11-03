@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "captured_own_scripts_only": [
+    "extract_certificates.py",
+    "extract_portfolio.py",
+    "extract_native.py",
+    "manual_image_witness.py",
+    "handwritten_fields.py",
+    "jefferson_alternative_witness.py",
+    "extract_statistics.py",
+    "extract_report_controls.py",
+    "diagnose_native.py",
+    "build_turnout.py",
+    "write_report.py"
+  ],
+  "complete_PDFs": 134,
+  "whole_historical_outputs_exact": 293,
+  "network_mutable_peer_producer_outside_write_probes": "all actually denied",
+  "exceptions": []
+}

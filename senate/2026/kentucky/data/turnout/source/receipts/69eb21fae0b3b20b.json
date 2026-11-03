@@ -1,0 +1,50 @@
+{
+  "id": "69eb21fae0b3b20b",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hopkins.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:27.198448+00:00",
+  "role": "2024 county recap: Hopkins",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hopkins.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:27 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:27 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:14 GMT",
+        "ETag": "W/\"{A73991B9-C72B-4DD6-BA03-F2EA69E29C0A},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:A73991B9-C72B-4DD6-BA03-F2EA69E29C0A@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cbd546a2-ccaf-b05c-bfd1-8eed90b0c132",
+        "request-id": "cbd546a2-ccaf-b05c-bfd1-8eed90b0c132",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "59",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212027Z-174b95d58c8z86qbhC1CH1tg6g0000001eyg0000000012yg",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "9bb0c3a0ad4f9bfcfe4055316a51be9c8a5c3286545a63303a600100de9f904b",
+      "raw_bytes": 1755471,
+      "body": "source/bodies/9bb0c3a0ad4f9bfcfe4055316a51be9c8a5c3286545a63303a600100de9f904b.gz",
+      "stored_sha256": "54d73d38ccfae18b5f73e4346e66684c0e88e820b5ce7958e3e07c5b83c0a22e",
+      "stored_bytes": 1427402
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hopkins.pdf",
+  "status": 200
+}

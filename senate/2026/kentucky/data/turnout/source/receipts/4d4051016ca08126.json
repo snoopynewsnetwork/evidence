@@ -1,0 +1,50 @@
+{
+  "id": "4d4051016ca08126",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Logan.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:36.310735+00:00",
+  "role": "2024 county recap: Logan",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Logan.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:36 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:36 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:08 GMT",
+        "ETag": "W/\"{724616AF-F3C1-4B92-BEE5-78B10AD93B75},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:724616AF-F3C1-4B92-BEE5-78B10AD93B75@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cdd546a2-ace2-b05c-bfd1-8356f5213f60",
+        "request-id": "cdd546a2-ace2-b05c-bfd1-8356f5213f60",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "52",
+        "SPIisLatency": "16",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212036Z-r1cf8987fd55lgcrhC1CHIsxyg0000001860000000004frk",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "6e1776d807385a8f62a431e995e37859b01f136da05a7b8f1a560eb24be3a8f4",
+      "raw_bytes": 443996,
+      "body": "source/bodies/6e1776d807385a8f62a431e995e37859b01f136da05a7b8f1a560eb24be3a8f4.gz",
+      "stored_sha256": "0d1ef2c0e34b5072f60fa3157407cd33643cda3ee668da473926ff452b27fbe1",
+      "stored_bytes": 393505
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Logan.pdf",
+  "status": 200
+}

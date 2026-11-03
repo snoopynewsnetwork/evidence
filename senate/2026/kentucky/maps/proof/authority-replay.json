@@ -1,0 +1,14 @@
+{
+  "pass": true,
+  "authority_path": "data/coordinator-source-research-acceptance.json",
+  "root_semantics": 31,
+  "fixed_files": 7002,
+  "complete_companions": 1142,
+  "ordered_recursive_references": 6888008,
+  "partitions": 46,
+  "whole_historical_resolvers": 5564,
+  "tar_members_read": 0,
+  "original_entity_roles": 162,
+  "seconds": 70.4641900062561,
+  "scope": "Full frozen source authority, no producer imports or writes. Authority body/digest not retained."
+}

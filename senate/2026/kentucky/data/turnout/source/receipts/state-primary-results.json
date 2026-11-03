@@ -1,0 +1,23 @@
+{
+  "id": "state-primary-results",
+  "url": "https://vrsws.sos.ky.gov/liveresults/?id=2026",
+  "retrieved_at_utc": "2026-10-18T01:52:07.875376+00:00",
+  "status": 403,
+  "final_url": "https://vrsws.sos.ky.gov/liveresults/?id=2026",
+  "raw_sha256": "a2eb88e90ae3063793d966c274d93c732f50e89d44b71b3e2e3ae1bd3f5aac88",
+  "asset": "state-primary-results.html.gz",
+  "stored_sha256": "7ae0ee9261ee45d7c87c8490b91108067cb9cf66c6ba09d484c855ece9656868",
+  "bytes": 2468,
+  "headers": {
+    "Mime-Version": "1.0",
+    "Content-Length": "2468",
+    "Cache-control": "no-cache, no-store, must-revalidate, max-age=0, no-cache, no-store",
+    "Pragma": "no-cache, no-cache",
+    "Expires": "0, Sun, 18 Oct 2026 01:52:08 GMT",
+    "Content-Type": "text/html",
+    "Date": "Sun, 18 Oct 2026 01:52:08 GMT",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=86400",
+    "Akamai-GRN": "0.9f291eb8.1792288328.5845ec0"
+  }
+}

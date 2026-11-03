@@ -1,0 +1,50 @@
+{
+  "id": "7f637339e11329e5",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pike.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:52.098038+00:00",
+  "role": "2024 county recap: Pike",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pike.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:52 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:52 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:14 GMT",
+        "ETag": "W/\"{8C0B7C19-14BC-4578-A47F-B6FD89161232},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:8C0B7C19-14BC-4578-A47F-B6FD89161232@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d1d546a2-ecc4-b05c-6baa-2619e420c2bb",
+        "request-id": "d1d546a2-ecc4-b05c-6baa-2619e420c2bb",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "59",
+        "SPIisLatency": "10",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212052Z-17d5c4ffc57l86dxhC1CH1dgtn000000101g00000000038q",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "141a99bd055d8a0767526005a107258d417764d8194f89343fe1d9963ac7f73a",
+      "raw_bytes": 1757386,
+      "body": "source/bodies/141a99bd055d8a0767526005a107258d417764d8194f89343fe1d9963ac7f73a.gz",
+      "stored_sha256": "d73a842d193d8c6fc9907de96ecba5cb280bfb1ac8da83ccffad89d7cf51a26a",
+      "stored_bytes": 1432307
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pike.pdf",
+  "status": 200
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sbe-2024-results-parent",
+  "url": "https://elect.ky.gov/results/2020-2029/Pages/2024.aspx",
+  "retrieved_at_utc": "2026-10-18T19:01:41.428204+00:00",
+  "status": 403,
+  "final_url": "https://elect.ky.gov/results/2020-2029/Pages/2024.aspx",
+  "raw_sha256": "635d506ed06145e342f22761abd8b4bfa6dcf04125407ee39b4c0d6d721c02a9",
+  "asset": "sbe-2024-results-parent.html.gz",
+  "stored_sha256": "6d025930cffcc7e4af504883bd809427d0ad960c8d9cc04ba6844b2382499ac4",
+  "bytes": 1484,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 19:01:43 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "1484",
+    "Connection": "close",
+    "Cache-Control": "no-store",
+    "x-azure-ref": "20261018T190143Z-15f786f778457jqjhC1CHIpkp8000000145g00000000et82",
+    "X-Cache": "CONFIG_NOCACHE"
+  }
+}

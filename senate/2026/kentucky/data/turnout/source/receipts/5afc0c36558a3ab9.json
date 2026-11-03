@@ -1,0 +1,50 @@
+{
+  "id": "5afc0c36558a3ab9",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Whitley.pdf",
+  "retrieved_at_utc": "2026-10-20T21:21:04.344691+00:00",
+  "role": "2024 county recap: Whitley",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Whitley.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:21:04 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:21:04 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:18 GMT",
+        "ETag": "W/\"{87C0EBA4-9528-42B2-A912-0A5D0B6D2213},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:87C0EBA4-9528-42B2-A912-0A5D0B6D2213@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d4d546a2-ecb9-b05c-6baa-2ec261bc77d4",
+        "request-id": "d4d546a2-ecb9-b05c-6baa-2ec261bc77d4",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "54",
+        "SPIisLatency": "10",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212104Z-174c78c4ddc87p5nhC1CHI1ab80000001nzg000000004dfz",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "a5748c34fb7d95f90e6da4f4310dd1bdc89184015a3010fe6e4da3e741552ac4",
+      "raw_bytes": 990795,
+      "body": "source/bodies/a5748c34fb7d95f90e6da4f4310dd1bdc89184015a3010fe6e4da3e741552ac4.gz",
+      "stored_sha256": "18d0cd09ef032ad33f00888e83fe1348e9d88215bb9f8e12e510233c4d7962b0",
+      "stored_bytes": 812698
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Whitley.pdf",
+  "status": 200
+}

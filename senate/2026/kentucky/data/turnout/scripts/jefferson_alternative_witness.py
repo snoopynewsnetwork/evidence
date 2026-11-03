@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+import json
+from pathlib import Path
+R=Path(__file__).resolve().parents[1];h='36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427'
+spec=[('REP Donald J. TRUMP',[144553,91464,6290,1731,45052,16],'candidate'),('DEM Kamala D. HARRIS',[203070,122725,13188,1680,65443,34],'candidate'),('KEN Jill STEIN',[2029,1529,120,14,366,0],'candidate'),('IND Robert F. KENNEDY JR.',[2619,1947,101,18,553,0],'candidate'),('IND Shiva AYYADURAI',[171,119,4,1,47,0],'candidate'),('LIB Chase OLIVER',[1167,850,56,11,250,0],'candidate'),('Write-In Totals',[2113,1565,87,21,440,0],'writein_pool'),('Write-In: Peter SONSKI',[198,165,8,0,25,0],'named_writein'),('Write-In: Cornell WEST',[78,57,4,1,16,0],'named_writein'),('Write-In: Claudia De La CRUZ',[204,160,9,1,34,0],'named_writein'),('Write-In: Joseph KISHORE',[2,0,1,0,1,0],'named_writein'),('Write-In: Jay J. BOWMAN',[2,0,0,0,2,0],'named_writein'),('Write-In: John CHENG',[1,0,1,0,0,0],'named_writein'),('Not Assigned',[1628,1183,64,19,362,0],'writein_unassigned'),('Total Votes Cast',[355722,220199,19846,3476,112151,50],'contest_total')]
+rows=[]
+for i,(label,vals,kind) in enumerate(spec,1):
+ assert vals[0]==sum(vals[1:])
+ rows.append({'source_sha256':h,'county':'Jefferson','scope':'2024 alternative county summary','page':2,'row_in_president_block':i,'label':label,'kind':kind,'method_headers':['TOTAL','Election Day','Mail','Walk-in Excuse','Walk-in Early','Provisional'],'values':vals,'extraction':'manual original image reading','page_image':'proof/jefferson-alternative-02.png','source_report_clock':'11/08/2024 3:35 PM; timezone not stated'})
+rows.append({'source_sha256':h,'county':'Jefferson','scope':'2024 alternative county summary statistics','page':1,'label':'Ballots Cast - Total','method_headers':['TOTAL','Election Day','Mail','Walk-in Excuse','Walk-in Early','Provisional'],'values':[357876,221632,20011,3490,112691,52],'page_image':'proof/jefferson-alternative-01.png','precincts_reporting_source':['Election Day627of627','Precincts Complete627of627','Absentee/Early627of627'],'registration':None,'blank':None,'under':None,'over':None})
+(R/'extracts/jefferson-alternative-fields.json').write_text(json.dumps(rows,indent=2)+'\n')

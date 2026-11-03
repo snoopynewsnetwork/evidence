@@ -1,0 +1,50 @@
+{
+  "id": "837daf46eefed9a0",
+  "requested_url": "https://elect.ky.gov/Resources/Documents/voterstatsprecinct-November%20General%202024.pdf",
+  "retrieved_at_utc": "2026-10-20T21:21:09.699403+00:00",
+  "role": "general registration sensitivity: By Precinct",
+  "parent": "https://elect.ky.gov/Resources/Pages/Registration-Statistics.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/Resources/Documents/voterstatsprecinct-November%20General%202024.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:21:10 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:21:09 GMT",
+        "Last-Modified": "Fri, 11 Oct 2024 22:31:18 GMT",
+        "ETag": "W/\"{47444919-725B-49B9-BE3A-9D1A93BAD7B0},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:47444919-725B-49B9-BE3A-9D1A93BAD7B0@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d6d546a2-6c0f-b05c-bfd1-8a48501d9718",
+        "request-id": "d6d546a2-6c0f-b05c-bfd1-8a48501d9718",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "718",
+        "SPIisLatency": "10",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212109Z-174c78c4ddcr5gbdhC1CHIqbgc0000001p4000000000643u",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "4f7cd69e2d3a2a1e7cf91e8cbee35a9fc9be7cf32641baf0812a41d5d835598f",
+      "raw_bytes": 1198120,
+      "body": "source/bodies/4f7cd69e2d3a2a1e7cf91e8cbee35a9fc9be7cf32641baf0812a41d5d835598f.gz",
+      "stored_sha256": "6accea46ba806ea4232786bb8881a6aba8913c91c6a8f8913544823851bb8048",
+      "stored_bytes": 639305
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/Resources/Documents/voterstatsprecinct-November%20General%202024.pdf",
+  "status": 200
+}

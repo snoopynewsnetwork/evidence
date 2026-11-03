@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/reciprocal/scripts/review_audit.py", line 59, in <module>
+    with contextlib.redirect_stdout(io.StringIO()):exec(compile(code,str(ROOT/'scripts'/name),'exec'),{'__name__':'__captured_readonly_audit__'})
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/reciprocal/scripts/source_orders.py", line 51, in <module>
+    pairs=[json.loads(x) for x in gzip.decompress((D/'accepted-subset-complete-source-context-pairs.jsonl.gz').read_bytes()).decode().splitlines()]
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/.pyenv/versions/3.11.8/lib/python3.11/pathlib.py", line 1050, in read_bytes
+    with self.open(mode='rb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/.pyenv/versions/3.11.8/lib/python3.11/pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/folders/zp/s8nrrzhn5398283cx69zqwh80000gp/T/ky-final-source-audit-jrm2nj3d/source_orders.py/accepted-subset-complete-source-context-pairs.jsonl.gz'

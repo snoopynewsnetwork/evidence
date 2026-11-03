@@ -1,0 +1,50 @@
+{
+  "id": "bd6e1b516292e5cb",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Franklin.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:13.430488+00:00",
+  "role": "2024 county recap: Franklin",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Franklin.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:14 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:13 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:10 GMT",
+        "ETag": "W/\"{ADF765F8-143B-4689-B1C9-0D827123E68E},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:ADF765F8-143B-4689-B1C9-0D827123E68E@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c8d546a2-2c4d-b05c-bfd1-8f57ef166bce",
+        "request-id": "c8d546a2-2c4d-b05c-bfd1-8f57ef166bce",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "600",
+        "SPIisLatency": "14",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212013Z-174b95d58c8tsg5dhC1CH1gb2g0000001f90000000001pv5",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "14243a813ec9e310c6724c8fc4e2a23cf1e11d221dfd2beafa0f5f53d54be9e6",
+      "raw_bytes": 916693,
+      "body": "source/bodies/14243a813ec9e310c6724c8fc4e2a23cf1e11d221dfd2beafa0f5f53d54be9e6.gz",
+      "stored_sha256": "191dd1848cc3ffcc45c37d18bc60e830408bec96957811be1b707a0c64672bd1",
+      "stored_bytes": 772144
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Franklin.pdf",
+  "status": 200
+}

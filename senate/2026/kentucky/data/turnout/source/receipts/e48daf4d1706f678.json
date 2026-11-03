@@ -1,0 +1,50 @@
+{
+  "id": "e48daf4d1706f678",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bracken.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:48.477704+00:00",
+  "role": "2024 county recap: Bracken",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bracken.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:48 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:48 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:04 GMT",
+        "ETag": "W/\"{EF76D239-CAE0-433E-9FE4-1949308030FF},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:EF76D239-CAE0-433E-9FE4-1949308030FF@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c2d546a2-3c36-b05c-bfd1-8788e023e8c9",
+        "request-id": "c2d546a2-3c36-b05c-bfd1-8788e023e8c9",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "260",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211948Z-174b95d58c8s2t7whC1CH1fdww0000000z90000000000w62",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "e6ba54a27bf60925837cfed95f139c05215496a768c7a64e803fa371b9f81397",
+      "raw_bytes": 408469,
+      "body": "source/bodies/e6ba54a27bf60925837cfed95f139c05215496a768c7a64e803fa371b9f81397.gz",
+      "stored_sha256": "02d02342dc58a751dad939a723ad5b4233fa77f3a260101a5036a4f7a3ec297a",
+      "stored_bytes": 362455
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bracken.pdf",
+  "status": 200
+}

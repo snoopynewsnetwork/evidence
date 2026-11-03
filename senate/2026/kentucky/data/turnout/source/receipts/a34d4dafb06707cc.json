@@ -1,0 +1,50 @@
+{
+  "id": "a34d4dafb06707cc",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Henderson.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:24.933290+00:00",
+  "role": "2024 county recap: Henderson",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Henderson.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:25 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:25 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:17 GMT",
+        "ETag": "W/\"{E2F4BF91-428A-4BCB-B3EF-BAA435219DA4},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:E2F4BF91-428A-4BCB-B3EF-BAA435219DA4@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cbd546a2-9c1d-b05c-6baa-2037871ccdb2",
+        "request-id": "cbd546a2-9c1d-b05c-6baa-2037871ccdb2",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "573",
+        "SPIisLatency": "31",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212024Z-174b95d58c8q68v5hC1CH1d89c0000001eb00000000031y5",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "18a20ef3e5a907b48ced9b3cefa4c35ecd03d7a78cf0c600eb41764ad441610e",
+      "raw_bytes": 929157,
+      "body": "source/bodies/18a20ef3e5a907b48ced9b3cefa4c35ecd03d7a78cf0c600eb41764ad441610e.gz",
+      "stored_sha256": "51b84c240e85e311920d223c2beba864886c676cd2e72610e639ef08853ddf3c",
+      "stored_bytes": 778610
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Henderson.pdf",
+  "status": 200
+}

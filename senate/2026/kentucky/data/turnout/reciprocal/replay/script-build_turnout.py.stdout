@@ -1,0 +1,2 @@
+built 120 county rows; 3221 source units; 3220 known native slices; 2040 candidate comparisons; canonical NULL/dispatch EMPTY
+county primary {'count': 15, 'votes': 1094747, 'share': 0.5277084448043653, 'keys': ['21111', '21067', '21117', '21015', '21227', '21037', '21093', '21059', '21151', '21029', '21185', '21145', '21199', '21209', '21125']} {'count': 50, 'votes': 1660226, 'share': 0.8002901862108526, 'preceding_count': 49, 'preceding_votes': 1650178, 'preceding_share': 0.7954466794888481, 'crossing_key': '21027', 'crossing_votes': 10048}

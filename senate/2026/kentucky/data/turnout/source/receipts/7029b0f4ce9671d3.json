@@ -1,0 +1,50 @@
+{
+  "id": "7029b0f4ce9671d3",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Rockcastle.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:53.910674+00:00",
+  "role": "2024 county recap: Rockcastle",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Rockcastle.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:54 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:54 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:19 GMT",
+        "ETag": "W/\"{C9D8D429-9DCD-4297-8754-0594D4E28A48},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:C9D8D429-9DCD-4297-8754-0594D4E28A48@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d2d546a2-ac35-b05c-bfd1-8afd640368e4",
+        "request-id": "d2d546a2-ac35-b05c-bfd1-8afd640368e4",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "33",
+        "SPIisLatency": "13",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212053Z-17d5c4ffc57kdz62hC1CH120mg0000001twg00000000anr0",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "78f8d97fa4e96b6360cd62a882785b0dcdc0929530a889a175cb3153de47d1d8",
+      "raw_bytes": 126079,
+      "body": "source/bodies/78f8d97fa4e96b6360cd62a882785b0dcdc0929530a889a175cb3153de47d1d8.gz",
+      "stored_sha256": "d1c393052044f38061e3520a23a805a15e53e8c614c50a67cf3177bf5acccd11",
+      "stored_bytes": 105233
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Rockcastle.pdf",
+  "status": 200
+}

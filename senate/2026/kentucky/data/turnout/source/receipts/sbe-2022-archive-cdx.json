@@ -1,0 +1,33 @@
+{
+  "id": "sbe-2022-archive-cdx",
+  "url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2FDocuments%2F2022%20General%20Election%20results.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "retrieved_at_utc": "2026-10-18T19:41:48.225248+00:00",
+  "status": 200,
+  "final_url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2FDocuments%2F2022%20General%20Election%20results.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "raw_sha256": "1107a770e08a9fe4f2de5d3620c4a77ddd68c203264d233090129a1487e726dc",
+  "asset": "sbe-2022-archive-cdx.html.gz",
+  "stored_sha256": "37042d7a878d21617c4fde32f188649b791fd346237b035a1c7350a7ca0e5f0d",
+  "bytes": 867,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sun, 18 Oct 2026 19:41:48 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "server-timing": "exclusion.robots;dur=0.086471, exclusion.robots.policy;dur=0.077147, esindex;dur=0.006872, TR;dur=0,Tw;dur=0,Tc;dur=0, BYPASS",
+    "x-app-server": "wwwb-app23-dc6",
+    "x-ts": "200",
+    "x-tr": "344",
+    "set-cookie": "wb-cdx-nomatch-SERVER=wwwb-app23; path=/",
+    "X-location": "cdx",
+    "X-RL": "0",
+    "X-NA": "0",
+    "X-Page-Cache": "BYPASS",
+    "X-NID": "ATT-INTERNET4",
+    "Referrer-Policy": "no-referrer-when-downgrade",
+    "Permissions-Policy": "interest-cohort=()",
+    "X-sd": "0",
+    "X-be": "wb_cdx_pygwb_nomatch",
+    "Content-Encoding": "gzip"
+  }
+}

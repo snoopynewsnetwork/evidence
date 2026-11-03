@@ -1,0 +1,20 @@
+{
+  "id": "sbe-2020-lyon-native-original",
+  "url": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61002_20201118_RECAP.pdf",
+  "retrieved_at_utc": "2026-10-18T19:40:51.019638+00:00",
+  "status": 403,
+  "final_url": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61002_20201118_RECAP.pdf",
+  "raw_sha256": "62573de4b817d7a893e9ff8e4137cfb4cf7226b7a1aa1d55c7bd0cfceacb1790",
+  "asset": "sbe-2020-lyon-native-original.html.gz",
+  "stored_sha256": "1268ddd53d662a2e4f0283b7b0a45471d82eec7744caa8dfd77e360d9d0099a1",
+  "bytes": 1484,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 19:40:51 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "1484",
+    "Connection": "close",
+    "Cache-Control": "no-store",
+    "x-azure-ref": "20261018T194051Z-15f786f77844ctgghC1CHI854c0000001430000000004nyk",
+    "X-Cache": "CONFIG_NOCACHE"
+  }
+}

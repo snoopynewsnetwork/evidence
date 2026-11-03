@@ -1,0 +1,50 @@
+{
+  "id": "ce5780954be9a87e",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Powell.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:52.702785+00:00",
+  "role": "2024 county recap: Powell",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Powell.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:52 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:52 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:14 GMT",
+        "ETag": "W/\"{F53F0588-7C97-4351-A40D-370331857207},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:F53F0588-7C97-4351-A40D-370331857207@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d1d546a2-0ce3-b05c-bfd1-83341429b2de",
+        "request-id": "d1d546a2-0ce3-b05c-bfd1-83341429b2de",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "76",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212052Z-17d5c4ffc574jxd8hC1CH1q8xw0000000uz0000000000917",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "4c9d7b98f37c5eef8eebef5e7a5200f0896c13fbecb17cead3289ca086f1b565",
+      "raw_bytes": 70840,
+      "body": "source/bodies/4c9d7b98f37c5eef8eebef5e7a5200f0896c13fbecb17cead3289ca086f1b565.gz",
+      "stored_sha256": "7c6c76e92743cb11e2942d658b4318f4336977766f768cf41a80085fa9f34666",
+      "stored_bytes": 61419
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Powell.pdf",
+  "status": 200
+}

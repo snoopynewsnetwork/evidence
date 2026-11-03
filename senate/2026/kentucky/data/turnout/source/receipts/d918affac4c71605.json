@@ -1,0 +1,50 @@
+{
+  "id": "d918affac4c71605",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Rowan.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:54.279802+00:00",
+  "role": "2024 county recap: Rowan",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Rowan.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:54 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:54 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:15 GMT",
+        "ETag": "W/\"{6F3391C0-207D-4D21-BA39-F1767B3C9C92},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:6F3391C0-207D-4D21-BA39-F1767B3C9C92@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d2d546a2-ec4c-b05c-6baa-2b96191c68cf",
+        "request-id": "d2d546a2-ec4c-b05c-6baa-2b96191c68cf",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "343",
+        "SPIisLatency": "20",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212054Z-17d5c4ffc57vtrq7hC1CH1avt40000001z5000000000dqza",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "76efd8bc8732ce513742b788b908fda2ca6979bad6a24899ba10fe0930b3d188",
+      "raw_bytes": 658386,
+      "body": "source/bodies/76efd8bc8732ce513742b788b908fda2ca6979bad6a24899ba10fe0930b3d188.gz",
+      "stored_sha256": "80b089068ff805decd627c201efa90679465b7d60661915b8679ab889651e69a",
+      "stored_bytes": 566428
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Rowan.pdf",
+  "status": 200
+}

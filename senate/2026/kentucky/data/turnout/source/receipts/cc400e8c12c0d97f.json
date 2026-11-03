@@ -1,0 +1,50 @@
+{
+  "id": "cc400e8c12c0d97f",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McCreary.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:41.658638+00:00",
+  "role": "2024 county recap: McCreary",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McCreary.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:41 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:41 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:10 GMT",
+        "ETag": "W/\"{AA266A4D-2600-43C6-AA10-F5EA7DE4AEEA},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:AA266A4D-2600-43C6-AA10-F5EA7DE4AEEA@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cfd546a2-0c31-b05c-bfd1-8a55bc55c240",
+        "request-id": "cfd546a2-0c31-b05c-bfd1-8a55bc55c240",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "50",
+        "SPIisLatency": "13",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212041Z-r1cf8987fd57c6zhhC1CHI37rc000000143g00000000cyb4",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "a459ede4e530ded95544253dd49bff29f0bfc4c08bb6c5a004ac6c85cada2282",
+      "raw_bytes": 644263,
+      "body": "source/bodies/a459ede4e530ded95544253dd49bff29f0bfc4c08bb6c5a004ac6c85cada2282.gz",
+      "stored_sha256": "70d2ec239643c74f32d1e8e8350a8fda9e994e67348eb260abdcdd6151cba2b2",
+      "stored_bytes": 550195
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McCreary.pdf",
+  "status": 200
+}

@@ -1,0 +1,570 @@
+[
+  {
+    "county_label": "Adair",
+    "pages": []
+  },
+  {
+    "county_label": "Allen",
+    "pages": []
+  },
+  {
+    "county_label": "Anderson",
+    "pages": []
+  },
+  {
+    "county_label": "Ballard",
+    "pages": []
+  },
+  {
+    "county_label": "Barren",
+    "pages": []
+  },
+  {
+    "county_label": "Bath",
+    "pages": []
+  },
+  {
+    "county_label": "Bell",
+    "pages": []
+  },
+  {
+    "county_label": "Boone",
+    "pages": []
+  },
+  {
+    "county_label": "Bourbon",
+    "pages": []
+  },
+  {
+    "county_label": "Boyd",
+    "pages": []
+  },
+  {
+    "county_label": "Boyle",
+    "pages": []
+  },
+  {
+    "county_label": "Bracken",
+    "pages": []
+  },
+  {
+    "county_label": "Breathitt",
+    "pages": []
+  },
+  {
+    "county_label": "Breckinridge",
+    "pages": []
+  },
+  {
+    "county_label": "Bullitt",
+    "pages": []
+  },
+  {
+    "county_label": "Butler",
+    "pages": []
+  },
+  {
+    "county_label": "Caldwell",
+    "pages": []
+  },
+  {
+    "county_label": "Calloway",
+    "pages": []
+  },
+  {
+    "county_label": "Campbell",
+    "pages": []
+  },
+  {
+    "county_label": "Carlisle",
+    "pages": []
+  },
+  {
+    "county_label": "Carroll",
+    "pages": []
+  },
+  {
+    "county_label": "Carter",
+    "pages": []
+  },
+  {
+    "county_label": "Casey",
+    "pages": []
+  },
+  {
+    "county_label": "Christian",
+    "pages": []
+  },
+  {
+    "county_label": "Clark",
+    "pages": []
+  },
+  {
+    "county_label": "Clay",
+    "pages": []
+  },
+  {
+    "county_label": "Clinton",
+    "pages": []
+  },
+  {
+    "county_label": "Crittenden",
+    "pages": []
+  },
+  {
+    "county_label": "Cumberland",
+    "pages": []
+  },
+  {
+    "county_label": "Daviess",
+    "pages": []
+  },
+  {
+    "county_label": "Edmonson",
+    "pages": []
+  },
+  {
+    "county_label": "Elliott",
+    "pages": []
+  },
+  {
+    "county_label": "Estill",
+    "pages": []
+  },
+  {
+    "county_label": "Fayette",
+    "pages": [
+      {
+        "page": 2,
+        "complete_link_annotations": [
+          {
+            "kind": 2,
+            "xref": 410,
+            "from": {
+              "native_type": "Rect",
+              "complete_coordinates": [
+                354.156005859375,
+                716.16796875,
+                508.6409912109375,
+                730.048828125
+              ]
+            },
+            "uri": "mailto:elections@fayettecountyclerk.com",
+            "id": ""
+          }
+        ],
+        "all_text_urls": []
+      },
+      {
+        "page": 3,
+        "complete_link_annotations": [
+          {
+            "kind": 2,
+            "xref": 413,
+            "from": {
+              "native_type": "Rect",
+              "complete_coordinates": [
+                354.156005859375,
+                716.16796875,
+                508.6409912109375,
+                730.048828125
+              ]
+            },
+            "uri": "mailto:elections@fayettecountyclerk.com",
+            "id": ""
+          }
+        ],
+        "all_text_urls": []
+      },
+      {
+        "page": 4,
+        "complete_link_annotations": [
+          {
+            "kind": 2,
+            "xref": 417,
+            "from": {
+              "native_type": "Rect",
+              "complete_coordinates": [
+                354.156005859375,
+                716.16796875,
+                508.6409912109375,
+                730.048828125
+              ]
+            },
+            "uri": "mailto:elections@fayettecountyclerk.com",
+            "id": ""
+          }
+        ],
+        "all_text_urls": []
+      }
+    ]
+  },
+  {
+    "county_label": "Fleming",
+    "pages": []
+  },
+  {
+    "county_label": "Floyd",
+    "pages": []
+  },
+  {
+    "county_label": "Franklin",
+    "pages": []
+  },
+  {
+    "county_label": "Fulton",
+    "pages": []
+  },
+  {
+    "county_label": "Gallatin",
+    "pages": []
+  },
+  {
+    "county_label": "Garrard",
+    "pages": []
+  },
+  {
+    "county_label": "Grant",
+    "pages": []
+  },
+  {
+    "county_label": "Graves",
+    "pages": []
+  },
+  {
+    "county_label": "Grayson",
+    "pages": []
+  },
+  {
+    "county_label": "Green",
+    "pages": []
+  },
+  {
+    "county_label": "Greenup",
+    "pages": []
+  },
+  {
+    "county_label": "Hancock",
+    "pages": []
+  },
+  {
+    "county_label": "Hardin",
+    "pages": []
+  },
+  {
+    "county_label": "Harlan",
+    "pages": []
+  },
+  {
+    "county_label": "Harrison",
+    "pages": []
+  },
+  {
+    "county_label": "Hart",
+    "pages": []
+  },
+  {
+    "county_label": "Henderson",
+    "pages": []
+  },
+  {
+    "county_label": "Henry",
+    "pages": []
+  },
+  {
+    "county_label": "Hickman",
+    "pages": []
+  },
+  {
+    "county_label": "Hopkins",
+    "pages": []
+  },
+  {
+    "county_label": "Jackson",
+    "pages": []
+  },
+  {
+    "county_label": "Jefferson",
+    "pages": []
+  },
+  {
+    "county_label": "Jessamine",
+    "pages": []
+  },
+  {
+    "county_label": "Johnson",
+    "pages": []
+  },
+  {
+    "county_label": "Kenton",
+    "pages": [
+      {
+        "page": 4,
+        "complete_link_annotations": [
+          {
+            "kind": 2,
+            "xref": 1499,
+            "from": {
+              "native_type": "Rect",
+              "complete_coordinates": [
+                265.3710021972656,
+                441.0660095214844,
+                451.52301025390625,
+                454.864990234375
+              ]
+            },
+            "uri": "https://linkgis.org/mapviewer_voting/",
+            "id": ""
+          }
+        ],
+        "all_text_urls": [
+          "https://linkgis.org/mapviewer_voting/"
+        ]
+      }
+    ]
+  },
+  {
+    "county_label": "Knott",
+    "pages": []
+  },
+  {
+    "county_label": "Knox",
+    "pages": []
+  },
+  {
+    "county_label": "Larue",
+    "pages": []
+  },
+  {
+    "county_label": "Laurel",
+    "pages": []
+  },
+  {
+    "county_label": "Lawrence",
+    "pages": []
+  },
+  {
+    "county_label": "Lee",
+    "pages": []
+  },
+  {
+    "county_label": "Leslie",
+    "pages": []
+  },
+  {
+    "county_label": "Letcher",
+    "pages": []
+  },
+  {
+    "county_label": "Lewis",
+    "pages": []
+  },
+  {
+    "county_label": "Lincoln",
+    "pages": []
+  },
+  {
+    "county_label": "Livingston",
+    "pages": []
+  },
+  {
+    "county_label": "Logan",
+    "pages": []
+  },
+  {
+    "county_label": "Lyon",
+    "pages": []
+  },
+  {
+    "county_label": "Madison",
+    "pages": []
+  },
+  {
+    "county_label": "Magoffin",
+    "pages": []
+  },
+  {
+    "county_label": "Marion",
+    "pages": []
+  },
+  {
+    "county_label": "Marshall",
+    "pages": []
+  },
+  {
+    "county_label": "Martin",
+    "pages": []
+  },
+  {
+    "county_label": "Mason",
+    "pages": []
+  },
+  {
+    "county_label": "McCracken",
+    "pages": []
+  },
+  {
+    "county_label": "McCreary",
+    "pages": []
+  },
+  {
+    "county_label": "McLean",
+    "pages": []
+  },
+  {
+    "county_label": "Meade",
+    "pages": []
+  },
+  {
+    "county_label": "Menifee",
+    "pages": []
+  },
+  {
+    "county_label": "Mercer",
+    "pages": []
+  },
+  {
+    "county_label": "Metcalfe",
+    "pages": []
+  },
+  {
+    "county_label": "Montgomery",
+    "pages": []
+  },
+  {
+    "county_label": "Monroe",
+    "pages": []
+  },
+  {
+    "county_label": "Morgan",
+    "pages": []
+  },
+  {
+    "county_label": "Muhlenberg",
+    "pages": []
+  },
+  {
+    "county_label": "Nelson",
+    "pages": []
+  },
+  {
+    "county_label": "Nicholas",
+    "pages": []
+  },
+  {
+    "county_label": "Ohio",
+    "pages": []
+  },
+  {
+    "county_label": "Oldham",
+    "pages": []
+  },
+  {
+    "county_label": "Owen",
+    "pages": []
+  },
+  {
+    "county_label": "Owsley",
+    "pages": []
+  },
+  {
+    "county_label": "Pendleton",
+    "pages": []
+  },
+  {
+    "county_label": "Perry",
+    "pages": []
+  },
+  {
+    "county_label": "Pike",
+    "pages": []
+  },
+  {
+    "county_label": "Powell",
+    "pages": []
+  },
+  {
+    "county_label": "Pulaski",
+    "pages": []
+  },
+  {
+    "county_label": "Robertson",
+    "pages": []
+  },
+  {
+    "county_label": "Rockcastle",
+    "pages": []
+  },
+  {
+    "county_label": "Rowan",
+    "pages": []
+  },
+  {
+    "county_label": "Russell",
+    "pages": []
+  },
+  {
+    "county_label": "Scott",
+    "pages": []
+  },
+  {
+    "county_label": "Shelby",
+    "pages": []
+  },
+  {
+    "county_label": "Simpson",
+    "pages": []
+  },
+  {
+    "county_label": "Spencer",
+    "pages": []
+  },
+  {
+    "county_label": "Taylor",
+    "pages": []
+  },
+  {
+    "county_label": "Todd",
+    "pages": []
+  },
+  {
+    "county_label": "Trigg",
+    "pages": []
+  },
+  {
+    "county_label": "Trimble",
+    "pages": []
+  },
+  {
+    "county_label": "Union",
+    "pages": []
+  },
+  {
+    "county_label": "Warren",
+    "pages": []
+  },
+  {
+    "county_label": "Washington",
+    "pages": []
+  },
+  {
+    "county_label": "Wayne",
+    "pages": []
+  },
+  {
+    "county_label": "Webster",
+    "pages": []
+  },
+  {
+    "county_label": "Whitley",
+    "pages": []
+  },
+  {
+    "county_label": "Wolfe",
+    "pages": []
+  },
+  {
+    "county_label": "Woodford",
+    "pages": []
+  }
+]

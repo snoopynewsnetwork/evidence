@@ -1,0 +1,50 @@
+{
+  "id": "718afc84dbc1779c",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boyle.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:48.003162+00:00",
+  "role": "2024 county recap: Boyle",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boyle.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:48 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:48 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:04 GMT",
+        "ETag": "W/\"{5B5FDC66-829C-40A5-9642-D1325051B85C},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:5B5FDC66-829C-40A5-9642-D1325051B85C@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c2d546a2-ac1c-b05c-6baa-2422ccd507a2",
+        "request-id": "c2d546a2-ac1c-b05c-6baa-2422ccd507a2",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "44",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211948Z-174b95d58c8blp54hC1CH1bqk00000001f80000000002rdz",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "6bf6edc46800ccefa3fd204ee3beeb9c87f0f83cea5e810e50b88583656df450",
+      "raw_bytes": 816395,
+      "body": "source/bodies/6bf6edc46800ccefa3fd204ee3beeb9c87f0f83cea5e810e50b88583656df450.gz",
+      "stored_sha256": "f373dae86826306a6e19999a7adb6fc4be3a1e0c002abf9187c1f75c2ee70473",
+      "stored_bytes": 694824
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boyle.pdf",
+  "status": 200
+}

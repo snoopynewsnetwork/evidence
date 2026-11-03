@@ -1,0 +1,239 @@
+[
+  {
+    "raw_sha256": "3dc66b409c1b7a50e0bc52a84f219d0c0d31f2c6fb8f42bb29feef0ac447c809",
+    "raw_bytes": 1484,
+    "stored_sha256": "45fc2b72618a87a66eacfa9148743594c7c26f04783f1e51debce1a2c5ed7220",
+    "stored_bytes": 561,
+    "path": "data/news/state-results-2026.html.gz",
+    "source_ids": [
+      "state-results-2026"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "a2eb88e90ae3063793d966c274d93c732f50e89d44b71b3e2e3ae1bd3f5aac88",
+    "raw_bytes": 2468,
+    "stored_sha256": "7ae0ee9261ee45d7c87c8490b91108067cb9cf66c6ba09d484c855ece9656868",
+    "stored_bytes": 1200,
+    "path": "data/news/state-primary-results.html.gz",
+    "source_ids": [
+      "state-primary-results"
+    ],
+    "magic": "3c21444f43545950452068746d6c3e0a"
+  },
+  {
+    "raw_sha256": "635d506ed06145e342f22761abd8b4bfa6dcf04125407ee39b4c0d6d721c02a9",
+    "raw_bytes": 1484,
+    "stored_sha256": "6d025930cffcc7e4af504883bd809427d0ad960c8d9cc04ba6844b2382499ac4",
+    "stored_bytes": 562,
+    "path": "data/news/sbe-2024-results-parent.html.gz",
+    "source_ids": [
+      "sbe-2024-results-parent"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "838906daf1dbe4d3fe341de1b1ba0fd80d4275268fe8aa2430d6a9b501ba2616",
+    "raw_bytes": 1484,
+    "stored_sha256": "8acc9c91fbe43e53b76e5a740c2bb99a2abe314919b4ffbf2f51b5d23d609235",
+    "stored_bytes": 562,
+    "path": "data/news/sbe-2022-results-parent.html.gz",
+    "source_ids": [
+      "sbe-2022-results-parent"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "efa76d769ab4894e3276073f4a7e26df7cedabd80b360a8ac7f9dbad83d3950b",
+    "raw_bytes": 1484,
+    "stored_sha256": "229ec4df107e51f812b9caf4a99520c1d25d1db5f290c7c9456e6a67ed27c8b0",
+    "stored_bytes": 560,
+    "path": "data/news/sbe-2020-results-parent.html.gz",
+    "source_ids": [
+      "sbe-2020-results-parent"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "fc951f92563710c16c23bd7fdc7841124c8a3ef5a2c0c78f5442840a95b3479b",
+    "raw_bytes": 1484,
+    "stored_sha256": "db86977257842dc7d2a28af0e704a98d19f45de6ab058b90835d09d4d458086a",
+    "stored_bytes": 561,
+    "path": "data/news/sbe-2024-amended-original.html.gz",
+    "source_ids": [
+      "sbe-2024-amended-original"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "fb63cb758961b0aa7d35bac04a592a517579edbfd46d8938a9e522890cf1986e",
+    "raw_bytes": 1484,
+    "stored_sha256": "9dbabf8d51d8a5c9f9b343fe05e40b1e33177793b458c618e6c25855e1b4acb0",
+    "stored_bytes": 561,
+    "path": "data/news/sbe-2020-original.html.gz",
+    "source_ids": [
+      "sbe-2020-original"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "06712af5e661de0e98dc0c5d1aca3ac904f9ee8c2d3b788b19b856b855794041",
+    "raw_bytes": 1484,
+    "stored_sha256": "4d9741dabc24a4f00afda62ded7ce61edef4422bfd4331c9bc930bdc95f0c359",
+    "stored_bytes": 560,
+    "path": "data/news/sbe-2020-estill-native-original.html.gz",
+    "source_ids": [
+      "sbe-2020-estill-native-original"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "62573de4b817d7a893e9ff8e4137cfb4cf7226b7a1aa1d55c7bd0cfceacb1790",
+    "raw_bytes": 1484,
+    "stored_sha256": "1268ddd53d662a2e4f0283b7b0a45471d82eec7744caa8dfd77e360d9d0099a1",
+    "stored_bytes": 561,
+    "path": "data/news/sbe-2020-lyon-native-original.html.gz",
+    "source_ids": [
+      "sbe-2020-lyon-native-original"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "63db49eb6cb1d1d530686b54ce4c5c95968a1fdbf2465524861e055ecd66c71f",
+    "raw_bytes": 95485,
+    "stored_sha256": "604a57f351417e8e6982c1e192ec560b7649d58d75dcef0399a80c0bba1d6310",
+    "stored_bytes": 33490,
+    "path": "data/news/jefferson-2020-native-original.html.gz",
+    "source_ids": [
+      "jefferson-2020-native-original"
+    ],
+    "magic": "3c21444f43545950452068746d6c3e0d"
+  },
+  {
+    "raw_sha256": "fcedc490475e52de31fe5054d91bad13658b91441d25b5481d4610a0ab49d407",
+    "raw_bytes": 1893,
+    "stored_sha256": "37cbbb02211be68362772d7478f7cdde7ddcc0e6a2b0b4d501195016b42b8f60",
+    "stored_bytes": 406,
+    "path": "data/news/sbe-2024-amended-archive-cdx.html.gz",
+    "source_ids": [
+      "sbe-2024-amended-archive-cdx"
+    ],
+    "magic": "5b5b2275726c6b6579222c2274696d65"
+  },
+  {
+    "raw_sha256": "5380b2e357cd261b647cbd09854817e458bd64a2c1ccfd897a12443ba856e3ab",
+    "raw_bytes": 1393,
+    "stored_sha256": "7c0e1c9aaf753bff1e434df3af7f31040be937ef256bb827b920c9097f28d46b",
+    "stored_bytes": 367,
+    "path": "data/news/sbe-2020-archive-cdx.html.gz",
+    "source_ids": [
+      "sbe-2020-archive-cdx"
+    ],
+    "magic": "5b5b2275726c6b6579222c2274696d65"
+  },
+  {
+    "raw_sha256": "9fc5c42babaddf2dc8305777ed0e18bef1db96b703d7057a7b07083358dd7a43",
+    "raw_bytes": 1484,
+    "stored_sha256": "4a775653618fbb2165954758edb55b97771c781a3939b25e24007ab7c1ae2af8",
+    "stored_bytes": 561,
+    "path": "data/news/sbe-2022-original-discovery.html.gz",
+    "source_ids": [
+      "sbe-2022-original-discovery"
+    ],
+    "magic": "3c21444f43545950452068746d6c2050"
+  },
+  {
+    "raw_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+    "raw_bytes": 352441,
+    "stored_sha256": "7676cbfac65eac7b00df6adc64a9747f069dc70beb1ee849f23e74daa8fd0161",
+    "stored_bytes": 209460,
+    "path": "data/news/sbe-2024-archive-20241223120817.html.gz",
+    "source_ids": [
+      "sbe-2024-archive-20241223120817",
+      "sbe-2024-archive-20250611004030",
+      "sbe-2024-archive-20250920110826"
+    ],
+    "magic": "255044462d312e370d25e2e3cfd30d0a"
+  },
+  {
+    "raw_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773",
+    "raw_bytes": 355106,
+    "stored_sha256": "998b141f5b56068ad906debf70e3c89fcc435767d3c279e54bac028ce3b51097",
+    "stored_bytes": 225822,
+    "path": "data/news/sbe-2020-archive-20201120170339.html.gz",
+    "source_ids": [
+      "sbe-2020-archive-20201120170339",
+      "sbe-2020-archive-20250721154857",
+      "sbe-2020-archive-20250911075540"
+    ],
+    "magic": "255044462d312e330d25e2e3cfd30d0a"
+  },
+  {
+    "raw_sha256": "1107a770e08a9fe4f2de5d3620c4a77ddd68c203264d233090129a1487e726dc",
+    "raw_bytes": 867,
+    "stored_sha256": "37042d7a878d21617c4fde32f188649b791fd346237b035a1c7350a7ca0e5f0d",
+    "stored_bytes": 338,
+    "path": "data/news/sbe-2022-archive-cdx.html.gz",
+    "source_ids": [
+      "sbe-2022-archive-cdx"
+    ],
+    "magic": "5b5b2275726c6b6579222c2274696d65"
+  },
+  {
+    "raw_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+    "raw_bytes": 555422,
+    "stored_sha256": "69cd067fb561dc188109383b9c8b7df17c295a171963fb2059c6289620fe0020",
+    "stored_bytes": 300209,
+    "path": "data/news/sbe-2022-archive-20221223031129.html.gz",
+    "source_ids": [
+      "sbe-2022-archive-20221223031129",
+      "sbe-2022-archive-20250828092755",
+      "sbe-2022-archive-20260223085144"
+    ],
+    "magic": "255044462d312e330d0a25e2e3cfd30d"
+  },
+  {
+    "raw_sha256": "631cd31ea421bbefdbc7dbff0b60d5c6538d5766ba7df267a5126372d93bdef3",
+    "raw_bytes": 349,
+    "stored_sha256": "4af4055fb0b146b4181937f2884c7f0dee520ccf4019ec490441b3fce0159770",
+    "stored_bytes": 257,
+    "path": "data/news/sbe-2020-estill-observed-recap-cdx.html.gz",
+    "source_ids": [
+      "sbe-2020-estill-observed-recap-cdx"
+    ],
+    "magic": "5b5b2275726c6b6579222c2274696d65"
+  },
+  {
+    "raw_sha256": "22d9179d97ba231b856e8754ad8b72e473d243479ab340f1549ba0e2735343de",
+    "raw_bytes": 349,
+    "stored_sha256": "f1fc1dc2321fdd604cb70aaaa273bb282b1602e780908b871174390c899b9578",
+    "stored_bytes": 257,
+    "path": "data/news/sbe-2020-lyon-observed-recap-cdx.html.gz",
+    "source_ids": [
+      "sbe-2020-lyon-observed-recap-cdx"
+    ],
+    "magic": "5b5b2275726c6b6579222c2274696d65"
+  },
+  {
+    "raw_sha256": "7a1ea38703cec3aea59740a8e8e33b77b70b7d97207427438283767cd15f2149",
+    "raw_bytes": 110519,
+    "stored_sha256": "90c289e3b021ed713877ae064d14902f32a479ec3978c82c16f114ec30d2e07c",
+    "stored_bytes": 102450,
+    "path": "data/news/sbe-2020-estill-recap-archive-20210116034430.html.gz",
+    "source_ids": [
+      "sbe-2020-estill-recap-archive-20210116034430"
+    ],
+    "magic": "255044462d312e310a25e2e3cfd30a31"
+  },
+  {
+    "raw_sha256": "6b78a6d29739275ee907227703bdc99030e719ad69d63c767c4d765106eea6bb",
+    "raw_bytes": 114882,
+    "stored_sha256": "ef95f4558347889de872192c837e3732e9abf52aafc57038089b1b84eaa2b58f",
+    "stored_bytes": 104673,
+    "path": "data/news/sbe-2020-lyon-recap-archive-20210116042754.html.gz",
+    "source_ids": [
+      "sbe-2020-lyon-recap-archive-20210116042754"
+    ],
+    "magic": "255044462d312e310a25e2e3cfd30a31"
+  }
+]

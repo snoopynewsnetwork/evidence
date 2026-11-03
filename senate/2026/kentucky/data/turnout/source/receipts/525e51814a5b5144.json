@@ -1,0 +1,32 @@
+{
+  "id": "525e51814a5b5144",
+  "requested_url": "https://www.jeffersoncountyclerk.org/Voter-Info/Election-Results/Past-Election-Results",
+  "retrieved_at_utc": "2026-10-20T21:23:30.162045+00:00",
+  "role": "Jefferson historical alternative authority",
+  "parent": null,
+  "hops": [
+    {
+      "url": "https://www.jeffersoncountyclerk.org/Voter-Info/Election-Results/Past-Election-Results",
+      "status": 403,
+      "headers": {
+        "Mime-Version": "1.0",
+        "Content-Type": "text/html",
+        "Content-Length": "455",
+        "X-Reference-Error": "18.b7291eb8.1792531410.183971fb",
+        "Cache-Control": "max-age=0",
+        "Date": "Tue, 20 Oct 2026 21:23:30 GMT",
+        "Connection": "close",
+        "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1792531410334_3088984503_406417915_25_14436_7_27_-\";dur=1",
+        "Alt-Svc": "h3=\":443\"; ma=93600"
+      },
+      "raw_sha256": "eac6dfaa4735358d2298c658d462f64854494d23bd18aa62283e47fba9729098",
+      "raw_bytes": 455,
+      "body": "source/bodies/eac6dfaa4735358d2298c658d462f64854494d23bd18aa62283e47fba9729098.gz",
+      "stored_sha256": "7436270557f168f6fe1af167948e2c2b3902425835da260272af4f51ff8050c5",
+      "stored_bytes": 285
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://www.jeffersoncountyclerk.org/Voter-Info/Election-Results/Past-Election-Results",
+  "status": 403
+}

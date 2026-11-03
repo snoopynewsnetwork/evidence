@@ -1,0 +1,50 @@
+{
+  "id": "4ace174932291c41",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Adair.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:39.588997+00:00",
+  "role": "2024 county recap: Adair",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Adair.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:40 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:39 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:01 GMT",
+        "ETag": "W/\"{E80AF411-1138-4423-9D82-3BFFE7DEF083},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:E80AF411-1138-4423-9D82-3BFFE7DEF083@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c0d546a2-dc11-b05c-bfd1-88ab93867a04",
+        "request-id": "c0d546a2-dc11-b05c-bfd1-88ab93867a04",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "364",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211939Z-174b95d58c8m2lhbhC1CH1t1q8000000096g000000002zwt",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "49481e33b31a11a96c14b5501a5a1d3e051371b3ec9e8f86ee48186ee19f824b",
+      "raw_bytes": 571756,
+      "body": "source/bodies/49481e33b31a11a96c14b5501a5a1d3e051371b3ec9e8f86ee48186ee19f824b.gz",
+      "stored_sha256": "7660f2c518f5ff3a323295c3dc90259033503016a96c8f314585addf24c44576",
+      "stored_bytes": 496932
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Adair.pdf",
+  "status": 200
+}

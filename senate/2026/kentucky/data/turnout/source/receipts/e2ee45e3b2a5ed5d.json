@@ -1,0 +1,50 @@
+{
+  "id": "e2ee45e3b2a5ed5d",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Lewis.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:34.961649+00:00",
+  "role": "2024 county recap: Lewis",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Lewis.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:35 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:35 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:08 GMT",
+        "ETag": "W/\"{CCE140B2-0673-4F08-9C11-8018F3F318C8},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:CCE140B2-0673-4F08-9C11-8018F3F318C8@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cdd546a2-7c95-b05c-6baa-2a103e3a6120",
+        "request-id": "cdd546a2-7c95-b05c-6baa-2a103e3a6120",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "44",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212035Z-r1cf8987fd5ftlxphC1CHIk8d80000000t1000000000guhb",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "1721980a95967ff339f69a89306dd4d5e24d274c901c0928ff4b1e6b1c4acf4d",
+      "raw_bytes": 301545,
+      "body": "source/bodies/1721980a95967ff339f69a89306dd4d5e24d274c901c0928ff4b1e6b1c4acf4d.gz",
+      "stored_sha256": "a206aeaf0fcf8777409bfafe088e5dd52acc95ce7018ee92f519c74efb5f62fd",
+      "stored_bytes": 278935
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Lewis.pdf",
+  "status": 200
+}

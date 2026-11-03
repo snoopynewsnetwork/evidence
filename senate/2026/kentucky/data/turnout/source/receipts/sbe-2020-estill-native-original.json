@@ -1,0 +1,20 @@
+{
+  "id": "sbe-2020-estill-native-original",
+  "url": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61657_20201211_RECAP.pdf",
+  "retrieved_at_utc": "2026-10-18T19:40:50.980081+00:00",
+  "status": 403,
+  "final_url": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61657_20201211_RECAP.pdf",
+  "raw_sha256": "06712af5e661de0e98dc0c5d1aca3ac904f9ee8c2d3b788b19b856b855794041",
+  "asset": "sbe-2020-estill-native-original.html.gz",
+  "stored_sha256": "4d9741dabc24a4f00afda62ded7ce61edef4422bfd4331c9bc930bdc95f0c359",
+  "bytes": 1484,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 19:40:51 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "1484",
+    "Connection": "close",
+    "Cache-Control": "no-store",
+    "x-azure-ref": "20261018T194051Z-15f786f7784pzqs9hC1CHIsr8c00000014u00000000032qz",
+    "X-Cache": "CONFIG_NOCACHE"
+  }
+}

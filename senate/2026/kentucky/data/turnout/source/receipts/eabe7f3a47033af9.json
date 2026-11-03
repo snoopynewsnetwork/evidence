@@ -1,0 +1,50 @@
+{
+  "id": "eabe7f3a47033af9",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jackson.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:27.748177+00:00",
+  "role": "2024 county recap: Jackson",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jackson.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:28 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:27 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:17 GMT",
+        "ETag": "W/\"{DF16C9A3-96E8-4D91-A978-E0E051A64437},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:DF16C9A3-96E8-4D91-A978-E0E051A64437@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cbd546a2-4cd2-b05c-6baa-2df0807256cb",
+        "request-id": "cbd546a2-4cd2-b05c-6baa-2df0807256cb",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "100",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212027Z-r1cf8987fd5vx92hhC1CHIvss800000000t0000000004x44",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "bb0814c541eccf47fd16016bc4f58e0c02522e5e0b9015167fd8d75724af5990",
+      "raw_bytes": 108195,
+      "body": "source/bodies/bb0814c541eccf47fd16016bc4f58e0c02522e5e0b9015167fd8d75724af5990.gz",
+      "stored_sha256": "2e18d3a2a3f18859128ba7e10e274258a5d3334de3e1b631a65cfc25ab2e5161",
+      "stored_bytes": 91880
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jackson.pdf",
+  "status": 200
+}

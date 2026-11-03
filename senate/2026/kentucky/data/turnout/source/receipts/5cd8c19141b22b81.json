@@ -1,0 +1,43 @@
+{
+  "id": "5cd8c19141b22b81",
+  "requested_url": "https://web.archive.org/cdx/search/cdx?url=elections.jeffersoncountyclerk.org%2FGen24_Results.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "retrieved_at_utc": "2026-10-20T21:24:18.385429+00:00",
+  "role": "Jefferson exact alternative archive recovery catalog",
+  "parent": null,
+  "hops": [
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=elections.jeffersoncountyclerk.org%2FGen24_Results.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+      "status": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Tue, 20 Oct 2026 21:24:25 GMT",
+        "Content-Type": "application/json",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "server-timing": "exclusion.robots;dur=28.148425, exclusion.robots.policy;dur=28.129032, esindex;dur=0.011816, TR;dur=0,Tw;dur=0,Tc;dur=0, BYPASS",
+        "x-app-server": "wwwb-app240-dc6",
+        "x-ts": "200",
+        "x-tr": "6557",
+        "set-cookie": "wb-cdx-nomatch-SERVER=wwwb-app240; path=/",
+        "X-location": "cdx",
+        "X-RL": "0",
+        "X-NA": "0",
+        "X-Page-Cache": "BYPASS",
+        "X-NID": "ATT-INTERNET4",
+        "Referrer-Policy": "no-referrer-when-downgrade",
+        "Permissions-Policy": "interest-cohort=()",
+        "X-sd": "0",
+        "X-be": "wb_cdx_pygwb_nomatch",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "4dd64e5fed5dc324842137ab598a0daedf9148503d83a97517ffa6fa9e89d37c",
+      "raw_bytes": 286,
+      "body": "source/bodies/4dd64e5fed5dc324842137ab598a0daedf9148503d83a97517ffa6fa9e89d37c.gz",
+      "stored_sha256": "c9b353f1d2e82acbfe882d65bddca7ac5930198bc2e8a2d2780ad0315a5ced55",
+      "stored_bytes": 232
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://web.archive.org/cdx/search/cdx?url=elections.jeffersoncountyclerk.org%2FGen24_Results.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "status": 200
+}

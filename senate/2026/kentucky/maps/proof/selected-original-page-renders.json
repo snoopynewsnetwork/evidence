@@ -1,0 +1,42 @@
+[
+  {
+    "county_label": "Boone",
+    "page": 42,
+    "path": "proof/detail-boone-p42.png"
+  },
+  {
+    "county_label": "Cumberland",
+    "page": 11,
+    "path": "proof/detail-cumberland-p11.png"
+  },
+  {
+    "county_label": "Fayette",
+    "page": 111,
+    "path": "proof/detail-fayette-p111.png"
+  },
+  {
+    "county_label": "Jefferson",
+    "page": 83,
+    "path": "proof/detail-jefferson-p83.png"
+  },
+  {
+    "county_label": "Magoffin",
+    "page": 1,
+    "path": "proof/detail-magoffin-p1.png"
+  },
+  {
+    "county_label": "Montgomery",
+    "page": 10,
+    "path": "proof/detail-montgomery-p10.png"
+  },
+  {
+    "county_label": "Pike",
+    "page": 40,
+    "path": "proof/detail-pike-p40.png"
+  },
+  {
+    "county_label": "Scott",
+    "page": 17,
+    "path": "proof/detail-scott-p17.png"
+  }
+]

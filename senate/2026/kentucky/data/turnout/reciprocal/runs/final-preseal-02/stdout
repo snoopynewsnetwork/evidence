@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "final_readonly": false,
+  "checks": {
+    "own-pre-resume_whole_bodies": 2735,
+    "peer-final_whole_bodies": 1972,
+    "peer_receipt_hops": 139,
+    "peer_own_body_hops": 5,
+    "external_original_roles": 161,
+    "original_unchanged_or_explicit_metadata_only": 2735,
+    "full_source_core_order_hierarchy_recomputations": 3,
+    "complete_actual_corruption_packets_rejected": 17,
+    "historical_exact_replay_outputs": 293,
+    "exercised_denial_probes": 9,
+    "original_full_offline_audit": {
+      "owned_size_cache_bounds": 5003,
+      "original_entities": 162,
+      "complete_pdf_text_replays": 134,
+      "independent_original_first_witnesses": 3,
+      "certificate_county_cells": 3480,
+      "certificate_footer_controls": 29,
+      "native_positioned_rows": 58543,
+      "native_source_entities": 3221,
+      "statistics_positioned_rows": 17052,
+      "all_orders_integer_80": 12,
+      "negative_cases_rejected": [
+        "negative vote",
+        "wrong denominator",
+        "nonminimum80",
+        "missing remainder",
+        "reversed order",
+        "county substitution rejected"
+      ],
+      "relative_links": 32
+    }
+  },
+  "manifest_sha256": null,
+  "contract_sha256": "ac05159fa8d4451a92d3ef56ad0b2a330d49821beeebe561c33126628262f714",
+  "no_owned_writes_performed": false
+}

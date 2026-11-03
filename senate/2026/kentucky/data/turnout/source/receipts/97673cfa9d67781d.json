@@ -1,0 +1,50 @@
+{
+  "id": "97673cfa9d67781d",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Barren.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:42.337097+00:00",
+  "role": "2024 county recap: Barren",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Barren.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:42 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:42 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:02 GMT",
+        "ETag": "W/\"{9AA1575E-002F-4AD8-BE51-C17B4CC3C73F},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:9AA1575E-002F-4AD8-BE51-C17B4CC3C73F@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c0d546a2-bcbd-b05c-bfd1-8e7d35669f32",
+        "request-id": "c0d546a2-bcbd-b05c-bfd1-8e7d35669f32",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "36",
+        "SPIisLatency": "20",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211942Z-174b95d58c8blp54hC1CH1bqk00000001eyg000000005x19",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "b9e485efd6652b01b83d3453e6cadc783b8edc62077fb4af780593e4852cb42d",
+      "raw_bytes": 639260,
+      "body": "source/bodies/b9e485efd6652b01b83d3453e6cadc783b8edc62077fb4af780593e4852cb42d.gz",
+      "stored_sha256": "53d016269488dad0d8e4855dd67e42104e55ae78826d72936bd01dcf581ab9b3",
+      "stored_bytes": 555317
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Barren.pdf",
+  "status": 200
+}

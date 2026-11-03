@@ -1,0 +1,3 @@
+{
+  "reason": "Adapter incorrectly treated exact footer schema representations as numeric/source disagreements: state_footer vs state-footer, None vs literal Total Votes. Both complete records and all88differences remain unchanged. Only critical-difference classification narrowed for those exact footer cases; no source/count/order/null values repaired."
+}

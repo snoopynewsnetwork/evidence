@@ -1,0 +1,33 @@
+{
+  "id": "sbe-2020-estill-observed-recap-cdx",
+  "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Felect.ky.gov%2Fresults%2F2020-2029%2FPublishingImages%2F2020General%2F61657_20201211_RECAP.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "retrieved_at_utc": "2026-10-19T17:15:18.895020+00:00",
+  "status": 200,
+  "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Felect.ky.gov%2Fresults%2F2020-2029%2FPublishingImages%2F2020General%2F61657_20201211_RECAP.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "raw_sha256": "631cd31ea421bbefdbc7dbff0b60d5c6538d5766ba7df267a5126372d93bdef3",
+  "asset": "sbe-2020-estill-observed-recap-cdx.html.gz",
+  "stored_sha256": "4af4055fb0b146b4181937f2884c7f0dee520ccf4019ec490441b3fce0159770",
+  "bytes": 349,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Mon, 19 Oct 2026 17:15:20 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "server-timing": "exclusion.robots;dur=0.137661, exclusion.robots.policy;dur=0.122358, esindex;dur=0.010046, TR;dur=0,Tw;dur=0,Tc;dur=0, BYPASS",
+    "x-app-server": "wwwb-app23-dc6",
+    "x-ts": "200",
+    "x-tr": "1553",
+    "set-cookie": "wb-cdx-nomatch-SERVER=wwwb-app23; path=/",
+    "X-location": "cdx",
+    "X-RL": "0",
+    "X-NA": "0",
+    "X-Page-Cache": "BYPASS",
+    "X-NID": "ATT-INTERNET4",
+    "Referrer-Policy": "no-referrer-when-downgrade",
+    "Permissions-Policy": "interest-cohort=()",
+    "X-sd": "0",
+    "X-be": "wb_cdx_pygwb_nomatch",
+    "Content-Encoding": "gzip"
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "scope": "Captured final SOURCE CORE only; no calculator/scenario/target/outcome or later/current/future equality conclusions",
+  "own_pre_resume_manifest": "9721574f385847d85c2cea99e8704425838138d10e9958a81a2586e9fa9629e2",
+  "peer_final_manifest": "9415e66193d21382abc5bc9f5ab97b3943ce2498c64e33acb3aade7dfdf5b2a4",
+  "peer_finalseal": "57c55633ae06cb3799061f258ebe15fd2246549e5e59547070bab6d7312c4f68",
+  "checks": {
+    "own_complete_old_bodies": 2735,
+    "peer_complete_final_bodies": 1972,
+    "peer_individual_original_role_pins": 161,
+    "exact_complete_receipt_bytes": 164,
+    "complete_original_layout_bytes": 133,
+    "certificate_raw_line": 3509,
+    "certificate_raw_token": 3509,
+    "certificate_value": 3509,
+    "certificate_char_start": 3509,
+    "certificate_scope": 3509,
+    "certificate_county_literal": 3509,
+    "complete_literal_header_lines": 14,
+    "literal_manual_header_candidate": 146,
+    "literal_manual_header_running_mate": 146,
+    "literal_manual_header_party": 146,
+    "native_raw_entire_line": 58543,
+    "native_literal_label_representation": 58543,
+    "native_exact_source_count_token_positions": 288300,
+    "native_full_method_header_context_lines": 260434,
+    "statistics_entire_raw_line": 17052,
+    "statistics_full_source_position_validated": 17052,
+    "peer_raw_native_token_positions": 582387,
+    "peer_raw_native_complete_positioned_rows": 148527,
+    "peer_raw_statistics_token_positions": 222526,
+    "peer_raw_statistics_complete_positioned_rows": 18645,
+    "all120_year_admin_party_columns": 360,
+    "all120_registration_party_columns": 120,
+    "all120_registration_total": 120,
+    "page_native_literal_representation": 16230,
+    "complete_page_header_companions": 16230,
+    "all120_original_page_coverage": 120,
+    "accepted_subset_reported_candidate_A": 3143,
+    "accepted_subset_reported_candidate_B": 3143,
+    "accepted_subset_source_reported_marks": 3143,
+    "Elliott_all_selected_source_candidate_pool_child_values": 7,
+    "full_county_order_key": 120,
+    "full_county_order_rank": 120,
+    "full_county_order_count": 120,
+    "full_county_order_cumulative": 120,
+    "full_county_order_denominator": 120,
+    "county_integer80_contract_total": 1,
+    "county_integer80_contract_top15": 1,
+    "county_integer80_contract_min80count": 1,
+    "county_integer80_contract_min80votes": 1,
+    "county_integer80_contract_preceding": 1,
+    "county_integer80_contract_ordered50": 1
+  },
+  "shared_complete_original_layouts": 133,
+  "own_native_rows": 58543,
+  "peer_raw_native_rows": 148527,
+  "own_statistics_rows": 17052,
+  "peer_raw_statistics_rows": 18645,
+  "missing_peer_selected_native_observations": 0,
+  "missing_peer_selected_statistics_observations": 0,
+  "literal_or_schema_differences": {
+    "certificate_scope": 29,
+    "certificate_county_literal": 29,
+    "native_literal_label_representation": 20,
+    "page_native_literal_representation": 10
+  },
+  "accepted_peer_source_contexts": 3150,
+  "peer_zero_pair_contexts": 23,
+  "peer_unresolved_contexts_excluded": [
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A101 Big Hill_Blue Lick",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A102 East Berea",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A103 Gay_Stephens",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A104 North Berea",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A105 South Berea",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A106 West Berea_Mayde",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A107 Clay",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A108 Silver Creek Berea City",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A109 Bobtown_Redlick",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A110 Walker Branch",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "A111 Burnam Highpoint",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B101 SaratogaArlingtonRosedale Richmond City",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B102 North Chenault",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B103 South Chenault",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B104 Newby Jones_Valley View",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B105 West RichmondCollegeBreck Richmond City",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B106 Greenway Richmond City",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B107 Killarney Richmond City",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B108 N.Whitehall/Daniel Boone",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B109 S.Whitehall/Daniel Boone",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B110 Forest Hill",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "B111 Clays Ferry",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C101 Lost Fork",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C102 Redhouse",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C103 McCreary",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C104 College Hill",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C105 Waco",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C106 Brassfield_Bearwallow",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C107 Moberly",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C108 Kavanaugh",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C109 East Richmond",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C110 Dillingham Richmond City",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C112 Courthouse_Central",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C113 Watertower Richmond City",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "C114 City Hall_Telford",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D101 Tevis_Cottonburg_Poosey",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D103 Menelaus Todd West",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D104 Menelaus Todd East",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D105 South Richmond",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D106 Kingston",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D107 Army Depot",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D108 Battlefield",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D109 Francis",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D110 Eastern Campus",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D111 Deacon Hills",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D112 South Crutcher",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "county": "Madison",
+      "unit_literal": "D113 North Crutcher",
+      "reason": "No printed candidate-total and complete six-choice plus write-in-parent field not established"
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "A101 Sublimity",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "A102 Campground",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "A103 East London",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "A104 Rough Creek",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "B101 Fariston",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "B102 Lily",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "B103 Robinson Creek",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "C101 Blackwater",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "C102 East Laurel",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "C103 North London",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "C104 West London",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "C105 McWhorter",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "D101 East Bernstadt #1",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "D102 East Bernstadt #2",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "D103 North Laurel",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "D104 Liberty",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "E101 South London",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "E102 Sublimity #2",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "E103 Colony",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "E104 Hart",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "F101 Keavy",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "F102 West Laurel",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    },
+    {
+      "source_sha256": "4a70874291ee025c6614a0e7a356ddcc647c4f0879a53ad3a59e28f727f9052f",
+      "county": "Laurel",
+      "unit_literal": "F103 South Laurel",
+      "A_rows": 1,
+      "B_rows": 1,
+      "total_rows": 2
+    }
+  ],
+  "own_unresolved_literal_associations": 167,
+  "own_qualified_native_scope": {
+    "units": 3220,
+    "reported_marks": 2042278,
+    "not_canonical": true
+  },
+  "canonical_native_dispatch": false,
+  "mutations_or_peer_repairs": false,
+  "source_position_agreement_qualification": "Raw original bytes/positions and reported fields compared completely. Literal/manual-label representation differences are retained exactly, not normalized to claim agreement.",
+  "critical_difference_count": 58
+}

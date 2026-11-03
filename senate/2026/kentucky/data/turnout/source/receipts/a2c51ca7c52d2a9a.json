@@ -1,0 +1,50 @@
+{
+  "id": "a2c51ca7c52d2a9a",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Daviess.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:02.502072+00:00",
+  "role": "2024 county recap: Daviess",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Daviess.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:03 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:02 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:07 GMT",
+        "ETag": "W/\"{02233CF4-C8EC-4095-A8B9-D46016B8665B},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:02233CF4-C8EC-4095-A8B9-D46016B8665B@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c5d546a2-5ca2-b05c-6baa-2e75d5fc614c",
+        "request-id": "c5d546a2-5ca2-b05c-6baa-2e75d5fc614c",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "1200",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212002Z-15f786f7784vw7kqhC1CHIxkq00000001nsg000000000mss",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "a0012afe7dc1aa7fb4d0491aebc188d9a317a1f1695337aa528a71080db7b1cf",
+      "raw_bytes": 2055413,
+      "body": "source/bodies/a0012afe7dc1aa7fb4d0491aebc188d9a317a1f1695337aa528a71080db7b1cf.gz",
+      "stored_sha256": "71042c0218c1d92fa53a17b0352f98bfb5ff8e420690f0396278f9d7c385840d",
+      "stored_bytes": 1691483
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Daviess.pdf",
+  "status": 200
+}

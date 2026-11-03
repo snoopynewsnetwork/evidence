@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/maps/scripts/build_geometry.py", line 106, in <module>
+    if __name__=='__main__':main(pathlib.Path(sys.argv[1]) if len(sys.argv)>1 else ROOT)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/maps/scripts/build_geometry.py", line 87, in main
+    fips=str(f['attributes']['F_State_County_FIPS']);assert fips in known;groups[fips].append(f)
+                                                            ^^^^^^^^^^^^^
+AssertionError

@@ -1,0 +1,454 @@
+[
+  {
+    "href": "#mainNavContent",
+    "text": "Skip to main navigation"
+  },
+  {
+    "href": "#bodyContent",
+    "text": "Skip to main content"
+  },
+  {
+    "href": "/pages/index.aspx",
+    "text": "\r\n            \t\tKentuckyGeneral Assembly\r\n            \t"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/lrcsearch",
+    "text": "Search"
+  },
+  {
+    "href": "/Legislators/Pages/default.aspx",
+    "text": "Legislators "
+  },
+  {
+    "href": "/Legislators/Pages/default.aspx",
+    "text": "Legislators"
+  },
+  {
+    "href": "/Legislators/senate",
+    "text": "Senate Members"
+  },
+  {
+    "href": "/Legislators/house-of-representatives",
+    "text": "House Members"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/findyourlegislator/findyourlegislator.html",
+    "text": "Who's My Legislator"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/Legislators/contact_legislator.html",
+    "text": "Contact a Member"
+  },
+  {
+    "href": "/Committees/Pages/default.aspx",
+    "text": "Committees "
+  },
+  {
+    "href": "/Committees/Pages/default.aspx",
+    "text": "Committees"
+  },
+  {
+    "href": "/Committees/house-standing-committee",
+    "text": "House Standing Committees"
+  },
+  {
+    "href": "/Committees/senate-standing-committee",
+    "text": "Senate Standing Committees"
+  },
+  {
+    "href": "/Committees/interim-joint-committee",
+    "text": "Interim Joint Committees"
+  },
+  {
+    "href": "/Committees/special-committee",
+    "text": "Special Committees"
+  },
+  {
+    "href": "/Committees/statutory-committee",
+    "text": "Statutory Committees"
+  },
+  {
+    "href": "/Committees/Caucuses",
+    "text": "Caucuses"
+  },
+  {
+    "href": "/Committees/Pages/PriorCommittees.aspx",
+    "text": "Prior Committee Information"
+  },
+  {
+    "href": "/Legislation/Pages/default.aspx",
+    "text": "Bills"
+  },
+  {
+    "href": "/Law/Pages/default.aspx",
+    "text": "Kentucky Law "
+  },
+  {
+    "href": "/Law/Pages/default.aspx",
+    "text": "Kentucky Law"
+  },
+  {
+    "href": "#",
+    "text": "Kentucky Administrative Regulations"
+  },
+  {
+    "href": "/Law/kar/Pages/default.aspx",
+    "text": "Kentucky Administrative Regulations"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/law/kar/titles.htm",
+    "text": "KAR List by Title"
+  },
+  {
+    "href": "/Law/kar/Pages/Registers.aspx",
+    "text": "Registers"
+  },
+  {
+    "href": "/Law/kar/Pages/KarFaqs.aspx",
+    "text": "KAR FAQs"
+  },
+  {
+    "href": "/Law/kar/Pages/Certification.aspx",
+    "text": "Last Effective Dates, Expirations, and Certifications"
+  },
+  {
+    "href": "/Law/kar/Pages/EmergencyRegs.aspx",
+    "text": "Emergency Regulations by Number"
+  },
+  {
+    "href": "#",
+    "text": "Kentucky Revised Statutes"
+  },
+  {
+    "href": "/Law/Statutes/Pages/default.aspx",
+    "text": "Kentucky Revised Statutes"
+  },
+  {
+    "href": "/Law/Statutes/Pages/StatRevInfo.aspx",
+    "text": "Statute Revision Information"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/law/statutes/",
+    "text": "KRS Title Page"
+  },
+  {
+    "href": "/Law/Statutes/Pages/KRSEDS.aspx",
+    "text": "Certified Versions"
+  },
+  {
+    "href": "/Law/Statutes/Pages/KRSHistory.aspx",
+    "text": "History & Functions"
+  },
+  {
+    "href": "/Law/Statutes/Pages/KrsEffDates.aspx",
+    "text": "Normal Effective Dates"
+  },
+  {
+    "href": "/Law/Statutes/Pages/KrsExtraOrdList.aspx",
+    "text": "Extraordinary Sessions since 1940"
+  },
+  {
+    "href": "/Law/Pages/KyActs.aspx",
+    "text": "Acts of the Kentucky General Assembly"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/law/constitution",
+    "text": "Kentucky Constitution"
+  },
+  {
+    "href": "/Public Services/Pages/default.aspx",
+    "text": "Public Services "
+  },
+  {
+    "href": "/Public Services/Pages/default.aspx",
+    "text": "Public Services"
+  },
+  {
+    "href": "#",
+    "text": "Geographic Information Systems"
+  },
+  {
+    "href": "/Public Services/GIS/Pages/default.aspx",
+    "text": "Geographic Information Systems (GIS)"
+  },
+  {
+    "href": "/Public Services/GIS/Maps/Pages/default.aspx",
+    "text": "Maps"
+  },
+  {
+    "href": "/Public Services/GIS/Pages/Redistricting-Information.aspx",
+    "text": "Redistricting Information"
+  },
+  {
+    "href": "/Public Services/GIS/Pages/GIS-Data.aspx",
+    "text": "GIS Data"
+  },
+  {
+    "href": "/Public Services/GIS/Pages/Map-Requests.aspx",
+    "text": "Map Requests"
+  },
+  {
+    "href": "#",
+    "text": "Public Information Office"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/default.aspx",
+    "text": "Public Information Office"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/Radio.aspx",
+    "text": "Radio News Releases"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/publicservices/pio/release.html",
+    "text": "News Releases"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/publicservices/pio/photo.html",
+    "text": "News Photos"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/Videos.aspx",
+    "text": "Video Productions"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/CapMedia.aspx",
+    "text": "Capitol Campus Identification Badges"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/default.aspx",
+    "text": "School Group Tours"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/Live-Streams.aspx",
+    "text": "Live Streams"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/News-Photos-2024.aspx",
+    "text": "News Photos"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/News-Photos-2025.aspx",
+    "text": "News Photos"
+  },
+  {
+    "href": "/Public Services/Pages/Public-Bill-Room.aspx",
+    "text": "Public Bill Room"
+  },
+  {
+    "href": "/Public Services/Pages/Legislative-Reference-Library.aspx",
+    "text": "Peggy King Legislative Reference Library"
+  },
+  {
+    "href": "/LRC/Pages/default.aspx",
+    "text": "Legislative Research Commission "
+  },
+  {
+    "href": "/LRC/Pages/default.aspx",
+    "text": "Legislative Research Commission"
+  },
+  {
+    "href": "/LRC/Documents/LRC Organizational Chart.pdf",
+    "text": "LRC Organizational Chart"
+  },
+  {
+    "href": "/LRC/Pages/Glossary-of-Legislative-Terms.aspx",
+    "text": "Glossary of Legislative Terms"
+  },
+  {
+    "href": "#",
+    "text": "LRC Publications"
+  },
+  {
+    "href": "/LRC/Publications/Pages/default.aspx",
+    "text": "LRC Publications"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/lrc/publications/research_reports.html",
+    "text": "LRC Research Reports"
+  },
+  {
+    "href": "/LRC/Publications/Pages/Informational-Bulletins.aspx",
+    "text": "LRC Informational Bulletins"
+  },
+  {
+    "href": "/LRC/Publications/Pages/Research-Memoranda.aspx",
+    "text": "LRC Research Memoranda"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/lrc/publications/Interactive_Home.html",
+    "text": "LRC Interactive Features"
+  },
+  {
+    "href": "#",
+    "text": "Office of Education Accountability"
+  },
+  {
+    "href": "/LRC/OEA/Pages/default.aspx",
+    "text": "Office of Education Accountability"
+  },
+  {
+    "href": "/LRC/OEA/Pages/OEA-Hotline.aspx",
+    "text": "OEA Hotline"
+  },
+  {
+    "href": "/LRC/OEA/Pages/OEA-Publications.aspx",
+    "text": "OEA Publications"
+  },
+  {
+    "href": "/LRC/OEA/Pages/OEA-Staff.aspx",
+    "text": "OEA Staff"
+  },
+  {
+    "href": "/LRC/EconomistOffice/Pages/default.aspx",
+    "text": "Office of Economic Analysis"
+  },
+  {
+    "href": "/LRC/HealthData/Pages/default.aspx",
+    "text": "Office of Health Data Analytics"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/AgencyReports/IJC/AR/",
+    "text": "Agency Reports"
+  },
+  {
+    "href": "/LRC/Pages/Career-Opportunities.aspx",
+    "text": "Career Opportunities"
+  },
+  {
+    "href": "/Visitors/Pages/default.aspx",
+    "text": "Visitors & Education "
+  },
+  {
+    "href": "/Visitors/Pages/default.aspx",
+    "text": "Visitors & Education"
+  },
+  {
+    "href": "/Visitors/Pages/Educational-Resources.aspx",
+    "text": "Educational Resources For Teachers"
+  },
+  {
+    "href": "/Visitors/Pages/Directions.aspx",
+    "text": "Directions And Local Maps"
+  },
+  {
+    "href": "/Visitors/Pages/Postsecondary-Internship.aspx",
+    "text": "Postsecondary Internship Opportunities"
+  },
+  {
+    "href": "/Visitors/Pages/RoomReservations.aspx",
+    "text": "Annex Committee Room Reservations"
+  },
+  {
+    "href": "/Public Services/PIO/Pages/CapMedia.aspx",
+    "text": "Capitol Campus Identification Badges"
+  },
+  {
+    "href": "/Visitors/Pages/Presentations.aspx",
+    "text": "Presenting to the Legislative Committees"
+  },
+  {
+    "href": "/Pages/index.aspx",
+    "text": "Home"
+  },
+  {
+    "href": "/Public Services/Pages/default.aspx",
+    "text": "Public Services"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=494",
+    "text": "KRS 7.550"
+  },
+  {
+    "href": "/Public Services/GIS/Maps/Pages/default.aspx",
+    "text": "Maps"
+  },
+  {
+    "href": "/Public Services/GIS/Pages/Redistricting-Information.aspx",
+    "text": "Redistricting Information"
+  },
+  {
+    "href": "/Public Services/GIS/Pages/GIS-Data.aspx",
+    "text": "GIS Data (Shapefiles)"
+  },
+  {
+    "href": "/Public Services/GIS/Pages/Map-Requests.aspx",
+    "text": "Map Requests"
+  },
+  {
+    "href": "/Pages/contactus.aspx",
+    "text": "Contact Us"
+  },
+  {
+    "href": "/LRC/Pages/Career-Opportunities.aspx",
+    "text": "Career Opportunities"
+  },
+  {
+    "href": "/Pages/sitemap.aspx",
+    "text": "Site Map"
+  },
+  {
+    "href": "https://apps.legislature.ky.gov/legislativecalendar",
+    "text": "Legislative Calendar"
+  },
+  {
+    "href": "/Documents/RS_Calendar.pdf",
+    "text": "Regular Session Calendar"
+  },
+  {
+    "href": "/Documents/Current%20Interim%20Calendar.pdf",
+    "text": "Interim Calendar"
+  },
+  {
+    "href": "/Documents/Current_Standing_Schedule.pdf",
+    "text": "Standing Committee Schedule"
+  },
+  {
+    "href": "https://www.ket.org/",
+    "text": "Kentucky Educational Television "
+  },
+  {
+    "href": "https://klec.ky.gov/Pages/default.aspx",
+    "text": "Legislative Ethics Commission"
+  },
+  {
+    "href": "/LRC/OEA/Pages/default.aspx",
+    "text": "Office of Education Accountability"
+  },
+  {
+    "href": "/policies-security/Pages/default.aspx",
+    "text": "Policies"
+  },
+  {
+    "href": "/policies-security/Pages/Security.aspx",
+    "text": "Security"
+  },
+  {
+    "href": "/policies-security/Pages/Disclaimers.aspx",
+    "text": "Disclaimer"
+  },
+  {
+    "href": "/policies-security/Pages/Accessibility.aspx",
+    "text": "Accessibility"
+  },
+  {
+    "href": "http://kentucky.gov/policies/Pages/default.aspx",
+    "text": "Policies"
+  },
+  {
+    "href": "http://kentucky.gov/policies/Pages/security.aspx",
+    "text": "Security"
+  },
+  {
+    "href": "http://kentucky.gov/policies/Pages/disclaimer.aspx",
+    "text": "Disclaimer"
+  },
+  {
+    "href": "http://kentucky.gov/policies/Pages/accessibility.aspx",
+    "text": "Accessibility"
+  },
+  {
+    "href": "http://www.kentucky.gov",
+    "text": "Kentucky.gov"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "a6ad980326ff84d2",
+  "requested_url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2F2024ElectionReports%2FGeneralRecaps%2FScott.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "retrieved_at_utc": "2026-10-20T21:23:31.251455+00:00",
+  "role": "Scott exact original archive recovery catalog",
+  "parent": null,
+  "hops": [
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2F2024ElectionReports%2FGeneralRecaps%2FScott.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+      "status": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Tue, 20 Oct 2026 21:23:31 GMT",
+        "Content-Type": "application/json",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "server-timing": "exclusion.robots;dur=0.134837, exclusion.robots.policy;dur=0.119012, esindex;dur=0.009183, TR;dur=0,Tw;dur=0,Tc;dur=0, BYPASS",
+        "x-app-server": "wwwb-app23-dc6",
+        "x-ts": "200",
+        "x-tr": "213",
+        "set-cookie": "wb-cdx-nomatch-SERVER=wwwb-app23; path=/",
+        "X-location": "cdx",
+        "X-RL": "0",
+        "X-NA": "0",
+        "X-Page-Cache": "BYPASS",
+        "X-NID": "ATT-INTERNET4",
+        "Referrer-Policy": "no-referrer-when-downgrade",
+        "Permissions-Policy": "interest-cohort=()",
+        "X-sd": "0",
+        "X-be": "wb_cdx_pygwb_nomatch",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "fe61b93fdf3423da3958ee08c2433a77bdf38c2efa3eb5d87186355772c89591",
+      "raw_bytes": 329,
+      "body": "source/bodies/fe61b93fdf3423da3958ee08c2433a77bdf38c2efa3eb5d87186355772c89591.gz",
+      "stored_sha256": "9c83cb5763b81ce5d7e3057d8d322ddda2812db1c3d530f2226ceba603aeca5d",
+      "stored_bytes": 246
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2F2024ElectionReports%2FGeneralRecaps%2FScott.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "status": 200
+}

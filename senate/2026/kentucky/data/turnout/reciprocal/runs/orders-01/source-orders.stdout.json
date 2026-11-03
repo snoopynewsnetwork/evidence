@@ -1,0 +1,114 @@
+{
+  "status": "PASS",
+  "all_parent_sensitivity_contracts": [
+    {
+      "scope": "2024-president",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "2022-senate",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "2020-senate",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "registration_snapshot_PDF_titled_September_2024",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "unofficial_voter_history_2022",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "unofficial_voter_history_2022_registration",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "unofficial_voter_history_2020",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "unofficial_voter_history_2020_registration",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "unofficial_voter_history_2024",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "unofficial_voter_history_2024_registration",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    },
+    {
+      "scope": "captured_recap_ballots_source_scope",
+      "all_rows": 120,
+      "all_keys_counts_cumulatives_top15_minimum80_crossing_remainder": "exact",
+      "source_basis": "captured original core/party/statistical/control fields reconciled at all original positions"
+    }
+  ],
+  "own_qualified3220": {
+    "denominator": 2042278,
+    "min80": {
+      "count": 1817,
+      "votes": 1633888,
+      "preceding_count": 1816,
+      "preceding_votes": 1633414,
+      "crossing_key": "KY|2024|Washington|93ccfd0cd331|D102",
+      "crossing_votes": 474
+    }
+  },
+  "peer_accepted3150_and_own_same_source3150": {
+    "denominator": 1969011,
+    "peer_min80": {
+      "count": 1782,
+      "votes": 1575315,
+      "preceding_count": 1781,
+      "preceding_votes": 1574848,
+      "crossing_key": "f1440c2ccff7f040bf699966ea6974266998e6a5ce33c63ae6d44b2f96719a58:literal:F101",
+      "crossing_votes": 467
+    },
+    "own_min80": {
+      "count": 1782,
+      "votes": 1575315,
+      "preceding_count": 1781,
+      "preceding_votes": 1574848,
+      "crossing_key": "KY|2024|Todd|c308f7fe26e4|B101",
+      "crossing_votes": 467
+    },
+    "all_sorted_vote_and_cumulative_sequences_match": true,
+    "literal_source_keys_preserved_separately": true,
+    "tie_order_policy": "Each original producer key sorts its own equal-vote rows; no rewritten/normalized key equality claimed"
+  },
+  "excluded70_plus_Scott_not_added_to_peer_subset": true,
+  "canonical_statewide_native": null,
+  "dispatch_keys": [],
+  "out_of_scope": [
+    "calculator",
+    "scenario",
+    "target",
+    "outcome",
+    "current or future peer equality"
+  ]
+}

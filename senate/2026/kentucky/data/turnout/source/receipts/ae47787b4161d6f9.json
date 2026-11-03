@@ -1,0 +1,45 @@
+{
+  "id": "ae47787b4161d6f9",
+  "requested_url": "https://scottcountyclerk.ky.gov/services/elections/",
+  "retrieved_at_utc": "2026-10-20T21:23:28.537896+00:00",
+  "role": "Scott clerk native recovery authority",
+  "parent": null,
+  "hops": [
+    {
+      "url": "https://scottcountyclerk.ky.gov/services/elections/",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:18:10 GMT",
+        "Server": "Apache",
+        "Link": "<https://scottcountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\", <https://scottcountyclerk.ky.gov/wp-json/wp/v2/service/218>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://scottcountyclerk.ky.gov/?p=218>; rel=shortlink",
+        "X-TEC-API-VERSION": "v1",
+        "X-TEC-API-ROOT": "https://scottcountyclerk.ky.gov/wp-json/tribe/events/v1/",
+        "X-TEC-API-ORIGIN": "https://scottcountyclerk.ky.gov",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip",
+        "X-Served-By": "WEB1",
+        "Content-Length": "18280",
+        "Content-Type": "text/html; charset=UTF-8",
+        "X-Varnish": "4511276 23672739",
+        "Age": "318",
+        "Via": "1.1 varnish (Varnish/7.1)",
+        "Accept-Ranges": "bytes",
+        "Connection": "keep-alive",
+        "Set-Cookie": "JSESSIONID=131151720.1.4007691296.1910345216; path=/; httponly;secure ;",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-XSS-Protection": "1; mode=block"
+      },
+      "raw_sha256": "95bfbb03b003f35f52d390dafc67a050e0a4b83697936a996371a7877225afd0",
+      "raw_bytes": 103584,
+      "body": "source/bodies/95bfbb03b003f35f52d390dafc67a050e0a4b83697936a996371a7877225afd0.gz",
+      "stored_sha256": "6efef87fe296c1bfe97949b86023fec1a60ed321d0a5a4b091350eb52ce893c3",
+      "stored_bytes": 18163
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://scottcountyclerk.ky.gov/services/elections/",
+  "status": 200
+}

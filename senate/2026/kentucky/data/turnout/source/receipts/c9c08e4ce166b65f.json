@@ -1,0 +1,50 @@
+{
+  "id": "c9c08e4ce166b65f",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Garrard.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:15.573444+00:00",
+  "role": "2024 county recap: Garrard",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Garrard.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:16 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:15 GMT",
+        "Last-Modified": "Thu, 23 Jan 2025 20:53:14 GMT",
+        "ETag": "W/\"{42177E3C-3ABF-4E00-8731-E86AC855175D},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:42177E3C-3ABF-4E00-8731-E86AC855175D@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c8d546a2-4cd7-b05c-bfd1-8c3453c9366d",
+        "request-id": "c8d546a2-4cd7-b05c-bfd1-8c3453c9366d",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "364",
+        "SPIisLatency": "14",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212015Z-174b95d58c8dgcwghC1CH1kcfw0000000csg000000002535",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "9630a8cc65941f9f89654cba758334c7f84da82863f55fd05b95d860b412d0a0",
+      "raw_bytes": 551935,
+      "body": "source/bodies/9630a8cc65941f9f89654cba758334c7f84da82863f55fd05b95d860b412d0a0.gz",
+      "stored_sha256": "145a1d01923cfeac7478123de05c767196faa9a3937423421635435c66eef544",
+      "stored_bytes": 478254
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Garrard.pdf",
+  "status": 200
+}

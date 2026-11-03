@@ -1,0 +1,50 @@
+{
+  "id": "7527907406d5be3e",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Morgan.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:46.084084+00:00",
+  "role": "2024 county recap: Morgan",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Morgan.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:46 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:46 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:12 GMT",
+        "ETag": "W/\"{E8FC305B-A7AD-40D1-AE79-6231B5400F7B},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:E8FC305B-A7AD-40D1-AE79-6231B5400F7B@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d0d546a2-6c4e-b05c-bfd1-8ad93151c7c0",
+        "request-id": "d0d546a2-6c4e-b05c-bfd1-8ad93151c7c0",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "31",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212046Z-17d5c4ffc574jxd8hC1CH1q8xw0000000ucg00000000qefh",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "99d796e4295cbf02ea70cea88de0221284fb526efcd15377ad1582310bec3e97",
+      "raw_bytes": 111515,
+      "body": "source/bodies/99d796e4295cbf02ea70cea88de0221284fb526efcd15377ad1582310bec3e97.gz",
+      "stored_sha256": "3eb14a1fd853954cc91a83cca837c6f0693966eeee6a12ba94a8f59f76cc7b8c",
+      "stored_bytes": 94326
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Morgan.pdf",
+  "status": 200
+}

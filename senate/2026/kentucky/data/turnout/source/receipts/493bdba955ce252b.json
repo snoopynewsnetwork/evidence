@@ -1,0 +1,50 @@
+{
+  "id": "493bdba955ce252b",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pendleton.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:50.452742+00:00",
+  "role": "2024 county recap: Pendleton",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pendleton.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:51 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:50 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:19 GMT",
+        "ETag": "W/\"{DC308270-C207-47F1-959F-1CF02589D70C},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:DC308270-C207-47F1-959F-1CF02589D70C@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d1d546a2-ac5d-b05c-bfd1-8e68576b4585",
+        "request-id": "d1d546a2-ac5d-b05c-bfd1-8e68576b4585",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "311",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212050Z-17d5c4ffc57bzcvvhC1CH1u0nc0000000b6g0000000068xu",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "e2acc466d5abc4f47e8db35ce5f5ff74587c82d829e1b06b9ce21ad1382042ed",
+      "raw_bytes": 512240,
+      "body": "source/bodies/e2acc466d5abc4f47e8db35ce5f5ff74587c82d829e1b06b9ce21ad1382042ed.gz",
+      "stored_sha256": "38b3fca4c36c4e4f96f92f95450ccdb7f61bc5340f574aaa8ae96feebdd0468c",
+      "stored_bytes": 452348
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pendleton.pdf",
+  "status": 200
+}

@@ -1,0 +1,10 @@
+{
+  "id": "daed9f6b0acb08ba",
+  "requested_url": "https://elect.ky.gov/Resources/Pages/Registration-Statistics.aspx",
+  "retrieved_at_utc": "2026-10-20T21:18:36.916501+00:00",
+  "role": "registration statistics authority index",
+  "parent": null,
+  "hops": [],
+  "source_clock": null,
+  "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'elect.ky.gov\\', port=443): Max retries exceeded with url: /Resources/Pages/Registration-Statistics.aspx (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1068a7f10>: Failed to resolve \\'elect.ky.gov\\' ([Errno 8] nodename nor servname provided, or not known)\"))'))"
+}

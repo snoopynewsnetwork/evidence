@@ -1,0 +1,33 @@
+{
+  "id": "sbe-2020-archive-cdx",
+  "url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2FDocuments%2F2020%20General%20Election%20Results.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "retrieved_at_utc": "2026-10-18T19:41:17.496098+00:00",
+  "status": 200,
+  "final_url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2FDocuments%2F2020%20General%20Election%20Results.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "raw_sha256": "5380b2e357cd261b647cbd09854817e458bd64a2c1ccfd897a12443ba856e3ab",
+  "asset": "sbe-2020-archive-cdx.html.gz",
+  "stored_sha256": "7c0e1c9aaf753bff1e434df3af7f31040be937ef256bb827b920c9097f28d46b",
+  "bytes": 1393,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sun, 18 Oct 2026 19:41:17 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "server-timing": "exclusion.robots;dur=0.166276, exclusion.robots.policy;dur=0.149919, esindex;dur=0.010525, TR;dur=0,Tw;dur=0,Tc;dur=0, BYPASS",
+    "x-app-server": "wwwb-app240-dc6",
+    "x-ts": "200",
+    "x-tr": "210",
+    "set-cookie": "wb-cdx-nomatch-SERVER=wwwb-app240; path=/",
+    "X-location": "cdx",
+    "X-RL": "0",
+    "X-NA": "0",
+    "X-Page-Cache": "BYPASS",
+    "X-NID": "ATT-INTERNET4",
+    "Referrer-Policy": "no-referrer-when-downgrade",
+    "Permissions-Policy": "interest-cohort=()",
+    "X-sd": "0",
+    "X-be": "wb_cdx_pygwb_nomatch",
+    "Content-Encoding": "gzip"
+  }
+}
