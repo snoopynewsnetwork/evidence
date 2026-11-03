@@ -1,0 +1,50 @@
+{
+  "id": "bdf5ee8416dcbdaa",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Christian.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:57.427732+00:00",
+  "role": "2024 county recap: Christian",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Christian.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:58 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:57 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:14 GMT",
+        "ETag": "W/\"{BAE5B848-601D-416D-B55C-880EEC78F346},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:BAE5B848-601D-416D-B55C-880EEC78F346@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c4d546a2-5c65-b05c-6baa-2e15c6d9bd4e",
+        "request-id": "c4d546a2-5c65-b05c-6baa-2e15c6d9bd4e",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "1153",
+        "SPIisLatency": "13",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211957Z-15f786f77844ctgghC1CHI854c0000001n3g000000004kwn",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "307cd20f4d3de8385a8bd94224113d2f3a8b22a41ce8a8c8449831189ed7d62e",
+      "raw_bytes": 1748110,
+      "body": "source/bodies/307cd20f4d3de8385a8bd94224113d2f3a8b22a41ce8a8c8449831189ed7d62e.gz",
+      "stored_sha256": "421ecf28b4847072f097487656d9301104344daf2875119cbd5b9968203658ae",
+      "stored_bytes": 1418835
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Christian.pdf",
+  "status": 200
+}

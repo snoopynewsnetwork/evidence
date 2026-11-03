@@ -1,0 +1,50 @@
+{
+  "id": "8111693d73f2513d",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Perry.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:51.172250+00:00",
+  "role": "2024 county recap: Perry",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Perry.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:51 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:51 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:14 GMT",
+        "ETag": "W/\"{D5A838BD-79BF-453D-B852-F8F3FF88AA7E},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:D5A838BD-79BF-453D-B852-F8F3FF88AA7E@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d1d546a2-2c88-b05c-6baa-2070a1d087d7",
+        "request-id": "d1d546a2-2c88-b05c-6baa-2070a1d087d7",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "555",
+        "SPIisLatency": "23",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212051Z-17d5c4ffc57vtrq7hC1CH1avt40000001zh0000000001vs3",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "1859f3ae62d707d3d3b594771a9c2f15058dea8a4880b4cefa3a5552a52196b9",
+      "raw_bytes": 959490,
+      "body": "source/bodies/1859f3ae62d707d3d3b594771a9c2f15058dea8a4880b4cefa3a5552a52196b9.gz",
+      "stored_sha256": "b30218145a40c344a923638886c0358e6d7ef261515ada9366571f4a98ee7aa5",
+      "stored_bytes": 793114
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Perry.pdf",
+  "status": 200
+}

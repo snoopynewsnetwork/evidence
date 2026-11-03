@@ -1,0 +1,50 @@
+{
+  "id": "7cb63ccb6b96530b",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Gallatin.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:14.951707+00:00",
+  "role": "2024 county recap: Gallatin",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Gallatin.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:15 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:15 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:10 GMT",
+        "ETag": "W/\"{35E3E4E6-8336-4A46-944F-2ADCAAA7F70E},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:35E3E4E6-8336-4A46-944F-2ADCAAA7F70E@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c8d546a2-bcb2-b05c-bfd1-85a1ece2c15b",
+        "request-id": "c8d546a2-bcb2-b05c-bfd1-85a1ece2c15b",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "275",
+        "SPIisLatency": "15",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212015Z-174b95d58c8lvwqxhC1CH1ue8w0000001exg00000000hye1",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "23892d1173dca6b19ce2b74ea23ddba2d6595caecd60bf5611a760ef189d671f",
+      "raw_bytes": 381035,
+      "body": "source/bodies/23892d1173dca6b19ce2b74ea23ddba2d6595caecd60bf5611a760ef189d671f.gz",
+      "stored_sha256": "664c01680e70b1cd68d2d6a1b279cd0751f1a08d99adba9d9eb9c73a5f30ec9c",
+      "stored_bytes": 343740
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Gallatin.pdf",
+  "status": 200
+}

@@ -1,0 +1,116 @@
+{
+  "status": "pass",
+  "checks": 1358198,
+  "sealed_worker_manifests": {
+    "turnout": "9721574f385847d85c2cea99e8704425838138d10e9958a81a2586e9fa9629e2",
+    "baselines": "9415e66193d21382abc5bc9f5ab97b3943ce2498c64e33acb3aade7dfdf5b2a4"
+  },
+  "source_body_roles": {
+    "turnout": 162,
+    "baselines": 161
+  },
+  "unique_whole_original_entities": 162,
+  "counts": {
+    "complete_original_PDF_text_replays": 134,
+    "shared_complete_PDF_texts": 133,
+    "whole_turnout_candidate_positions": 3509,
+    "whole_baseline_candidate_positions": 3509,
+    "turnout_native_numeric_positions": 288300,
+    "whole_turnout_native_rows": 58543,
+    "baseline_native_raw_token_positions": 582387,
+    "whole_baseline_native_rows": 148527,
+    "whole_turnout_statistic_rows": 17052,
+    "baseline_statistic_raw_token_positions": 222526,
+    "whole_baseline_statistic_rows": 18645
+  },
+  "complete_automatically_extracted_PDF_pages": 17107,
+  "independent_certificate_sections": [
+    {
+      "year": 2024,
+      "contest": "2024-president",
+      "source_raw_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+      "whole_source_bytes": 352441,
+      "cover_page": 1,
+      "section_end_exclusive_page": 8,
+      "counties": 120,
+      "candidate_columns": 17,
+      "complete_candidate_footer": [
+        1337494,
+        704043,
+        16769,
+        7566,
+        6422,
+        1015,
+        611,
+        391,
+        177,
+        14,
+        10,
+        8,
+        5,
+        4,
+        1,
+        0,
+        0
+      ],
+      "state_reported_candidate_total": 2074530
+    },
+    {
+      "year": 2022,
+      "contest": "2022-senate",
+      "source_raw_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+      "whole_source_bytes": 555422,
+      "cover_page": 1,
+      "section_end_exclusive_page": 7,
+      "counties": 120,
+      "candidate_columns": 4,
+      "complete_candidate_footer": [
+        913326,
+        564311,
+        145,
+        48
+      ],
+      "state_reported_candidate_total": 1477830
+    },
+    {
+      "year": 2020,
+      "contest": "2020-senate",
+      "source_raw_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773",
+      "whole_source_bytes": 355106,
+      "cover_page": 7,
+      "section_end_exclusive_page": 11,
+      "counties": 120,
+      "candidate_columns": 8,
+      "complete_candidate_footer": [
+        1233315,
+        816257,
+        85386,
+        70,
+        18,
+        9,
+        1,
+        1
+      ],
+      "state_reported_candidate_total": 2135057
+    }
+  ],
+  "county_only_sensitivity": {
+    "denominator": 2074530,
+    "top15_votes": 1094747,
+    "minimum80": {
+      "count": 50,
+      "votes": 1660226,
+      "preceding_votes": 1650178,
+      "crossing_county": "Breckinridge",
+      "crossing_votes": 10048
+    }
+  },
+  "canonical_native_order": null,
+  "canonical_native_dispatch": [],
+  "coverage_parents": 120,
+  "source_native_constituents_in_inventory": 3221,
+  "scope": "Independently regex-parse original complete certificate office sections and every integer column before comparing producer fields; verify complete originals and all raw native/statistic positions. County rank is sensitivity only. Different candidate/native subset representations remain qualified, not normalized. Scanned/handwritten/generic/eligible/current scopes unresolved. No producer/peer helper import or writer, no network.",
+  "all_worker_owned_bytes_unchanged": true,
+  "automatic_extraction_warnings_retained": 10,
+  "manual_visual_claim": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "e4c9e017d9035bfb",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Nicholas.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:47.846268+00:00",
+  "role": "2024 county recap: Nicholas",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Nicholas.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:48 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:48 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:12 GMT",
+        "ETag": "W/\"{D2FD8A8E-05C8-48C6-8EDF-8CE04B26B9F2},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:D2FD8A8E-05C8-48C6-8EDF-8CE04B26B9F2@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d0d546a2-5cb8-b05c-6baa-26068d4bc842",
+        "request-id": "d0d546a2-5cb8-b05c-6baa-26068d4bc842",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "228",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212047Z-17d5c4ffc57klf5mhC1CH1krp40000000v3g000000006tvw",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "62fcdb520d4114158df2d8ba28fac0d58a623893fd2763a4fededb0f0def33e1",
+      "raw_bytes": 323974,
+      "body": "source/bodies/62fcdb520d4114158df2d8ba28fac0d58a623893fd2763a4fededb0f0def33e1.gz",
+      "stored_sha256": "5538d2e7b59d7bf737e208833c9be704a1aaf6b1ffdb1d76cf67485084ca51e1",
+      "stored_bytes": 296231
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Nicholas.pdf",
+  "status": 200
+}

@@ -1,0 +1,5 @@
+{
+  "status": "preserved_coordinator_expectation_error",
+  "error": "Assertion23: own +1pair-margin two-unit fixture expected strict plurality false, output true",
+  "resolution": "At +1 pair margin A121.2 beats B118.8 and C75, so strict plurality is true. Root exact expectation corrected; separate counted-fixed case still verifies a pair tie loses to C220. No calculator or source defect."
+}

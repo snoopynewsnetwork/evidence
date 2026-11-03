@@ -1,0 +1,50 @@
+{
+  "id": "6836773a4ae90b7b",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McLean.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:42.008686+00:00",
+  "role": "2024 county recap: McLean",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McLean.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:42 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:42 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:10 GMT",
+        "ETag": "W/\"{A425D390-0D84-493B-ACD8-D5CEC0E8BB6D},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:A425D390-0D84-493B-ACD8-D5CEC0E8BB6D@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cfd546a2-4c4d-b05c-bfd1-8a4f30b0e312",
+        "request-id": "cfd546a2-4c4d-b05c-bfd1-8a4f30b0e312",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "299",
+        "SPIisLatency": "15",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212042Z-r1cf8987fd5htzdvhC1CHIp5yg00000001ag00000000452f",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "9aa621616d96679475f865804573e4a316fdc78b891acb184ab018edb261f806",
+      "raw_bytes": 443634,
+      "body": "source/bodies/9aa621616d96679475f865804573e4a316fdc78b891acb184ab018edb261f806.gz",
+      "stored_sha256": "9aa78886ceb4b1c07266255e93f6722f6606026cb4e320492a9907a7aca453a4",
+      "stored_bytes": 388644
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McLean.pdf",
+  "status": 200
+}

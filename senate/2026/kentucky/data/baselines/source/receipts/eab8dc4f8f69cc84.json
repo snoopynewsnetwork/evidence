@@ -1,0 +1,50 @@
+{
+  "id": "eab8dc4f8f69cc84",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boyd.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:46.754039+00:00",
+  "role": "2024 county recap: Boyd",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boyd.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:47 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:46 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:04 GMT",
+        "ETag": "W/\"{B2B78CFB-4571-4BF8-ABE9-622A25E8B196},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:B2B78CFB-4571-4BF8-ABE9-622A25E8B196@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c1d546a2-cccf-b05c-bfd1-8426b0f0f0fc",
+        "request-id": "c1d546a2-cccf-b05c-bfd1-8426b0f0f0fc",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "764",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211946Z-174b95d58c8qc4rphC1CH18guw0000001dyg000000005gnc",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "858c7e21ab74c15ac6ece173f290682e113196b0b09a025d4269c1b4b164d638",
+      "raw_bytes": 1287163,
+      "body": "source/bodies/858c7e21ab74c15ac6ece173f290682e113196b0b09a025d4269c1b4b164d638.gz",
+      "stored_sha256": "65498902e4b4868c2e938d1671e1f89816d766a7d7a662590fe097519f78fe3c",
+      "stored_bytes": 1047004
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boyd.pdf",
+  "status": 200
+}

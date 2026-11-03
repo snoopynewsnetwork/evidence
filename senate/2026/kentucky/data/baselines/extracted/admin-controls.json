@@ -1,0 +1,140 @@
+[
+  {
+    "source_sha256": "4b2f9a101241f4618217116274b5264e87979f6954fa96cb53922d9b9e626544",
+    "url": "https://elect.ky.gov/Resources/Documents/voterstatscounty-November%20General%202024.pdf",
+    "counties": 120,
+    "printed_footer": {
+      "precinct_count": 3232,
+      "D_registration": 1508617,
+      "R_registration": 1659088,
+      "other_registration": 191909,
+      "independent_registration": 166925,
+      "libertarian_registration": 16604,
+      "green_registration": 2630,
+      "constitution_registration": 1487,
+      "reform_registration": 227,
+      "socialist_workers_registration": 649,
+      "total_registration": 3548136
+    },
+    "independent_county_sums": {
+      "precinct_count": 3232,
+      "D_registration": 1508617,
+      "R_registration": 1659088,
+      "other_registration": 191909,
+      "independent_registration": 166925,
+      "libertarian_registration": 16604,
+      "green_registration": 2630,
+      "constitution_registration": 1487,
+      "reform_registration": 227,
+      "socialist_workers_registration": 649,
+      "total_registration": 3548136
+    },
+    "source_headers": [
+      "September, 2024                   Commonwealth of Kentucky - State Board of Elections                                          Page 1 of 3",
+      "                                        Voter Registration Statistics Report",
+      "County             Precinct     Dem      Rep     Other      Ind   Libert   Green   Const   Reform   Soc Wk    Male    Female    Registered",
+      "                   count",
+      "001 ADAIR          16           2912    10162      512      532      45        9       8        1        2     6865     7309        14183",
+      "002 ALLEN          14           3701    10502      791      506      62       14       7        1        4     7414     8169        15588"
+    ]
+  },
+  {
+    "source_sha256": "b847258b244e5a0bd615c94eb1f571bf450b95bec9a16ebf3496a2025c5dcd7d",
+    "url": "https://elect.ky.gov/Resources/Documents/voterturnoutcounty-2022G-20221227-014248.pdf",
+    "counties": 120,
+    "printed_footer": {
+      "total_registration": 3590227,
+      "number_voting": 1502626,
+      "D_registration": 1607218,
+      "D_number_voting": 665096,
+      "R_registration": 1629364,
+      "R_number_voting": 743831,
+      "other_registration": 353645,
+      "other_number_voting": 93699
+    },
+    "independent_county_sums": {
+      "total_registration": 3590227,
+      "number_voting": 1502626,
+      "D_registration": 1607218,
+      "D_number_voting": 665096,
+      "R_registration": 1629364,
+      "R_number_voting": 743831,
+      "other_registration": 353645,
+      "other_number_voting": 93699
+    },
+    "source_headers": [
+      "                                                  Commonwealth of Kentucky                                         Page 1 of 2",
+      "                                                   State Board of Elections                                        12/27/2022",
+      "                        Voter Turnout Report For the 2022 General Election (11/8/2022)",
+      "Cty    County           Total   Number Percent       Dem    Number Percent       Rep    Number Percent     Other Number Percent",
+      "Code   Name              Reg.    voting turnout      Reg.    voting turnout      Reg.    voting turnout     Reg. voting turnout",
+      "001    ADAIR           14,147     6,489 45.9%       3,109     1,189 38.2%      10,063     5,042 50.1%        975     258 26.5%"
+    ]
+  },
+  {
+    "source_sha256": "5df134ec6ec73dba3ade174d2a51dfd8bf08d66c725fb36361735e08ef999e95",
+    "url": "https://elect.ky.gov/Resources/Documents/2020G%20Turnout%20by%20County.pdf",
+    "counties": 120,
+    "printed_footer": {
+      "total_registration": 3565428,
+      "number_voting": 2149444,
+      "D_registration": 1672380,
+      "D_number_voting": 992637,
+      "R_registration": 1568690,
+      "R_number_voting": 1010845,
+      "other_registration": 324358,
+      "other_number_voting": 145962
+    },
+    "independent_county_sums": {
+      "total_registration": 3565428,
+      "number_voting": 2149444,
+      "D_registration": 1672380,
+      "D_number_voting": 992637,
+      "R_registration": 1568690,
+      "R_number_voting": 1010845,
+      "other_registration": 324358,
+      "other_number_voting": 145962
+    },
+    "source_headers": [
+      "                                                  Commonwealth of Kentucky                                         Page 1 of 2",
+      "                                                   State Board of Elections                                         2/26/2021",
+      "                        Voter Turnout Report For the 2020 General Election (11/3/2020)",
+      "Cty    County           Total   Number Percent       Dem    Number Percent       Rep    Number Percent     Other Number Percent",
+      "Code   Name              Reg.    voting turnout      Reg.    voting turnout      Reg.    voting turnout     Reg. voting turnout",
+      "001    ADAIR           14,031     8,914 63.5 %      3,306     1,858 56.2 %      9,862     6,678 67.7 %       863     378 43.8 %"
+    ]
+  },
+  {
+    "source_sha256": "1cad65f15b8c27f91246bbc0999afed35cdfc3e9d6359924f6bac5f9b05b3584",
+    "url": "https://elect.ky.gov/Resources/Documents/2024G%20Voter%20Turnout%20by%20County.pdf",
+    "counties": 120,
+    "printed_footer": {
+      "total_registration": 3548136,
+      "number_voting": 2086320,
+      "D_registration": 1508617,
+      "D_number_voting": 845131,
+      "R_registration": 1659088,
+      "R_number_voting": 1072657,
+      "other_registration": 380431,
+      "other_number_voting": 168532
+    },
+    "independent_county_sums": {
+      "total_registration": 3548136,
+      "number_voting": 2086320,
+      "D_registration": 1508617,
+      "D_number_voting": 845131,
+      "R_registration": 1659088,
+      "R_number_voting": 1072657,
+      "other_registration": 380431,
+      "other_number_voting": 168532
+    },
+    "source_headers": [
+      "                                                  Commonwealth of Kentucky                                         Page 1 of 2",
+      "                                                   State Board of Elections                                          1/6/2025",
+      "                        Voter Turnout Report For the 2024 General Election (11/5/2024)",
+      "Cty    County           Total   Number Percent       Dem    Number Percent       Rep    Number Percent     Other Number Percent",
+      "Code   Name              Reg.    voting turnout      Reg.    voting turnout      Reg.    voting turnout     Reg. voting turnout",
+      "001    ADAIR           14,183     9,056 63.9%       2,912     1,546 53.1%      10,162     7,041 69.3%      1,109     469 42.3%"
+    ]
+  }
+]

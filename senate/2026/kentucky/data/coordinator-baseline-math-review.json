@@ -1,0 +1,215 @@
+{
+  "status": "pass_independent_source_weight_exact_rational_piecewise_roots",
+  "checks": 143888,
+  "historical_source_county_rows": 360,
+  "complete_state_models": 18,
+  "qualified_native_subset_models": 2,
+  "contribution_and_selected_only_rows": 8414,
+  "maximum_shift_difference": 2.7755575615628914e-17,
+  "maximum_output_net_residual_votes": 1.673470251262188e-10,
+  "producer_import_or_write": false,
+  "canonical_native_dispatch": [],
+  "method": "Source-checked full certificate vectors and literal native TOTAL positions; independent exact-rational affine breakpoint sweep rather than producer bisection. Every county including nonpriority remains in state models. Unknown outside-native contexts are excluded only from explicitly bounded subset models, never statewide allocated.",
+  "proofs": [
+    {
+      "scenario": "county-anchor2020-mix2020-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.10674270530627858,
+      "unbounded_share_shift": 0.10674270530627858,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2020-mix2020-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.10174270530627857,
+      "unbounded_share_shift": 0.10174270530627857,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2020-mix2022-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.10434473827538426,
+      "unbounded_share_shift": 0.10434473827538426,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2020-mix2022-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.09934473827538426,
+      "unbounded_share_shift": 0.09934473827538426,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2020-mix2024-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.11036981964240751,
+      "unbounded_share_shift": 0.11036981964240751,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2020-mix2024-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.10536981964240752,
+      "unbounded_share_shift": 0.10536981964240752,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2022-mix2020-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.1255921705385608,
+      "unbounded_share_shift": 0.1255921705385608,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2022-mix2020-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.1205921705385608,
+      "unbounded_share_shift": 0.1205921705385608,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2022-mix2022-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.12309903244166191,
+      "unbounded_share_shift": 0.12309903244166191,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2022-mix2022-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.11809903244166191,
+      "unbounded_share_shift": 0.11809903244166191,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2022-mix2024-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.1292010577838915,
+      "unbounded_share_shift": 0.1292010577838915,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2022-mix2024-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.12420105778389147,
+      "unbounded_share_shift": 0.12420105778389147,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2024-mix2020-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.15627897962150256,
+      "unbounded_share_shift": 0.15627897962150256,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2024-mix2020-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.15127897962150255,
+      "unbounded_share_shift": 0.15127897962150255,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2024-mix2022-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.15381393808206872,
+      "unbounded_share_shift": 0.15381393808206872,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2024-mix2022-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.14881393808206872,
+      "unbounded_share_shift": 0.14881393808206872,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2024-mix2024-margin0.01.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.16014071016102085,
+      "unbounded_share_shift": 0.16014071016102085,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "county-anchor2024-mix2024-margin0.input.json",
+      "units": 120,
+      "full_state": true,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.15514071016102085,
+      "unbounded_share_shift": 0.15514071016102085,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "native-known-subset-margin0.01.input.json",
+      "units": 3127,
+      "full_state": false,
+      "target_pair_margin": 0.01,
+      "bounded_share_shift": 0.15809310289159959,
+      "unbounded_share_shift": 0.15702378430876207,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    },
+    {
+      "scenario": "native-known-subset-margin0.input.json",
+      "units": 3127,
+      "full_state": false,
+      "target_pair_margin": 0,
+      "bounded_share_shift": 0.15301137796540942,
+      "unbounded_share_shift": 0.15202378430876207,
+      "exact_net_residual": "0",
+      "native_current_join": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sbe-2020-original",
+  "url": "https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf",
+  "retrieved_at_utc": "2026-10-18T19:40:50.941915+00:00",
+  "status": 403,
+  "final_url": "https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf",
+  "raw_sha256": "fb63cb758961b0aa7d35bac04a592a517579edbfd46d8938a9e522890cf1986e",
+  "asset": "sbe-2020-original.html.gz",
+  "stored_sha256": "9dbabf8d51d8a5c9f9b343fe05e40b1e33177793b458c618e6c25855e1b4acb0",
+  "bytes": 1484,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 19:40:50 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "1484",
+    "Connection": "close",
+    "Cache-Control": "no-store",
+    "x-azure-ref": "20261018T194050Z-15f786f77844z9schC1CHI8gx8000000149000000000nugr",
+    "X-Cache": "CONFIG_NOCACHE"
+  }
+}

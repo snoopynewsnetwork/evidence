@@ -1,0 +1,50 @@
+{
+  "id": "d6a107ea5fb3490b",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Anderson.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:41.175560+00:00",
+  "role": "2024 county recap: Anderson",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Anderson.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:41 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:41 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:01 GMT",
+        "ETag": "W/\"{B4C73F94-16FF-443E-B851-E675130C4D00},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:B4C73F94-16FF-443E-B851-E675130C4D00@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c0d546a2-2c72-b05c-6baa-27b9617b6939",
+        "request-id": "c0d546a2-2c72-b05c-6baa-27b9617b6939",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "281",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211941Z-174b95d58c8trclwhC1CH18na80000001eg00000000042kx",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "9dd9b73e15480a9cec11a976a1404c2496c0df7fda9671ac9e6c0e7f7041119b",
+      "raw_bytes": 418070,
+      "body": "source/bodies/9dd9b73e15480a9cec11a976a1404c2496c0df7fda9671ac9e6c0e7f7041119b.gz",
+      "stored_sha256": "04f2cccb44ea82c90e679343d931bad1eb30ec3a4002290cf423af76fa60e9e8",
+      "stored_bytes": 372245
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Anderson.pdf",
+  "status": 200
+}

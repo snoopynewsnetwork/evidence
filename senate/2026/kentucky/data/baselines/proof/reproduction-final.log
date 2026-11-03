@@ -1,0 +1,9 @@
+Verifying individual original pins and extracting all133PDFs
+Isolated replay: extract_certificates.py
+Isolated replay: extract_native.py
+Isolated replay: native_quantities.py
+Isolated replay: extract_admin.py
+Isolated replay: build.py
+Isolated replay: source_reconciliation.py
+Isolated replay: validate_calculator.py
+reproduction passed 195 source/output checks

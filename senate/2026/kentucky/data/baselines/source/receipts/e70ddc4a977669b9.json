@@ -1,0 +1,50 @@
+{
+  "id": "e70ddc4a977669b9",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Owen.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:49.594382+00:00",
+  "role": "2024 county recap: Owen",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Owen.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:50 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:49 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:13 GMT",
+        "ETag": "W/\"{B0AAA4A0-7B3F-435A-AE79-7DDF21513E8D},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:B0AAA4A0-7B3F-435A-AE79-7DDF21513E8D@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d1d546a2-dc20-b05c-6baa-2cc20614e19b",
+        "request-id": "d1d546a2-dc20-b05c-6baa-2cc20614e19b",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "313",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212049Z-17d5c4ffc57bzr7nhC1CH1hp280000001ygg000000002urd",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "3d38864e2a99ed4199833087d2157b1b78551ba1415407e5a68795f4fc5f7e34",
+      "raw_bytes": 514782,
+      "body": "source/bodies/3d38864e2a99ed4199833087d2157b1b78551ba1415407e5a68795f4fc5f7e34.gz",
+      "stored_sha256": "c289ef8fc651ab9ae1fbe27e13655ff0b5981f00c39a120489fcc50851804084",
+      "stored_bytes": 452196
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Owen.pdf",
+  "status": 200
+}

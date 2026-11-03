@@ -1,0 +1,50 @@
+{
+  "id": "9bb6a019c36e0720",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Robertson.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:53.418817+00:00",
+  "role": "2024 county recap: Robertson",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Robertson.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:53 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:53 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:14 GMT",
+        "ETag": "W/\"{4AA39814-0D72-4BBD-B82F-50CB8679E30A},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:4AA39814-0D72-4BBD-B82F-50CB8679E30A@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d2d546a2-4c0f-b05c-bfd1-844642b6eda5",
+        "request-id": "d2d546a2-4c0f-b05c-bfd1-844642b6eda5",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "242",
+        "SPIisLatency": "13",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212053Z-17d5c4ffc57klf5mhC1CH1krp40000000v3g000000006u3k",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "32069b02752fab8a15a174aef26fa88852e82455d927b12cad7fba614c99c6aa",
+      "raw_bytes": 332370,
+      "body": "source/bodies/32069b02752fab8a15a174aef26fa88852e82455d927b12cad7fba614c99c6aa.gz",
+      "stored_sha256": "1540782ff8b7a1b53cfb2462be0c8f4eaf84da7855f13a0fd641b18a960fe752",
+      "stored_bytes": 300698
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Robertson.pdf",
+  "status": 200
+}

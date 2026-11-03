@@ -1,0 +1,1 @@
+capture_peer.py line21 KeyError: 'immutable_stored_sha256' after successful decoded hash/length validation; expected checker adapter schema variation, no source/candidate discrepancy.

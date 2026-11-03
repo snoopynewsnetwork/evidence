@@ -1,0 +1,32 @@
+{
+  "mode": "live",
+  "pair": [
+    "A",
+    "B"
+  ],
+  "others": [
+    "Z"
+  ],
+  "other_scope": "named",
+  "target": 0,
+  "selected_unit": "u",
+  "assumptions": "Synthetic arithmetic fixture; all remaining volumes/preferences explicit",
+  "units": [
+    {
+      "key": "u",
+      "counted": {
+        "A": 120,
+        "B": 100,
+        "other": {
+          "Z": 50
+        }
+      },
+      "remaining": "2",
+      "participation": 0.8,
+      "share": 0.75,
+      "other_allocation": {
+        "Z": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "086f074137e88032",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Nelson.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:46.957605+00:00",
+  "role": "2024 county recap: Nelson",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Nelson.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:47 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:47 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:12 GMT",
+        "ETag": "W/\"{AD30E9E4-F382-4BD3-9BD8-D7C3D9AAD4BC},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:AD30E9E4-F382-4BD3-9BD8-D7C3D9AAD4BC@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d0d546a2-4c82-b05c-6baa-20f3eebf8d09",
+        "request-id": "d0d546a2-4c82-b05c-6baa-20f3eebf8d09",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "502",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212046Z-17d5c4ffc57tvb9qhC1CH10f2w0000001zkg000000003d7n",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "92c0f60f996912ebcac9c6d978915c778c54787833cc426a6ddeab221ece586c",
+      "raw_bytes": 908705,
+      "body": "source/bodies/92c0f60f996912ebcac9c6d978915c778c54787833cc426a6ddeab221ece586c.gz",
+      "stored_sha256": "0da69dc119822d1ad0a745da0705d43ab5195d7ee490f0c5a4e38865a15ba81b",
+      "stored_bytes": 762799
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Nelson.pdf",
+  "status": 200
+}

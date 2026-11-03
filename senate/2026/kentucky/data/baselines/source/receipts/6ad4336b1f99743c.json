@@ -1,0 +1,50 @@
+{
+  "id": "6ad4336b1f99743c",
+  "requested_url": "https://elect.ky.gov/Resources/Documents/voterturnoutcounty-2022G-20221227-014248.pdf",
+  "retrieved_at_utc": "2026-10-20T21:21:06.965740+00:00",
+  "role": "unofficial turnout sensitivity: General Voter Turnout by County",
+  "parent": "https://elect.ky.gov/Resources/Pages/Turnout.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/Resources/Documents/voterturnoutcounty-2022G-20221227-014248.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:21:07 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:21:07 GMT",
+        "Last-Modified": "Mon, 02 Jan 2023 18:06:11 GMT",
+        "ETag": "W/\"{56EF2B99-846C-4663-AAD4-9CC4BCCA5F3C},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:56EF2B99-846C-4663-AAD4-9CC4BCCA5F3C@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d5d546a2-2c64-b05c-6baa-217ad0e6a2e6",
+        "request-id": "d5d546a2-2c64-b05c-6baa-217ad0e6a2e6",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "35",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212106Z-174c78c4ddcgxkc4hC1CHIehan0000001p7g000000001020",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "b847258b244e5a0bd615c94eb1f571bf450b95bec9a16ebf3496a2025c5dcd7d",
+      "raw_bytes": 121548,
+      "body": "source/bodies/b847258b244e5a0bd615c94eb1f571bf450b95bec9a16ebf3496a2025c5dcd7d.gz",
+      "stored_sha256": "c910cf613bc47475c57080779c68caaa8d8e348439efcb6f3ec5bee9db3507a8",
+      "stored_bytes": 107905
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/Resources/Documents/voterturnoutcounty-2022G-20221227-014248.pdf",
+  "status": 200
+}

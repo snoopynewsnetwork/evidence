@@ -1,0 +1,50 @@
+{
+  "id": "6ba8748d9891c72c",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Simpson.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:56.993091+00:00",
+  "role": "2024 county recap: Simpson",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Simpson.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:57 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:57 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:16 GMT",
+        "ETag": "W/\"{B0BAA79A-E24E-45B7-8DE7-96BA7A6347BA},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:B0BAA79A-E24E-45B7-8DE7-96BA7A6347BA@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d2d546a2-0cf6-b05c-6baa-2d772b5edf57",
+        "request-id": "d2d546a2-0cf6-b05c-6baa-2d772b5edf57",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "335",
+        "SPIisLatency": "17",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212057Z-17d5c4ffc57rn2cshC1CH126ks0000001zmg000000000y8x",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "007962914d958a9202e9be28a6f2841c21b114636b4c04d22c464302bbbfbccb",
+      "raw_bytes": 494037,
+      "body": "source/bodies/007962914d958a9202e9be28a6f2841c21b114636b4c04d22c464302bbbfbccb.gz",
+      "stored_sha256": "3c81befb6640d7aa8b31b4bc29ce9d004cbe8907f71677fee6fac06cdb4e5db3",
+      "stored_bytes": 468306
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Simpson.pdf",
+  "status": 200
+}

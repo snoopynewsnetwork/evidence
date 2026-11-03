@@ -1,0 +1,292 @@
+[
+  {
+    "year": 2024,
+    "column": 1,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:1",
+    "name": "Donald J. TRUMP",
+    "running_mate": "J. D. VANCE",
+    "party": "Republican Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 2,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:2",
+    "name": "Kamala D. HARRIS",
+    "running_mate": "Tim WALZ",
+    "party": "Democratic Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 3,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:3",
+    "name": "Robert F. KENNEDY JR.",
+    "running_mate": "Nicole SHANAHAN",
+    "party": "Independent",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 4,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:4",
+    "name": "Jill STEIN",
+    "running_mate": "Samson KPADENOU",
+    "party": "Kentucky Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 5,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:5",
+    "name": "Chase OLIVER",
+    "running_mate": "Mike TER MAAT",
+    "party": "Libertarian Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 6,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:6",
+    "name": "Shiva AYYADURAI",
+    "running_mate": "Crystal ELLIS",
+    "party": "Independent",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 7,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:7",
+    "name": "Peter SONSKI",
+    "running_mate": "Lauren ONAK",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 8,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:8",
+    "name": "Claudia DE LA CRUZ",
+    "running_mate": "Karina GARCIA",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 9,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:9",
+    "name": "Cornel WEST",
+    "running_mate": "Melina ABDULLAH",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 10,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:10",
+    "name": "James D. SODERNA",
+    "running_mate": "Matthew J. TREWHELLA",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 11,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:11",
+    "name": "Jay J. BOWMAN",
+    "running_mate": "De BOWMAN",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 12,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:12",
+    "name": "Joseph KISHORE",
+    "running_mate": "Jerry WHITE",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 13,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:13",
+    "name": "John CHENG",
+    "running_mate": "Wayne WALIGORSKI",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 14,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:14",
+    "name": "Billy KELLEY JR.",
+    "running_mate": "Jason HOLDEMAN",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 15,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:15",
+    "name": "Cherunda FOX",
+    "running_mate": "Harlan McVAY JR.",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 16,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:16",
+    "name": "Andre Ramon McNEIL SR.",
+    "running_mate": "Roschelle McNEIL",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2024,
+    "column": 17,
+    "key": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1:column:17",
+    "name": "Future Madam POTUS",
+    "running_mate": "Jessica KENNEDY",
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2022,
+    "column": 1,
+    "key": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5:column:1",
+    "name": "Rand PAUL",
+    "running_mate": null,
+    "party": "Republican Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5"
+  },
+  {
+    "year": 2022,
+    "column": 2,
+    "key": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5:column:2",
+    "name": "Charles BOOKER",
+    "running_mate": null,
+    "party": "Democratic Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5"
+  },
+  {
+    "year": 2022,
+    "column": 3,
+    "key": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5:column:3",
+    "name": "Charles Lee THOMASON",
+    "running_mate": null,
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5"
+  },
+  {
+    "year": 2022,
+    "column": 4,
+    "key": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5:column:4",
+    "name": "Billy Ray WILSON",
+    "running_mate": null,
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5"
+  },
+  {
+    "year": 2020,
+    "column": 1,
+    "key": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773:column:1",
+    "name": "Mitch McCONNELL",
+    "running_mate": null,
+    "party": "Republican Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  },
+  {
+    "year": 2020,
+    "column": 2,
+    "key": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773:column:2",
+    "name": "Amy McGRATH",
+    "running_mate": null,
+    "party": "Democratic Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  },
+  {
+    "year": 2020,
+    "column": 3,
+    "key": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773:column:3",
+    "name": "Brad BARRON",
+    "running_mate": null,
+    "party": "Libertarian Party",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  },
+  {
+    "year": 2020,
+    "column": 4,
+    "key": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773:column:4",
+    "name": "Paul John FRANGEDAKIS",
+    "running_mate": null,
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  },
+  {
+    "year": 2020,
+    "column": 5,
+    "key": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773:column:5",
+    "name": "Daniel COBBLE",
+    "running_mate": null,
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  },
+  {
+    "year": 2020,
+    "column": 6,
+    "key": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773:column:6",
+    "name": "Randall Lee TEEGARDEN",
+    "running_mate": null,
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  },
+  {
+    "year": 2020,
+    "column": 7,
+    "key": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773:column:7",
+    "name": "Harold H. FITZPATRICK",
+    "running_mate": null,
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  },
+  {
+    "year": 2020,
+    "column": 8,
+    "key": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773:column:8",
+    "name": "Demetra WYSINGER",
+    "running_mate": null,
+    "party": "Write-In",
+    "display": "Manual header transcription; exact raw spacing/case retained separately",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  }
+]

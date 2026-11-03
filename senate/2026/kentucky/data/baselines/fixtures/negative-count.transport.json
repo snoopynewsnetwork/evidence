@@ -1,0 +1,9 @@
+{
+  "exit": 2,
+  "stderr": "",
+  "argv": [
+    "python",
+    "scripts/calculator.py",
+    "fixtures/negative-count.input.json"
+  ]
+}

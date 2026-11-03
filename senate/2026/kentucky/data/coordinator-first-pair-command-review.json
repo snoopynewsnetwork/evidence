@@ -1,0 +1,246 @@
+{
+  "status": "pass_actual_readonly_commands_completed",
+  "commands": [
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/kentucky/data/review_first_pair_originals.py"
+      ],
+      "started_utc": "2026-10-20T21:57:34.777633+00:00",
+      "finished_utc": "2026-10-20T21:58:05.357853+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-first-pair-original-review-2.result.json.gz",
+          "raw_bytes": 491,
+          "raw_sha256": "bfc4d19c44ecdd98d32cdd14291888685e546d0c58020478108001cc78fbb6cd",
+          "stored_bytes": 303,
+          "stored_sha256": "7378146ff4acc1223ae38fb535c87d7a087b4efd61ca1ee1beaea6f9e1c51e35"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-first-pair-original-review-2.stdout.gz",
+          "raw_bytes": 2928,
+          "raw_sha256": "e9d67f0858e5a19b4a6a158a7b7361cb848dfc1d1712e7fc1bba1545ea57f76a",
+          "stored_bytes": 1323,
+          "stored_sha256": "1b8751ad5665a4d32c18cd2395954173529d92530a5768dad5caee58369125eb"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-first-pair-original-review-2.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/kentucky/data/turnout/scripts/audit.py",
+        "--final"
+      ],
+      "started_utc": "2026-10-20T21:52:55.822681+00:00",
+      "finished_utc": "2026-10-20T21:53:25.332297+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-turnout-final-root-1.result.json.gz",
+          "raw_bytes": 484,
+          "raw_sha256": "9cf0df67c2658c58acb2b1412973913ecfa764e24848dd6efe9d80c327fa4c26",
+          "stored_bytes": 298,
+          "stored_sha256": "a3a29f96bdcc672c341c6e6458b4323df81e4bf69bf175b727b1a852cc620415"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-turnout-final-root-1.stdout.gz",
+          "raw_bytes": 82621,
+          "raw_sha256": "8ac5ef442aa913456f23d23de3000aa2eb89c59cb2caca1035b4d97128f07ad6",
+          "stored_bytes": 1558,
+          "stored_sha256": "6cb28ba66ce5dd5d2e85b3326927f99a9cea8f8274344d799a2f37f530ab924a"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-turnout-final-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/kentucky/data/baselines/scripts/audit.py",
+        "--final"
+      ],
+      "started_utc": "2026-10-20T21:52:55.822739+00:00",
+      "finished_utc": "2026-10-20T21:53:00.103971+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-baseline-final-root-1.result.json.gz",
+          "raw_bytes": 488,
+          "raw_sha256": "9b1c7dfccc692ac0219c10806a7eccf52a1d2d7dc9578a93f053991e73ea24fd",
+          "stored_bytes": 300,
+          "stored_sha256": "f77c378888e3edbb96da345cc2772619733ba78508aec71a337fb9a1caace271"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-baseline-final-root-1.stdout.gz",
+          "raw_bytes": 389,
+          "raw_sha256": "109d9ddeb22a353d2ef13cc91e21a8cfb462ae51b79fdfc90e1dcc87489a7913",
+          "stored_bytes": 287,
+          "stored_sha256": "abdd300bc6fdd9f330b0229f212cf4df08a3da5d16fea39b88c034bbd1b12f48"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-baseline-final-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/kentucky/data/review_baseline_math.py"
+      ],
+      "started_utc": "2026-10-20T22:03:17.423617+00:00",
+      "finished_utc": "2026-10-20T22:03:30.942301+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-math-root-1.result.json.gz",
+          "raw_bytes": 450,
+          "raw_sha256": "1b5500dac6f5b8e31ad0e1cea226550742af809147464cd7d29601c3744c043a",
+          "stored_bytes": 290,
+          "stored_sha256": "acf06a3f0ef7a3acb0794c43a14ecff8e7adc01e155b58234700c666e5fef102"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-math-root-1.stdout.gz",
+          "raw_bytes": 771,
+          "raw_sha256": "ad686f78918dc953f78865f3c63766b3cad241f3d461f17ab5ee499665f6ef64",
+          "stored_bytes": 493,
+          "stored_sha256": "467798121345341d7cfc9538fd03cf7730da74e431fad836176430f395c921b0"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-math-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/kentucky/data/turnout/reciprocal/scripts/review_audit.py",
+        "--final"
+      ],
+      "started_utc": "2026-10-20T22:24:49.185656+00:00",
+      "finished_utc": "2026-10-20T22:25:52.043694+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-turnout-reciprocal-root-1.result.json.gz",
+          "raw_bytes": 512,
+          "raw_sha256": "c24364ee3566879c8b5a454b9f0239b7fbbbcdba19eea433c220da7d75e2f7a7",
+          "stored_bytes": 312,
+          "stored_sha256": "891a0b94644031806f85f5ae5ebf2ba54f0c2282519ef1dba4cfd7f03e29a60b"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-turnout-reciprocal-root-1.stdout.gz",
+          "raw_bytes": 1426,
+          "raw_sha256": "7fae8afd24bd635456a7af45a27a6b14c56f91caefe8e483fe2ed30d4e5b9d08",
+          "stored_bytes": 712,
+          "stored_sha256": "2ad9498f2e30cf75c400506dfff91b40ccc6aae188a92cce3bea748ca0b85092"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-turnout-reciprocal-root-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/kentucky/data/accept_source_research.py"
+      ],
+      "started_utc": "2026-10-20T22:26:44.011775+00:00",
+      "finished_utc": "2026-10-20T22:27:59.812692+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-source-authority-2.result.json.gz",
+          "raw_bytes": 466,
+          "raw_sha256": "064e269cc795dc94c6a19e1800287d160c5fbf2a48ee2ad9a5b6d40fc6447ada",
+          "stored_bytes": 298,
+          "stored_sha256": "843b9b47ac3842ce577a8593fe4be4e03d7e4184cfa4975328b893c59ef3cf10"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-source-authority-2.stdout.gz",
+          "raw_bytes": 339,
+          "raw_sha256": "b1c262ea5b82b397764aa53156e8c55bf8fae2e89beeaf1d41a3b74f17bb093b",
+          "stored_bytes": 257,
+          "stored_sha256": "724d1b1ad0087218edaa6057bd120b90447fc459bcffebcf0f357f75a19c99ed"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-source-authority-2.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "-S",
+        "senate/2026/kentucky/data/validate_source_acceptance.py"
+      ],
+      "started_utc": "2026-10-20T22:28:39.357977+00:00",
+      "finished_utc": "2026-10-20T22:29:42.414119+00:00",
+      "exit": 0,
+      "full_completion_bodies": [
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-authority-readonly-1.result.json.gz",
+          "raw_bytes": 474,
+          "raw_sha256": "4d5dacf8b285e4b8658526658759988a3754e93165c0f88788623b44c5f210b0",
+          "stored_bytes": 301,
+          "stored_sha256": "28498ffb63f89df18660ce32abf7383415fb0458c1abac6ce922daded45f410d"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-authority-readonly-1.stdout.gz",
+          "raw_bytes": 500,
+          "raw_sha256": "fae4fd3a101449087deb94092fa9f865b0a16bb77b18c01f3b897f00ab895a27",
+          "stored_bytes": 320,
+          "stored_sha256": "7607865500047319d10f965423210a9d1cefbbf90422e6add0775bd868658492"
+        },
+        {
+          "path": "data/coordinator-final-command-history/snn-ky-authority-readonly-1.stderr.gz",
+          "raw_bytes": 0,
+          "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "stored_bytes": 20,
+          "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+        }
+      ]
+    }
+  ]
+}

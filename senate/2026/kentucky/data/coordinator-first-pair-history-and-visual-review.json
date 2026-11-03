@@ -1,0 +1,160 @@
+{
+  "status": "pass",
+  "checks": 4837,
+  "counts": {
+    "turnout_original-first_complete_frozen_bodies": 482,
+    "turnout_original-first-v2_complete_frozen_bodies": 484,
+    "turnout_original-first-v3_complete_frozen_bodies": 491,
+    "baseline_original-first-freeze.json_complete_frozen_targets": 732,
+    "baseline_original-first-freeze-v2.json_complete_frozen_targets": 817,
+    "baseline_captured_peer_original_v1_v2_bodies": 373
+  },
+  "original_first_chronology_before_baseline_peer_capture": true,
+  "raw_whole_body_hash_size_always_checked": true,
+  "optional_stored_gzip_pin_absent_on_metadata_entries": 9,
+  "qualification_of_optional_storage_pins": "Three metadata entries per original-first generation omit stored gzip digest; all decoded hashes/bytes exact. Complete package manifest separately pins stored bytes. No witness/source edited.",
+  "exact_manual_scope": "Seven actual whole Elliott presidential/statistics pages1,4,7,9,11,13,15 viewed; every selected row independently read. Other9Elliottpages and otherPDFs automatic only unless separately named. No browser claim.",
+  "Elliott_images": [
+    {
+      "state_relative_path": "data/turnout/proof/elliott-01.png",
+      "sha256": "227b1f1802bd15ebb655c8e4825dfe7b11c0ab38f33f84e7a93e2fce4bcf0bae",
+      "bytes": 133596,
+      "source_page": 1,
+      "source_values_president_6_regular_then_generic_then_unassigned_child": [
+        307,
+        67,
+        2,
+        5,
+        0,
+        1,
+        0,
+        0
+      ],
+      "president_total": 382,
+      "registered": 753,
+      "ballots_total": 386,
+      "blank_ballots": 0
+    },
+    {
+      "state_relative_path": "data/turnout/proof/elliott-04.png",
+      "sha256": "d626214ec50671e799e0fa614178d885aee71c8dabe20ce8612273e492d52255",
+      "bytes": 142205,
+      "source_page": 4,
+      "source_values_president_6_regular_then_generic_then_unassigned_child": [
+        325,
+        67,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "president_total": 392,
+      "registered": 608,
+      "ballots_total": 397,
+      "blank_ballots": 0
+    },
+    {
+      "state_relative_path": "data/turnout/proof/elliott-07.png",
+      "sha256": "208b8dadafd23ed2b0819481b4291320f6bf3bc252da305fc1459fd582cc07cd",
+      "bytes": 139294,
+      "source_page": 7,
+      "source_values_president_6_regular_then_generic_then_unassigned_child": [
+        384,
+        60,
+        0,
+        4,
+        1,
+        0,
+        1,
+        1
+      ],
+      "president_total": 450,
+      "registered": 800,
+      "ballots_total": 453,
+      "blank_ballots": 0
+    },
+    {
+      "state_relative_path": "data/turnout/proof/elliott-09.png",
+      "sha256": "2ec54a9d9918f8591faaacf64138c46f54ab0644e922c3021838d3030e89e669",
+      "bytes": 121505,
+      "source_page": 9,
+      "source_values_president_6_regular_then_generic_then_unassigned_child": [
+        407,
+        120,
+        5,
+        3,
+        3,
+        4,
+        0,
+        0
+      ],
+      "president_total": 542,
+      "registered": 972,
+      "ballots_total": 555,
+      "blank_ballots": 0
+    },
+    {
+      "state_relative_path": "data/coordinator-visual-review/elliott-fresh-p11.png",
+      "sha256": "e40b53084a855088f397dd91236dd7a65beef1cfb3d7dc92e7fe777198c48392",
+      "bytes": 143687,
+      "source_page": 11,
+      "source_values_president_6_regular_then_generic_then_unassigned_child": [
+        309,
+        74,
+        1,
+        5,
+        0,
+        1,
+        2,
+        2
+      ],
+      "president_total": 392,
+      "registered": 621,
+      "ballots_total": 400,
+      "blank_ballots": 0
+    },
+    {
+      "state_relative_path": "data/coordinator-visual-review/elliott-fresh-p13.png",
+      "sha256": "65666ffb8d081b303c6700bcafbfe301e9d6deb6e3bf5a2400bfc83ec07ceab2",
+      "bytes": 151621,
+      "source_page": 13,
+      "source_values_president_6_regular_then_generic_then_unassigned_child": [
+        312,
+        70,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "president_total": 385,
+      "registered": 609,
+      "ballots_total": 389,
+      "blank_ballots": 0
+    },
+    {
+      "state_relative_path": "data/coordinator-visual-review/elliott-fresh-p15.png",
+      "sha256": "4e6eca2d6f0123050f8ba7b04fb09d6ba8430cd4c10846d9732b6160822e3683",
+      "bytes": 133151,
+      "source_page": 15,
+      "source_values_president_6_regular_then_generic_then_unassigned_child": [
+        291,
+        74,
+        0,
+        5,
+        0,
+        1,
+        0,
+        0
+      ],
+      "president_total": 371,
+      "registered": 644,
+      "ballots_total": 373,
+      "blank_ballots": 0
+    }
+  ],
+  "scope": "Full immutable original-first witness bodies and original-v1/v2 captured peer bytes; no current/future peer-contract/model/outcome equality. Raw PDF controls remain distinct from named-writein/certified allocation and physical precinct identity. No worker/source mutation."
+}

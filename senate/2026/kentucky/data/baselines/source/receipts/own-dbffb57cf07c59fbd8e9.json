@@ -1,0 +1,10 @@
+{
+  "requested_url": "https://elect.ky.gov/results/2020-2029/Pages/2020.aspx",
+  "role": "Current authority navigation 2020.aspx",
+  "parent": null,
+  "retrieved_at_utc": "2026-10-20T21:25:58.892102+00:00",
+  "hops": [],
+  "error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+  "final_url": "https://elect.ky.gov/results/2020-2029/Pages/2020.aspx",
+  "source_clock": null
+}

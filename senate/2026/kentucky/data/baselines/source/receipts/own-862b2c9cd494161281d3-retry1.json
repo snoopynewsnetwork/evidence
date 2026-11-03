@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://elect.ky.gov/results/2020-2029/Pages/2022-General-Recap-Sheets.aspx",
+  "role": "Current authority navigation 2022-General-Recap-Sheets.aspx",
+  "parent": null,
+  "retrieved_at_utc": "2026-10-20T21:26:13.401105+00:00",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/Pages/2022-General-Recap-Sheets.aspx",
+      "status": 403,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:26:13 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1484",
+        "Connection": "close",
+        "Cache-Control": "no-store",
+        "x-azure-ref": "20261020T212613Z-174c78c4ddcjk6fchC1CHIdxnc0000001nvg00000000pnr1",
+        "X-Cache": "CONFIG_NOCACHE"
+      },
+      "raw_sha256": "dcebe3c1d193d3101f24c28587d2f7141c3130474d1fcd01f9c3ab0da6a6f7c8",
+      "raw_bytes": 1484,
+      "body": "source/bodies/dcebe3c1d193d3101f24c28587d2f7141c3130474d1fcd01f9c3ab0da6a6f7c8.gz",
+      "stored_sha256": "0ac16d660d74464fcd13c4c17c25e2f57c07af05c949c1d7e972db33aed78ec2",
+      "stored_bytes": 560
+    }
+  ],
+  "final_url": "https://elect.ky.gov/results/2020-2029/Pages/2022-General-Recap-Sheets.aspx",
+  "source_clock": null
+}

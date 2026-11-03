@@ -1,0 +1,58 @@
+{
+  "status": "bounded_actual_county_recap_archive_discovery_only",
+  "source_findings": [
+    {
+      "county": "estill",
+      "actual_previously_observed_official_URL": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61657_20201211_RECAP.pdf",
+      "catalog_observation_id": "sbe-2020-estill-observed-recap-cdx",
+      "catalog_status": 200,
+      "exposed_originals": [
+        {
+          "catalog_record": {
+            "urlkey": "gov,ky,elect)/results/2020-2029/publishingimages/2020general/61657_20201211_recap.pdf",
+            "timestamp": "20210116034430",
+            "original": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61657_20201211_RECAP.pdf",
+            "mimetype": "application/pdf",
+            "statuscode": "200",
+            "digest": "HLXT5NE6LIZ246YNZ36R4Y34Y2AJT5GG",
+            "length": "103549"
+          },
+          "observation_id": "sbe-2020-estill-recap-archive-20210116034430",
+          "HTTPstatus": 200,
+          "complete_entity_bytes": 110519,
+          "raw_sha256": "7a1ea38703cec3aea59740a8e8e33b77b70b7d97207427438283767cd15f2149",
+          "PDFmagic": true,
+          "retained_asset": "data/news/sbe-2020-estill-recap-archive-20210116034430.html.gz"
+        }
+      ],
+      "matching_catalog_records": 1
+    },
+    {
+      "county": "lyon",
+      "actual_previously_observed_official_URL": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61002_20201118_RECAP.pdf",
+      "catalog_observation_id": "sbe-2020-lyon-observed-recap-cdx",
+      "catalog_status": 200,
+      "exposed_originals": [
+        {
+          "catalog_record": {
+            "urlkey": "gov,ky,elect)/results/2020-2029/publishingimages/2020general/61002_20201118_recap.pdf",
+            "timestamp": "20210116042754",
+            "original": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61002_20201118_RECAP.pdf",
+            "mimetype": "application/pdf",
+            "statuscode": "200",
+            "digest": "4I4AIC43AACFDEZD3MC65X6W4S3T5SQ5",
+            "length": "105783"
+          },
+          "observation_id": "sbe-2020-lyon-recap-archive-20210116042754",
+          "HTTPstatus": 200,
+          "complete_entity_bytes": 114882,
+          "raw_sha256": "6b78a6d29739275ee907227703bdc99030e719ad69d63c767c4d765106eea6bb",
+          "PDFmagic": true,
+          "retained_asset": "data/news/sbe-2020-lyon-recap-archive-20210116042754.html.gz"
+        }
+      ],
+      "matching_catalog_records": 1
+    }
+  ],
+  "qualification": "Only actual previously observed official recap URLs were catalog queried; download timestamps/originalURLs come from returned status200 catalog records. Empty exact queries are not absence under other links. A valid original body still needs page/native/candidate/method/source-control review; no complete120county/native or current authority/priority approval."
+}

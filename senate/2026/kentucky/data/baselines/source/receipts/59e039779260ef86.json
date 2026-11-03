@@ -1,0 +1,50 @@
+{
+  "id": "59e039779260ef86",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Russell.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:55.036509+00:00",
+  "role": "2024 county recap: Russell",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Russell.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:55 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:55 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:15 GMT",
+        "ETag": "W/\"{701AAA10-96C7-40BB-AC19-A459BD419419},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:701AAA10-96C7-40BB-AC19-A459BD419419@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d2d546a2-4c74-b05c-6baa-2cb2d0428c5b",
+        "request-id": "d2d546a2-4c74-b05c-6baa-2cb2d0428c5b",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "43",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212055Z-17d5c4ffc57bzcvvhC1CH1u0nc0000000avg000000008er0",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "5a2e417026ea7e2afddafafd0954bc850a715e6f327ebfc6240b32ab18330ba7",
+      "raw_bytes": 578228,
+      "body": "source/bodies/5a2e417026ea7e2afddafafd0954bc850a715e6f327ebfc6240b32ab18330ba7.gz",
+      "stored_sha256": "74d256f512468f7a2f52bace1b0e6c6196492bb33d1221bb0d4736fdb6836c93",
+      "stored_bytes": 502257
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Russell.pdf",
+  "status": 200
+}

@@ -1,0 +1,50 @@
+{
+  "id": "00a5d827a2b82e47",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Floyd.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:12.830837+00:00",
+  "role": "2024 county recap: Floyd",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Floyd.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:13 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:13 GMT",
+        "Last-Modified": "Thu, 23 Jan 2025 16:40:01 GMT",
+        "ETag": "W/\"{30F7F007-6A79-419F-90DC-5FD1045E499B},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:30F7F007-6A79-419F-90DC-5FD1045E499B@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c8d546a2-8c2c-b05c-6baa-22cef21f5f5e",
+        "request-id": "c8d546a2-8c2c-b05c-6baa-22cef21f5f5e",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "229",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212012Z-174b95d58c8wbbnbhC1CH1ssa80000001eng000000003mur",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "fb0cc26f45f4942007d79a4c2b566ca541e13f531e6c13bef9d01fa7400df395",
+      "raw_bytes": 281666,
+      "body": "source/bodies/fb0cc26f45f4942007d79a4c2b566ca541e13f531e6c13bef9d01fa7400df395.gz",
+      "stored_sha256": "ea190654821e3a0d7dff1b80ed2337564440acb9868e8df8026dbc842bf312be",
+      "stored_bytes": 212147
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Floyd.pdf",
+  "status": 200
+}

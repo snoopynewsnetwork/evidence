@@ -1,0 +1,20 @@
+{
+  "id": "state-results-2026",
+  "url": "https://elect.ky.gov/results/2020-2029/Pages/2026.aspx",
+  "retrieved_at_utc": "2026-10-18T01:52:07.489098+00:00",
+  "status": 403,
+  "final_url": "https://elect.ky.gov/results/2020-2029/Pages/2026.aspx",
+  "raw_sha256": "3dc66b409c1b7a50e0bc52a84f219d0c0d31f2c6fb8f42bb29feef0ac447c809",
+  "asset": "state-results-2026.html.gz",
+  "stored_sha256": "45fc2b72618a87a66eacfa9148743594c7c26f04783f1e51debce1a2c5ed7220",
+  "bytes": 1484,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 01:52:07 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "1484",
+    "Connection": "close",
+    "Cache-Control": "no-store",
+    "x-azure-ref": "20261018T015207Z-15f786f7784qnp4whC1CHI2p5s0000000z0g00000000awsc",
+    "X-Cache": "CONFIG_NOCACHE"
+  }
+}

@@ -1,0 +1,108 @@
+[
+  {
+    "year": 2024,
+    "counties": 120,
+    "columns": 17,
+    "candidate_sums": [
+      1337494,
+      704043,
+      16769,
+      7566,
+      6422,
+      1015,
+      611,
+      391,
+      177,
+      14,
+      10,
+      8,
+      5,
+      4,
+      1,
+      0,
+      0
+    ],
+    "printed_footer": [
+      1337494,
+      704043,
+      16769,
+      7566,
+      6422,
+      1015,
+      611,
+      391,
+      177,
+      14,
+      10,
+      8,
+      5,
+      4,
+      1,
+      0,
+      0
+    ],
+    "all_candidate_total": 2074530,
+    "ballots_cast": null,
+    "registration": null,
+    "under": null,
+    "over": null,
+    "method": "Not printed in certificate contest tables",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1"
+  },
+  {
+    "year": 2022,
+    "counties": 120,
+    "columns": 4,
+    "candidate_sums": [
+      913326,
+      564311,
+      145,
+      48
+    ],
+    "printed_footer": [
+      913326,
+      564311,
+      145,
+      48
+    ],
+    "all_candidate_total": 1477830,
+    "ballots_cast": null,
+    "registration": null,
+    "under": null,
+    "over": null,
+    "method": "Not printed in certificate contest tables",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5"
+  },
+  {
+    "year": 2020,
+    "counties": 120,
+    "columns": 8,
+    "candidate_sums": [
+      1233315,
+      816257,
+      85386,
+      70,
+      18,
+      9,
+      1,
+      1
+    ],
+    "printed_footer": [
+      1233315,
+      816257,
+      85386,
+      70,
+      18,
+      9,
+      1,
+      1
+    ],
+    "all_candidate_total": 2135057,
+    "ballots_cast": null,
+    "registration": null,
+    "under": null,
+    "over": null,
+    "method": "Not printed in certificate contest tables",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773"
+  }
+]

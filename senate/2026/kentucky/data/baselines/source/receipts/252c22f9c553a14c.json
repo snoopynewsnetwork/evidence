@@ -1,0 +1,50 @@
+{
+  "id": "252c22f9c553a14c",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pulaski.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:52.976313+00:00",
+  "role": "2024 county recap: Pulaski",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pulaski.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:53 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:53 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:17 GMT",
+        "ETag": "W/\"{929AE04B-260D-4D7F-841A-4140A5B4AA88},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:929AE04B-260D-4D7F-841A-4140A5B4AA88@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d1d546a2-bcf9-b05c-bfd1-8e8be357d7d7",
+        "request-id": "d1d546a2-bcf9-b05c-bfd1-8e8be357d7d7",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "46",
+        "SPIisLatency": "10",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212053Z-17d5c4ffc57xhp5fhC1CH1v80s000000151000000000674b",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "3d3d508e5edf65e93a76e4d65ef0e000cd0ae1b58f92d03919cfffb61037f0e3",
+      "raw_bytes": 881154,
+      "body": "source/bodies/3d3d508e5edf65e93a76e4d65ef0e000cd0ae1b58f92d03919cfffb61037f0e3.gz",
+      "stored_sha256": "2bf19fbcfa9c8f1cdfe2ee508bf2f7f22efe26e6bfb2d53365bb7e302e2f6815",
+      "stored_bytes": 742457
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Pulaski.pdf",
+  "status": 200
+}

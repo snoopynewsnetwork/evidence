@@ -1,0 +1,31 @@
+{
+  "certificate": {
+    "own_positions": 3509,
+    "peer_positions": 3509,
+    "differences": 0,
+    "whole_county_order": []
+  },
+  "headers": {
+    "pages": 14,
+    "differences": 0
+  },
+  "native": {
+    "own_observation_rows": 148527,
+    "peer_field_rows": 58543,
+    "common_source_positions": 58543,
+    "differences": {
+      "own-only native context row": 89984,
+      "unit label difference": 20
+    },
+    "comparison": "Exact hash/page/line/raw text/literal label/count-token byte positions; schemas differ in inclusion of context/admin/header/percentage tokens. Full differences retained, no adoption."
+  },
+  "elliott": {
+    "compared_presidential_candidate_pool_child_positions": 56,
+    "differences": [],
+    "source_generic_pool": "Never equated to named write-ins; native generic3 versus certificate named0 remains source-scoped"
+  },
+  "statistics": {
+    "exact complete raw row": 17052
+  },
+  "limitations": "Captured only original-first/v2 stable scope, not future final equality. Peer handwriting/Jefferson-alternative bodies retained for scope comparison but not numerical input or owned repairs. Full historical candidate-native coverage unclosed; county agreement never authorizes native dispatch."
+}

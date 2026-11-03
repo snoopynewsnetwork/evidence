@@ -1,0 +1,50 @@
+{
+  "id": "35c05c6aa4e4090e",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fleming.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:12.319132+00:00",
+  "role": "2024 county recap: Fleming",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fleming.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:12 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:12 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:09 GMT",
+        "ETag": "W/\"{C9584C16-7097-455B-B15D-3BAF0FF59ACF},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:C9584C16-7097-455B-B15D-3BAF0FF59ACF@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c8d546a2-dc0e-b05c-bfd1-80b9029660c0",
+        "request-id": "c8d546a2-dc0e-b05c-bfd1-80b9029660c0",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "40",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212012Z-174b95d58c8pxxkhhC1CH10cx00000001f000000000049sc",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "2dc6b362019387be6fa7cdf70003bc9507edfd29573ef28c67f6326fed315884",
+      "raw_bytes": 688739,
+      "body": "source/bodies/2dc6b362019387be6fa7cdf70003bc9507edfd29573ef28c67f6326fed315884.gz",
+      "stored_sha256": "21cf184f0c70a10a1a2833a7254b60e0400ee5d54994738da00eaff673fd025f",
+      "stored_bytes": 590564
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fleming.pdf",
+  "status": 200
+}

@@ -1,0 +1,50 @@
+{
+  "id": "b0c75ef1a5347a15",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Edmonson.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:04.559283+00:00",
+  "role": "2024 county recap: Edmonson",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Edmonson.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:05 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:04 GMT",
+        "Last-Modified": "Thu, 23 Jan 2025 20:53:22 GMT",
+        "ETag": "W/\"{7C3343F6-9F3F-463D-9A0A-0015A04BC2EB},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:7C3343F6-9F3F-463D-9A0A-0015A04BC2EB@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c6d546a2-5c22-b05c-bfd1-8d678f8a3439",
+        "request-id": "c6d546a2-5c22-b05c-bfd1-8d678f8a3439",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "329",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212004Z-15f786f7784v7zc6hC1CHIyfk400000002600000000040tb",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "b973eb666aba5f5f6db7029dd9507cb302655c7c44020cc6e2653e90123a97f4",
+      "raw_bytes": 479702,
+      "body": "source/bodies/b973eb666aba5f5f6db7029dd9507cb302655c7c44020cc6e2653e90123a97f4.gz",
+      "stored_sha256": "8e681b842711517602a5accc4913a2135ee028941896e7f19eca25ef42ce5d0e",
+      "stored_bytes": 423254
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Edmonson.pdf",
+  "status": 200
+}

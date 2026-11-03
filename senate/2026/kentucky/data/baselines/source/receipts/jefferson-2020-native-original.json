@@ -1,0 +1,33 @@
+{
+  "id": "jefferson-2020-native-original",
+  "url": "https://elections.jeffersoncountyclerk.org/pdfs/Gen20SOVC.pdf",
+  "retrieved_at_utc": "2026-10-18T19:40:51.057129+00:00",
+  "status": 200,
+  "final_url": "https://www.jeffersoncountyclerk.org/Voter-Info/Voting",
+  "raw_sha256": "63db49eb6cb1d1d530686b54ce4c5c95968a1fdbf2465524861e055ecd66c71f",
+  "asset": "jefferson-2020-native-original.html.gz",
+  "stored_sha256": "604a57f351417e8e6982c1e192ec560b7649d58d75dcef0399a80c0bba1d6310",
+  "bytes": 95485,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Language": "en-US",
+    "Cache-Tag": "pg-9859e37e556545a6a23f310f86238c53,te-5e37faa39e564851aff26255910da0b1",
+    "x-mobile-client": "false",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Security-Policy": "frame-ancestors 'self'; ",
+    "Content-Security-Policy-Report-Only": "frame-ancestors 'self'; ",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Vary": "Accept-Encoding",
+    "X-Akamai-Transformed": "9 31488 0 pmb=mRUM,1",
+    "Content-Encoding": "gzip",
+    "Cache-Control": "public, max-age=60",
+    "Date": "Sun, 18 Oct 2026 19:40:52 GMT",
+    "Content-Length": "33547",
+    "Connection": "keep-alive",
+    "Set-Cookie": "ASP.NET_SessionId=p00ea3bo4w5jbd3grjudf3lj; path=/; secure; HttpOnly; SameSite=None, OC_EA_EmergencyAnnouncementList_Dismissed=; path=/; secure; HttpOnly; SameSite=None",
+    "Server-Timing": "cdn-cache; desc=REVALIDATE, edge; dur=110, origin; dur=355, ak_p; desc=\"1792352451787_3088984456_550165041_46480_12801_7_55_-\";dur=1",
+    "Alt-Svc": "h3=\":443\"; ma=93600"
+  }
+}

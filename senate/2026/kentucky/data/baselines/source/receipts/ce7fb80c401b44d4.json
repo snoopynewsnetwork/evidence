@@ -1,0 +1,50 @@
+{
+  "id": "ce7fb80c401b44d4",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jessamine.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:29.461487+00:00",
+  "role": "2024 county recap: Jessamine",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jessamine.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:29 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:29 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:13 GMT",
+        "ETag": "W/\"{C2710A20-A303-4C87-B7A8-2EEEEB92074D},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:C2710A20-A303-4C87-B7A8-2EEEEB92074D@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "ccd546a2-7c36-b05c-6baa-20656781d300",
+        "request-id": "ccd546a2-7c36-b05c-6baa-20656781d300",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "58",
+        "SPIisLatency": "13",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212029Z-r1cf8987fd5fqp56hC1CHIhrrc00000006m0000000003gqw",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "e39edbdcb7332eb5613da2307578c393d481d39a3ae7a092d377e1180f4fd67c",
+      "raw_bytes": 1133165,
+      "body": "source/bodies/e39edbdcb7332eb5613da2307578c393d481d39a3ae7a092d377e1180f4fd67c.gz",
+      "stored_sha256": "2835c2e61a292339057839009874bfdc1a0f7ba9372903a00c37396073871941",
+      "stored_bytes": 957670
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Jessamine.pdf",
+  "status": 200
+}

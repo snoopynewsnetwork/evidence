@@ -1,0 +1,6 @@
+{
+  "case": "county-anchor2024-mix2024-margin0",
+  "observed_A_minus_B_at_tie": 2.3283064365386963e-10,
+  "defect": "Target field strict A plurality incorrectly true from numerical root rounding at mathematical pair tie",
+  "correction": "Evaluate full-field pair-target quantities from exact target denominator identity (finalpair+target_net)/2. Keep per-unit clipped-root achieved/residual separately; no source/residual-vote repair."
+}

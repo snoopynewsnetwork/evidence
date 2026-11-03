@@ -1,0 +1,50 @@
+{
+  "id": "3d92399e9931e872",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Webster.pdf",
+  "retrieved_at_utc": "2026-10-20T21:21:03.594925+00:00",
+  "role": "2024 county recap: Webster",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Webster.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:21:04 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:21:03 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:19 GMT",
+        "ETag": "W/\"{A602CD70-64F3-435B-AEC8-540207D62060},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:A602CD70-64F3-435B-AEC8-540207D62060@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d4d546a2-9c92-b05c-6baa-25c03af00b71",
+        "request-id": "d4d546a2-9c92-b05c-6baa-25c03af00b71",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "380",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212103Z-174c78c4ddcq8vs7hC1CHIdc4s0000001ppg000000000ge7",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "7c7f1596cc0dd1626a1fc3e3c946853f5fc66eb9fafa79847c67db4af3ce6270",
+      "raw_bytes": 602522,
+      "body": "source/bodies/7c7f1596cc0dd1626a1fc3e3c946853f5fc66eb9fafa79847c67db4af3ce6270.gz",
+      "stored_sha256": "8f456add3bd46bbd730dfe4e1f94ae55cec7f2fa07e1cfb39e84d01b05e6e906",
+      "stored_bytes": 517793
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Webster.pdf",
+  "status": 200
+}

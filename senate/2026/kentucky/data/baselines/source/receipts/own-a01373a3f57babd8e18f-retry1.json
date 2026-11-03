@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://elect.ky.gov/results/2020-2029/Pages/2022.aspx",
+  "role": "Current authority navigation 2022.aspx",
+  "parent": null,
+  "retrieved_at_utc": "2026-10-20T21:26:13.206553+00:00",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/Pages/2022.aspx",
+      "status": 403,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:26:13 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1484",
+        "Connection": "close",
+        "Cache-Control": "no-store",
+        "x-azure-ref": "20261020T212613Z-174c78c4ddc6srxrhC1CHInch80000001p400000000066vk",
+        "X-Cache": "CONFIG_NOCACHE"
+      },
+      "raw_sha256": "b870802225d8381b18026b5d13d87c3e44c326cd37d411633be7f59baf7b501a",
+      "raw_bytes": 1484,
+      "body": "source/bodies/b870802225d8381b18026b5d13d87c3e44c326cd37d411633be7f59baf7b501a.gz",
+      "stored_sha256": "6295f0bd17635f11ca9c06137fd4e8442729c1c5d987bce2982824ae576b0e09",
+      "stored_bytes": 559
+    }
+  ],
+  "final_url": "https://elect.ky.gov/results/2020-2029/Pages/2022.aspx",
+  "source_clock": null
+}

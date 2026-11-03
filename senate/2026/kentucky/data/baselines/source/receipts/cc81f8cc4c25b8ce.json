@@ -1,0 +1,50 @@
+{
+  "id": "cc81f8cc4c25b8ce",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Spencer.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:57.698156+00:00",
+  "role": "2024 county recap: Spencer",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Spencer.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:58 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:57 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:18 GMT",
+        "ETag": "W/\"{13A958C4-AF32-4289-A84A-20689AA47E44},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:13A958C4-AF32-4289-A84A-20689AA47E44@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d3d546a2-8c1b-b05c-bfd1-8ec8df738abc",
+        "request-id": "d3d546a2-8c1b-b05c-bfd1-8ec8df738abc",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "341",
+        "SPIisLatency": "16",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212057Z-174c78c4ddcn98dphC1CHItzb80000000tc0000000001wcz",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "4c61c79eacc79bae0639137505a23350d9bad166487bb6779427bdb4666dffac",
+      "raw_bytes": 387366,
+      "body": "source/bodies/4c61c79eacc79bae0639137505a23350d9bad166487bb6779427bdb4666dffac.gz",
+      "stored_sha256": "cbe29cb10a349262fec0b1e6d784b77def1444acd3201bf1f7e8da43088fe8c1",
+      "stored_bytes": 347949
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Spencer.pdf",
+  "status": 200
+}

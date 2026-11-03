@@ -1,0 +1,50 @@
+{
+  "id": "03d3e7192629e32f",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Marion.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:38.607532+00:00",
+  "role": "2024 county recap: Marion",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Marion.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:38 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:38 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:09 GMT",
+        "ETag": "W/\"{E5C16278-E4C8-473A-9ADE-8CC9EBDB99B6},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:E5C16278-E4C8-473A-9ADE-8CC9EBDB99B6@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "ced546a2-5c71-b05c-6baa-2aa130525402",
+        "request-id": "ced546a2-5c71-b05c-6baa-2aa130525402",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "34",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212038Z-r1cf8987fd5fqp56hC1CHIhrrc00000006eg000000009shc",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "5a1c2afa7539080a819bfa70d82ce8af7b3e34485a126ac76feaeb2b277bade7",
+      "raw_bytes": 323098,
+      "body": "source/bodies/5a1c2afa7539080a819bfa70d82ce8af7b3e34485a126ac76feaeb2b277bade7.gz",
+      "stored_sha256": "4bb8a0ee90673642504ce1282a3e089f9505da59b28e63e0d90bce93e30fd906",
+      "stored_bytes": 292987
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Marion.pdf",
+  "status": 200
+}

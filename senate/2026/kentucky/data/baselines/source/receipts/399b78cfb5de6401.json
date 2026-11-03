@@ -1,0 +1,50 @@
+{
+  "id": "399b78cfb5de6401",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Wayne.pdf",
+  "retrieved_at_utc": "2026-10-20T21:21:03.184541+00:00",
+  "role": "2024 county recap: Wayne",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Wayne.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:21:03 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:21:03 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:18 GMT",
+        "ETag": "W/\"{2A39E72E-7D03-4FEA-AEB7-8E2A25FD340A},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:2A39E72E-7D03-4FEA-AEB7-8E2A25FD340A@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d4d546a2-5c78-b05c-6baa-28110498a41e",
+        "request-id": "d4d546a2-5c78-b05c-6baa-28110498a41e",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "56",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212103Z-174c78c4ddcfn7czhC1CHIhzy40000001pgg000000002wfm",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "d8bdd814a264416d9e88af4f2f37acad3eafe32080460abdb5638750261b1251",
+      "raw_bytes": 700909,
+      "body": "source/bodies/d8bdd814a264416d9e88af4f2f37acad3eafe32080460abdb5638750261b1251.gz",
+      "stored_sha256": "081ebc7d6dadd5a1a7feba2e85a194101245a5596b5106bc65173bb0eb5cb255",
+      "stored_bytes": 601907
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Wayne.pdf",
+  "status": 200
+}

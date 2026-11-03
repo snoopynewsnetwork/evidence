@@ -1,0 +1,20 @@
+{
+  "id": "sbe-2022-original-discovery",
+  "url": "https://elect.ky.gov/results/2020-2029/Documents/2022%20General%20Election%20results.pdf",
+  "retrieved_at_utc": "2026-10-18T19:41:17.959171+00:00",
+  "status": 403,
+  "final_url": "https://elect.ky.gov/results/2020-2029/Documents/2022%20General%20Election%20results.pdf",
+  "raw_sha256": "9fc5c42babaddf2dc8305777ed0e18bef1db96b703d7057a7b07083358dd7a43",
+  "asset": "sbe-2022-original-discovery.html.gz",
+  "stored_sha256": "4a775653618fbb2165954758edb55b97771c781a3939b25e24007ab7c1ae2af8",
+  "bytes": 1484,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 19:41:18 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "1484",
+    "Connection": "close",
+    "Cache-Control": "no-store",
+    "x-azure-ref": "20261018T194118Z-15f786f77842p2wghC1CHIzn2w00000014pg000000004tzp",
+    "X-Cache": "CONFIG_NOCACHE"
+  }
+}

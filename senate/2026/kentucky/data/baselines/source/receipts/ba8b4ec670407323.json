@@ -1,0 +1,50 @@
+{
+  "id": "ba8b4ec670407323",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Muhlenberg.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:46.468852+00:00",
+  "role": "2024 county recap: Muhlenberg",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Muhlenberg.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:46 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:46 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:12 GMT",
+        "ETag": "W/\"{B695B6B2-70F8-429D-9B33-BC74DF8725A1},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:B695B6B2-70F8-429D-9B33-BC74DF8725A1@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d0d546a2-4c64-b05c-6baa-2ca0b01b9c43",
+        "request-id": "d0d546a2-4c64-b05c-6baa-2ca0b01b9c43",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "43",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212046Z-17d5c4ffc57xhp5fhC1CH1v80s00000015100000000066zp",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "8de37b286c12cc5482562499d9ed855d5138e6c72436d8bc2d1943d796820ea9",
+      "raw_bytes": 961061,
+      "body": "source/bodies/8de37b286c12cc5482562499d9ed855d5138e6c72436d8bc2d1943d796820ea9.gz",
+      "stored_sha256": "876022389b5e02ba5c575a3e23cd9fdb88d20db6352bc2b779b4ff91c5fa69a1",
+      "stored_bytes": 803214
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Muhlenberg.pdf",
+  "status": 200
+}

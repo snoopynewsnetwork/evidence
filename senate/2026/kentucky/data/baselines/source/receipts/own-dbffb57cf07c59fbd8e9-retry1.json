@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://elect.ky.gov/results/2020-2029/Pages/2020.aspx",
+  "role": "Current authority navigation 2020.aspx",
+  "parent": null,
+  "retrieved_at_utc": "2026-10-20T21:26:13.283517+00:00",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/Pages/2020.aspx",
+      "status": 403,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:26:13 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1484",
+        "Connection": "close",
+        "Cache-Control": "no-store",
+        "x-azure-ref": "20261020T212613Z-174c78c4ddcgpxcvhC1CHIyvkn0000001a7g000000009h4a",
+        "X-Cache": "CONFIG_NOCACHE"
+      },
+      "raw_sha256": "36f549ec1aba9436ac38bc6da78b0ad6af39e32b28bfdee348cf0e50a7a120ac",
+      "raw_bytes": 1484,
+      "body": "source/bodies/36f549ec1aba9436ac38bc6da78b0ad6af39e32b28bfdee348cf0e50a7a120ac.gz",
+      "stored_sha256": "95922248207be15fec15acd540be436b8c2979ced997f79b2b42c33f3db7f27c",
+      "stored_bytes": 560
+    }
+  ],
+  "final_url": "https://elect.ky.gov/results/2020-2029/Pages/2020.aspx",
+  "source_clock": null
+}

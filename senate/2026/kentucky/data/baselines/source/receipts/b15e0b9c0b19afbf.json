@@ -1,0 +1,50 @@
+{
+  "id": "b15e0b9c0b19afbf",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boone.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:44.755144+00:00",
+  "role": "2024 county recap: Boone",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boone.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:45 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:44 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:03 GMT",
+        "ETag": "W/\"{7AD83B9A-D699-4F3F-9740-64A24F3FD3E7},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:7AD83B9A-D699-4F3F-9740-64A24F3FD3E7@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c1d546a2-cc54-b05c-bfd1-806a8795da88",
+        "request-id": "c1d546a2-cc54-b05c-bfd1-806a8795da88",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "401",
+        "SPIisLatency": "10",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211944Z-174b95d58c8fnrg7hC1CH1eyu80000001f40000000001220",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "c58a1e4d183276e95d3af77a611b664da8b15d2aa3ab87774fbca758c3074616",
+      "raw_bytes": 1995573,
+      "body": "source/bodies/c58a1e4d183276e95d3af77a611b664da8b15d2aa3ab87774fbca758c3074616.gz",
+      "stored_sha256": "b2dc0dfdb51d59fa9302aa6175c6eab444acfbcbd8180843ff12bcacc17affa6",
+      "stored_bytes": 1656356
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Boone.pdf",
+  "status": 200
+}

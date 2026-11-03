@@ -1,0 +1,50 @@
+{
+  "id": "5daadf0a830992a2",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fulton.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:14.345270+00:00",
+  "role": "2024 county recap: Fulton",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fulton.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:14 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:14 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:10 GMT",
+        "ETag": "W/\"{A98DD99D-9FF1-439C-A2CF-1DAFEA5D19A7},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:A98DD99D-9FF1-439C-A2CF-1DAFEA5D19A7@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c8d546a2-ac8c-b05c-bfd1-80fc801f154f",
+        "request-id": "c8d546a2-ac8c-b05c-bfd1-80fc801f154f",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "157",
+        "SPIisLatency": "14",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212014Z-174b95d58c8blp54hC1CH1bqk00000001f7g0000000030c6",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "cd459502df31ba0c20a09743dacce94a293658f489fe41d0a0b182bb4aa39bf6",
+      "raw_bytes": 422611,
+      "body": "source/bodies/cd459502df31ba0c20a09743dacce94a293658f489fe41d0a0b182bb4aa39bf6.gz",
+      "stored_sha256": "a27158be95575c990f56ada0a99cfbfdfccb8fd2487b7e23f6fbc1d3a1b55725",
+      "stored_bytes": 372879
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Fulton.pdf",
+  "status": 200
+}

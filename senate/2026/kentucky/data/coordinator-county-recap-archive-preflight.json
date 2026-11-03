@@ -1,0 +1,157 @@
+{
+  "status": "pass_two_actual_archived_county_originals_acquisition_and_visual_structure_only",
+  "source_findings": [
+    {
+      "county": "estill",
+      "observed_official_original_URL": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61657_20201211_RECAP.pdf",
+      "archive_catalog_URL": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Felect.ky.gov%2Fresults%2F2020-2029%2FPublishingImages%2F2020General%2F61657_20201211_RECAP.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+      "archive_observation_id": "sbe-2020-estill-recap-archive-20210116034430",
+      "requested_archive_URL": "https://web.archive.org/web/20210116034430id_/https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61657_20201211_RECAP.pdf",
+      "final_URL": "https://web.archive.org/web/20210116034430id_/https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61657_20201211_RECAP.pdf",
+      "retrieved_at_UTC": "2026-10-19T17:15:20.665483+00:00",
+      "stored_original": {
+        "path": "data/news/sbe-2020-estill-recap-archive-20210116034430.html.gz",
+        "bytes": 102450,
+        "sha256": "90c289e3b021ed713877ae064d14902f32a479ec3978c82c16f114ec30d2e07c"
+      },
+      "raw_original_bytes": 110519,
+      "raw_original_sha256": "7a1ea38703cec3aea59740a8e8e33b77b70b7d97207427438283767cd15f2149",
+      "source_PDF_metadata": {
+        "Creator": "c42pdf v. 0.12 args:  -p o -?",
+        "Producer": "PDFlib V0.6 (C) Thomas Merz 1997-98",
+        "CreationDate": "D:20201211092946",
+        "Pages": "3",
+        "Page size": "794.88 x 605.76 pts",
+        "Page rot": "0",
+        "PDF version": "1.1"
+      },
+      "complete_positioned_text": {
+        "path": "data/qa/county-recap-archives/estill-2020-complete-positioned-text.txt",
+        "bytes": 3,
+        "sha256": "9478ac3ef61ae9df286d951edbfce4c24049f65e860f053ed9eb2c3fbd78d051"
+      },
+      "original_text_layer_words": 0,
+      "complete_pages_rendered_and_visually_inspected": [
+        {
+          "actual_PDFpage": 1,
+          "preview": {
+            "path": "data/qa/county-recap-archives/estill-2020-complete-original-1.png",
+            "bytes": 181475,
+            "sha256": "337c1474ee5830c608b669a3b695040f1de62a7e0a65c528b5915b7d058bbeff"
+          },
+          "pixel_dimensions": [
+            3000,
+            2287
+          ]
+        },
+        {
+          "actual_PDFpage": 2,
+          "preview": {
+            "path": "data/qa/county-recap-archives/estill-2020-complete-original-2.png",
+            "bytes": 130056,
+            "sha256": "9a0c2ebb207517c014c5ba87f4a36de0f8121dc3c47ce23657619b921a20094d"
+          },
+          "pixel_dimensions": [
+            2296,
+            3000
+          ]
+        },
+        {
+          "actual_PDFpage": 3,
+          "preview": {
+            "path": "data/qa/county-recap-archives/estill-2020-complete-original-3.png",
+            "bytes": 97817,
+            "sha256": "075c9fe9befa42748b27f673b8a176e4e2e74184f0188b93fc0399ef8e627a35"
+          },
+          "pixel_dimensions": [
+            3000,
+            2284
+          ]
+        }
+      ],
+      "render_parameters": {
+        "renderer": "pdftoppm",
+        "maximum_dimension_pixels": 3000,
+        "deskew_rotation_enhancement": "none"
+      },
+      "observed_original_presentation": "Handwritten county recapitulation tables with separately printed Mail-In/Walk-In/Total and local scan/eSlate/eScan columns; overlapping summaries, blank cells and unused template columns need independent field review. Estill PDF2 is sideways in the source, retained unchanged; its third actualPDFpage is a separate write-in sheet.",
+      "poppler_warnings": {
+        "pdfinfo": "",
+        "pdftotext": ""
+      }
+    },
+    {
+      "county": "lyon",
+      "observed_official_original_URL": "https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61002_20201118_RECAP.pdf",
+      "archive_catalog_URL": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Felect.ky.gov%2Fresults%2F2020-2029%2FPublishingImages%2F2020General%2F61002_20201118_RECAP.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+      "archive_observation_id": "sbe-2020-lyon-recap-archive-20210116042754",
+      "requested_archive_URL": "https://web.archive.org/web/20210116042754id_/https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61002_20201118_RECAP.pdf",
+      "final_URL": "https://web.archive.org/web/20210116042754id_/https://elect.ky.gov/results/2020-2029/PublishingImages/2020General/61002_20201118_RECAP.pdf",
+      "retrieved_at_UTC": "2026-10-19T17:15:20.665648+00:00",
+      "stored_original": {
+        "path": "data/news/sbe-2020-lyon-recap-archive-20210116042754.html.gz",
+        "bytes": 104673,
+        "sha256": "ef95f4558347889de872192c837e3732e9abf52aafc57038089b1b84eaa2b58f"
+      },
+      "raw_original_bytes": 114882,
+      "raw_original_sha256": "6b78a6d29739275ee907227703bdc99030e719ad69d63c767c4d765106eea6bb",
+      "source_PDF_metadata": {
+        "Creator": "c42pdf v. 0.12 args:  -p o -?",
+        "Producer": "PDFlib V0.6 (C) Thomas Merz 1997-98",
+        "CreationDate": "D:20201118123738",
+        "Pages": "2",
+        "Page size": "1011.84 x 610.56 pts",
+        "Page rot": "0",
+        "PDF version": "1.1"
+      },
+      "complete_positioned_text": {
+        "path": "data/qa/county-recap-archives/lyon-2020-complete-positioned-text.txt",
+        "bytes": 2,
+        "sha256": "7060584c3e59f0b2f12f34aa0b40faadf4aa5790a0459f3319852bcd63262cbb"
+      },
+      "original_text_layer_words": 0,
+      "complete_pages_rendered_and_visually_inspected": [
+        {
+          "actual_PDFpage": 1,
+          "preview": {
+            "path": "data/qa/county-recap-archives/lyon-2020-complete-original-1.png",
+            "bytes": 219810,
+            "sha256": "1eded0a3ad545880e1a18b870a32c366afeb5c7beff256e4091f341173c8654a"
+          },
+          "pixel_dimensions": [
+            3000,
+            1811
+          ]
+        },
+        {
+          "actual_PDFpage": 2,
+          "preview": {
+            "path": "data/qa/county-recap-archives/lyon-2020-complete-original-2.png",
+            "bytes": 183869,
+            "sha256": "e55545c5bce33a34d6f2d8763e26d97f35def35d55e18e667e18d0a30a842c28"
+          },
+          "pixel_dimensions": [
+            3000,
+            1808
+          ]
+        }
+      ],
+      "render_parameters": {
+        "renderer": "pdftoppm",
+        "maximum_dimension_pixels": 3000,
+        "deskew_rotation_enhancement": "none"
+      },
+      "observed_original_presentation": "Handwritten county recapitulation tables with Mail-In/Walk-In and eSlate/eScan blocks, source totals and separate handwritten annotations. Numeric zeroes and blank cells are visibly distinct; do not equate blanks to zero or source blocks to current method IDs.",
+      "poppler_warnings": {
+        "pdfinfo": "",
+        "pdftotext": ""
+      }
+    }
+  ],
+  "new_actual_PDF_originals": 2,
+  "complete_original_pages": 5,
+  "source_native_candidate_vectors_transcribed": false,
+  "qualification": "ExactCDX-exposed archived official URLs repair two previously live403 original lanes. All five actual original pages are complete, rendered and visually inspected; both PDF text layers are empty, so there is no machine numeric acceptance from text extraction. County/method/native columns overlap and handwritten reading still requires independent original transcription/control reconciliation. Source file/creation/archive/retrieval clocks are separate, no amendment chronology,120county native completeness, exact80/current geography/November approval or current count feed is established.",
+  "formal_priority_accepted": false,
+  "current_geography_approved": false
+}

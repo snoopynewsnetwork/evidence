@@ -1,0 +1,50 @@
+{
+  "id": "c92983f6ae99b07a",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Grant.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:16.268845+00:00",
+  "role": "2024 county recap: Grant",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Grant.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:16 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:16 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:10 GMT",
+        "ETag": "W/\"{85074BF8-B54C-49E0-A92D-1CAC91511EE6},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:85074BF8-B54C-49E0-A92D-1CAC91511EE6@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c9d546a2-5c03-b05c-bfd1-895cadd92006",
+        "request-id": "c9d546a2-5c03-b05c-bfd1-895cadd92006",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "230",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212016Z-174b95d58c8pxxkhhC1CH10cx00000001er0000000005b54",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "0a265cf191c4980a51cead981e05de418d57d6aa06d54e13ff38246f540c5c74",
+      "raw_bytes": 295235,
+      "body": "source/bodies/0a265cf191c4980a51cead981e05de418d57d6aa06d54e13ff38246f540c5c74.gz",
+      "stored_sha256": "f1dfebcb3eb86b83a56c42801f44b73f178764734d3fd9a4bd269ea617e68a96",
+      "stored_bytes": 274492
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Grant.pdf",
+  "status": 200
+}

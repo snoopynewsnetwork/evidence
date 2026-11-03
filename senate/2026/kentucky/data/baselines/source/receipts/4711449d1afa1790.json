@@ -1,0 +1,50 @@
+{
+  "id": "4711449d1afa1790",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Letcher.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:34.553178+00:00",
+  "role": "2024 county recap: Letcher",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Letcher.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:34 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:34 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:08 GMT",
+        "ETag": "W/\"{698B4E92-759A-48A8-AAC0-40394C1F8C10},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:698B4E92-759A-48A8-AAC0-40394C1F8C10@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cdd546a2-5c7a-b05c-6baa-2351ec077733",
+        "request-id": "cdd546a2-5c7a-b05c-6baa-2351ec077733",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "107",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212034Z-r1cf8987fd5htzdvhC1CHIp5yg00000001ag0000000044fs",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "570854e6b1123d09847918f1acb017e011b0598625b98965aaf1a1998c272757",
+      "raw_bytes": 255470,
+      "body": "source/bodies/570854e6b1123d09847918f1acb017e011b0598625b98965aaf1a1998c272757.gz",
+      "stored_sha256": "9c40f0ec7096714920c10684e3314f83aa5fb659236e3ab4ca73164c49881742",
+      "stored_bytes": 212271
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Letcher.pdf",
+  "status": 200
+}

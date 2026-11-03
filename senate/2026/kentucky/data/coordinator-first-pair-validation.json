@@ -1,0 +1,69 @@
+{
+  "status": "pass_reviewed_first_pair_historical_sources_and_conditional_arithmetic",
+  "whole_four_question_state_complete": false,
+  "checks": 7082,
+  "producer_seals": [
+    {
+      "role": "turnout",
+      "manifest": {
+        "path": "data/turnout/asset-manifest.json",
+        "bytes": 1207430,
+        "sha256": "b72ab95194d9e748a7c15163a9f5eb13db1ff0596fc9e4d1d77fb84a9036946f"
+      },
+      "targets": 5008
+    },
+    {
+      "role": "baselines",
+      "manifest": {
+        "path": "data/baselines/asset-manifest.json",
+        "bytes": 559537,
+        "sha256": "9415e66193d21382abc5bc9f5ab97b3943ce2498c64e33acb3aade7dfdf5b2a4"
+      },
+      "targets": 1971
+    }
+  ],
+  "root_reviews": [
+    {
+      "path": "data/coordinator-first-pair-original-review.json",
+      "bytes": 3558,
+      "sha256": "8d851d630df4db53aebb9737e4f3cec45125db96c4d7928d7974d5e3971c75d6"
+    },
+    {
+      "path": "data/coordinator-baseline-math-review.json",
+      "bytes": 7379,
+      "sha256": "9814b14f4f9876c41dc09ce25bac6fa06bb3106c2cd56220fa2bbb8e11f3d1f1"
+    },
+    {
+      "path": "data/coordinator-baseline-cli-review.json",
+      "bytes": 82506,
+      "sha256": "dd68e1a9ad03b118075a5c8adedf59c3039ec08753164c41d827ee37be525847"
+    },
+    {
+      "path": "data/coordinator-turnout-reciprocal-final-review.json",
+      "bytes": 1390,
+      "sha256": "c6cef42ccd92d6960e65c8c97def9ed61ced0e3df0f738676e04654ffb5f225e"
+    },
+    {
+      "path": "data/coordinator-source-acceptance-validation.json",
+      "bytes": 528,
+      "sha256": "7604d2e499eba36e169515861483d2dcc1fc9dda2168187abd88d31c7c76d3f9"
+    },
+    {
+      "path": "data/coordinator-first-pair-command-review.json",
+      "bytes": 10093,
+      "sha256": "86b53fe2c640cf5a54615a89465780df9a3af698a3fe109f21b8fdce3c39427f"
+    },
+    {
+      "path": "data/coordinator-first-pair-history-and-visual-review.json",
+      "bytes": 4950,
+      "sha256": "d3418a6ef42d515d10f077cc431f443a4cbb4ee999f25e1f6ab2e2aab01d798e"
+    }
+  ],
+  "current_document_links": 91,
+  "historical_native_units": null,
+  "historical_native_priority": null,
+  "current_dispatch": [],
+  "producer_flags_untouched": true,
+  "all_current_legal_geographic_eligible_WI_live_probability_admissions": false,
+  "next": "Actual original questions3and4 and full state integration remain required; first-pair component publication only."
+}

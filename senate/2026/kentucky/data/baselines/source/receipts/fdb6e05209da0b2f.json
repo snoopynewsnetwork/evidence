@@ -1,0 +1,50 @@
+{
+  "id": "fdb6e05209da0b2f",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bourbon.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:45.740838+00:00",
+  "role": "2024 county recap: Bourbon",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bourbon.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:46 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:46 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:03 GMT",
+        "ETag": "W/\"{DBD50700-B06B-45FD-B2F6-22F6B9E59915},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:DBD50700-B06B-45FD-B2F6-22F6B9E59915@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c1d546a2-ac96-b05c-6baa-23fdcdfa5930",
+        "request-id": "c1d546a2-ac96-b05c-6baa-23fdcdfa5930",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "293",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211945Z-174b95d58c8wbbnbhC1CH1ssa80000001eqg0000000049kx",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "031ebb2b4de504e0a9456c1336fd3e0dbf621ea1eb451c391acf02d00967225a",
+      "raw_bytes": 456176,
+      "body": "source/bodies/031ebb2b4de504e0a9456c1336fd3e0dbf621ea1eb451c391acf02d00967225a.gz",
+      "stored_sha256": "6bf5fc4f00772f4bbc6d9b0b62e97b8813dba257ad4f4cb53a6f99bd929c23fe",
+      "stored_bytes": 402305
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Bourbon.pdf",
+  "status": 200
+}

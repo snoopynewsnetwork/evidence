@@ -1,0 +1,10 @@
+{
+  "id": "acfdd96b5a24f5e1",
+  "requested_url": "https://elect.ky.gov/Resources/Pages/Turnout.aspx",
+  "retrieved_at_utc": "2026-10-20T21:18:36.772907+00:00",
+  "role": "turnout statistics authority index",
+  "parent": null,
+  "hops": [],
+  "source_clock": null,
+  "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'elect.ky.gov\\', port=443): Max retries exceeded with url: /Resources/Pages/Turnout.aspx (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x106e23c50>: Failed to resolve \\'elect.ky.gov\\' ([Errno 8] nodename nor servname provided, or not known)\"))'))"
+}

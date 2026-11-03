@@ -1,0 +1,1640 @@
+{
+  "status": "pass",
+  "checks": 137,
+  "actual_CLI_cases": 55,
+  "expected_invalid": 45,
+  "calculator_sha256": "00ae79fb71e1cb046f53f0d2118666d48c44a4f736dfa22c9f7ed6e764fab151",
+  "producer_import_or_write": false,
+  "network": false,
+  "method": "Own synthetic exact expectations; real subprocess CLI, strict JSON/exits/empty stderr. Counted fixed, final denominators, selected-only full-field boundary, pair tie versus plurality, clipped roots, unknown/no-pool and global rejection before early returns.",
+  "proofs": [
+    {
+      "name": "counted-fixed-final-denominator-pair-tie-loses-full-field",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "34f22c5f14fd0f39de0391310e9cb4c84683fee94cd87929732824c509df4340",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "baseline_final_candidate_votes": {
+          "A": 60.0,
+          "B": 120.0,
+          "C": 220.0
+        },
+        "baseline_final_pair_margin": -0.3333333333333333,
+        "baseline_final_pair_net": -60.0,
+        "baseline_full_field_A_plurality": false,
+        "counted_A": 40.0,
+        "counted_B": 60.0,
+        "final_all_candidate_denominator": 400.0,
+        "final_pair_denominator": 180.0,
+        "fixed_target_status": "below target",
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": false,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 100.0,
+        "remaining_pair_pool": 80.0,
+        "selected_only": {
+          "all_other_units_fixed": true,
+          "feasible_A_share": 0.625,
+          "field_at_pair_requirement": {
+            "A_share_all_candidate": 0.225,
+            "candidate_votes": {
+              "A": 90.0,
+              "B": 90.0,
+              "C": 220.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.0,
+            "strict_A_plurality": false
+          },
+          "fixed_net_votes": -20.0,
+          "full_field_boundary_status": "impossible",
+          "full_field_strict_plurality_boundary_A_share": 2.25,
+          "required_A_share": 0.625,
+          "status": "feasible"
+        },
+        "status": "ok",
+        "target_pair_margin": 0,
+        "uniform": {
+          "achieved_pair_net": -1.7763568394002505e-14,
+          "clipped_share_shift": 0.3749999999999999,
+          "clipping_active": false,
+          "full_field_at_pair_target": {
+            "A_share_all_candidate": 0.225,
+            "candidate_votes": {
+              "A": 90.0,
+              "B": 90.0,
+              "C": 220.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.0,
+            "strict_A_plurality": false
+          },
+          "full_field_quantity_basis": "Pair target denominator identity; numerical clipped-root contributions/residual reported separately",
+          "maximum_net": 60.0,
+          "minimum_net": -100.0,
+          "residual": -1.7763568394002505e-14,
+          "status": "feasible",
+          "unbounded_share_shift": 0.375
+        },
+        "units": [
+          {
+            "A": 40,
+            "B": 60,
+            "allocation": {
+              "C": 1
+            },
+            "baseline_pair_net_contribution": -40.0,
+            "counted_total": 300.0,
+            "key": "u1",
+            "net_gain": 59.999999999999986,
+            "one_A_share_point_net_votes": 1.6,
+            "other": {
+              "C": 200
+            },
+            "pair_pool": 80.0,
+            "pair_weight": 1.0,
+            "remaining": 100,
+            "share": 0.25,
+            "target_A_share": 0.6249999999999999,
+            "target_pair_net_contribution": 19.999999999999982
+          }
+        ],
+        "unknown_preference_units": []
+      },
+      "strict_output_sha256": "9228439f517da9fb7aaac21b5b491e19f17aa7b53c951da60f1ed34c7331aa15",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "final_pair_denominator": 180,
+        "final_all_candidate_denominator": 400,
+        "counted_A": 40,
+        "counted_B": 60,
+        "selected_required": 0.625,
+        "baseline_net": -60,
+        "full_boundary": 2.25,
+        "strict_plurality": false
+      }
+    },
+    {
+      "name": "two-unit-other-fixed-threshold",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "2c3299bd996cbc9519c68f49962250aa8bdc4de8f3c2384be18e8d1f425c6044",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": 0.2, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "baseline_final_candidate_votes": {
+          "A": 115.0,
+          "B": 125.0,
+          "C": 75.0
+        },
+        "baseline_final_pair_margin": -0.04166666666666668,
+        "baseline_final_pair_net": -10.000000000000004,
+        "baseline_full_field_A_plurality": false,
+        "counted_A": 70.0,
+        "counted_B": 70.0,
+        "final_all_candidate_denominator": 315.0,
+        "final_pair_denominator": 240.0,
+        "fixed_target_status": "below target",
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": false,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 150.0,
+        "remaining_pair_pool": 100.0,
+        "selected_only": {
+          "all_other_units_fixed": true,
+          "feasible_A_share": 0.30000000000000004,
+          "field_at_pair_requirement": {
+            "A_share_all_candidate": 0.38095238095238093,
+            "candidate_votes": {
+              "A": 120.0,
+              "B": 120.0,
+              "C": 75.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.0,
+            "strict_A_plurality": false
+          },
+          "fixed_net_votes": 19.999999999999996,
+          "full_field_boundary_status": "feasible, requires strictly above boundary",
+          "full_field_strict_plurality_boundary_A_share": 0.3,
+          "required_A_share": 0.30000000000000004,
+          "status": "feasible"
+        },
+        "status": "ok",
+        "target_pair_margin": 0,
+        "uniform": {
+          "achieved_pair_net": 0.0,
+          "clipped_share_shift": 0.04999999999999999,
+          "clipping_active": false,
+          "full_field_at_pair_target": {
+            "A_share_all_candidate": 0.38095238095238093,
+            "candidate_votes": {
+              "A": 120.0,
+              "B": 120.0,
+              "C": 75.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.0,
+            "strict_A_plurality": false
+          },
+          "full_field_quantity_basis": "Pair target denominator identity; numerical clipped-root contributions/residual reported separately",
+          "maximum_net": 100.0,
+          "minimum_net": -100.0,
+          "residual": 0.0,
+          "status": "feasible",
+          "unbounded_share_shift": 0.05000000000000002
+        },
+        "units": [
+          {
+            "A": 10,
+            "B": 30,
+            "allocation": {
+              "C": 1
+            },
+            "baseline_pair_net_contribution": -30.0,
+            "counted_total": 45.0,
+            "key": "u1",
+            "net_gain": 5.0,
+            "one_A_share_point_net_votes": 1.0,
+            "other": {
+              "C": 5
+            },
+            "pair_pool": 50,
+            "pair_weight": 0.5,
+            "remaining": 50,
+            "share": 0.2,
+            "target_A_share": 0.25,
+            "target_pair_net_contribution": -25.0
+          },
+          {
+            "A": 60,
+            "B": 40,
+            "allocation": {
+              "C": 1
+            },
+            "baseline_pair_net_contribution": 19.999999999999996,
+            "counted_total": 120.0,
+            "key": "u2",
+            "net_gain": 5.0000000000000036,
+            "one_A_share_point_net_votes": 1.0,
+            "other": {
+              "C": 20
+            },
+            "pair_pool": 50.0,
+            "pair_weight": 0.5,
+            "remaining": 100,
+            "share": 0.7,
+            "target_A_share": 0.75,
+            "target_pair_net_contribution": 25.0
+          }
+        ],
+        "unknown_preference_units": []
+      },
+      "strict_output_sha256": "2d5e5e3728fb6d2de8225538487b50b82355a5185ce766b83d55971a34e4c626",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "final_pair_denominator": 240,
+        "final_all_candidate_denominator": 315,
+        "selected_required": 0.3,
+        "baseline_net": -10,
+        "uniform_shift": 0.05,
+        "strict_plurality": false
+      }
+    },
+    {
+      "name": "one-point-pair-margin-final-denominator",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "a1c1dfbf667bc5e0269bfee7ff615703959043dd79e96d8b45d0bd0d77143ea3",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0.01, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": 0.2, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "baseline_final_candidate_votes": {
+          "A": 115.0,
+          "B": 125.0,
+          "C": 75.0
+        },
+        "baseline_final_pair_margin": -0.04166666666666668,
+        "baseline_final_pair_net": -10.000000000000004,
+        "baseline_full_field_A_plurality": false,
+        "counted_A": 70.0,
+        "counted_B": 70.0,
+        "final_all_candidate_denominator": 315.0,
+        "final_pair_denominator": 240.0,
+        "fixed_target_status": "below target",
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": false,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 150.0,
+        "remaining_pair_pool": 100.0,
+        "selected_only": {
+          "all_other_units_fixed": true,
+          "feasible_A_share": 0.32400000000000007,
+          "field_at_pair_requirement": {
+            "A_share_all_candidate": 0.38476190476190475,
+            "candidate_votes": {
+              "A": 121.2,
+              "B": 118.8,
+              "C": 75.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.007619047619047637,
+            "strict_A_plurality": true
+          },
+          "fixed_net_votes": 19.999999999999996,
+          "full_field_boundary_status": "feasible, requires strictly above boundary",
+          "full_field_strict_plurality_boundary_A_share": 0.3,
+          "required_A_share": 0.32400000000000007,
+          "status": "feasible"
+        },
+        "status": "ok",
+        "target_pair_margin": 0.01,
+        "uniform": {
+          "achieved_pair_net": 2.4000000000000057,
+          "clipped_share_shift": 0.062,
+          "clipping_active": false,
+          "full_field_at_pair_target": {
+            "A_share_all_candidate": 0.38476190476190475,
+            "candidate_votes": {
+              "A": 121.2,
+              "B": 118.8,
+              "C": 75.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.007619047619047637,
+            "strict_A_plurality": true
+          },
+          "full_field_quantity_basis": "Pair target denominator identity; numerical clipped-root contributions/residual reported separately",
+          "maximum_net": 100.0,
+          "minimum_net": -100.0,
+          "residual": 5.773159728050814e-15,
+          "status": "feasible",
+          "unbounded_share_shift": 0.06200000000000002
+        },
+        "units": [
+          {
+            "A": 10,
+            "B": 30,
+            "allocation": {
+              "C": 1
+            },
+            "baseline_pair_net_contribution": -30.0,
+            "counted_total": 45.0,
+            "key": "u1",
+            "net_gain": 6.200000000000003,
+            "one_A_share_point_net_votes": 1.0,
+            "other": {
+              "C": 5
+            },
+            "pair_pool": 50,
+            "pair_weight": 0.5,
+            "remaining": 50,
+            "share": 0.2,
+            "target_A_share": 0.262,
+            "target_pair_net_contribution": -23.799999999999997
+          },
+          {
+            "A": 60,
+            "B": 40,
+            "allocation": {
+              "C": 1
+            },
+            "baseline_pair_net_contribution": 19.999999999999996,
+            "counted_total": 120.0,
+            "key": "u2",
+            "net_gain": 6.200000000000006,
+            "one_A_share_point_net_votes": 1.0,
+            "other": {
+              "C": 20
+            },
+            "pair_pool": 50.0,
+            "pair_weight": 0.5,
+            "remaining": 100,
+            "share": 0.7,
+            "target_A_share": 0.762,
+            "target_pair_net_contribution": 26.200000000000003
+          }
+        ],
+        "unknown_preference_units": []
+      },
+      "strict_output_sha256": "141f9cb909bdc5354f8e6ee2542b8f02f4358daa8ff12892f8b0ef9b793d7a77",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "selected_required": 0.324,
+        "uniform_shift": 0.062,
+        "strict_plurality": true
+      }
+    },
+    {
+      "name": "selected-unknown-still-conditional",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "ab063203f0e158c894c7bb10541221a3eff6b379001635788dbe593a5477aa3b",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "counted_A": 70.0,
+        "counted_B": 70.0,
+        "final_all_candidate_denominator": 315.0,
+        "final_pair_denominator": 240.0,
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": false,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 150.0,
+        "remaining_pair_pool": 100.0,
+        "selected_only": {
+          "all_other_units_fixed": true,
+          "feasible_A_share": 0.30000000000000004,
+          "field_at_pair_requirement": {
+            "A_share_all_candidate": 0.38095238095238093,
+            "candidate_votes": {
+              "A": 120.0,
+              "B": 120.0,
+              "C": 75.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.0,
+            "strict_A_plurality": false
+          },
+          "fixed_net_votes": 19.999999999999996,
+          "full_field_boundary_status": "feasible, requires strictly above boundary",
+          "full_field_strict_plurality_boundary_A_share": 0.3,
+          "required_A_share": 0.30000000000000004,
+          "status": "feasible"
+        },
+        "status": "unknown positive-pair-pool preferences",
+        "target_pair_margin": 0,
+        "units": [
+          {
+            "A": 10,
+            "B": 30,
+            "allocation": {
+              "C": 1
+            },
+            "counted_total": 45.0,
+            "key": "u1",
+            "other": {
+              "C": 5
+            },
+            "pair_pool": 50,
+            "remaining": 50,
+            "share": null
+          },
+          {
+            "A": 60,
+            "B": 40,
+            "allocation": {
+              "C": 1
+            },
+            "counted_total": 120.0,
+            "key": "u2",
+            "other": {
+              "C": 20
+            },
+            "pair_pool": 50.0,
+            "remaining": 100,
+            "share": 0.7
+          }
+        ],
+        "unknown_preference_units": [
+          "u1"
+        ]
+      },
+      "strict_output_sha256": "8d75bc9a93b64dadf87f3fd9cae434a2d595db265f03e84653fc5e8de57cc894",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "status": "unknown positive-pair-pool preferences",
+        "selected_required": 0.3
+      }
+    },
+    {
+      "name": "other-unknown-retained",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "8d433bb6a6ba8eef014c181acbb7602497128da62132ba173f95bda750769936",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": 0.2, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": null, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "counted_A": 70.0,
+        "counted_B": 70.0,
+        "final_all_candidate_denominator": 315.0,
+        "final_pair_denominator": 240.0,
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": false,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 150.0,
+        "remaining_pair_pool": 100.0,
+        "selected_only": {
+          "status": "unknown other-unit assumptions",
+          "unknown_units": [
+            "u2"
+          ]
+        },
+        "status": "unknown positive-pair-pool preferences",
+        "target_pair_margin": 0,
+        "units": [
+          {
+            "A": 10,
+            "B": 30,
+            "allocation": {
+              "C": 1
+            },
+            "counted_total": 45.0,
+            "key": "u1",
+            "other": {
+              "C": 5
+            },
+            "pair_pool": 50,
+            "remaining": 50,
+            "share": 0.2
+          },
+          {
+            "A": 60,
+            "B": 40,
+            "allocation": {
+              "C": 1
+            },
+            "counted_total": 120.0,
+            "key": "u2",
+            "other": {
+              "C": 20
+            },
+            "pair_pool": 50.0,
+            "remaining": 100,
+            "share": null
+          }
+        ],
+        "unknown_preference_units": [
+          "u2"
+        ]
+      },
+      "strict_output_sha256": "d147d2a29d982eed92d274d20cebe932eb1af1c45244e576a0b5365e376cb5ca",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "status": "unknown positive-pair-pool preferences",
+        "selected_status": "unknown other-unit assumptions"
+      }
+    },
+    {
+      "name": "bounded-root-differs-from-linear",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "c5304a5909751c4d3c2806ed989214a715e204c7d3801cf91eb3f2e42e00ea7e",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 0, \"B\": 0, \"other\": {\"C\": 0}}, \"remaining\": 90, \"participation\": 1, \"share\": 0.99, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 0, \"B\": 0, \"other\": {\"C\": 0}}, \"remaining\": 10, \"participation\": 1, \"share\": 0.01, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "baseline_final_candidate_votes": {
+          "A": 89.19999999999999,
+          "B": 10.800000000000011,
+          "C": 0.0
+        },
+        "baseline_final_pair_margin": 0.784,
+        "baseline_final_pair_net": 78.4,
+        "baseline_full_field_A_plurality": true,
+        "counted_A": 0.0,
+        "counted_B": 0.0,
+        "final_all_candidate_denominator": 100.0,
+        "final_pair_denominator": 100.0,
+        "fixed_target_status": "secured",
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": false,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 100.0,
+        "remaining_pair_pool": 100.0,
+        "selected_only": {
+          "all_other_units_fixed": true,
+          "feasible_A_share": 0.5544444444444444,
+          "field_at_pair_requirement": {
+            "A_share_all_candidate": 0.5,
+            "candidate_votes": {
+              "A": 50.0,
+              "B": 50.0,
+              "C": 0.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.0,
+            "strict_A_plurality": false
+          },
+          "fixed_net_votes": -9.8,
+          "full_field_boundary_status": "feasible, requires strictly above boundary",
+          "full_field_strict_plurality_boundary_A_share": 0.5544444444444444,
+          "required_A_share": 0.5544444444444444,
+          "status": "feasible"
+        },
+        "status": "ok",
+        "target_pair_margin": 0,
+        "uniform": {
+          "achieved_pair_net": -1.5987211554602254e-14,
+          "clipped_share_shift": -0.4344444444444445,
+          "clipping_active": true,
+          "full_field_at_pair_target": {
+            "A_share_all_candidate": 0.5,
+            "candidate_votes": {
+              "A": 50.0,
+              "B": 50.0,
+              "C": 0.0
+            },
+            "legal_outcome": "conditional supplied-field comparison only; final ballot/eligible identities/rules not determined",
+            "pair_net_over_all_candidate": 0.0,
+            "strict_A_plurality": false
+          },
+          "full_field_quantity_basis": "Pair target denominator identity; numerical clipped-root contributions/residual reported separately",
+          "maximum_net": 100.0,
+          "minimum_net": -100.0,
+          "residual": -1.5987211554602254e-14,
+          "status": "feasible",
+          "unbounded_share_shift": -0.392
+        },
+        "units": [
+          {
+            "A": 0,
+            "B": 0,
+            "allocation": {
+              "C": 1
+            },
+            "baseline_pair_net_contribution": 88.2,
+            "counted_total": 0.0,
+            "key": "u1",
+            "net_gain": -78.20000000000002,
+            "one_A_share_point_net_votes": 1.8,
+            "other": {
+              "C": 0
+            },
+            "pair_pool": 90,
+            "pair_weight": 0.9,
+            "remaining": 90,
+            "share": 0.99,
+            "target_A_share": 0.5555555555555555,
+            "target_pair_net_contribution": 9.999999999999984
+          },
+          {
+            "A": 0,
+            "B": 0,
+            "allocation": {
+              "C": 1
+            },
+            "baseline_pair_net_contribution": -9.8,
+            "counted_total": 0.0,
+            "key": "u2",
+            "net_gain": -0.1999999999999993,
+            "one_A_share_point_net_votes": 0.2,
+            "other": {
+              "C": 0
+            },
+            "pair_pool": 10,
+            "pair_weight": 0.1,
+            "remaining": 10,
+            "share": 0.01,
+            "target_A_share": 0,
+            "target_pair_net_contribution": -10
+          }
+        ],
+        "unknown_preference_units": []
+      },
+      "strict_output_sha256": "62c228c7db075c3ec504274adc1e377946dd3e2cb0e870af6d576fccee06c503",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "uniform_shift": -0.4344444444444444,
+        "strict_plurality": false
+      }
+    },
+    {
+      "name": "no-positive-pair-pool-0",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "a08a9bd9e03f7d6e4e152dc0fa164115a483f15e0102e0315ecd4a1f49634b30",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 20, \"other\": {\"C\": 0}}, \"remaining\": 0, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "baseline_final_candidate_votes": {
+          "A": 40.0,
+          "B": 20.0,
+          "C": 0.0
+        },
+        "baseline_final_pair_margin": 0.3333333333333333,
+        "baseline_final_pair_net": 20.0,
+        "baseline_full_field_A_plurality": true,
+        "counted_A": 40.0,
+        "counted_B": 20.0,
+        "final_all_candidate_denominator": 60.0,
+        "final_pair_denominator": 60.0,
+        "fixed_target_status": "secured",
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": true,
+        "no_positive_pool": true,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 0.0,
+        "remaining_pair_pool": 0.0,
+        "selected_only": {
+          "fixed_target_status": "secured",
+          "required_A_share": null,
+          "status": "no-positive-pair-pool"
+        },
+        "status": "ok",
+        "target_pair_margin": 0,
+        "uniform": {
+          "clipped_share_shift": null,
+          "residual": 20.0,
+          "status": "no-positive-pair-pool",
+          "unbounded_share_shift": null
+        },
+        "units": [
+          {
+            "A": 40,
+            "B": 20,
+            "allocation": {
+              "C": 1
+            },
+            "counted_total": 60.0,
+            "key": "u1",
+            "other": {
+              "C": 0
+            },
+            "pair_pool": 0,
+            "remaining": 0,
+            "share": null
+          }
+        ],
+        "unknown_preference_units": []
+      },
+      "strict_output_sha256": "a263e90b3ae90b641611fcd53ce7a32ea448d370a91949c49e607f8af1120da6",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "uniform_status": "no-positive-pair-pool",
+        "selected_status": "no-positive-pair-pool"
+      }
+    },
+    {
+      "name": "no-positive-pair-pool-100",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "e33185587dde728c486df8cafc23d49843b74ae30090fa798e601bcc15882371",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 20, \"other\": {\"C\": 0}}, \"remaining\": 100, \"participation\": 0, \"share\": null, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "baseline_final_candidate_votes": {
+          "A": 40.0,
+          "B": 20.0,
+          "C": 100.0
+        },
+        "baseline_final_pair_margin": 0.3333333333333333,
+        "baseline_final_pair_net": 20.0,
+        "baseline_full_field_A_plurality": false,
+        "counted_A": 40.0,
+        "counted_B": 20.0,
+        "final_all_candidate_denominator": 160.0,
+        "final_pair_denominator": 60.0,
+        "fixed_target_status": "secured",
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": true,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 100.0,
+        "remaining_pair_pool": 0.0,
+        "selected_only": {
+          "fixed_target_status": "secured",
+          "required_A_share": null,
+          "status": "no-positive-pair-pool"
+        },
+        "status": "ok",
+        "target_pair_margin": 0,
+        "uniform": {
+          "clipped_share_shift": null,
+          "residual": 20.0,
+          "status": "no-positive-pair-pool",
+          "unbounded_share_shift": null
+        },
+        "units": [
+          {
+            "A": 40,
+            "B": 20,
+            "allocation": {
+              "C": 1
+            },
+            "counted_total": 60.0,
+            "key": "u1",
+            "other": {
+              "C": 0
+            },
+            "pair_pool": 0,
+            "remaining": 100,
+            "share": null
+          }
+        ],
+        "unknown_preference_units": []
+      },
+      "strict_output_sha256": "328c1effdcc34d65b9fca696b8948b6b068214ded4c6581ec227a46ae1510541",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "uniform_status": "no-positive-pair-pool",
+        "selected_status": "no-positive-pair-pool"
+      }
+    },
+    {
+      "name": "raw-selected-secured",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "5c70bc2e07c892ce74527185de03e519a26f2f18d769db512ced70b89c708a5c",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 100, \"B\": 0, \"other\": {\"C\": 0}}, \"remaining\": 10, \"participation\": 1, \"share\": 0.5, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "baseline_final_candidate_votes": {
+          "A": 105.0,
+          "B": 5.0,
+          "C": 0.0
+        },
+        "baseline_final_pair_margin": 0.9090909090909091,
+        "baseline_final_pair_net": 100.0,
+        "baseline_full_field_A_plurality": true,
+        "counted_A": 100.0,
+        "counted_B": 0.0,
+        "final_all_candidate_denominator": 110.0,
+        "final_pair_denominator": 110.0,
+        "fixed_target_status": "secured",
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": false,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 10.0,
+        "remaining_pair_pool": 10.0,
+        "selected_only": {
+          "all_other_units_fixed": true,
+          "feasible_A_share": 0,
+          "fixed_net_votes": 100.0,
+          "full_field_boundary_status": "secured",
+          "full_field_strict_plurality_boundary_A_share": -4.5,
+          "required_A_share": -4.5,
+          "status": "secured"
+        },
+        "status": "ok",
+        "target_pair_margin": 0,
+        "uniform": {
+          "clipped_share_shift": null,
+          "maximum_net": 110.0,
+          "minimum_net": 90.0,
+          "status": "secured at every feasible share",
+          "unbounded_share_shift": -5.0
+        },
+        "units": [
+          {
+            "A": 100,
+            "B": 0,
+            "allocation": {
+              "C": 1
+            },
+            "counted_total": 100.0,
+            "key": "u1",
+            "other": {
+              "C": 0
+            },
+            "pair_pool": 10,
+            "remaining": 10,
+            "share": 0.5
+          }
+        ],
+        "unknown_preference_units": []
+      },
+      "strict_output_sha256": "9850bf1421e8a4007cdaa63874328aab0d6fbf8213073657573e2a0d632b62a4",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "selected_status": "secured"
+      }
+    },
+    {
+      "name": "raw-selected-impossible",
+      "expected_valid": true,
+      "actual_exit": 0,
+      "input_raw_sha256": "9c196fec0943ecdb2f3210c6435bd487b9b77735329ea7379f675eb7e236bc63",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 0, \"B\": 100, \"other\": {\"C\": 0}}, \"remaining\": 10, \"participation\": 1, \"share\": 0.5, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "assumptions": "Independent synthetic fixed-count illustration; no election forecast",
+        "baseline_final_candidate_votes": {
+          "A": 5.0,
+          "B": 105.0,
+          "C": 0.0
+        },
+        "baseline_final_pair_margin": -0.9090909090909091,
+        "baseline_final_pair_net": -100.0,
+        "baseline_full_field_A_plurality": false,
+        "counted_A": 0.0,
+        "counted_B": 100.0,
+        "final_all_candidate_denominator": 110.0,
+        "final_pair_denominator": 110.0,
+        "fixed_target_status": "below target",
+        "legal_outcome": "not determined by pair arithmetic",
+        "mode": "live",
+        "no_positive_pair_pool": false,
+        "no_positive_pool": false,
+        "other_scope": "named",
+        "others": [
+          "C"
+        ],
+        "pair": [
+          "A",
+          "B"
+        ],
+        "pair_share_defined": true,
+        "remaining_all_candidate_pool": 10.0,
+        "remaining_pair_pool": 10.0,
+        "selected_only": {
+          "all_other_units_fixed": true,
+          "feasible_A_share": 1,
+          "fixed_net_votes": -100.0,
+          "full_field_boundary_status": "impossible",
+          "full_field_strict_plurality_boundary_A_share": 5.5,
+          "required_A_share": 5.5,
+          "status": "impossible"
+        },
+        "status": "ok",
+        "target_pair_margin": 0,
+        "uniform": {
+          "clipped_share_shift": null,
+          "maximum_net": -90.0,
+          "minimum_net": -110.0,
+          "status": "impossible bounded target",
+          "unbounded_share_shift": 5.0
+        },
+        "units": [
+          {
+            "A": 0,
+            "B": 100,
+            "allocation": {
+              "C": 1
+            },
+            "counted_total": 100.0,
+            "key": "u1",
+            "other": {
+              "C": 0
+            },
+            "pair_pool": 10,
+            "remaining": 10,
+            "share": 0.5
+          }
+        ],
+        "unknown_preference_units": []
+      },
+      "strict_output_sha256": "fa21b084bc1471264202a8bb95c04e0d51031d9792816f7ce89f5b29a83cb8d9",
+      "empty_stderr": true,
+      "expected_quantities": {
+        "selected_status": "impossible"
+      }
+    },
+    {
+      "name": "invalid-target-None",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "e80eec5b0d46071483d56abded691cddc75b029b47be7b02332a2e89a117b21b",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": null, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target must be numeric (not bool/null/text)"
+      },
+      "strict_output_sha256": "7a640831193b7bd896e6180da4f36fa774c4b0c4a913989518b82186811c09c8",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-target-True",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "c714f0b1791f5fd7d769bd2d56a12ffb6eccc5c490a6deed145ccbbda40beb6b",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": true, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target must be numeric (not bool/null/text)"
+      },
+      "strict_output_sha256": "7a640831193b7bd896e6180da4f36fa774c4b0c4a913989518b82186811c09c8",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-target-'0'",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "694d3445c6e246df50324daf7b61094d7e260fe33588ca0baeacf467c56ef814",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": \"0\", \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target must be numeric (not bool/null/text)"
+      },
+      "strict_output_sha256": "7a640831193b7bd896e6180da4f36fa774c4b0c4a913989518b82186811c09c8",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-target--1.01",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "9c7fec7fff34f24499275dac487e83da508178da0c74318e5997587330b254d8",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": -1.01, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target below bound"
+      },
+      "strict_output_sha256": "e631534dbb4cbca88249853ea86fd8072427e50f226d306850c6c05e4f2e1871",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-target-1.01",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "30757ce9f36f9637265fd9e99a67cc2f12460c0fe9991946fb247acde28827ba",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 1.01, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "target above bound"
+      },
+      "strict_output_sha256": "97722beb06f5405fd937e6700da9ad4a9909a1b29d1c565a2b6d4c4a4f805b6e",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-target-nan",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "170b413244050caacfc0c1cd81f7a027ab74aa7079af085c0f364306327b07eb",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": NaN, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "nonfinite JSON token NaN"
+      },
+      "strict_output_sha256": "bfca282d14967513533c9839c47a56298578b4f8b7fa032d18ffb2a73a29a5d6",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-target-inf",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "36eb839354eb877d34b20a57f5133c016aa5dfcafaafcb70e8afec9227f08383",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": Infinity, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "nonfinite JSON token Infinity"
+      },
+      "strict_output_sha256": "9cdb974cbb9c4e177d3d34c27daf2d6683079beaf65057514d726b54a664a086",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-target--inf",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "48b2ea761b7351e56f7d656ad0a16b82ae188ee9fb9cdf639d6015902ef29de3",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": -Infinity, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "nonfinite JSON token -Infinity"
+      },
+      "strict_output_sha256": "b883c5c3d263f28636171b79725afcc83400a4d6e28e31300f4cf597c8a9cc15",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "global-key-guard-before-unknown-''",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "9704d31de8cfc84b543575476ac78edcb988b15304f06c6bc69a2d27eea99fd6",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \"\", \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unit key must be a nonblank string"
+      },
+      "strict_output_sha256": "c0ad252fd632f73217a6ce1a8ffff9a4649082af12515b31df36c2c73d47f0d1",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "global-key-guard-before-unknown-' '",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "4501bcd55ab7cd65958551950825362500e8349012d1f87468f353ea89a0e9e4",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \" \", \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unit key must be a nonblank string"
+      },
+      "strict_output_sha256": "c0ad252fd632f73217a6ce1a8ffff9a4649082af12515b31df36c2c73d47f0d1",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "global-key-guard-before-unknown-None",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "0fdb54f168ec5c968f124a002257fdb1ecaa86094178070c8f835191b33f8598",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": null, \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unit key must be a nonblank string"
+      },
+      "strict_output_sha256": "c0ad252fd632f73217a6ce1a8ffff9a4649082af12515b31df36c2c73d47f0d1",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "global-key-guard-before-unknown-12",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "27c05a81d3f2bc5d4a23e55796733c1e89da78508089773d991b3bc97a18f69d",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": 12, \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unit key must be a nonblank string"
+      },
+      "strict_output_sha256": "c0ad252fd632f73217a6ce1a8ffff9a4649082af12515b31df36c2c73d47f0d1",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "global-key-guard-before-unknown-False",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "72381667c8b4d7e7a8cb0a87e0a68e0f6b1ea1ae4ee9e64f571bd0bce90b0699",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": false, \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unit key must be a nonblank string"
+      },
+      "strict_output_sha256": "c0ad252fd632f73217a6ce1a8ffff9a4649082af12515b31df36c2c73d47f0d1",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "global-key-guard-before-unknown-'u1'",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "a6e8828f26b3a763907986104b3279ff3b5ba46d2b293089ec21584a952f58d9",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 50, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u1\", \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": 0.7, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "duplicate unit key: u1"
+      },
+      "strict_output_sha256": "76eb567ad2c496b562dffb0c2951876945ce4d952fb33f1c4787e7b76a4bdc5b",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-remaining--1",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "be56614cab67a8f0045ae74d77054a5972731cccb54f66e65da1ccce6cdf542b",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": -1, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "remaining below bound"
+      },
+      "strict_output_sha256": "81a05abc7c680650c5194e940fed2a69e86d5a5350378faddc4c44169d6d1ab3",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-remaining-None",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "98b61b7151a947990fd8b23c771c7e9926fc81e9e6c78f3776b7b7e763c3bde4",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": null, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "remaining must be numeric (not bool/null/text)"
+      },
+      "strict_output_sha256": "4e882b6b2cd43d53ae3a92eddd2b47692156298d97bc64629a06e60fa4481038",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-remaining-True",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "a4332cba8f8c8a2fd0dd0acf2f5cdf4458dd028cef1b722e83394ead1352227b",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": true, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "remaining must be numeric (not bool/null/text)"
+      },
+      "strict_output_sha256": "4e882b6b2cd43d53ae3a92eddd2b47692156298d97bc64629a06e60fa4481038",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-participation-1.01",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "e13cc915631bd51506f1390289cde26509c539123b31338e9be33ee963fe1e75",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 1.01, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "participation above bound"
+      },
+      "strict_output_sha256": "b4a3a2c0175ad599da2240a709555fd6efadb1fe2c5bd325889af750c8be9ef8",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-participation--1",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "cc0b77c2f668ea050671c98a013e40147f8c8f4a137cb48b9dd01aedf95c738e",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": -1, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "participation below bound"
+      },
+      "strict_output_sha256": "4917f18f5aa22749d38a2e6a283d0988fc2e183efc2c5e9c4e40a7910a5cd749",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-share-False",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "cfd15afbd837a4388581d76db11dcffac5599ac6224828f66010beba00e625f7",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": false, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "share must be numeric (not bool/null/text)"
+      },
+      "strict_output_sha256": "60e84918a3268eb082dbc648db7be31c42b2bfba1fef9e5fcee49176e84cdb9e",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-share-1.01",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "fee13f6053e7aa09140c03c1ba9be698c22653baaa3790bb6c8b21339811ea11",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 1.01, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "share above bound"
+      },
+      "strict_output_sha256": "e51105c5dc47eef5b06c41e0af98b7305a8017169553ef927d4dc54e86c5739c",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-share--1",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "e3adaf041c96ed5c6d32bae53fa2ca1089c6c9e0ed55d01cc989d1c4b2d2752a",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": -1, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "share below bound"
+      },
+      "strict_output_sha256": "651b6fbcfa9ba0f61006738a811a4749d428b3484eff4bd6c79b58277b07584f",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-other_allocation-{'C': 0}",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "57c607f78a15afabf87212148000d74dc684d6a7218fa726c2e9c5fcf99a2dd3",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 0}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unbalanced supplied-other allocation"
+      },
+      "strict_output_sha256": "fb5f1347e892696a8f5bc2692a77c682b60e3b0f7845e011698092c4a39e5f73",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-other_allocation-{'C': inf}",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "580c35bd9161f40ed1e7571db78fd8a2eb21744a3e34bf267b8f1da09e394028",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": Infinity}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "nonfinite JSON token Infinity"
+      },
+      "strict_output_sha256": "9cdb974cbb9c4e177d3d34c27daf2d6683079beaf65057514d726b54a664a086",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-other_allocation-{}",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "0bcd1ce0396bbc2f64c64486a56948484bf943be3594f396eba591c02379a32b",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "other allocation identities must match others"
+      },
+      "strict_output_sha256": "24cd26ef10100d042121888091462759f913bb624fae17013d384ed5192c8409",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-counted-None",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "e03487254083427e33c1a9fe051ac1b44bb15c03eec8f863296855d45f5f6a9e",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": null, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted must be an object"
+      },
+      "strict_output_sha256": "73558a7d6dde886ba4c2d22f3da7c54bec7a40460c7668a81307ef46081fb060",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-unit-extra-0",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "e3f805b603b1d2974185d93e4fded3ec1c1bf76fe3e52e8856598ed926392b22",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}, \"extra\": 0}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unit unsupported fields: {'extra'}"
+      },
+      "strict_output_sha256": "65a70fe6315951eeab4f7fd8b4b1a9ea84a32bf44c6e448fffff0a80d4d8f618",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-counted-A--1",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "921d9f5a14a0019ce4655878432d39e9f83c9db8cb92a856de245e75f4c51643",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": -1, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted A below bound"
+      },
+      "strict_output_sha256": "57c841c91cd0f4d62dc4edf55a3dd95510ef14d4084af28b265c72444318f8c5",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-counted-B-True",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "232914b6d853b32fca8a2ff0d3537fb715d6c10105170c31e4ffb0e7ce1297ac",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": true, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted B must be numeric (not bool/null/text)"
+      },
+      "strict_output_sha256": "e4ee59337c5f01d25e3a8c5eb2532e9011ef1f3b9cea71a0f4cab6023162028e",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-counted-other-{'C': -1}",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "624b7706af27e4a91e41be8579daaf32896e79fedd3ec5196397454b7400eac2",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": -1}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted other C below bound"
+      },
+      "strict_output_sha256": "08585295ec78ada707e3ddbf0fdddfb2b67217a064e4f7794ecd0ce85f069d22",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-counted-other-{'wrong': 0}",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "04ec007d375bc7705dd43e89c82782f4b9f8cf3fc4dcc6d215dc673bc901e495",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"wrong\": 0}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted other identities must match others"
+      },
+      "strict_output_sha256": "9dc3aa4360efc23a429b99764d915dd13b54c64d7a0059dfb0be7b4578a6e857",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-pair",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "d177e4b811936a193df8551a5994fe3fde40c6d1d1c17bfb5bc3c458c480c596",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"A\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "candidate identity collision"
+      },
+      "strict_output_sha256": "5409c809685e84c53228a008f2a7e6af125aafabf94b3888631c98fdb24512ec",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-others",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "9aa1af4d7dd236f98b3c808fd483d7386500fc4cc3a44f037deb31be3b4172a8",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"A\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "candidate identity collision"
+      },
+      "strict_output_sha256": "5409c809685e84c53228a008f2a7e6af125aafabf94b3888631c98fdb24512ec",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-other_scope",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "9563bfc99fa539e055d5e2a5893eaf03ee7660c0d04bf8527b243ad7488ffd78",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"eligible\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unsupported other_scope"
+      },
+      "strict_output_sha256": "0f11dbcbd412b3529ad80b183540c97b13e411fc645967f4d98899d4e7c805c3",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-mode",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "5608c48c4e7e715ea211a40df4fa8ea4fdf002623fff08b43a1f59bb092f5121",
+      "input_raw_utf8": "{\"mode\": \"future\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "unsupported mode"
+      },
+      "strict_output_sha256": "7503e1b9e5dbd0258a271cc722e1db303fd4ba6bf34aa122405731eb9ec239d0",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-assumptions",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "bb9033886336add511eefa86eda2a7eae777638d8a473f7a5560a8cd16ebe0bf",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "explicit assumptions required"
+      },
+      "strict_output_sha256": "0c232839f5c16e7d446bdcd6b284a7eb263732caaa02583c18796834aeffef4d",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-selected_unit",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "465085114528924cc466358f3e9240458f63cb96a0cc08dd240bae72d73c7f40",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"missing\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "selected key does not exist"
+      },
+      "strict_output_sha256": "234af676bc9ea25033cf060b4252897c7effee7a0514e92fef2a07b00ed366e9",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-units",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "f68d3d285476ddacbc262b3be78285ff4577d22ccbf45630ec6a5d081a5248c3",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": []}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "units must be a nonempty list"
+      },
+      "strict_output_sha256": "d36d9f055104816e8ffa949df5f6885a80dc454a9bb83a492c19b8902655c6a6",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "invalid-setting-extra",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "68f26e945a885b5d3f564dcee91f2a108409bf3d31c948fc3db9ec0b7510a8cb",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}], \"extra\": 1}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "input unsupported fields: {'extra'}"
+      },
+      "strict_output_sha256": "d682b287508b0bb12075c42e96774d9d1e58cbdc1f7a3e1a1ca611bffe953da6",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "inconsistent-full-counted-total",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "3b3e56bb9011c79c4cd2ecce9b1616742f3adf3ce26cb808946db21c035ad73e",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}, \"counted_total\": 299}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "supplied counted total disagrees with complete field"
+      },
+      "strict_output_sha256": "194dab1b5362d0d73837b6a6e32e916912031458f79354e2554539d92e130512",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "historical-mode-cannot-consume-counted-votes",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "2521f26c1b9767a0a1131ed73e7d7a2479f421664a16117dabbb4bba0b20fd19",
+      "input_raw_utf8": "{\"mode\": \"historical\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "historical counted must be zero"
+      },
+      "strict_output_sha256": "ea8b3dc0d1bec61439001e51ea4086ea03f9cdddeb03a8cd786381586f41875d",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "overflow-counted-integer",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "811881b59d3afbba202285b01534b0c23af9ec1bd190e8adfd24c6e9e4de7b10",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "counted A overflow"
+      },
+      "strict_output_sha256": "aec58052894a8361444da623d7a9d3900792de2843351dc8857dc3f616b5ef38",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "global-share-guard-before-no-pool",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "c6625c202a09e6bd4d5d555677d5ca521faa8b5f2850a2450666865bd071654a",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 10, \"B\": 30, \"other\": {\"C\": 5}}, \"remaining\": 0, \"participation\": 1, \"share\": null, \"other_allocation\": {\"C\": 1}}, {\"key\": \"u2\", \"counted\": {\"A\": 60, \"B\": 40, \"other\": {\"C\": 20}}, \"remaining\": 100, \"participation\": 0.5, \"share\": -1, \"other_allocation\": {\"C\": 1}}]}\n",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "share below bound"
+      },
+      "strict_output_sha256": "651b6fbcfa9ba0f61006738a811a4749d428b3484eff4bd6c79b58277b07584f",
+      "empty_stderr": true,
+      "expected_quantities": null
+    },
+    {
+      "name": "duplicate-root-field",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "f4331c713746b1e0aa6f9f0260a183bd39ada2f39e42f3ebe8414ee7b4e06793",
+      "input_raw_utf8": "{\"mode\":\"live\",\"mode\":\"historical\"}",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "duplicate JSON object field: mode"
+      },
+      "strict_output_sha256": "3da225fa06423a014f72b60b8d356152dc88e6d0d678a7307effd64fb83d620b",
+      "empty_stderr": true
+    },
+    {
+      "name": "duplicate-nested-unit-field",
+      "expected_valid": false,
+      "actual_exit": 2,
+      "input_raw_sha256": "26fc0ce7de75e1ca55f17ddd1024f9996536abb9472f0f196e459a4cf0d2b3ab",
+      "input_raw_utf8": "{\"mode\": \"live\", \"pair\": [\"A\", \"B\"], \"others\": [\"C\"], \"other_scope\": \"named\", \"assumptions\": \"Independent synthetic fixed-count illustration; no election forecast\", \"target\": 0, \"selected_unit\": \"u1\", \"units\": [{\"key\": \"u1\", \"counted\": {\"A\": 40, \"B\": 60, \"other\": {\"C\": 200}}, \"remaining\": 100, \"remaining\": 50, \"participation\": 0.8, \"share\": 0.25, \"other_allocation\": {\"C\": 1}}]}",
+      "complete_strict_output": {
+        "status": "invalid-input",
+        "error": "duplicate JSON object field: remaining"
+      },
+      "strict_output_sha256": "7419320fe382279951cee5b4d8809249e613bff986d6a0271d5e218d121a56fe",
+      "empty_stderr": true
+    }
+  ]
+}

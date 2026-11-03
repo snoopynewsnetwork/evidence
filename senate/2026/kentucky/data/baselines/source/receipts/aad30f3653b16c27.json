@@ -1,0 +1,50 @@
+{
+  "id": "aad30f3653b16c27",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Elliott.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:05.217766+00:00",
+  "role": "2024 county recap: Elliott",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Elliott.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:05 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:05 GMT",
+        "Last-Modified": "Mon, 17 Mar 2025 15:18:18 GMT",
+        "ETag": "W/\"{0F889F43-6100-4B4C-8B02-217F7FBE0AA5},2\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:0F889F43-6100-4B4C-8B02-217F7FBE0AA5@00000000002",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c6d546a2-7c58-b05c-bfd1-848515d659a1",
+        "request-id": "c6d546a2-7c58-b05c-bfd1-848515d659a1",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "299",
+        "SPIisLatency": "15",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212005Z-15f786f77844z9schC1CHI8gx80000001nh0000000002g0a",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+      "raw_bytes": 438762,
+      "body": "source/bodies/01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958.gz",
+      "stored_sha256": "4ed8cc7b098641f10fd5add53c7295b2f2883d0abf21dc25be06c2e802f588cb",
+      "stored_bytes": 400278
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Elliott.pdf",
+  "status": 200
+}

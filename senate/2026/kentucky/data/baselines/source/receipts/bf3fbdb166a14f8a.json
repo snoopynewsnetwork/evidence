@@ -1,0 +1,50 @@
+{
+  "id": "bf3fbdb166a14f8a",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Scott.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:55.361188+00:00",
+  "role": "2024 county recap: Scott",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Scott.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:55 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:55 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:15 GMT",
+        "ETag": "W/\"{1AAC3501-40A5-4FFA-9B95-28F51F16F9E5},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:1AAC3501-40A5-4FFA-9B95-28F51F16F9E5@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "d2d546a2-9c8e-b05c-bfd1-80ce965cd7da",
+        "request-id": "d2d546a2-9c8e-b05c-bfd1-80ce965cd7da",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "33",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212055Z-17d5c4ffc57nftz2hC1CH1hk6g0000001ztg000000008n04",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "2c5be62869cdf686b00f399a2f3b6c09c35cdcc7836ccdf8aebc206f096f60b7",
+      "raw_bytes": 240001,
+      "body": "source/bodies/2c5be62869cdf686b00f399a2f3b6c09c35cdcc7836ccdf8aebc206f096f60b7.gz",
+      "stored_sha256": "02050db5fec01ee0051eac71a9935fb6aff4b507522b4a8a715e7be50fc762b5",
+      "stored_bytes": 229138
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Scott.pdf",
+  "status": 200
+}

@@ -1,0 +1,9 @@
+{
+  "exit": 0,
+  "stderr": "",
+  "argv": [
+    "python",
+    "scripts/calculator.py",
+    "fixtures/unknown-positive-pool.input.json"
+  ]
+}

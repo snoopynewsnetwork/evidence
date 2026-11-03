@@ -1,0 +1,50 @@
+{
+  "id": "b99bb958454f2dad",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Menifee.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:43.583331+00:00",
+  "role": "2024 county recap: Menifee",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Menifee.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:43 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:43 GMT",
+        "Last-Modified": "Mon, 17 Mar 2025 15:17:20 GMT",
+        "ETag": "W/\"{3C94116C-F09E-46CC-B13D-D9739435F7BD},2\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:3C94116C-F09E-46CC-B13D-D9739435F7BD@00000000002",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cfd546a2-8caf-b05c-6baa-2d7ff94433a1",
+        "request-id": "cfd546a2-8caf-b05c-6baa-2d7ff94433a1",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "68",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212043Z-17d5c4ffc57x67pzhC1CH1htc80000001z60000000003cwg",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "12f3a58e1e4d15371b8313d13ca1ec7cbff4905980c48c14b92eeb7074b2ac10",
+      "raw_bytes": 61753,
+      "body": "source/bodies/12f3a58e1e4d15371b8313d13ca1ec7cbff4905980c48c14b92eeb7074b2ac10.gz",
+      "stored_sha256": "df989c5035b89d21b7847dadd67a99bb49591c71832afebfdf31bd1d276092e6",
+      "stored_bytes": 52982
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Menifee.pdf",
+  "status": 200
+}

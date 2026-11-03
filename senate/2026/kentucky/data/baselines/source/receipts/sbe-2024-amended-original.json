@@ -1,0 +1,20 @@
+{
+  "id": "sbe-2024-amended-original",
+  "url": "https://elect.ky.gov/results/2020-2029/Documents/2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf",
+  "retrieved_at_utc": "2026-10-18T19:40:50.863969+00:00",
+  "status": 403,
+  "final_url": "https://elect.ky.gov/results/2020-2029/Documents/2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf",
+  "raw_sha256": "fc951f92563710c16c23bd7fdc7841124c8a3ef5a2c0c78f5442840a95b3479b",
+  "asset": "sbe-2024-amended-original.html.gz",
+  "stored_sha256": "db86977257842dc7d2a28af0e704a98d19f45de6ab058b90835d09d4d458086a",
+  "bytes": 1484,
+  "headers": {
+    "Date": "Sun, 18 Oct 2026 19:40:50 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "1484",
+    "Connection": "close",
+    "Cache-Control": "no-store",
+    "x-azure-ref": "20261018T194050Z-15f786f7784487z8hC1CHIztvg000000144g000000007vrm",
+    "X-Cache": "CONFIG_NOCACHE"
+  }
+}

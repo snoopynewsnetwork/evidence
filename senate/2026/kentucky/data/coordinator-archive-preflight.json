@@ -1,0 +1,158 @@
+{
+  "status": "pass_primary_archived_original_acquisition_only",
+  "checked_utc": "2026-10-18T19:42:54.581429+00:00",
+  "scope": "Coordinator preparation, no question agents or accepted priority. Direct official sources403; exact CDX-listed archive original bytes recovered. Native county recap originals still unrecovered.",
+  "PDF_observations": [
+    {
+      "id": "sbe-2024-archive-20241223120817",
+      "requested_url": "https://web.archive.org/web/20241223120817id_/https://elect.ky.gov/results/2020-2029/Documents/2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf",
+      "final_url": "https://web.archive.org/web/20241223120817id_/https://elect.ky.gov/results/2020-2029/Documents/2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf",
+      "original_bytes": 352441,
+      "original_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+      "stored_path": "data/news/sbe-2024-archive-20241223120817.html.gz",
+      "pages": 120,
+      "text_path": "data/news/sbe-2024-archive-20241223120817.txt",
+      "text_sha256": "b801134f2f810c6b5dc72f9c847b5510089e0f727d2294104bb764d1e54a7ffa",
+      "source_pdf_metadata": {
+        "CreationDate": "    Thu Dec  5 10:12:05 2024 CST",
+        "ModDate": "         Thu Dec  5 13:24:08 2024 CST",
+        "Pages": "           120"
+      }
+    },
+    {
+      "id": "sbe-2024-archive-20250611004030",
+      "requested_url": "https://web.archive.org/web/20250611004030id_/https://elect.ky.gov/results/2020-2029/Documents/2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf",
+      "final_url": "https://web.archive.org/web/20250611004030id_/https://elect.ky.gov/results/2020-2029/Documents/2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf",
+      "original_bytes": 352441,
+      "original_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+      "stored_path": "data/news/sbe-2024-archive-20241223120817.html.gz",
+      "pages": 120,
+      "text_path": "data/news/sbe-2024-archive-20241223120817.txt",
+      "text_sha256": "b801134f2f810c6b5dc72f9c847b5510089e0f727d2294104bb764d1e54a7ffa",
+      "source_pdf_metadata": {
+        "CreationDate": "    Thu Dec  5 10:12:05 2024 CST",
+        "ModDate": "         Thu Dec  5 13:24:08 2024 CST",
+        "Pages": "           120"
+      }
+    },
+    {
+      "id": "sbe-2024-archive-20250920110826",
+      "requested_url": "https://web.archive.org/web/20250920110826id_/https://elect.ky.gov/results/2020-2029/Documents/2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf",
+      "final_url": "https://web.archive.org/web/20250920110826id_/https://elect.ky.gov/results/2020-2029/Documents/2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf",
+      "original_bytes": 352441,
+      "original_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+      "stored_path": "data/news/sbe-2024-archive-20241223120817.html.gz",
+      "pages": 120,
+      "text_path": "data/news/sbe-2024-archive-20241223120817.txt",
+      "text_sha256": "b801134f2f810c6b5dc72f9c847b5510089e0f727d2294104bb764d1e54a7ffa",
+      "source_pdf_metadata": {
+        "CreationDate": "    Thu Dec  5 10:12:05 2024 CST",
+        "ModDate": "         Thu Dec  5 13:24:08 2024 CST",
+        "Pages": "           120"
+      }
+    },
+    {
+      "id": "sbe-2020-archive-20201120170339",
+      "requested_url": "https://web.archive.org/web/20201120170339id_/https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf",
+      "final_url": "https://web.archive.org/web/20201120170339id_/https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf",
+      "original_bytes": 355106,
+      "original_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773",
+      "stored_path": "data/news/sbe-2020-archive-20201120170339.html.gz",
+      "pages": 95,
+      "text_path": "data/news/sbe-2020-archive-20201120170339.txt",
+      "text_sha256": "c6a048a345c03c188e3fc94b768b0a409f69fba75a61f241778d2d18dddf987e",
+      "source_pdf_metadata": {
+        "CreationDate": "    Thu Nov 19 13:03:10 2020 CST",
+        "ModDate": "         Fri Nov 20 09:40:39 2020 CST",
+        "Pages": "           95"
+      }
+    },
+    {
+      "id": "sbe-2020-archive-20250721154857",
+      "requested_url": "https://web.archive.org/web/20250721154857id_/https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf",
+      "final_url": "https://web.archive.org/web/20250721154857id_/https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf",
+      "original_bytes": 355106,
+      "original_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773",
+      "stored_path": "data/news/sbe-2020-archive-20201120170339.html.gz",
+      "pages": 95,
+      "text_path": "data/news/sbe-2020-archive-20201120170339.txt",
+      "text_sha256": "c6a048a345c03c188e3fc94b768b0a409f69fba75a61f241778d2d18dddf987e",
+      "source_pdf_metadata": {
+        "CreationDate": "    Thu Nov 19 13:03:10 2020 CST",
+        "ModDate": "         Fri Nov 20 09:40:39 2020 CST",
+        "Pages": "           95"
+      }
+    },
+    {
+      "id": "sbe-2020-archive-20250911075540",
+      "requested_url": "https://web.archive.org/web/20250911075540id_/https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf",
+      "final_url": "https://web.archive.org/web/20250911075540id_/https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf",
+      "original_bytes": 355106,
+      "original_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773",
+      "stored_path": "data/news/sbe-2020-archive-20201120170339.html.gz",
+      "pages": 95,
+      "text_path": "data/news/sbe-2020-archive-20201120170339.txt",
+      "text_sha256": "c6a048a345c03c188e3fc94b768b0a409f69fba75a61f241778d2d18dddf987e",
+      "source_pdf_metadata": {
+        "CreationDate": "    Thu Nov 19 13:03:10 2020 CST",
+        "ModDate": "         Fri Nov 20 09:40:39 2020 CST",
+        "Pages": "           95"
+      }
+    },
+    {
+      "id": "sbe-2022-archive-20221223031129",
+      "requested_url": "https://web.archive.org/web/20221223031129id_/https://elect.ky.gov/results/2020-2029/Documents/2022%20General%20Election%20results.pdf",
+      "final_url": "https://web.archive.org/web/20221223031129id_/https://elect.ky.gov/results/2020-2029/Documents/2022%20General%20Election%20results.pdf",
+      "original_bytes": 555422,
+      "original_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+      "stored_path": "data/news/sbe-2022-archive-20221223031129.html.gz",
+      "pages": 258,
+      "text_path": "data/news/sbe-2022-archive-20221223031129.txt",
+      "text_sha256": "aab59841a4f101a8e9fccbd6b124c830d6652c23bc11bb99733903295f5f62b0",
+      "source_pdf_metadata": {
+        "CreationDate": "    Mon Nov 21 08:48:42 2022 CST",
+        "ModDate": "         Mon Nov 21 08:48:42 2022 CST",
+        "Pages": "           258"
+      }
+    },
+    {
+      "id": "sbe-2022-archive-20250828092755",
+      "requested_url": "https://web.archive.org/web/20250828092755id_/https://elect.ky.gov/results/2020-2029/Documents/2022%20General%20Election%20results.pdf",
+      "final_url": "https://web.archive.org/web/20250828092755id_/https://elect.ky.gov/results/2020-2029/Documents/2022%20General%20Election%20results.pdf",
+      "original_bytes": 555422,
+      "original_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+      "stored_path": "data/news/sbe-2022-archive-20221223031129.html.gz",
+      "pages": 258,
+      "text_path": "data/news/sbe-2022-archive-20221223031129.txt",
+      "text_sha256": "aab59841a4f101a8e9fccbd6b124c830d6652c23bc11bb99733903295f5f62b0",
+      "source_pdf_metadata": {
+        "CreationDate": "    Mon Nov 21 08:48:42 2022 CST",
+        "ModDate": "         Mon Nov 21 08:48:42 2022 CST",
+        "Pages": "           258"
+      }
+    },
+    {
+      "id": "sbe-2022-archive-20260223085144",
+      "requested_url": "https://web.archive.org/web/20260223085144id_/https://elect.ky.gov/results/2020-2029/Documents/2022%20General%20Election%20results.pdf",
+      "final_url": "https://web.archive.org/web/20260223085144id_/https://elect.ky.gov/results/2020-2029/Documents/2022%20General%20Election%20results.pdf",
+      "original_bytes": 555422,
+      "original_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+      "stored_path": "data/news/sbe-2022-archive-20221223031129.html.gz",
+      "pages": 258,
+      "text_path": "data/news/sbe-2022-archive-20221223031129.txt",
+      "text_sha256": "aab59841a4f101a8e9fccbd6b124c830d6652c23bc11bb99733903295f5f62b0",
+      "source_pdf_metadata": {
+        "CreationDate": "    Mon Nov 21 08:48:42 2022 CST",
+        "ModDate": "         Mon Nov 21 08:48:42 2022 CST",
+        "Pages": "           258"
+      }
+    }
+  ],
+  "unique_original_bodies": 3,
+  "qualifications": [
+    "Distinct CDX digests nevertheless returned byte-identical originals for each year in these observations; every requested/final URL remains separate. No archive chronology/correction cause inferred.",
+    "2024 primary parent labels amendedDecember9; internal PDF metadata dates alone do not prove amendment timing.",
+    "Jefferson2020 nominalPDF200 redirected to current generic Voting HTML; not acquired as original resultPDF.",
+    "Complete candidate identities/counties/native/method and120-county exact80 need independent question-worker extraction; no provisional priority accepted."
+  ]
+}

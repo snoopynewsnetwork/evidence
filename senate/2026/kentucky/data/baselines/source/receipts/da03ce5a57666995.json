@@ -1,0 +1,50 @@
+{
+  "id": "da03ce5a57666995",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Calloway.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:52.479948+00:00",
+  "role": "2024 county recap: Calloway",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Calloway.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:53 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:52 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:05 GMT",
+        "ETag": "W/\"{996081CE-FD77-4E79-BFC4-34E7E523D6FF},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:996081CE-FD77-4E79-BFC4-34E7E523D6FF@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c3d546a2-cc35-b05c-6baa-22e852238b56",
+        "request-id": "c3d546a2-cc35-b05c-6baa-22e852238b56",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "596",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211952Z-174b95d58c8rkndfhC1CH1axv80000001ezg0000000038n0",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "bf52491843fcb041b7f0c93b231aa4d44198f8088a6ea2f8a758282a250a954c",
+      "raw_bytes": 968778,
+      "body": "source/bodies/bf52491843fcb041b7f0c93b231aa4d44198f8088a6ea2f8a758282a250a954c.gz",
+      "stored_sha256": "7b27c4e96d5efb010fb6988e83289226f88082b32caad9dde972a43847886d91",
+      "stored_bytes": 822763
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Calloway.pdf",
+  "status": 200
+}

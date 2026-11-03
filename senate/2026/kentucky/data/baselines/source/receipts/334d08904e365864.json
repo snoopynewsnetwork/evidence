@@ -1,0 +1,50 @@
+{
+  "id": "334d08904e365864",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Campbell.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:53.473045+00:00",
+  "role": "2024 county recap: Campbell",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Campbell.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:54 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:53 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:06 GMT",
+        "ETag": "W/\"{50D51778-0E18-4D61-AE36-89810A8DAABE},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:50D51778-0E18-4D61-AE36-89810A8DAABE@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c3d546a2-5c73-b05c-bfd1-8c5e23f616da",
+        "request-id": "c3d546a2-5c73-b05c-bfd1-8c5e23f616da",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "887",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211953Z-15f786f77844ctgghC1CHI854c0000001nbg000000000zvg",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "2a7b859696d1a9785a7af13301c2f299f0ec5e01d1082652e59577a6591eba43",
+      "raw_bytes": 1604347,
+      "body": "source/bodies/2a7b859696d1a9785a7af13301c2f299f0ec5e01d1082652e59577a6591eba43.gz",
+      "stored_sha256": "d3ab90cfc49b9fd4e4957df09cb93c895b5961ce4605b6b93f6ac4d79573e28c",
+      "stored_bytes": 1341945
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Campbell.pdf",
+  "status": 200
+}

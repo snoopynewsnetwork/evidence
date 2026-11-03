@@ -1,0 +1,383 @@
+{
+  "status": "passed",
+  "real_cli_fixtures": [
+    {
+      "case": "counted-fixed-final-denominator",
+      "passed": true,
+      "expected": "fixed"
+    },
+    {
+      "case": "unknown-positive-pool",
+      "passed": true,
+      "expected": "unknown"
+    },
+    {
+      "case": "no-pool-secured",
+      "passed": true,
+      "expected": "no-pool"
+    },
+    {
+      "case": "selected-secured-negative-share",
+      "passed": true,
+      "expected": "secured"
+    },
+    {
+      "case": "selected-impossible-over-one",
+      "passed": true,
+      "expected": "impossible"
+    },
+    {
+      "case": "selected-only-unknown-other",
+      "passed": true,
+      "expected": "unknown-other"
+    },
+    {
+      "case": "endpoint-clipping",
+      "passed": true,
+      "expected": "clipping"
+    },
+    {
+      "case": "zero-pair-undefined",
+      "passed": true,
+      "expected": "zero-pair"
+    },
+    {
+      "case": "pair-leader-loses-full-field",
+      "passed": true,
+      "expected": "loses-field"
+    },
+    {
+      "case": "bounded-impossible-counted-fixed",
+      "passed": true,
+      "expected": "bounded-impossible"
+    },
+    {
+      "case": "positive-cushion",
+      "passed": true,
+      "expected": "piecewise"
+    },
+    {
+      "case": "generic-other-no-legal-plurality",
+      "passed": true,
+      "expected": "unresolved"
+    },
+    {
+      "case": "unknown-global-key-duplicate",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "unknown-global-key-missing",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "unknown-global-key-blank",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "unknown-global-key-nonstring",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "no-pool-global-key-duplicate",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "no-pool-global-key-missing",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "no-pool-global-key-blank",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "no-pool-global-key-nonstring",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "invalid-target-bool",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "invalid-target-null",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "invalid-target-text",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "invalid-target-nan",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "invalid-target-positive-infinity",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "invalid-target-negative-infinity",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "invalid-target-below",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "invalid-target-above",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "negative-count",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "bool-count",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "null-count",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "negative-other",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "negative-pool",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "text-pool",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "share-over-one",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "bool-share",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "participation-negative",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "allocation-unbalanced",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "allocation-bool",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "counted-total-below-pair",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "aggregate-overflow",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "candidate-collision",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "unsupported-setting",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "selected-key-absent",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "literal-whitespace-key-preserved",
+      "passed": true,
+      "expected": "literal-key"
+    },
+    {
+      "case": "duplicate-object-field",
+      "passed": true,
+      "expected": "invalid-input"
+    },
+    {
+      "case": "pair-target-feasible-full-field-impossible",
+      "passed": true,
+      "expected": "target-loses-field"
+    }
+  ],
+  "independent_scenario_checks": [
+    {
+      "input": "county-anchor2020-mix2020-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.10674270530627858,
+      "target_net": 20495.72,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2020-mix2020-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.10174270530627857,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2020-mix2022-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.10434473827538426,
+      "target_net": 14188.019317879029,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2020-mix2022-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.09934473827538426,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2020-mix2024-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.11036981964240751,
+      "target_net": 19910.101029687023,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2020-mix2024-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.10536981964240752,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2022-mix2020-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.1255921705385608,
+      "target_net": 21347.781124793524,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2022-mix2020-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.1205921705385608,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2022-mix2022-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.12309903244166191,
+      "target_net": 14776.369999999999,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2022-mix2022-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.11809903244166191,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2022-mix2024-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.1292010577838915,
+      "target_net": 20742.589518306628,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2022-mix2024-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.12420105778389147,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2024-mix2020-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.15627897962150256,
+      "target_net": 21010.273608026957,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2024-mix2020-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.15127897962150255,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2024-mix2022-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.15381393808206872,
+      "target_net": 14542.478494615285,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2024-mix2022-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.14881393808206872,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2024-mix2024-margin0.01.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.16014071016102085,
+      "target_net": 20415.37,
+      "passed": true
+    },
+    {
+      "input": "county-anchor2024-mix2024-margin0.input.json",
+      "units": 120,
+      "independent_piecewise_root": 0.15514071016102085,
+      "target_net": 0.0,
+      "passed": true
+    },
+    {
+      "input": "native-known-subset-margin0.01.input.json",
+      "units": 3127,
+      "independent_piecewise_root": 0.15809310289159959,
+      "target_net": 19357.3,
+      "passed": true
+    },
+    {
+      "input": "native-known-subset-margin0.input.json",
+      "units": 3127,
+      "independent_piecewise_root": 0.15301137796540942,
+      "target_net": 0.0,
+      "passed": true
+    }
+  ],
+  "method": "Independent Fraction affine-segment enumeration, explicit denominator/counted controls, actual subprocess CLI exit/strictJSON/stderr checks; no calculator code imported"
+}

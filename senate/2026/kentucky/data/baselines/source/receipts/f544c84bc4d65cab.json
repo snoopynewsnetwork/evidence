@@ -1,0 +1,50 @@
+{
+  "id": "f544c84bc4d65cab",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carter.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:55.812898+00:00",
+  "role": "2024 county recap: Carter",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carter.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:56 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:56 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:06 GMT",
+        "ETag": "W/\"{E93C126C-EBCC-4829-BEA4-8DA9D587532B},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:E93C126C-EBCC-4829-BEA4-8DA9D587532B@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c4d546a2-fc03-b05c-bfd1-85d6b0def3df",
+        "request-id": "c4d546a2-fc03-b05c-bfd1-85d6b0def3df",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "593",
+        "SPIisLatency": "12",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211955Z-15f786f7784hvpdbhC1CHI7zhs0000001nd0000000004kd0",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "36aa93b3d7c56fbf7e0e04747798ff28131e6c6af143609845f3e43fd2bcfef0",
+      "raw_bytes": 951573,
+      "body": "source/bodies/36aa93b3d7c56fbf7e0e04747798ff28131e6c6af143609845f3e43fd2bcfef0.gz",
+      "stored_sha256": "3c3cf69ca42f786edf30fdc2ee5e0f50615900de4d7b16310bfae74e1269c583",
+      "stored_bytes": 805553
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carter.pdf",
+  "status": 200
+}

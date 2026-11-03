@@ -1,0 +1,50 @@
+{
+  "id": "b228e7658b3134ce",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hickman.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:26.612953+00:00",
+  "role": "2024 county recap: Hickman",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hickman.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:27 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:26 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:14 GMT",
+        "ETag": "W/\"{F5C76C5B-C7A6-4D8B-8582-C05A7A1B2B97},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:F5C76C5B-C7A6-4D8B-8582-C05A7A1B2B97@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cbd546a2-8c89-b05c-bfd1-896bfba95a1e",
+        "request-id": "cbd546a2-8c89-b05c-bfd1-896bfba95a1e",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "263",
+        "SPIisLatency": "13",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212026Z-174b95d58c8z86qbhC1CH1tg6g0000001eyg0000000012xr",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "e1a95f445c1e9d4ddf73ee858ada154aec3aaca19388814695d4900477860c3c",
+      "raw_bytes": 386281,
+      "body": "source/bodies/e1a95f445c1e9d4ddf73ee858ada154aec3aaca19388814695d4900477860c3c.gz",
+      "stored_sha256": "16837cfe33ed43ccc8dc19b9d57f56c3655e56be5ed2da60de16b87d54ac678c",
+      "stored_bytes": 343098
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Hickman.pdf",
+  "status": 200
+}

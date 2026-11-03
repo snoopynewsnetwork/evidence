@@ -1,0 +1,50 @@
+{
+  "id": "57252450a1f029aa",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Clinton.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:00.744495+00:00",
+  "role": "2024 county recap: Clinton",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Clinton.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:01 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:01 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:07 GMT",
+        "ETag": "W/\"{B1D8C0B3-2CE6-4638-B41D-CACC9A135747},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:B1D8C0B3-2CE6-4638-B41D-CACC9A135747@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c5d546a2-dc3d-b05c-bfd1-855e77ce3b8f",
+        "request-id": "c5d546a2-dc3d-b05c-bfd1-855e77ce3b8f",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "127",
+        "SPIisLatency": "22",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212000Z-15f786f7784vmcqghC1CHIf0mn0000000gx0000000002b4y",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "969c539cc73fab0543f0da198b7097f5fb0e758e37870e7c320cac85b4dc61e7",
+      "raw_bytes": 116486,
+      "body": "source/bodies/969c539cc73fab0543f0da198b7097f5fb0e758e37870e7c320cac85b4dc61e7.gz",
+      "stored_sha256": "caf1fa7f53619507896c156633c8b355516af52815c358b58fb7c76b3541eba0",
+      "stored_bytes": 96343
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Clinton.pdf",
+  "status": 200
+}

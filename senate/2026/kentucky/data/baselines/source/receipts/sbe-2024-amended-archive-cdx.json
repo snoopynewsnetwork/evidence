@@ -1,0 +1,33 @@
+{
+  "id": "sbe-2024-amended-archive-cdx",
+  "url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2FDocuments%2F2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "retrieved_at_utc": "2026-10-18T19:41:15.228934+00:00",
+  "status": 200,
+  "final_url": "https://web.archive.org/cdx/search/cdx?url=elect.ky.gov%2Fresults%2F2020-2029%2FDocuments%2F2024%20General%20Election%20Certification%20as%20Amended%20on%20December%209th%202024.pdf&output=json&filter=statuscode%3A200&collapse=digest",
+  "raw_sha256": "fcedc490475e52de31fe5054d91bad13658b91441d25b5481d4610a0ab49d407",
+  "asset": "sbe-2024-amended-archive-cdx.html.gz",
+  "stored_sha256": "37cbbb02211be68362772d7478f7cdde7ddcc0e6a2b0b4d501195016b42b8f60",
+  "bytes": 1893,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sun, 18 Oct 2026 19:41:17 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "server-timing": "exclusion.robots;dur=0.077966, exclusion.robots.policy;dur=0.070957, esindex;dur=0.004736, TR;dur=0,Tw;dur=0,Tc;dur=0, BYPASS",
+    "x-app-server": "wwwb-app217-dc8",
+    "x-ts": "200",
+    "x-tr": "2033",
+    "set-cookie": "wb-cdx-nomatch-SERVER=wwwb-app217; path=/",
+    "X-location": "cdx",
+    "X-RL": "0",
+    "X-NA": "0",
+    "X-Page-Cache": "BYPASS",
+    "X-NID": "ATT-INTERNET4",
+    "Referrer-Policy": "no-referrer-when-downgrade",
+    "Permissions-Policy": "interest-cohort=()",
+    "X-sd": "0",
+    "X-be": "wb_cdx_pygwb_nomatch",
+    "Content-Encoding": "gzip"
+  }
+}

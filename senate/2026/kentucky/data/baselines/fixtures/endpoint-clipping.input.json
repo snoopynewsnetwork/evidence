@@ -1,0 +1,47 @@
+{
+  "mode": "historical",
+  "pair": [
+    "A",
+    "B"
+  ],
+  "others": [
+    "Z"
+  ],
+  "other_scope": "named",
+  "target": 0,
+  "assumptions": "Synthetic arithmetic fixture; all remaining volumes/preferences explicit",
+  "units": [
+    {
+      "key": "hi",
+      "counted": {
+        "A": 0,
+        "B": 0,
+        "other": {
+          "Z": 0
+        }
+      },
+      "remaining": 90,
+      "participation": 1,
+      "share": 0.95,
+      "other_allocation": {
+        "Z": 1
+      }
+    },
+    {
+      "key": "lo",
+      "counted": {
+        "A": 0,
+        "B": 0,
+        "other": {
+          "Z": 0
+        }
+      },
+      "remaining": 10,
+      "participation": 1,
+      "share": 0.05,
+      "other_allocation": {
+        "Z": 1
+      }
+    }
+  ]
+}

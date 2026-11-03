@@ -1,0 +1,50 @@
+{
+  "id": "0ed75cbd5ba8efdb",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McCracken.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:40.789989+00:00",
+  "role": "2024 county recap: McCracken",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McCracken.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:41 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:41 GMT",
+        "Last-Modified": "Sat, 26 Apr 2025 22:05:02 GMT",
+        "ETag": "W/\"{26351EBE-B7DE-44B2-84B9-0334DA81281E},3\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:26351EBE-B7DE-44B2-84B9-0334DA81281E@00000000003",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "cfd546a2-fc00-b05c-6baa-2ed97c129b89",
+        "request-id": "cfd546a2-fc00-b05c-6baa-2ed97c129b89",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "60",
+        "SPIisLatency": "20",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212040Z-r1cf8987fd5mqnlwhC1CHIhczw00000008xg00000000644a",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "4a72a5db268eed1d32dd6e6e32623a0213dc614e3b5e9af257462ddc9a77cf48",
+      "raw_bytes": 1469359,
+      "body": "source/bodies/4a72a5db268eed1d32dd6e6e32623a0213dc614e3b5e9af257462ddc9a77cf48.gz",
+      "stored_sha256": "e7ba69250a4e417bee6ad229b4a16537f14ddefd73e8a1331cdac11192373a2d",
+      "stored_bytes": 1206138
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/McCracken.pdf",
+  "status": 200
+}

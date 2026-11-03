@@ -1,0 +1,1 @@
+Elliott checker included peer kind cast_votes as a candidate/pool/child; exact values already match once the printed total is compared as its own field. Preserve7initial adapter differences, correct kind selection only.

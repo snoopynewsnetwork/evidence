@@ -1,0 +1,36 @@
+{
+  "id": "5c71bf339d63383f",
+  "requested_url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_county_2024_acs24_ky.html",
+  "retrieved_at_utc": "2026-10-20T21:22:31.951540+00:00",
+  "role": "2024 Census county FIPS identity only",
+  "parent": null,
+  "hops": [
+    {
+      "url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_county_2024_acs24_ky.html",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:22:32 GMT",
+        "Access-Control-Allow-Origin": "https://tigerweb.geo.census.gov",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Accept-Ranges": "bytes",
+        "Cache-Control": "no-cache, no-store, private",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Content-Length": "157958",
+        "Keep-Alive": "timeout=15, max=100",
+        "Connection": "Keep-Alive",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Set-Cookie": "TS01d8b8de=01283c52a41bf3bcdf9761f3543dde41ccbb108521ea6835fe81fd91eb269846b5125c3168db18ab0b47032f2cf302f23016aec633; Path=/; Domain=.tigerweb.geo.census.gov; Secure; HttpOnly"
+      },
+      "raw_sha256": "3f4fbb2bbbac7dfcb9fe0aee5e374252082d8357b773051bc53e508a6eb52259",
+      "raw_bytes": 157958,
+      "body": "source/bodies/3f4fbb2bbbac7dfcb9fe0aee5e374252082d8357b773051bc53e508a6eb52259.gz",
+      "stored_sha256": "279261bcb282f281ac3dec9f275c6a8e4779fea4006beb0e98610663d4cff3b4",
+      "stored_bytes": 10102
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_county_2024_acs24_ky.html",
+  "status": 200
+}

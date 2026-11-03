@@ -1,0 +1,50 @@
+{
+  "id": "30c17c00cd3519d6",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Madison.pdf",
+  "retrieved_at_utc": "2026-10-20T21:20:37.438661+00:00",
+  "role": "2024 county recap: Madison",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Madison.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:20:38 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:20:37 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:02:09 GMT",
+        "ETag": "W/\"{A98BA26E-448D-49C1-A348-8FEBF5A3B962},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:A98BA26E-448D-49C1-A348-8FEBF5A3B962@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "ced546a2-6c31-b05c-bfd1-8fbae7e6acec",
+        "request-id": "ced546a2-6c31-b05c-bfd1-8fbae7e6acec",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "336",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T212037Z-r1cf8987fd5dhm6chC1CHI8vg4000000016g00000000b3tc",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132",
+      "raw_bytes": 560037,
+      "body": "source/bodies/cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132.gz",
+      "stored_sha256": "7b7efe16a26612990107e5f813452d0dd11d9a5d94543ae20f7a89f667e41ec7",
+      "stored_bytes": 442449
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Madison.pdf",
+  "status": 200
+}

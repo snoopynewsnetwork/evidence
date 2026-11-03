@@ -1,0 +1,50 @@
+{
+  "id": "f798b7b2af971f13",
+  "requested_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carroll.pdf",
+  "retrieved_at_utc": "2026-10-20T21:19:55.312600+00:00",
+  "role": "2024 county recap: Carroll",
+  "parent": "https://elect.ky.gov/results/2020-2029/Pages/2024General-Recap-Sheets.aspx",
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carroll.pdf",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 20 Oct 2026 21:19:55 GMT",
+        "Content-Type": "application/pdf",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Set-Cookie": "ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/, _InfoPath_Sentinel=; path=/",
+        "Cache-Control": "private,max-age=0",
+        "Expires": "Mon, 05 Oct 2026 21:19:55 GMT",
+        "Last-Modified": "Fri, 27 Dec 2024 20:01:06 GMT",
+        "ETag": "W/\"{AD61F9A2-3EB6-4B0A-B418-07C310B267FE},1\"",
+        "X-SharePointHealthScore": "0",
+        "ResourceTag": "rt:AD61F9A2-3EB6-4B0A-B418-07C310B267FE@00000000001",
+        "Public-Extension": "http://schemas.microsoft.com/repl-2",
+        "SPRequestGuid": "c3d546a2-3ce1-b05c-bfd1-82ba97cca32a",
+        "request-id": "c3d546a2-3ce1-b05c-bfd1-82ba97cca32a",
+        "X-FRAME-OPTIONS": "SAMEORIGIN",
+        "Content-Security-Policy": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;",
+        "SPRequestDuration": "201",
+        "SPIisLatency": "11",
+        "X-Powered-By": "ASP.NET",
+        "MicrosoftSharePointTeamServices": "16.0.0.20326",
+        "X-Content-Type-Options": "nosniff",
+        "X-MS-InvokeApp": "1; RequireReadOnly",
+        "x-azure-ref": "20261020T211955Z-15f786f7784r7ktrhC1CHIh9qn0000000s40000000003u24",
+        "x-fd-int-roxy-purgeid": "0",
+        "X-Cache": "PRIVATE_NOSTORE",
+        "Content-Encoding": "gzip"
+      },
+      "raw_sha256": "55375881f300c9524b55262591eee51dc3f5f1852d11298d3ba62107be24dee9",
+      "raw_bytes": 286692,
+      "body": "source/bodies/55375881f300c9524b55262591eee51dc3f5f1852d11298d3ba62107be24dee9.gz",
+      "stored_sha256": "42cf535376e09890abc66eaa6fd468d4a25cb8487500cf3d69a0748c85f7b3d2",
+      "stored_bytes": 265614
+    }
+  ],
+  "source_clock": null,
+  "final_url": "https://elect.ky.gov/results/2020-2029/2024ElectionReports/GeneralRecaps/Carroll.pdf",
+  "status": 200
+}
