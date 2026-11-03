@@ -1,0 +1,51 @@
+{
+  "label": "krs117-current-022-27344",
+  "started_utc": "2026-10-20T22:35:01.434915+00:00",
+  "request": {
+    "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=27344",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=27344",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:01.434918+00:00",
+      "ended_utc": "2026-10-20T22:35:01.683903+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/ed80bd567c59a4d3d7a58be3e0a943a3804367f910087d515a29f200c3424ba2.gz",
+        "raw_bytes": 444,
+        "raw_sha256": "ed80bd567c59a4d3d7a58be3e0a943a3804367f910087d515a29f200c3424ba2",
+        "stored_bytes": 327,
+        "stored_sha256": "63abbf7e2b46da4155e65dbf2a9d87dc75c7da90203d1d4c4202b1a1360d3a90"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncache-control: private\r\ncontent-type: application/PDF\r\nserver: Microsoft-IIS/10.0\r\nset-cookie: ASP.NET_SessionId=etv1ww255wtymlkk5t0yme3m; path=/; HttpOnly; SameSite=Lax\r\ncontent-disposition: inline;FileName=\"KRS117_022(K).pdf\"\r\nx-aspnet-version: 4.0.30319\r\nx-powered-by: ASP.NET\r\naccess-control-allow-origin: *\r\naccess-control-allow-methods: GET\r\naccess-control-allow-headers: Content-Type\r\ndate: Tue, 20 Oct 2026 22:35:00 GMT\r\n\r\n",
+      "response_body": {
+        "path": "bodies/177d1985725ee4b70ab280d2892f3dbc08924425e7e9b668e0725b260d6045b7.gz",
+        "raw_bytes": 4968,
+        "raw_sha256": "177d1985725ee4b70ab280d2892f3dbc08924425e7e9b668e0725b260d6045b7",
+        "stored_bytes": 3063,
+        "stored_sha256": "5bf7372bd847c7ad5ca9b7b8a048f7aae3e8f9cbf429c912b3c82a0d35aa36d6"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:01.684544+00:00"
+}

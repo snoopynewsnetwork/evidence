@@ -1,0 +1,51 @@
+{
+  "label": "office-094-elections",
+  "started_utc": "2026-10-20T22:36:10.841079+00:00",
+  "request": {
+    "url": "https://webstercountyclerk.ky.gov/elect/Pages/er.aspx",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://webstercountyclerk.ky.gov/elect/Pages/er.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:10.841082+00:00",
+      "ended_utc": "2026-10-20T22:36:11.082019+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/56b58de71bd7ca466a53a707452726a6739863f6b6429a237f37666767d221e8.gz",
+        "raw_bytes": 1290,
+        "raw_sha256": "56b58de71bd7ca466a53a707452726a6739863f6b6429a237f37666767d221e8",
+        "stored_bytes": 699,
+        "stored_sha256": "0d65d7e85f12ffbbecf7fc52094ad1df2be25b1bbe8a34c75f986fc1498f604a"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:11 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 45918\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private, max-age=0\r\nexpires: Mon, 05 Oct 2026 22:36:10 GMT\r\nlast-modified: Tue, 20 Oct 2026 22:36:10 GMT\r\nx-sharepointhealthscore: 0\r\nx-aspnet-version: 4.0.30319\r\nsprequestguid: 20da46a2-7cf5-b05c-bfd1-8e0db023d5f0\r\nrequest-id: 20da46a2-7cf5-b05c-bfd1-8e0db023d5f0\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 102\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223610Z-15f786f77842p2wghC1CHIzn2w0000001pag000000000b4m\r\nx-cache: CONFIG_NOCACHE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/59c41b485629173fdf01c06fb257cf7d259d8a9094620892325d85a6996157da.gz",
+        "raw_bytes": 45918,
+        "raw_sha256": "59c41b485629173fdf01c06fb257cf7d259d8a9094620892325d85a6996157da",
+        "stored_bytes": 18652,
+        "stored_sha256": "dc3ae06ec542bd63adced60a515d7830e82cfee1262344d271b58bf8ca9b0131"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:11.083262+00:00"
+}

@@ -1,0 +1,17 @@
+Creator:         c42pdf v. 0.12 args:  -p o -? 
+Producer:        PDFlib V0.6 (C) Thomas Merz 1997-98
+CreationDate:    Wed Nov 18 06:37:38 2020 CST
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           2
+Encrypted:       no
+Page size:       1011.84 x 610.56 pts
+Page rot:        0
+File size:       114882 bytes
+Optimized:       no
+PDF version:     1.1

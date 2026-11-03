@@ -1,0 +1,51 @@
+{
+  "label": "office-098-results",
+  "started_utc": "2026-10-20T22:39:14.657392+00:00",
+  "request": {
+    "url": "https://adaircoclerkky.gov/?page_id=2342",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://adaircoclerkky.gov/?page_id=2342",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:14.657396+00:00",
+      "ended_utc": "2026-10-20T22:39:15.896495+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/6881ac0dadd9cb25573e35a36fe7d9c7e68547056558565367103edff8bd7323.gz",
+        "raw_bytes": 486,
+        "raw_sha256": "6881ac0dadd9cb25573e35a36fe7d9c7e68547056558565367103edff8bd7323",
+        "stored_bytes": 333,
+        "stored_sha256": "c03771ca9f13e951b2e2aea6ee6a20ec8fabd3d8205f1afda5ca9f088d73688f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:39:15 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nlink: <https://adaircoclerkky.gov/index.php?rest_route=/>; rel=\"https://api.w.org/\", <https://adaircoclerkky.gov/index.php?rest_route=/wp/v2/pages/2342>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://adaircoclerkky.gov/?p=2342>; rel=shortlink\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: MISS\r\n\r\n",
+      "response_body": {
+        "path": "bodies/d2999ca7e9cac0e4a211a97132e6834e3e4a3248129e52b093c6e0a1817ddced.gz",
+        "raw_bytes": 136749,
+        "raw_sha256": "d2999ca7e9cac0e4a211a97132e6834e3e4a3248129e52b093c6e0a1817ddced",
+        "stored_bytes": 24100,
+        "stored_sha256": "fb607ac6721d041424fbacdf4d0472e466e97ecdefec3f858915caf569760bcb"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:15.899404+00:00"
+}

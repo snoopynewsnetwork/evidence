@@ -1,0 +1,51 @@
+{
+  "label": "office-049-elections",
+  "started_utc": "2026-10-20T22:36:09.137334+00:00",
+  "request": {
+    "url": "https://vrsws.sos.ky.gov/liveresults/County?id=63",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://vrsws.sos.ky.gov/liveresults/County?id=63",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:09.137338+00:00",
+      "ended_utc": "2026-10-20T22:36:09.226438+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/8218eb9ac364c9c1e24c2742cb617890980bbbddbe3f7ff67f1c13dccf5281e7.gz",
+        "raw_bytes": 389,
+        "raw_sha256": "8218eb9ac364c9c1e24c2742cb617890980bbbddbe3f7ff67f1c13dccf5281e7",
+        "stored_bytes": 249,
+        "stored_sha256": "88abbabfa02179042a93636ffedcff31dc14a070ccd545ffb8e8f218ad63ea09"
+      },
+      "headers_latin1": "HTTP/2 403 \r\nmime-version: 1.0\r\ncontent-length: 2468\r\ncache-control: no-cache, no-store, must-revalidate\r\npragma: no-cache\r\nexpires: 0\r\ncontent-type: text/html\r\nexpires: Tue, 20 Oct 2026 22:36:09 GMT\r\ncache-control: max-age=0, no-cache, no-store\r\npragma: no-cache\r\ndate: Tue, 20 Oct 2026 22:36:09 GMT\r\nstrict-transport-security: max-age=86400\r\nakamai-grn: 0.9f291eb8.1792535769.a698223\r\n\r\n",
+      "response_body": {
+        "path": "bodies/6a67cc16edc193f101c8fbe639082b5d9676a06768f34768ab339cf298e53aef.gz",
+        "raw_bytes": 2468,
+        "raw_sha256": "6a67cc16edc193f101c8fbe639082b5d9676a06768f34768ab339cf298e53aef",
+        "stored_bytes": 1200,
+        "stored_sha256": "e1ce0416ae49eca3201d957cd21b1d839a606ce32eba3342b14b767c1e374a4e"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:09.227048+00:00"
+}

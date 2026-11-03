@@ -1,0 +1,51 @@
+{
+  "label": "export-butler_2026p_summary",
+  "started_utc": "2026-10-20T22:35:43.706431+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/BUTLER/Butler_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/BUTLER/Butler_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:43.706440+00:00",
+      "ended_utc": "2026-10-20T22:35:44.054117+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/862cd74ff5136ddb5752d389d7efce004de81383d1d7c243b78b595192a0b01a.gz",
+        "raw_bytes": 1627,
+        "raw_sha256": "862cd74ff5136ddb5752d389d7efce004de81383d1d7c243b78b595192a0b01a",
+        "stored_bytes": 887,
+        "stored_sha256": "d82e3df96dc827f4653139fc25241153ec5914163d95e068e9af05c1e3fc0cf7"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:44 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 23883\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:44 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:11:10 GMT\r\netag: \"{F49F9697-696E-42BB-9872-94D25F149653},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:F49F9697-696E-42BB-9872-94D25F149653@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Butler%5f2026p%5fsummary%2ecsv; filename=\"Butler_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1ada46a2-3c60-b05c-6baa-2692a9291ad1\r\nrequest-id: 1ada46a2-3c60-b05c-6baa-2692a9291ad1\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 46\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223543Z-15f786f7784f2qmphC1CHI9cw00000001np00000000060ef\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/975610a323b6da23b82cabb90d7cd30dacc5b7851b9056d4a8e402718d412670.gz",
+        "raw_bytes": 23883,
+        "raw_sha256": "975610a323b6da23b82cabb90d7cd30dacc5b7851b9056d4a8e402718d412670",
+        "stored_bytes": 3221,
+        "stored_sha256": "aea87faba15f8780c509cf7508d9ddbb76bb942c9eb19114c190b9fc82834382"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:44.055632+00:00"
+}

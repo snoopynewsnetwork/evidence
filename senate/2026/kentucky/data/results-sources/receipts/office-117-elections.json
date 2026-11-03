@@ -1,0 +1,51 @@
+{
+  "label": "office-117-elections",
+  "started_utc": "2026-10-20T22:36:13.328244+00:00",
+  "request": {
+    "url": "https://metcalfecountyclerk.ky.gov/elections-voting/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://metcalfecountyclerk.ky.gov/elections-voting/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:13.328248+00:00",
+      "ended_utc": "2026-10-20T22:36:13.508851+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/74aa3663be2e947d474c031a7412bb364daf9da46a71ee5e4e8ce131d8d98b39.gz",
+        "raw_bytes": 521,
+        "raw_sha256": "74aa3663be2e947d474c031a7412bb364daf9da46a71ee5e4e8ce131d8d98b39",
+        "stored_bytes": 349,
+        "stored_sha256": "a20a5d623b109ceae4edfb8de3e8ff68e28cbc47d9a645462231529ebbe2395f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\nserver: nginx\r\ndate: Tue, 20 Oct 2026 22:36:13 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nvary: Accept-Encoding\r\nno-vary-search: params=(\"PageSpeed\")\r\nlink: <https://metcalfecountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\"\r\nlink: <https://metcalfecountyclerk.ky.gov/wp-json/wp/v2/pages/32>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\r\nlink: <https://metcalfecountyclerk.ky.gov/?p=32>; rel=shortlink\r\nx-httpd-modphp: 1\r\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\r\nx-proxy-cache: HIT\r\n\r\n",
+      "response_body": {
+        "path": "bodies/5117114c84134d4aace4dd7e86fb8876bd9f7a44beba565b403dc6b7ba2306f6.gz",
+        "raw_bytes": 200218,
+        "raw_sha256": "5117114c84134d4aace4dd7e86fb8876bd9f7a44beba565b403dc6b7ba2306f6",
+        "stored_bytes": 32552,
+        "stored_sha256": "92edf3b85da8d61d1d3210dcc0b3aefa6bbab8da2676d65c7cb80eeb783160c8"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:13.512457+00:00"
+}

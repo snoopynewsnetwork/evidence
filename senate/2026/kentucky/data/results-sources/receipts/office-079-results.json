@@ -1,0 +1,83 @@
+{
+  "label": "office-079-results",
+  "started_utc": "2026-10-20T22:39:14.275688+00:00",
+  "request": {
+    "url": "https://powell.countyclerk.us/scanned-from-powell-cty-clerk/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://powell.countyclerk.us/scanned-from-powell-cty-clerk/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:14.275693+00:00",
+      "ended_utc": "2026-10-20T22:39:14.399596+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/f816cf1f239178491c3d449a90d9837457744af64a2210e500ea44a205559036.gz",
+        "raw_bytes": 801,
+        "raw_sha256": "f816cf1f239178491c3d449a90d9837457744af64a2210e500ea44a205559036",
+        "stored_bytes": 584,
+        "stored_sha256": "adf92e90defb0892e65b415fa8e4cb4c2b6487fdb029140289ffac3ac8e57ab1"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nDate: Tue, 20 Oct 2026 22:24:51 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch\r\nX-Redirect-By: Yoast SEO\r\nLocation: https://powell.countyclerk.us/wp-content/uploads/2026/04/Scanned-from-Powell-Cty-Clerk.pdf\r\nX-Served-By: WEB1\r\nContent-Length: 0\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 1941712 23611059\r\nAge: 861\r\nVia: 1.1 varnish (Varnish/7.1)\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914891776; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://powell.countyclerk.us/wp-content/uploads/2026/04/Scanned-from-Powell-Cty-Clerk.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:14.400218+00:00",
+      "ended_utc": "2026-10-20T22:39:14.601274+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/d98ec7343c9ab4e9286d494980e92796df4fd0c631a8945136b3d1964aa3f9ae.gz",
+        "raw_bytes": 621,
+        "raw_sha256": "d98ec7343c9ab4e9286d494980e92796df4fd0c631a8945136b3d1964aa3f9ae",
+        "stored_bytes": 460,
+        "stored_sha256": "af94a837685d2f640e6f19810ab9a31e5cb3ba961aaabc1fd972153206eda7b0"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:39:14 GMT\r\nServer: Apache\r\nLast-Modified: Wed, 29 Apr 2026 15:03:48 GMT\r\nETag: \"134d4-6509aa7ab4ba9\"\r\nAccept-Ranges: bytes\r\nContent-Length: 79060\r\nX-Served-By: WEB1\r\nContent-Type: application/pdf\r\nX-Varnish: 24199162\r\nAge: 0\r\nVia: 1.1 varnish (Varnish/7.1)\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914891776; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/01cc6ccae3f9dc88acd0b855bc1a25fbf9fc43a5d76285c84a55bf4bb9a29752.gz",
+        "raw_bytes": 79060,
+        "raw_sha256": "01cc6ccae3f9dc88acd0b855bc1a25fbf9fc43a5d76285c84a55bf4bb9a29752",
+        "stored_bytes": 53144,
+        "stored_sha256": "bbf05078f50fb8f921befd34d26b4b59879758e1ca55d5aa40b92ae662ed83f1"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:14.603664+00:00"
+}

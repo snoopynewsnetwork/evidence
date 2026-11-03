@@ -1,0 +1,51 @@
+{
+  "label": "ballot-index",
+  "started_utc": "2026-10-20T22:36:02.854787+00:00",
+  "request": {
+    "url": "https://web.sos.ky.gov/electionballots/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://web.sos.ky.gov/electionballots/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:02.854920+00:00",
+      "ended_utc": "2026-10-20T22:36:03.260281+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/9ef850f45dcdddd96f4d10a415d963207a94ea4737789a498292feec6aa42500.gz",
+        "raw_bytes": 219,
+        "raw_sha256": "9ef850f45dcdddd96f4d10a415d963207a94ea4737789a498292feec6aa42500",
+        "stored_bytes": 199,
+        "stored_sha256": "e6733945fd3b3a0ba8a191df1f46b8fb589291632a5e35909de22484137a2a82"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:03 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 42344\r\ncache-control: private\r\nserver: Microsoft-IIS/10.0\r\nx-aspnet-version: 4.0.30319\r\nx-powered-by: ASP.NET\r\n\r\n",
+      "response_body": {
+        "path": "bodies/43b5d1a48254766c692503f7a601f11fb96a9df55c8bfd583933b3c2cad2f171.gz",
+        "raw_bytes": 42344,
+        "raw_sha256": "43b5d1a48254766c692503f7a601f11fb96a9df55c8bfd583933b3c2cad2f171",
+        "stored_bytes": 6038,
+        "stored_sha256": "0470bc8d95965bb0d696b3765fad3749e1acb566588136a15bde1cecf838646b"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:03.261465+00:00"
+}

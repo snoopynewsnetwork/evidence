@@ -1,0 +1,51 @@
+{
+  "label": "export-lyon_2026p_summary",
+  "started_utc": "2026-10-20T22:35:52.263575+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LYON/Lyon_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LYON/Lyon_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:52.263578+00:00",
+      "ended_utc": "2026-10-20T22:35:53.277277+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/349f736eacf24b81a4220ec158a0a78a5c13120767632c2554dc2fcf9cc4ef3e.gz",
+        "raw_bytes": 1623,
+        "raw_sha256": "349f736eacf24b81a4220ec158a0a78a5c13120767632c2554dc2fcf9cc4ef3e",
+        "stored_bytes": 887,
+        "stored_sha256": "5467bf9c416bbaf5f7cd58e48b3d2c0861ef08317d76b91211ed80e253e0fbe3"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:53 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 14894\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:53 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:21:45 GMT\r\netag: \"{7DEFC141-C4DE-4E87-AC4A-106F1AEE4EDF},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:7DEFC141-C4DE-4E87-AC4A-106F1AEE4EDF@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Lyon%5f2026p%5fsummary%2ecsv; filename=\"Lyon_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-aca0-b05c-bfd1-89a809e218eb\r\nrequest-id: 1cda46a2-aca0-b05c-bfd1-89a809e218eb\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 38\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223552Z-15f786f7784pzfm5hC1CHIpbcg00000008z00000000024rf\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/146ca8a25131b4645532eeab4b4a7aa9aa96bc91c2370b54a561df12857a2972.gz",
+        "raw_bytes": 14894,
+        "raw_sha256": "146ca8a25131b4645532eeab4b4a7aa9aa96bc91c2370b54a561df12857a2972",
+        "stored_bytes": 1647,
+        "stored_sha256": "c72904ba0f1ccb67b2eca01e761d2133c12c592dbe0ebc69199e39edf8cc19e6"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:53.278682+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-party",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "candidate party/runningmate/header mask",
+  "complete_packet_input_sha256": "3d779b5812f8209e3e031e185c50f0b7f111e0c2663115bef91d7d2b2a869d10",
+  "full_components": 382
+}

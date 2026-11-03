@@ -1,0 +1,51 @@
+{
+  "label": "office-119",
+  "started_utc": "2026-10-20T22:35:23.534134+00:00",
+  "request": {
+    "url": "https://www.scottcountyclerk.com",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.scottcountyclerk.com",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:23.534138+00:00",
+      "ended_utc": "2026-10-20T22:35:43.337890+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "522",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/6a2bad6b3c3ad6d6369411201dc9af409c084ba3e08495b7f10629aa5b84f188.gz",
+        "raw_bytes": 718,
+        "raw_sha256": "6a2bad6b3c3ad6d6369411201dc9af409c084ba3e08495b7f10629aa5b84f188",
+        "stored_bytes": 510,
+        "stored_sha256": "7316b8c3026fc6bf2280e8d4c3cb0229f9bcc8941b3c1b72be623473714c4fad"
+      },
+      "headers_latin1": "HTTP/2 522 \r\ndate: Tue, 20 Oct 2026 22:35:43 GMT\r\ncontent-length: 0\r\nserver: cloudflare\r\ncache-control: private, no-store\r\ncf-cache-status: DYNAMIC\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nset-cookie: cf_use_ob=443; Expires=Tue, 20 Oct 2026 22:36:13 GMT\r\nset-cookie: cf_ob_info=522:a4db7ed11e64677d:ATL; Expires=Tue, 20 Oct 2026 22:36:13 GMT\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7tKxXrrcyx1AvaPPbYDwmrfRMMG1X1CeoXAW1%2FChqD%2Fd4z43iAbHX14y908aoQIxB9xlvz%2Be5o4s8cIbllJEtbfd8lxeaRK3zAPm0AIFFhvetKq00lyrAEMg7dvHJLAWaSqsuSplI0d9jMUrbteHcRfr2joYQw%3D%3D\"}]}\r\ncf-ray: a4db7ed11e64677d-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 522
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:43.338331+00:00"
+}

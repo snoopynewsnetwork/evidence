@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-position",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "native full source/position/method companion",
+  "complete_packet_input_sha256": "4ac839de3adb54ddd8d01134f4993adec14ac869df334f826e207a48030215b1",
+  "full_components": 382
+}

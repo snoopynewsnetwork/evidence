@@ -1,0 +1,1 @@
+KeyError: 1 at target[c][1] in diagnose_native.py. Source county spellings/capitalization differed; no counts modified. Exact certificate/native field inputs retained. Repair uses explicit case-insensitive COUNTY parent-name association only, preserving native source labels; no precinct equivalence inferred.

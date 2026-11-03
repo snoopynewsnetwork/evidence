@@ -1,0 +1,21 @@
+Title:           Count_PrecinctResults_Landscape
+Subject:         
+Author:          
+Creator:         Microsoft Reporting Services 2019.11.0.0
+Producer:        Microsoft Reporting Services PDF Rendering Extension 2019.11.0.0
+CreationDate:    Tue Dec  3 14:00:58 2024 CST
+ModDate:         Mon Jul 20 15:19:17 2026 CDT
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           1716
+Encrypted:       no
+Page size:       792 x 612 pts (letter)
+Page rot:        0
+File size:       7875915 bytes
+Optimized:       yes
+PDF version:     1.7

@@ -1,0 +1,44 @@
+{
+  "sealed_utc": "2026-10-20T22:21:45.097059+00:00",
+  "owned_scope": [
+    "turnout.md",
+    "data/county-turnout.csv",
+    "data/turnout/**"
+  ],
+  "bounded_original_research_complete": true,
+  "bounded_captured_final_source_core_review_complete": true,
+  "worker_released_after_final_readonly_audit": true,
+  "canonical_native_order": null,
+  "canonical_native_top15": null,
+  "canonical_native_min80": null,
+  "canonical_native_priority": null,
+  "canonical_native_remainder": null,
+  "dispatch_keys": [],
+  "all120_county_candidate_controls_reconciled": true,
+  "peer_agent_id": "ce1620b8-8df0-406b-bdb1-a8522aeea2f4",
+  "source_core_agreement": "captured final only;88 literal/schema representations retained;distinct3150/3220source universes",
+  "independent_peer_agreement": false,
+  "coordinator_accepted": false,
+  "validation_sha256": "0346153eae4b017734e1054963e6f582a924c352a74a670389d0e049b0bfc0a4",
+  "reciprocal_validation_sha256": "a7d16a7fc2769a014191685e3969f6ed90fb2ee68165ac2391758c9a6e7ea9ef",
+  "review_metadata_sha256": "64b92b9cedb5488c6c569ac2c29b18141ed276df8fb3c7d39a12a3d6dcf0fbb9",
+  "original_first_witnesses": {
+    "history/original-first/witness.json": "a101f4693c6cbf1ab0f1f0a5872a26037bbe24eb43f2d30760f3861d63afdafe",
+    "history/original-first-v2/witness.json": "04944536c174c7eef726789370114aabb7d553bc5b96784921b8a7cd42a8d747",
+    "history/original-first-v3/witness.json": "cf42c9f312acbab43f7f4d3c52a68a47daa1648b7470e0f3406ecc978f7f4b45"
+  },
+  "old_body_indexes": {
+    "reciprocal/own-pre-resume/index.json": "7300ad31726da3bf49babc5ecf6e3d3019405b8c82b4f33368fa9e10220141b9",
+    "reciprocal/peer-final/index.json": "fdd06295b6e741eb146080396ca6a0e945766566f06f35b0027e8a19496f3938"
+  },
+  "final_audit_command": "PYTHONDONTWRITEBYTECODE=1 python3 senate/2026/kentucky/data/turnout/reciprocal/scripts/review_audit.py --final",
+  "manifest_rule": "asset-manifest.json is written last and excludes ONLY itself; no current manifest digest is included in this seal",
+  "no_owned_writes_after_final_PASS": true,
+  "external_qualifications": [
+    "Scott no native allocation;Magoffin Mail In only",
+    "167unresolved literal associations and source-vintage gaps retained",
+    "no statewide canonical native universe or dispatch",
+    "current/legal/geographic/eligible write-in/November IDs/cadence/pool/collector/forecast/calibration false or unknown",
+    "coordinator review/acceptance/publication separate"
+  ]
+}

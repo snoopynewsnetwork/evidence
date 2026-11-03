@@ -1,0 +1,2354 @@
+[
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "REP Donald J. TRUMP/J.D. VANCE",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "REP Donald J. TRUMP/J.D. VANCE",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 307,
+        "raw_token": "307",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 67,
+        "raw_token": "67",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "KEN Jill STEIN/Samson KPADENOU",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "KEN Jill STEIN/Samson KPADENOU",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 2,
+        "raw_token": "2",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 5,
+        "raw_token": "5",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "LIB Chase OLIVER/Mike TER MAAT",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "LIB Chase OLIVER/Mike TER MAAT",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "Write-In Totals",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "writein_pool",
+    "label": "Write-In Totals",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "Not Assigned",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "writein_unassigned",
+    "label": "Not Assigned",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "Total Votes Cast",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "president",
+    "kind": "cast_votes",
+    "label": "Total Votes Cast",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 382,
+        "raw_token": "382",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "Registered Voters - Total",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "statistics",
+    "kind": "registration",
+    "label": "Registered Voters - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 753,
+        "raw_token": "753",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "Ballots Cast - Total",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "statistics",
+    "kind": "ballots",
+    "label": "Ballots Cast - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 386,
+        "raw_token": "386",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 1,
+    "line": null,
+    "row_label": "Ballots Cast - Blank",
+    "native_label": "A101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|A101 Sandy Hook",
+    "scope": "statistics",
+    "kind": "blank",
+    "label": "Ballots Cast - Blank",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-01.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "REP Donald J. TRUMP/J.D. VANCE",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "REP Donald J. TRUMP/J.D. VANCE",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 325,
+        "raw_token": "325",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 67,
+        "raw_token": "67",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "KEN Jill STEIN/Samson KPADENOU",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "KEN Jill STEIN/Samson KPADENOU",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "LIB Chase OLIVER/Mike TER MAAT",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "LIB Chase OLIVER/Mike TER MAAT",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "Write-In Totals",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "writein_pool",
+    "label": "Write-In Totals",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "Not Assigned",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "writein_unassigned",
+    "label": "Not Assigned",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "Total Votes Cast",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "president",
+    "kind": "cast_votes",
+    "label": "Total Votes Cast",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 392,
+        "raw_token": "392",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "Registered Voters - Total",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "statistics",
+    "kind": "registration",
+    "label": "Registered Voters - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 608,
+        "raw_token": "608",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "Ballots Cast - Total",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "statistics",
+    "kind": "ballots",
+    "label": "Ballots Cast - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 397,
+        "raw_token": "397",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 4,
+    "line": null,
+    "row_label": "Ballots Cast - Blank",
+    "native_label": "B101 Sandy Hook",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|B101 Sandy Hook",
+    "scope": "statistics",
+    "kind": "blank",
+    "label": "Ballots Cast - Blank",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-04.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "REP Donald J. TRUMP/J.D. VANCE",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "REP Donald J. TRUMP/J.D. VANCE",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 384,
+        "raw_token": "384",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 60,
+        "raw_token": "60",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "KEN Jill STEIN/Samson KPADENOU",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "KEN Jill STEIN/Samson KPADENOU",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 4,
+        "raw_token": "4",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "LIB Chase OLIVER/Mike TER MAAT",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "LIB Chase OLIVER/Mike TER MAAT",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "Write-In Totals",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "writein_pool",
+    "label": "Write-In Totals",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "Not Assigned",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "writein_unassigned",
+    "label": "Not Assigned",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "Total Votes Cast",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "president",
+    "kind": "cast_votes",
+    "label": "Total Votes Cast",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 450,
+        "raw_token": "450",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "Registered Voters - Total",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "statistics",
+    "kind": "registration",
+    "label": "Registered Voters - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 800,
+        "raw_token": "800",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "Ballots Cast - Total",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "statistics",
+    "kind": "ballots",
+    "label": "Ballots Cast - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 453,
+        "raw_token": "453",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 7,
+    "line": null,
+    "row_label": "Ballots Cast - Blank",
+    "native_label": "C101 Walnut Grove",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|C101 Walnut Grove",
+    "scope": "statistics",
+    "kind": "blank",
+    "label": "Ballots Cast - Blank",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-07.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "REP Donald J. TRUMP/J.D. VANCE",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "REP Donald J. TRUMP/J.D. VANCE",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 407,
+        "raw_token": "407",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 120,
+        "raw_token": "120",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "KEN Jill STEIN/Samson KPADENOU",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "KEN Jill STEIN/Samson KPADENOU",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 5,
+        "raw_token": "5",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 3,
+        "raw_token": "3",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 3,
+        "raw_token": "3",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "LIB Chase OLIVER/Mike TER MAAT",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "LIB Chase OLIVER/Mike TER MAAT",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 4,
+        "raw_token": "4",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "Write-In Totals",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "writein_pool",
+    "label": "Write-In Totals",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "Not Assigned",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "writein_unassigned",
+    "label": "Not Assigned",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "Total Votes Cast",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "president",
+    "kind": "cast_votes",
+    "label": "Total Votes Cast",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 542,
+        "raw_token": "542",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "Registered Voters - Total",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "statistics",
+    "kind": "registration",
+    "label": "Registered Voters - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 972,
+        "raw_token": "972",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "Ballots Cast - Total",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "statistics",
+    "kind": "ballots",
+    "label": "Ballots Cast - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 555,
+        "raw_token": "555",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 9,
+    "line": null,
+    "row_label": "Ballots Cast - Blank",
+    "native_label": "D101 Mocassin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|D101 Mocassin",
+    "scope": "statistics",
+    "kind": "blank",
+    "label": "Ballots Cast - Blank",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-09.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "REP Donald J. TRUMP/J.D. VANCE",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "REP Donald J. TRUMP/J.D. VANCE",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 309,
+        "raw_token": "309",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 74,
+        "raw_token": "74",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "KEN Jill STEIN/Samson KPADENOU",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "KEN Jill STEIN/Samson KPADENOU",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 5,
+        "raw_token": "5",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "LIB Chase OLIVER/Mike TER MAAT",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "LIB Chase OLIVER/Mike TER MAAT",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "Write-In Totals",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "writein_pool",
+    "label": "Write-In Totals",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 2,
+        "raw_token": "2",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "Not Assigned",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "writein_unassigned",
+    "label": "Not Assigned",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 2,
+        "raw_token": "2",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "Total Votes Cast",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "president",
+    "kind": "cast_votes",
+    "label": "Total Votes Cast",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 392,
+        "raw_token": "392",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "Registered Voters - Total",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "statistics",
+    "kind": "registration",
+    "label": "Registered Voters - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 621,
+        "raw_token": "621",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "Ballots Cast - Total",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "statistics",
+    "kind": "ballots",
+    "label": "Ballots Cast - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 400,
+        "raw_token": "400",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "line": null,
+    "row_label": "Ballots Cast - Blank",
+    "native_label": "E101 Crackersneck",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|E101 Crackersneck",
+    "scope": "statistics",
+    "kind": "blank",
+    "label": "Ballots Cast - Blank",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-11.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "REP Donald J. TRUMP/J.D. VANCE",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "REP Donald J. TRUMP/J.D. VANCE",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 312,
+        "raw_token": "312",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 70,
+        "raw_token": "70",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "KEN Jill STEIN/Samson KPADENOU",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "KEN Jill STEIN/Samson KPADENOU",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "LIB Chase OLIVER/Mike TER MAAT",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "LIB Chase OLIVER/Mike TER MAAT",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "Write-In Totals",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "writein_pool",
+    "label": "Write-In Totals",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "Not Assigned",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "writein_unassigned",
+    "label": "Not Assigned",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "Total Votes Cast",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "president",
+    "kind": "cast_votes",
+    "label": "Total Votes Cast",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 385,
+        "raw_token": "385",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "Registered Voters - Total",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "statistics",
+    "kind": "registration",
+    "label": "Registered Voters - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 609,
+        "raw_token": "609",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "Ballots Cast - Total",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "statistics",
+    "kind": "ballots",
+    "label": "Ballots Cast - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 389,
+        "raw_token": "389",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 13,
+    "line": null,
+    "row_label": "Ballots Cast - Blank",
+    "native_label": "F101 Bruin",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|F101 Bruin",
+    "scope": "statistics",
+    "kind": "blank",
+    "label": "Ballots Cast - Blank",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-13.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "REP Donald J. TRUMP/J.D. VANCE",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "REP Donald J. TRUMP/J.D. VANCE",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 291,
+        "raw_token": "291",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "DEM Kamala D. HARRIS/Tim WALZ",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 74,
+        "raw_token": "74",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "KEN Jill STEIN/Samson KPADENOU",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "KEN Jill STEIN/Samson KPADENOU",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 5,
+        "raw_token": "5",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "IND Shiva AYYADURAI/Crystal ELLIS",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "LIB Chase OLIVER/Mike TER MAAT",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "candidate",
+    "label": "LIB Chase OLIVER/Mike TER MAAT",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 1,
+        "raw_token": "1",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "Write-In Totals",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "writein_pool",
+    "label": "Write-In Totals",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "Not Assigned",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "writein_unassigned",
+    "label": "Not Assigned",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "Total Votes Cast",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "president",
+    "kind": "cast_votes",
+    "label": "Total Votes Cast",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 371,
+        "raw_token": "371",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "Registered Voters - Total",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "statistics",
+    "kind": "registration",
+    "label": "Registered Voters - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 644,
+        "raw_token": "644",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "Ballots Cast - Total",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "statistics",
+    "kind": "ballots",
+    "label": "Ballots Cast - Total",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 373,
+        "raw_token": "373",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  },
+  {
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 15,
+    "line": null,
+    "row_label": "Ballots Cast - Blank",
+    "native_label": "G101 Isonville",
+    "unit_key": "KY|2024|Elliott|01aff8c233aa|G101 Isonville",
+    "scope": "statistics",
+    "kind": "blank",
+    "label": "Ballots Cast - Blank",
+    "raw_line": null,
+    "tokens": [
+      {
+        "value": 0,
+        "raw_token": "0",
+        "start": null,
+        "end": null
+      }
+    ],
+    "method_header": [
+      "TOTAL"
+    ],
+    "format": "summary",
+    "extraction": "manual visual transcription, complete original page render",
+    "page_image": "proof/elliott-15.png",
+    "null_status": "explicit printed integer"
+  }
+]

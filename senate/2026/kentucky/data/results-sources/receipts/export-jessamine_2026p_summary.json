@@ -1,0 +1,51 @@
+{
+  "label": "export-jessamine_2026p_summary",
+  "started_utc": "2026-10-20T22:35:49.891567+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/JESSAMINE/Jessamine_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/JESSAMINE/Jessamine_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:49.891574+00:00",
+      "ended_utc": "2026-10-20T22:35:50.563404+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/018804ff36a215c36c8eee5e8c17496d3949a6033af52d3dbef9e35559081c70.gz",
+        "raw_bytes": 1635,
+        "raw_sha256": "018804ff36a215c36c8eee5e8c17496d3949a6033af52d3dbef9e35559081c70",
+        "stored_bytes": 889,
+        "stored_sha256": "6e9aa224b0957a60a69e3744f2ae0026a82eca49e7b787eb1b337b9b46e87b34"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:50 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 221392\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:50 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:16:09 GMT\r\netag: \"{D9C43243-DEF8-4547-B30A-75F7A661DAA5},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:D9C43243-DEF8-4547-B30A-75F7A661DAA5@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Jessamine%5f2026p%5fsummary%2ecsv; filename=\"Jessamine_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1bda46a2-1ce6-b05c-bfd1-8247d567ff1b\r\nrequest-id: 1bda46a2-1ce6-b05c-bfd1-8247d567ff1b\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 163\r\nspiislatency: 13\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223550Z-15f786f7784mzdffhC1CHIe4140000001p00000000004bre\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/a4dcb4b844d1694cefa2ed79e37a1e1abb1b1f3e966a21c19a540fe2e67f6a87.gz",
+        "raw_bytes": 221392,
+        "raw_sha256": "a4dcb4b844d1694cefa2ed79e37a1e1abb1b1f3e966a21c19a540fe2e67f6a87",
+        "stored_bytes": 19168,
+        "stored_sha256": "dd7c66ee8d0fa70bf6c4d81771558eaf9be7754930571cb77ecde32792c33004"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:50.573464+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "office-117-results",
+  "started_utc": "2026-10-20T22:39:17.497505+00:00",
+  "request": {
+    "url": "https://metcalfecountyclerk.ky.gov/wp-content/uploads/2026/04/2026P.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://metcalfecountyclerk.ky.gov/wp-content/uploads/2026/04/2026P.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:17.497509+00:00",
+      "ended_utc": "2026-10-20T22:39:18.372758+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "404",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/898113cc65c3b6739fd97c42888b7ff4fd2ff287213b4a2a6886d7884b4585d0.gz",
+        "raw_bytes": 445,
+        "raw_sha256": "898113cc65c3b6739fd97c42888b7ff4fd2ff287213b4a2a6886d7884b4585d0",
+        "stored_bytes": 349,
+        "stored_sha256": "c3c4818596fc3bc3c6430bf7e68b38f6333971bdd367686a91e47a8b8c0fc2ee"
+      },
+      "headers_latin1": "HTTP/2 404 \r\nserver: nginx\r\ndate: Tue, 20 Oct 2026 22:39:17 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nvary: Accept-Encoding\r\nexpires: Wed, 11 Jan 1984 05:00:00 GMT\r\ncache-control: no-cache, must-revalidate, max-age=0, no-store, private\r\nlink: <https://metcalfecountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\"\r\nx-httpd-modphp: 1\r\nhost-header: 6b7412fb82ca5edfd0917e3957f05d89\r\nx-proxy-cache: MISS\r\nx-proxy-cache-info: 0 NC:000000 UP:\r\n\r\n",
+      "response_body": {
+        "path": "bodies/7e060ce29eefe6ca98411a261c7c7bea3dd214dd101c319f3207fa3fb193956d.gz",
+        "raw_bytes": 185692,
+        "raw_sha256": "7e060ce29eefe6ca98411a261c7c7bea3dd214dd101c319f3207fa3fb193956d",
+        "stored_bytes": 31557,
+        "stored_sha256": "1312acb59d5346120f24cb89d78d5252ca202b7dd3704cb31864c5d501d2ba46"
+      },
+      "body_availability": "captured",
+      "status": 404
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:18.376415+00:00"
+}

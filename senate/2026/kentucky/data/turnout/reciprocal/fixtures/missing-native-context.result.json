@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-native-context",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "complete native/admin source entity coverage/duplicates",
+  "complete_packet_input_sha256": "3b8354b646358c7e51e2bfa8cc52ecd5ee9749dd8edfa654b8731b6f963cc420",
+  "full_components": 382
+}

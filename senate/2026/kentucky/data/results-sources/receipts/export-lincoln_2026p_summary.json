@@ -1,0 +1,51 @@
+{
+  "label": "export-lincoln_2026p_summary",
+  "started_utc": "2026-10-20T22:35:51.881512+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LINCOLN/Lincoln_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LINCOLN/Lincoln_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:51.881515+00:00",
+      "ended_utc": "2026-10-20T22:35:52.299201+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/d5ccc9f929ce7a20178abfe433a1148c433162da1105225136e6b8af23ca86ed.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "d5ccc9f929ce7a20178abfe433a1148c433162da1105225136e6b8af23ca86ed",
+        "stored_bytes": 890,
+        "stored_sha256": "1a0bc614ad31301388634fad110995275cb288f5d77015496eaa0911a2ff5484"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:52 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 70007\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:52 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:17:27 GMT\r\netag: \"{D597C19C-524E-40BF-B40F-6892F09F8327},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:D597C19C-524E-40BF-B40F-6892F09F8327@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Lincoln%5f2026p%5fsummary%2ecsv; filename=\"Lincoln_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-3c5b-b05c-bfd1-8b1676fbd7a3\r\nrequest-id: 1cda46a2-3c5b-b05c-bfd1-8b1676fbd7a3\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 67\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223551Z-15f786f7784lgv5jhC1CHImn840000001npg000000001tdt\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/b7669f52aebc3a658264d23200ddcb281305cec27c24b060c7d2fb679c9ee215.gz",
+        "raw_bytes": 70007,
+        "raw_sha256": "b7669f52aebc3a658264d23200ddcb281305cec27c24b060c7d2fb679c9ee215",
+        "stored_bytes": 6738,
+        "stored_sha256": "09e9a563cef102904b56054a71f13734ea690ba8c5e6f0094fdcef426dd564fe"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:52.302228+00:00"
+}

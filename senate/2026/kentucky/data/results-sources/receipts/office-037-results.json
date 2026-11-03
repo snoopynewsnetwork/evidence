@@ -1,0 +1,51 @@
+{
+  "label": "office-037-results",
+  "started_utc": "2026-10-20T22:39:13.673692+00:00",
+  "request": {
+    "url": "https://vrsws.sos.ky.gov/liveresults/County?id=48&swcfpc=1",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://vrsws.sos.ky.gov/liveresults/County?id=48&swcfpc=1",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:13.673695+00:00",
+      "ended_utc": "2026-10-20T22:39:13.730126+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/c6497307e2e75890c0680303f4b2e14c26fbbd8849bc625d8cf7d0bd9c46a146.gz",
+        "raw_bytes": 389,
+        "raw_sha256": "c6497307e2e75890c0680303f4b2e14c26fbbd8849bc625d8cf7d0bd9c46a146",
+        "stored_bytes": 249,
+        "stored_sha256": "cd15cf4135c8b0449aa13f4cd12586834da5dfef2eae4644eb0527584ba3d137"
+      },
+      "headers_latin1": "HTTP/2 403 \r\nmime-version: 1.0\r\ncontent-length: 2468\r\ncache-control: no-cache, no-store, must-revalidate\r\npragma: no-cache\r\nexpires: 0\r\ncontent-type: text/html\r\nexpires: Tue, 20 Oct 2026 22:39:13 GMT\r\ncache-control: max-age=0, no-cache, no-store\r\npragma: no-cache\r\ndate: Tue, 20 Oct 2026 22:39:13 GMT\r\nstrict-transport-security: max-age=86400\r\nakamai-grn: 0.aa291eb8.1792535953.c4f15e2\r\n\r\n",
+      "response_body": {
+        "path": "bodies/66960333877eeed2865cd46fb5865c2cd7e4ab19920c375052a24c8fd2e40324.gz",
+        "raw_bytes": 2468,
+        "raw_sha256": "66960333877eeed2865cd46fb5865c2cd7e4ab19920c375052a24c8fd2e40324",
+        "stored_bytes": 1199,
+        "stored_sha256": "86660ec7224b60108a798163ba7bebcc1edf9324dbd10fc2214169a0775c4e20"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:13.730721+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "preserved_exploratory_adapter_error",
+  "error": "KeyError: immutable_stored_sha256",
+  "exact_failing_expression": "sha(b)==r['immutable_stored_sha256'] and sha(gzip.decompress(b))==r['sha256'] and len(gzip.decompress(b))==r['bytes']",
+  "whole_offending_input": {
+    "path": "source/SCHEMA.md",
+    "sha256": "d8ba8c0024214bbb2eb345ae4d647cfd39362d57e2fdad01681ee440e1b55a41",
+    "bytes": 5292,
+    "immutable_body": "history/original-first/bodies/d8ba8c0024214bbb2eb345ae4d647cfd39362d57e2fdad01681ee440e1b55a41.gz"
+  },
+  "cause": "Three later source/schema metadata witnesses per frozen generation omit the optional stored gzip digest but retain complete decoded body/hash/size. Root assumed optional storage field mandatory.",
+  "resolution": "Always verify whole decoded body and exact length/hash; verify storage digest where provided, count missing optional fields explicitly. Complete worker manifests separately pin stored files; no source/witness edit. Inline caller itself is retained in tool execution history, not falsely claimed as a newly captured exact code file."
+}

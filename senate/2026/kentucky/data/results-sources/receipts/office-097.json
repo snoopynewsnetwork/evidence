@@ -1,0 +1,51 @@
+{
+  "label": "office-097",
+  "started_utc": "2026-10-20T22:35:14.208018+00:00",
+  "request": {
+    "url": "https://woodford.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://woodford.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:14.208022+00:00",
+      "ended_utc": "2026-10-20T22:35:14.363497+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/acb577078b40fa9677bfb1b8630ee5485ebda39b699bdfe79bec503b463a1100.gz",
+        "raw_bytes": 732,
+        "raw_sha256": "acb577078b40fa9677bfb1b8630ee5485ebda39b699bdfe79bec503b463a1100",
+        "stored_bytes": 564,
+        "stored_sha256": "72765219939136831f3bab89b735f4aaefa1020adca58705d09ff96a862feb97"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:35:14 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nexpires: Thu, 01 Jan 1970 00:00:01 GMT\r\nreferrer-policy: same-origin\r\nx-frame-options: SAMEORIGIN\r\nvary: accept-encoding\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0JTWDB4NirCEpqGcjKafut7IumOF4riFsXW72VVIBOVpclSS9EHEOSF2PjaoYrEZxBnqtHMvp3gQhOwUwVwgz1f24BKz5O3ke4uQTfGSxSiItqJQZNaBW8aCLHN5w0Z8pdsr444xUHrJb9AdADhBv8sKAjKD\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7e96cb9dbfd1-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/425bdc65e01bd0882e0a574d7449b452a92781db1550892260ce79f425ec8ed5.gz",
+        "raw_bytes": 5513,
+        "raw_sha256": "425bdc65e01bd0882e0a574d7449b452a92781db1550892260ce79f425ec8ed5",
+        "stored_bytes": 2124,
+        "stored_sha256": "d1a28dd572291de5f827412485ddbde23e9747e82d3a50f42e79e5a43d7f8f7c"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:14.364050+00:00"
+}

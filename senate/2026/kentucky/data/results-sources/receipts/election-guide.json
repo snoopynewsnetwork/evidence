@@ -1,0 +1,77 @@
+{
+  "label": "election-guide",
+  "started_utc": "2026-10-20T22:36:03.261670+00:00",
+  "request": {
+    "url": "https://sos.ky.gov/Documents/2026%20Kentucky%20Election%20Guide.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://sos.ky.gov/Documents/2026%20Kentucky%20Election%20Guide.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:03.261675+00:00",
+      "ended_utc": "2026-10-20T22:36:04.236080+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/4637b13766cb8cf044bcd109fe152036869bcbc8ed1d607a063d149ff869ebd7.gz",
+        "raw_bytes": 498,
+        "raw_sha256": "4637b13766cb8cf044bcd109fe152036869bcbc8ed1d607a063d149ff869ebd7",
+        "stored_bytes": 378,
+        "stored_sha256": "79b323b874e5e3ebcadf50cf34323c16ed6a6aefcd9fcee5bea80f3dd26b521d"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nContent-Length: 0\r\nDate: Tue, 20 Oct 2026 22:36:04 GMT\r\nLocation: https://www.sos.ky.gov/Documents/2026 Kentucky Election Guide.pdf\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains; preload\r\nRequest-Context: appId=cid-v1:730e8d87-d3fb-4532-9d2e-fd8d3a640bb1\r\nContent-Security-Policy: default-src 'self'; script-src: 'self'\r\nReferrer-Policy: no-referrer\r\nX-XSS-Protection: 1; mode=block\r\nX-Frame-Options: SAMEORIGIN\r\nX-Content-Type-Options: nosniff\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://www.sos.ky.gov/Documents/2026 Kentucky Election Guide.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:04.237687+00:00",
+      "ended_utc": "2026-10-20T22:36:04.253328+00:00",
+      "curl_exit": 3,
+      "curl_stdout": "000",
+      "curl_stderr": "curl: (3) URL rejected: Malformed input to a URL function\n",
+      "header_bytes": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "headers_latin1": "",
+      "response_body": null,
+      "body_availability": "unavailable; no response entity observed",
+      "status": null
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:04.253727+00:00"
+}

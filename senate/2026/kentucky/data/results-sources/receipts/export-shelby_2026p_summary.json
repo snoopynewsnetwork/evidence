@@ -1,0 +1,51 @@
+{
+  "label": "export-shelby_2026p_summary",
+  "started_utc": "2026-10-20T22:35:57.842895+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/SHELBY/Shelby_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/SHELBY/Shelby_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:57.842916+00:00",
+      "ended_utc": "2026-10-20T22:35:58.303019+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/0d5679e70c17eeec2117416006b320ecc2dd29c5c287ce806be11271e5b0b20e.gz",
+        "raw_bytes": 1628,
+        "raw_sha256": "0d5679e70c17eeec2117416006b320ecc2dd29c5c287ce806be11271e5b0b20e",
+        "stored_bytes": 889,
+        "stored_sha256": "467ea291a6ecb3a73e80d199047cb4d7a2350866a2e20e5b63c2ace2c97bab58"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:58 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 114680\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:58 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:25:21 GMT\r\netag: \"{9D8B6098-0806-4D01-92E3-C504A69DEF15},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:9D8B6098-0806-4D01-92E3-C504A69DEF15@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Shelby%5f2026p%5fsummary%2ecsv; filename=\"Shelby_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-6cd1-b05c-6baa-215c1e89cba7\r\nrequest-id: 1dda46a2-6cd1-b05c-6baa-215c1e89cba7\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 99\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223557Z-174b95d58c8blp54hC1CH1bqk00000001fbg00000000abbg\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/3928c79667119c13f58fa1cbd2b27027386b6d90eb0bfce29a7fdf3304594c52.gz",
+        "raw_bytes": 114680,
+        "raw_sha256": "3928c79667119c13f58fa1cbd2b27027386b6d90eb0bfce29a7fdf3304594c52",
+        "stored_bytes": 10639,
+        "stored_sha256": "736ace12f4f9fd327745fd7b816c00696c5acf59066b3518196419daaa755fce"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:58.314614+00:00"
+}

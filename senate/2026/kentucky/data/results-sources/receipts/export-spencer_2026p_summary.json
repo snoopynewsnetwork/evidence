@@ -1,0 +1,51 @@
+{
+  "label": "export-spencer_2026p_summary",
+  "started_utc": "2026-10-20T22:35:58.007076+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/SPENCER/Spencer_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/SPENCER/Spencer_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:58.007084+00:00",
+      "ended_utc": "2026-10-20T22:35:58.398792+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/59f4b2c36ac2edad74f6fafd6b7ae51b2e8ab15e95c3e808c0cdce4a82e444ea.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "59f4b2c36ac2edad74f6fafd6b7ae51b2e8ab15e95c3e808c0cdce4a82e444ea",
+        "stored_bytes": 886,
+        "stored_sha256": "88a35ad31185242704e66d4d951940d74ac7bd1e326e14ec0b4a27aa5827c5bf"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:58 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 36535\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:58 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:25:55 GMT\r\netag: \"{87D48C3E-6D39-413D-9BE2-84A65A832364},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:87D48C3E-6D39-413D-9BE2-84A65A832364@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Spencer%5f2026p%5fsummary%2ecsv; filename=\"Spencer_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-fcdf-b05c-6baa-233a8e0d612d\r\nrequest-id: 1dda46a2-fcdf-b05c-6baa-233a8e0d612d\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 43\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223558Z-174b95d58c8qt4mshC1CH1rbkw0000001ar0000000003rkb\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/78855de6cf98400a22a1e38d88f4d25bb2e37b8542b13b727d73d76aa17c92f9.gz",
+        "raw_bytes": 36535,
+        "raw_sha256": "78855de6cf98400a22a1e38d88f4d25bb2e37b8542b13b727d73d76aa17c92f9",
+        "stored_bytes": 3902,
+        "stored_sha256": "24fdc983e97422aec7bfe4e8dde6e705574f0e9521e01397c66a9779fd1b24df"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:58.400913+00:00"
+}

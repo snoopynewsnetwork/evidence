@@ -1,0 +1,83 @@
+{
+  "label": "office-116-elections",
+  "started_utc": "2026-10-20T22:36:13.246020+00:00",
+  "request": {
+    "url": "https://www.marshallcountyky.gov/Search/Results",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.marshallcountyky.gov/Search/Results",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:13.246023+00:00",
+      "ended_utc": "2026-10-20T22:36:13.411992+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "302",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/17739a9585ef4cdcd234e374563cb6f9eecf2be8bbcf4c1f9c4824cbc9536edf.gz",
+        "raw_bytes": 1204,
+        "raw_sha256": "17739a9585ef4cdcd234e374563cb6f9eecf2be8bbcf4c1f9c4824cbc9536edf",
+        "stored_bytes": 808,
+        "stored_sha256": "b7af9cdfc4108350239064b3def862040fa81d28e584cd036b83b36a62e50830"
+      },
+      "headers_latin1": "HTTP/2 302 \r\ndate: Tue, 20 Oct 2026 22:36:13 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncache-control: public, max-age=30\r\npragma: no-cache\r\nexpires: Tue, 20 Oct 2026 22:36:43 GMT\r\nlocation: /Search/Index?departmentId=-1&module=0&page=1&perPage=10\r\np3p: CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"\r\nx-content-type-options: nosniff\r\nx-frame-options: SAMEORIGIN\r\nreferrer-policy: strict-origin-when-cross-origin\r\npermissions-policy: camera=(), microphone=()\r\ncontent-security-policy: frame-ancestors 'self' https://*.granicus.com https://*.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *\r\ncf-cache-status: EXPIRED\r\nset-cookie: __cf_bm=emGFaJgmA8.DBJylqKUWwg6_ENwUjTg20prZ1pMLBIQ-1792535773.3719547-1.0.1.1-5tXge8WtKkgMbFQwOSSBSW9Y72AHH9wivHk1sfpShGi7c6gxl9w8QlQNorqVLEPc4BdNv4tn5454TpE1yPDFmB11xdfRI7JOsRVf0uB5F.BrgN9BsHcYfqD17T9VoB.v; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.marshallcountyky.gov; Expires=Tue, 20 Oct 2026 23:06:13 GMT\r\nserver: cloudflare\r\ncf-ray: a4db80078a041054-ORD\r\n\r\n",
+      "response_body": {
+        "path": "bodies/84048f65205749ff4eb0dcd22871623fbce4e5969cf22ec57ef2fe0bc07a5c13.gz",
+        "raw_bytes": 185,
+        "raw_sha256": "84048f65205749ff4eb0dcd22871623fbce4e5969cf22ec57ef2fe0bc07a5c13",
+        "stored_bytes": 156,
+        "stored_sha256": "4c400fb4022cb04d250e3130c78473a65c39ab3371e3f5bb047f2d71b52a6eb1"
+      },
+      "body_availability": "captured",
+      "status": 302
+    },
+    {
+      "url": "https://www.marshallcountyky.gov/Search/Index?departmentId=-1&module=0&page=1&perPage=10",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:13.412506+00:00",
+      "ended_utc": "2026-10-20T22:36:13.792154+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/ec21bb4215b772deb87717c96959583d70c5d9de231915dc6e38b25032701c66.gz",
+        "raw_bytes": 1186,
+        "raw_sha256": "ec21bb4215b772deb87717c96959583d70c5d9de231915dc6e38b25032701c66",
+        "stored_bytes": 774,
+        "stored_sha256": "e90e0717bded0491dd7edc3eaaec08cbbcdfa4898c9e13a39aa9b144a12ac889"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:13 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncache-control: public, max-age=30\r\nset-cookie: __cf_bm=DxhaskI3.Gz8FtQmnu7LAnXzua_vBdXcEndFdaHaQes-1792535773.525258-1.0.1.1-YkNbtb4lyCxr8ws2uxgDL5uWBYKqHSdg_6Mes5LXA0xeYsjQ2xFljAzbSjLg4B1LPYf9U2TkOU35xUwk52iBrYohmhkuEcqKwcJ1LO1s3N5rSgfK_7Ux3vZJfnngkHuJ; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.marshallcountyky.gov; Expires=Tue, 20 Oct 2026 23:06:13 GMT\r\nvary: Accept-Encoding\r\np3p: CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"\r\nx-content-type-options: nosniff\r\nx-frame-options: SAMEORIGIN\r\nreferrer-policy: strict-origin-when-cross-origin\r\npermissions-policy: camera=(), microphone=()\r\ncontent-security-policy: frame-ancestors 'self' https://*.granicus.com https://*.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *\r\nlast-modified: Tue, 20 Oct 2026 22:36:13 GMT\r\nexpires: Tue, 20 Oct 2026 22:36:43 GMT\r\ncf-cache-status: EXPIRED\r\nserver: cloudflare\r\ncf-ray: a4db80088c1f1058-ORD\r\n\r\n",
+      "response_body": {
+        "path": "bodies/9afd8bf421e945b30a9146498bfb23c1d4811601564436ace09972d07f1b9411.gz",
+        "raw_bytes": 84555,
+        "raw_sha256": "9afd8bf421e945b30a9146498bfb23c1d4811601564436ace09972d07f1b9411",
+        "stored_bytes": 19415,
+        "stored_sha256": "2c3afde032138aa722468e8d312d6189c41274e6246f07a93ae3c2cf4e0970ff"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:13.794302+00:00"
+}

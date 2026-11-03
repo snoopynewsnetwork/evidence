@@ -1,0 +1,51 @@
+{
+  "label": "office-107-results",
+  "started_utc": "2026-10-20T22:39:15.899655+00:00",
+  "request": {
+    "url": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/05/26145600/Official-Cumulative-Report-P26.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/05/26145600/Official-Cumulative-Report-P26.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:15.899659+00:00",
+      "ended_utc": "2026-10-20T22:39:16.391964+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/14387ef4aab95070e1ce624f4acf45a66e5b6710a3c3af0847b1a775cebf2769.gz",
+        "raw_bytes": 504,
+        "raw_sha256": "14387ef4aab95070e1ce624f4acf45a66e5b6710a3c3af0847b1a775cebf2769",
+        "stored_bytes": 392,
+        "stored_sha256": "21de1aa793ac941f524f53befa60b7690e554820527ce3a9167f0e29695bf1ff"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncontent-type: application/pdf\r\ncontent-length: 229075\r\naccept-ranges: bytes\r\ndate: Tue, 20 Oct 2026 22:39:16 GMT\r\nserver: AmazonS3\r\nlast-modified: Tue, 26 May 2026 18:56:01 GMT\r\netag: \"3873db702f2d117aff8685c4a443bb39\"\r\ncache-control: max-age=31536000\r\nx-amz-server-side-encryption: AES256\r\nx-cache: Miss from cloudfront\r\nvia: 1.1 d00cb503b8007a39957751dcef3d0ff6.cloudfront.net (CloudFront)\r\nx-amz-cf-pop: ORD58-P16\r\nx-amz-cf-id: 4xYVOmKCr1FXjeTvHh_k-KPvPeT2pbyLUM0sCak-C_mGylF2E1mk4g==\r\n\r\n",
+      "response_body": {
+        "path": "bodies/8fb6eeb21ce6f7d174514f52853be21d44ae9ad1dfc776535d5d9e06a68a164e.gz",
+        "raw_bytes": 229075,
+        "raw_sha256": "8fb6eeb21ce6f7d174514f52853be21d44ae9ad1dfc776535d5d9e06a68a164e",
+        "stored_bytes": 219425,
+        "stored_sha256": "03fbaf7662a274c7d77f41419390fb24033bdd8b527b39b0e25a97ef49e4e235"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:16.395697+00:00"
+}

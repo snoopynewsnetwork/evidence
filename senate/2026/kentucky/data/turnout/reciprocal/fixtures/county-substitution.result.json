@@ -1,0 +1,8 @@
+{
+  "fixture": "county-substitution",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "canonical NULL/county substitution rejection",
+  "complete_packet_input_sha256": "576182c0993a72528a3754d62701b0a6a4780f68d3bca207b58f31d8264d4da5",
+  "full_components": 382
+}

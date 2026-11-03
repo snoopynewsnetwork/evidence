@@ -1,0 +1,51 @@
+{
+  "label": "state-results-public",
+  "started_utc": "2026-10-20T22:31:57.716093+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/Pages/2026.aspx",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/Pages/2026.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:31:57.716258+00:00",
+      "ended_utc": "2026-10-20T22:31:58.537566+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/829826a0e9e3bbe53eb45f75c599cac189c65647b4be76d49e09698550dd2d46.gz",
+        "raw_bytes": 1341,
+        "raw_sha256": "829826a0e9e3bbe53eb45f75c599cac189c65647b4be76d49e09698550dd2d46",
+        "stored_bytes": 731,
+        "stored_sha256": "b11852e8e5be4d17d8f60f29ebcfcb7a4c7828d31349d862983ea601e88133c6"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:31:58 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 116065\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private, max-age=0\r\nexpires: Mon, 05 Oct 2026 22:31:58 GMT\r\nlast-modified: Tue, 20 Oct 2026 22:31:58 GMT\r\nx-sharepointhealthscore: 0\r\nx-aspnet-version: 4.0.30319\r\nsprequestguid: e3d946a2-0c39-b05c-bfd1-80937468b187\r\nrequest-id: e3d946a2-0c39-b05c-bfd1-80937468b187\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 346\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223157Z-174b95d58c8d6z4xhC1CH152x00000001eqg0000000047v5\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/7096aee15a24e39ce09fbebc0a0bbe4d40ae7ae8e1a7be9f09c4fbfcaab0a5f3.gz",
+        "raw_bytes": 116065,
+        "raw_sha256": "7096aee15a24e39ce09fbebc0a0bbe4d40ae7ae8e1a7be9f09c4fbfcaab0a5f3",
+        "stored_bytes": 50299,
+        "stored_sha256": "20ce4a7c2a53d2aada2a610c9b477d684de48a8909e758800c905d31101d2692"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:31:58.540034+00:00"
+}

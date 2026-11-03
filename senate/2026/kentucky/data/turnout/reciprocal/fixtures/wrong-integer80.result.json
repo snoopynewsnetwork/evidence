@@ -1,0 +1,8 @@
+{
+  "fixture": "wrong-integer80",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "minimum certified/source-scoped integer80 crossing",
+  "complete_packet_input_sha256": "79f691544de96bb8444bbfdc4b7045f3d041c423424d3afd59970779dd694be6",
+  "full_components": 382
+}

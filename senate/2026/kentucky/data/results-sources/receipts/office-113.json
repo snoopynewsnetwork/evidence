@@ -1,0 +1,51 @@
+{
+  "label": "office-113",
+  "started_utc": "2026-10-20T22:35:22.443041+00:00",
+  "request": {
+    "url": "https://www.knottcountyclerk.com",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.knottcountyclerk.com",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:22.443045+00:00",
+      "ended_utc": "2026-10-20T22:35:22.791133+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/32406bdababb259c6568e75a9e3fd5ed567a7fea9763c592652ab757d5737589.gz",
+        "raw_bytes": 2106,
+        "raw_sha256": "32406bdababb259c6568e75a9e3fd5ed567a7fea9763c592652ab757d5737589",
+        "stored_bytes": 1074,
+        "stored_sha256": "ef7e83eb9a3e7044a6823abbe628a4760a85fbe2a64f92acc5da54c9101d3b1a"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:22 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nserver: cloudflare\r\nvary: Accept-Encoding\r\nsg-f-cache: BYPASS\r\nx-cache-enabled: True\r\nx-content-type-options: nosniff\r\nx-xss-protection: 1; mode=block\r\nno-vary-search: params=(\"PageSpeed\")\r\nlink: <https://www.knottcountyclerk.com/wp-json/>; rel=\"https://api.w.org/\"\r\nlink: <https://www.knottcountyclerk.com/wp-json/wp/v2/pages/32>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\r\nlink: <https://www.knottcountyclerk.com/>; rel=shortlink\r\nx-httpd-modphp: 1\r\nreporting-endpoints: default=\"https://sx9g56ns.uriports.com/reports\"\r\nreport-to: {\"group\":\"default\",\"max_age\":10886400,\"endpoints\":[{\"url\":\"https://sx9g56ns.uriports.com/reports\"}],\"include_subdomains\":true}\r\nnel: {\"report_to\":\"default\",\"max_age\":2592000,\"include_subdomains\":true,\"failure_fraction\":1.0}\r\ncross-origin-embedder-policy-report-only: unsafe-none; report-to='default'\r\ncross-origin-opener-policy-report-only: unsafe-none; report-to='default'\r\naccess-control-allow-methods: GET,POST\r\naccess-control-allow-headers: Content-Type, Authorization\r\ncontent-security-policy: upgrade-insecure-requests;\r\ncross-origin-embedder-policy: unsafe-none; report-to='default'\r\ncross-origin-opener-policy: unsafe-none\r\ncross-origin-resource-policy: cross-origin\r\npermissions-policy: accelerometer=(), autoplay=(), camera=(), cross-origin-isolated=(), display-capture=(self), encrypted-media=(), fullscreen=*, geolocation=(self), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=*, picture-in-picture=*, publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=*, usb=(), xr-spatial-tracking=(), serial=(); report-to=default\r\nreferrer-policy: strict-origin-when-cross-origin\r\nstrict-transport-security: max-age=63072000\r\nx-content-security-policy: default-src 'self'; img-src *; media-src * data:;\r\nx-frame-options: SAMEORIGIN\r\nx-permitted-cross-domain-policies: none\r\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\r\nx-proxy-cache: HIT\r\ncf-cache-status: DYNAMIC\r\ncf-ray: a4db7eca5e4d4533-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e851ced0df646c0bb9e0778e4b868267831efd3eb7d772cc92b09c06d3fe762c.gz",
+        "raw_bytes": 306634,
+        "raw_sha256": "e851ced0df646c0bb9e0778e4b868267831efd3eb7d772cc92b09c06d3fe762c",
+        "stored_bytes": 30026,
+        "stored_sha256": "b0d2bff794a9470247025681520f447ed97a96a57ee057281746ed1acef16d9e"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:22.794459+00:00"
+}

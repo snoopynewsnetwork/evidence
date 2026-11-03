@@ -1,0 +1,51 @@
+{
+  "label": "office-037",
+  "started_utc": "2026-10-20T22:35:04.298650+00:00",
+  "request": {
+    "url": "https://hancock.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://hancock.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:04.298656+00:00",
+      "ended_utc": "2026-10-20T22:35:05.039566+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a84113ab711b59f5c3fbfaaa5af980a6ab49167a4cae5fb84ee652083bb71612.gz",
+        "raw_bytes": 1143,
+        "raw_sha256": "a84113ab711b59f5c3fbfaaa5af980a6ab49167a4cae5fb84ee652083bb71612",
+        "stored_bytes": 695,
+        "stored_sha256": "1151788ebd0e4e334dcbcddc54a75dcb39dff1da927e9f90bc843a9b839d3262"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:20:00 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://hancock.countyclerk.us/wp-json/>; rel=\"https://api.w.org/\", <https://hancock.countyclerk.us/wp-json/wp/v2/pages/541>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://hancock.countyclerk.us/>; rel=shortlink\r\nCache-Control: s-maxage=31536000, max-age=60\r\nX-WP-SPC-Disk-Cache: DISABLED\r\nX-WP-CF-Super-Cache-Active: 1\r\nX-WP-CF-Super-Cache: cache\r\nX-WP-CF-Super-Cache-Cache-Control: s-maxage=31536000, max-age=60\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 1822582 24611184\r\nAge: 877\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 207073\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914646016; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/37e40e0cdfac866b546bf962f84e5b6de33a0686a078ad55189effb88cbb312c.gz",
+        "raw_bytes": 207073,
+        "raw_sha256": "37e40e0cdfac866b546bf962f84e5b6de33a0686a078ad55189effb88cbb312c",
+        "stored_bytes": 38668,
+        "stored_sha256": "8e58b57881fb02fd18de999cde567d0524dd42869150f5bc82a769f3bd11400a"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:05.043336+00:00"
+}

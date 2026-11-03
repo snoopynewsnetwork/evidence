@@ -1,0 +1,51 @@
+{
+  "label": "office-101-elections",
+  "started_utc": "2026-10-20T22:36:11.083515+00:00",
+  "request": {
+    "url": "https://callowaycoclerkky.gov/?page_id=2711",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://callowaycoclerkky.gov/?page_id=2711",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:11.083519+00:00",
+      "ended_utc": "2026-10-20T22:36:11.219858+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/46a254d9609b1764eb88ce7632b885b7fe9192067db6c40e32dbf59ff81ef997.gz",
+        "raw_bytes": 2176,
+        "raw_sha256": "46a254d9609b1764eb88ce7632b885b7fe9192067db6c40e32dbf59ff81ef997",
+        "stored_bytes": 1008,
+        "stored_sha256": "c6e18ffb07b707000d459efec71055aecb0270a70ff901a588e76bc8ffba12cb"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:36:11 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 5501\r\naccept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA\r\ncf-mitigated: challenge\r\ncontent-security-policy: default-src 'none'; script-src 'nonce-qyz1VATUfUcPKyHxYJ3ZLf' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'\r\nserver: cloudflare\r\ncritical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA\r\ncross-origin-embedder-policy: require-corp\r\ncross-origin-opener-policy: same-origin\r\ncross-origin-resource-policy: same-origin\r\norigin-agent-cluster: ?1\r\npermissions-policy: accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*\r\nreferrer-policy: same-origin\r\nserver-timing: chlray;desc=\"a4db7ffa5c9f23d3\"\r\nx-content-type-options: nosniff\r\nx-frame-options: SAMEORIGIN\r\nvary: accept-encoding\r\nset-cookie: __cf_bm=tv3eGC2oMgcw6d92k5E4aFC6TWN4ijxzxH9elfu2oYE-1792535771.252859-1.0.1.1-qmiQAcYaSaflr2dSyMJgi6ktug6E9Du0x81Xa3cmrbvH7RPZzTzciHq80JhcBSQ3g0D5g6PeNVR7AJX90jCWj15zHuxRwljq77PJgAZDKF.sgreOkwLmLumidXPgcjiu; HttpOnly; SameSite=None; Secure; Path=/; Domain=callowaycoclerkky.gov; Expires=Tue, 20 Oct 2026 23:06:11 GMT\r\ncf-ray: a4db7ffa5c9f23d3-ORD\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/0803732b4841ed9273485169cad289ab159d95c97ee1c1ea7a5d73e57f564c23.gz",
+        "raw_bytes": 5501,
+        "raw_sha256": "0803732b4841ed9273485169cad289ab159d95c97ee1c1ea7a5d73e57f564c23",
+        "stored_bytes": 3179,
+        "stored_sha256": "1233f59278c83176292a85df73ef719500a3acb953bfddcd19f0fd023bc4e5d5"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:11.220404+00:00"
+}

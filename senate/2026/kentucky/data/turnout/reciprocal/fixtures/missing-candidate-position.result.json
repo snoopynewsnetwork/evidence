@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-candidate-position",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "all120 candidate positions",
+  "complete_packet_input_sha256": "2f294ef16d5f3c7ec045ad78522a1389f89ffd47b2bcae3006c54c3b490a2b4b",
+  "full_components": 382
+}

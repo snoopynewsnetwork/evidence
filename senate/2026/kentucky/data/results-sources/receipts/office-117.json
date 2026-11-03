@@ -1,0 +1,83 @@
+{
+  "label": "office-117",
+  "started_utc": "2026-10-20T22:35:23.366285+00:00",
+  "request": {
+    "url": "https://www.metcalfecountyclerk.com",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.metcalfecountyclerk.com",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:23.366290+00:00",
+      "ended_utc": "2026-10-20T22:35:23.522673+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/99d10f4c2ec7d977048d650a2fb24520538542511305c1b38feb1fd15f97694f.gz",
+        "raw_bytes": 550,
+        "raw_sha256": "99d10f4c2ec7d977048d650a2fb24520538542511305c1b38feb1fd15f97694f",
+        "stored_bytes": 448,
+        "stored_sha256": "f1ffa3dbeabff294d00ed168a84dc7937ecb5a02a5c99a6fc3c3ddcaf1e7f861"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:23 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nlocation: https://metcalfecountyclerk.ky.gov/\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0x9aFeATatTDHBLeJlUapPX1ETndOmXJr1sVET%2FtV3U7EK9BU9Ov2gh6Rt%2BMtC4HXmcu8QK%2B%2FSdYd9sXMxi8zNAmFE64yzm6KkRLLwYa4E0x1co6ex%2B5joW5MoncLnUmjt267njufSsyOg9vPq7B89y2Dy804b8v%2BKA%3D\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7ed02ac2453e-ATL\r\n\r\n",
+      "response_body": {
+        "path": "bodies/446a6087825fa73eadb045e5a2e9e2adf7df241b571228187728191d961dda1f.gz",
+        "raw_bytes": 167,
+        "raw_sha256": "446a6087825fa73eadb045e5a2e9e2adf7df241b571228187728191d961dda1f",
+        "stored_bytes": 119,
+        "stored_sha256": "a1decffd3e51a556c0a797cd92dc6469bd469fec9a5e53f3b460669decd45706"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://metcalfecountyclerk.ky.gov/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:23.523235+00:00",
+      "ended_utc": "2026-10-20T22:35:24.268647+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/851cd90934f9623b46bf993b70b9c1964a2c0e29b068dbb59487557117f71452.gz",
+        "raw_bytes": 295,
+        "raw_sha256": "851cd90934f9623b46bf993b70b9c1964a2c0e29b068dbb59487557117f71452",
+        "stored_bytes": 261,
+        "stored_sha256": "d6fb21f3eca3efefd34f4ca0c0a86127271e55a64b87482770bd7fb3e4e49267"
+      },
+      "headers_latin1": "HTTP/2 200 \r\nserver: nginx\r\ndate: Tue, 20 Oct 2026 22:35:24 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nvary: Accept-Encoding\r\nlink: <https://metcalfecountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\"\r\nx-httpd-modphp: 1\r\nhost-header: 8441280b0c35cbc1147f8ba998a563a7\r\nx-proxy-cache: HIT\r\n\r\n",
+      "response_body": {
+        "path": "bodies/79bd8cf2e32b813c8fa822654b56fb10cb7b7e91eab19b8ca6a3bf3ea1e94333.gz",
+        "raw_bytes": 219500,
+        "raw_sha256": "79bd8cf2e32b813c8fa822654b56fb10cb7b7e91eab19b8ca6a3bf3ea1e94333",
+        "stored_bytes": 35388,
+        "stored_sha256": "b6c5ca39c177a414817700266f49557f44596804802c88826df1a545fc2d23a4"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:24.272735+00:00"
+}

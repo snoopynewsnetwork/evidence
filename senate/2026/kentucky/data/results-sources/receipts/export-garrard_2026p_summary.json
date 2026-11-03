@@ -1,0 +1,51 @@
+{
+  "label": "export-garrard_2026p_summary",
+  "started_utc": "2026-10-20T22:35:47.535675+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/GARRARD/Garrard_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/GARRARD/Garrard_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:47.535678+00:00",
+      "ended_utc": "2026-10-20T22:35:47.939789+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/be2657471c7564b0efc5d00800f3221011f4824f7e877af1e96f1688b3fbb40e.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "be2657471c7564b0efc5d00800f3221011f4824f7e877af1e96f1688b3fbb40e",
+        "stored_bytes": 889,
+        "stored_sha256": "911b9b85a2e4a92f96b6ad6a250457e9bca97533675b9e0e192a3699cf1d4808"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:47 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 56366\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:47 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:14:32 GMT\r\netag: \"{B446A778-3A67-46DA-AA35-D91C9BF22EBA},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:B446A778-3A67-46DA-AA35-D91C9BF22EBA@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Garrard%5f2026p%5fsummary%2ecsv; filename=\"Garrard_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1bda46a2-3c4c-b05c-6baa-2d93ca0119de\r\nrequest-id: 1bda46a2-3c4c-b05c-6baa-2d93ca0119de\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 61\r\nspiislatency: 15\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223547Z-15f786f77842p2wghC1CHIzn2w0000001ns000000000q8nn\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/469aa03f274ff73087a7256066fb69aee91c5429b73d22b4a5c22581e0694a4e.gz",
+        "raw_bytes": 56366,
+        "raw_sha256": "469aa03f274ff73087a7256066fb69aee91c5429b73d22b4a5c22581e0694a4e",
+        "stored_bytes": 4728,
+        "stored_sha256": "8acb95ca06dc696b354951c38bee51533cf65167f945d27940229650f2d9cebb"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:47.944969+00:00"
+}

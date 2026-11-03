@@ -1,0 +1,51 @@
+{
+  "label": "export-larue_2026p_summary",
+  "started_utc": "2026-10-20T22:35:50.847509+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LARUE/Larue_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LARUE/Larue_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:50.847514+00:00",
+      "ended_utc": "2026-10-20T22:35:51.204503+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/1dbc79e23f2cc34cca8821813783062670518ddc5ea70249afb2934dd57b6222.gz",
+        "raw_bytes": 1625,
+        "raw_sha256": "1dbc79e23f2cc34cca8821813783062670518ddc5ea70249afb2934dd57b6222",
+        "stored_bytes": 888,
+        "stored_sha256": "18e303ee8b3c1ba8144d0133898af5ed6f7bac04a78aa3b642e2e7031a90491b"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:51 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 64997\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:51 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:16:54 GMT\r\netag: \"{26960ED7-94D0-4C66-BE83-A0EDE0B35C30},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:26960ED7-94D0-4C66-BE83-A0EDE0B35C30@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Larue%5f2026p%5fsummary%2ecsv; filename=\"Larue_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-9c1a-b05c-6baa-21f32f93b13e\r\nrequest-id: 1cda46a2-9c1a-b05c-6baa-21f32f93b13e\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 68\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223550Z-15f786f7784qcbjchC1CHIsy7g0000001ngg00000000xtqd\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/d9416e4dfde37b57dad8f5e282a3791397fb109f6b3c57d486d3428550a5bf99.gz",
+        "raw_bytes": 64997,
+        "raw_sha256": "d9416e4dfde37b57dad8f5e282a3791397fb109f6b3c57d486d3428550a5bf99",
+        "stored_bytes": 6401,
+        "stored_sha256": "58aa485f3370eaaaa7aa1f926ecf4448d4c31d1817195f324e36e7ec8e736e4c"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:51.211672+00:00"
+}

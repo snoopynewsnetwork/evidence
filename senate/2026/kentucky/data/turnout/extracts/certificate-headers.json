@@ -1,0 +1,1379 @@
+[
+  {
+    "contest": "2024-president",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+    "page": 2,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                                                                                                               Michael G. Adams, Secretary of State                                                                                                                2024 General Election Results",
+      "",
+      "",
+      "",
+      "                                                                                                                           President and Vice President of the United States",
+      "",
+      "",
+      "                                                                                                                                                                                                                             Write-In                                 Write-In            Write-In            Write-In             Write-In                                   Write-In",
+      "                                                                                                                                                                 Independent",
+      "                                                                                                                                                                                     Write-In            Write-In                                  Write-In                                                                                            Write-In                                        Write-In",
+      "",
+      "",
+      "                                                    Democratic Party                                                               Libertarian Party",
+      "                                                                                                          Kentucky Party",
+      "                         Republican Party",
+      "                                                                                  Independent",
+      "",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                                                                                                  Andre Ramon McNEIL SR.",
+      "                                                                       Robert F. KENNEDY JR.                                                                                                                                               James D. SODERNA                                                                                                                                 Future Madam POTUS",
+      "                                                                                                         Jill STEIN                                                                             Claudia DE LA CRUZ                                                                                          John CHENG",
+      "               Donald J. TRUMP              Kamala D. HARRIS                                                                                            Shiva AYYADURAI                                                   Cornel WEST                                                                                       Billy KELLEY JR.      Cherunda FOX",
+      "                                                                                                                             Chase OLIVER                                                                                                                      Jay J. BOWMAN     Jo sep h KISH O RE",
+      "                                                                                                                                                                               Peter SONSKI",
+      "",
+      "",
+      "                   J. D . V A N CE                 Tim WALZ               Nicole SHANAHAN       Samson KPADENOU             Mike TER MAAT                    Crystal ELLIS     Lauren ONAK           Karina GARCIA   Melina ABDULLAH    Matthew J. TREWHELLA     De BOWMAN            Jerry W H ITE   Wayne WALIGORSKI   Jason HOLDEMAN        Harlan McVAY JR.          Roschelle McNEIL        Jessica KENNEDY",
+      ""
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Donald J. TRUMP",
+        "running_mate": "J. D. VANCE",
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Kamala D. HARRIS",
+        "running_mate": "Tim WALZ",
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Robert F. KENNEDY JR.",
+        "running_mate": "Nicole SHANAHAN",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Jill STEIN",
+        "running_mate": "Samson KPADENOU",
+        "party_or_ballot_label": "Kentucky Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Chase OLIVER",
+        "running_mate": "Mike TER MAAT",
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Shiva AYYADURAI",
+        "running_mate": "Crystal ELLIS",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Peter SONSKI",
+        "running_mate": "Lauren ONAK",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Claudia DE LA CRUZ",
+        "running_mate": "Karina GARCIA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 9,
+        "candidate": "Cornel WEST",
+        "running_mate": "Melina ABDULLAH",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 10,
+        "candidate": "James D. SODERNA",
+        "running_mate": "Matthew J. TREWHELLA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 11,
+        "candidate": "Jay J. BOWMAN",
+        "running_mate": "De BOWMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 12,
+        "candidate": "Joseph KISHORE",
+        "running_mate": "Jerry WHITE",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 13,
+        "candidate": "John CHENG",
+        "running_mate": "Wayne WALIGORSKI",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 14,
+        "candidate": "Billy KELLEY JR.",
+        "running_mate": "Jason HOLDEMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 15,
+        "candidate": "Cherunda FOX",
+        "running_mate": "Harlan McVAY JR.",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 16,
+        "candidate": "Andre Ramon McNEIL SR.",
+        "running_mate": "Roschelle McNEIL",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 17,
+        "candidate": "Future Madam POTUS",
+        "running_mate": "Jessica KENNEDY",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2024-president",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+    "page": 3,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                                                                                                            Michael G. Adams, Secretary of State                                                                                                                2024 General Election Results",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                       Write-In            Write-In             Write-In            Write-In               Write-In                 Write-In",
+      "",
+      "                                                                                                        Kentucky Party",
+      "                                                                                                                                                                                  Write-In                                Write-In",
+      "                                                                                Independent",
+      "                                                                                                                                Libertarian Party",
+      "                                                                                                                                                                                                      Write-In                                  Write-In",
+      "",
+      "",
+      "                       Republican Party           Democratic Party",
+      "                                                                                                                                                              Independent",
+      "                                                                                                                                                                                                                                                                   Write-In",
+      "",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                                                                                               Andre Ramon McNEIL SR.",
+      "                                                                     Robert F. KENNEDY JR.                                                                                                                                              James D. SODERNA                                                                                                                                 Future Madam POTUS",
+      "                                                                                                       Jill STEIN                                                                            Claudia DE LA CRUZ                                                                                          John CHENG",
+      "             Donald J. TRUMP              Kamala D. HARRIS                                                                                           Shiva AYYADURAI                                                   Cornel WEST                                                                                       Billy KELLEY JR.      Cherunda FOX",
+      "                                                                                                                          Chase OLIVER                                                                                                                      Jay J. BOWMAN     Jo sep h KISH O RE",
+      "                                                                                                                                                                            Peter SONSKI",
+      "",
+      "",
+      "                 J. D . V A N CE                 Tim WALZ               Nicole SHANAHAN       Samson KPADENOU            Mike TER MAAT                    Crystal ELLIS     Lauren ONAK           Karina GARCIA   Melina ABDULLAH    Matthew J. TREWHELLA     De BOWMAN            Jerry W H ITE   Wayne WALIGORSKI   Jason HOLDEMAN        Harlan McVAY JR.          Roschelle McNEIL        Jessica KENNEDY"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Donald J. TRUMP",
+        "running_mate": "J. D. VANCE",
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Kamala D. HARRIS",
+        "running_mate": "Tim WALZ",
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Robert F. KENNEDY JR.",
+        "running_mate": "Nicole SHANAHAN",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Jill STEIN",
+        "running_mate": "Samson KPADENOU",
+        "party_or_ballot_label": "Kentucky Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Chase OLIVER",
+        "running_mate": "Mike TER MAAT",
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Shiva AYYADURAI",
+        "running_mate": "Crystal ELLIS",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Peter SONSKI",
+        "running_mate": "Lauren ONAK",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Claudia DE LA CRUZ",
+        "running_mate": "Karina GARCIA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 9,
+        "candidate": "Cornel WEST",
+        "running_mate": "Melina ABDULLAH",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 10,
+        "candidate": "James D. SODERNA",
+        "running_mate": "Matthew J. TREWHELLA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 11,
+        "candidate": "Jay J. BOWMAN",
+        "running_mate": "De BOWMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 12,
+        "candidate": "Joseph KISHORE",
+        "running_mate": "Jerry WHITE",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 13,
+        "candidate": "John CHENG",
+        "running_mate": "Wayne WALIGORSKI",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 14,
+        "candidate": "Billy KELLEY JR.",
+        "running_mate": "Jason HOLDEMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 15,
+        "candidate": "Cherunda FOX",
+        "running_mate": "Harlan McVAY JR.",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 16,
+        "candidate": "Andre Ramon McNEIL SR.",
+        "running_mate": "Roschelle McNEIL",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 17,
+        "candidate": "Future Madam POTUS",
+        "running_mate": "Jessica KENNEDY",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2024-president",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+    "page": 4,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                                                                                                           Michael G. Adams, Secretary of State                                                                                                                2024 General Election Results",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                      Write-In            Write-In             Write-In            Write-In               Write-In                 Write-In",
+      "",
+      "                                                                                                       Kentucky Party",
+      "                                                                                                                                                                                 Write-In                                Write-In",
+      "                                                                               Independent",
+      "                                                                                                                               Libertarian Party",
+      "                                                                                                                                                                                                     Write-In                                  Write-In",
+      "",
+      "",
+      "                      Republican Party           Democratic Party",
+      "                                                                                                                                                             Independent",
+      "                                                                                                                                                                                                                                                                  Write-In",
+      "",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                                                                                              Andre Ramon McNEIL SR.",
+      "                                                                    Robert F. KENNEDY JR.                                                                                                                                              James D. SODERNA                                                                                                                                 Future Madam POTUS",
+      "                                                                                                      Jill STEIN                                                                            Claudia DE LA CRUZ                                                                                          John CHENG",
+      "            Donald J. TRUMP              Kamala D. HARRIS                                                                                           Shiva AYYADURAI                                                   Cornel WEST                                                                                       Billy KELLEY JR.      Cherunda FOX",
+      "                                                                                                                         Chase OLIVER                                                                                                                      Jay J. BOWMAN     Jo sep h KISH O RE",
+      "                                                                                                                                                                           Peter SONSKI",
+      "",
+      "",
+      "                J. D . V A N CE                 Tim WALZ               Nicole SHANAHAN       Samson KPADENOU            Mike TER MAAT                    Crystal ELLIS     Lauren ONAK           Karina GARCIA   Melina ABDULLAH    Matthew J. TREWHELLA     De BOWMAN            Jerry W H ITE   Wayne WALIGORSKI   Jason HOLDEMAN        Harlan McVAY JR.          Roschelle McNEIL        Jessica KENNEDY"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Donald J. TRUMP",
+        "running_mate": "J. D. VANCE",
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Kamala D. HARRIS",
+        "running_mate": "Tim WALZ",
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Robert F. KENNEDY JR.",
+        "running_mate": "Nicole SHANAHAN",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Jill STEIN",
+        "running_mate": "Samson KPADENOU",
+        "party_or_ballot_label": "Kentucky Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Chase OLIVER",
+        "running_mate": "Mike TER MAAT",
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Shiva AYYADURAI",
+        "running_mate": "Crystal ELLIS",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Peter SONSKI",
+        "running_mate": "Lauren ONAK",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Claudia DE LA CRUZ",
+        "running_mate": "Karina GARCIA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 9,
+        "candidate": "Cornel WEST",
+        "running_mate": "Melina ABDULLAH",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 10,
+        "candidate": "James D. SODERNA",
+        "running_mate": "Matthew J. TREWHELLA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 11,
+        "candidate": "Jay J. BOWMAN",
+        "running_mate": "De BOWMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 12,
+        "candidate": "Joseph KISHORE",
+        "running_mate": "Jerry WHITE",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 13,
+        "candidate": "John CHENG",
+        "running_mate": "Wayne WALIGORSKI",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 14,
+        "candidate": "Billy KELLEY JR.",
+        "running_mate": "Jason HOLDEMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 15,
+        "candidate": "Cherunda FOX",
+        "running_mate": "Harlan McVAY JR.",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 16,
+        "candidate": "Andre Ramon McNEIL SR.",
+        "running_mate": "Roschelle McNEIL",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 17,
+        "candidate": "Future Madam POTUS",
+        "running_mate": "Jessica KENNEDY",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2024-president",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+    "page": 5,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                                                                                                            Michael G. Adams, Secretary of State                                                                                                                2024 General Election Results",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                       Write-In            Write-In             Write-In            Write-In               Write-In                 Write-In",
+      "",
+      "                                                                                                        Kentucky Party",
+      "                                                                                                                                                                                  Write-In                                Write-In",
+      "                                                                                Independent",
+      "                                                                                                                                Libertarian Party",
+      "                                                                                                                                                                                                      Write-In                                  Write-In",
+      "",
+      "",
+      "                       Republican Party           Democratic Party",
+      "                                                                                                                                                              Independent",
+      "                                                                                                                                                                                                                                                                   Write-In",
+      "",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                                                                                               Andre Ramon McNEIL SR.",
+      "                                                                     Robert F. KENNEDY JR.                                                                                                                                              James D. SODERNA                                                                                                                                 Future Madam POTUS",
+      "                                                                                                       Jill STEIN                                                                            Claudia DE LA CRUZ                                                                                          John CHENG",
+      "             Donald J. TRUMP              Kamala D. HARRIS                                                                                           Shiva AYYADURAI                                                   Cornel WEST                                                                                       Billy KELLEY JR.      Cherunda FOX",
+      "                                                                                                                          Chase OLIVER                                                                                                                      Jay J. BOWMAN     Jo sep h KISH O RE",
+      "                                                                                                                                                                            Peter SONSKI",
+      "",
+      "",
+      "                 J. D . V A N CE                 Tim WALZ               Nicole SHANAHAN       Samson KPADENOU            Mike TER MAAT                    Crystal ELLIS     Lauren ONAK           Karina GARCIA   Melina ABDULLAH    Matthew J. TREWHELLA     De BOWMAN            Jerry W H ITE   Wayne WALIGORSKI   Jason HOLDEMAN        Harlan McVAY JR.          Roschelle McNEIL        Jessica KENNEDY"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Donald J. TRUMP",
+        "running_mate": "J. D. VANCE",
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Kamala D. HARRIS",
+        "running_mate": "Tim WALZ",
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Robert F. KENNEDY JR.",
+        "running_mate": "Nicole SHANAHAN",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Jill STEIN",
+        "running_mate": "Samson KPADENOU",
+        "party_or_ballot_label": "Kentucky Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Chase OLIVER",
+        "running_mate": "Mike TER MAAT",
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Shiva AYYADURAI",
+        "running_mate": "Crystal ELLIS",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Peter SONSKI",
+        "running_mate": "Lauren ONAK",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Claudia DE LA CRUZ",
+        "running_mate": "Karina GARCIA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 9,
+        "candidate": "Cornel WEST",
+        "running_mate": "Melina ABDULLAH",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 10,
+        "candidate": "James D. SODERNA",
+        "running_mate": "Matthew J. TREWHELLA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 11,
+        "candidate": "Jay J. BOWMAN",
+        "running_mate": "De BOWMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 12,
+        "candidate": "Joseph KISHORE",
+        "running_mate": "Jerry WHITE",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 13,
+        "candidate": "John CHENG",
+        "running_mate": "Wayne WALIGORSKI",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 14,
+        "candidate": "Billy KELLEY JR.",
+        "running_mate": "Jason HOLDEMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 15,
+        "candidate": "Cherunda FOX",
+        "running_mate": "Harlan McVAY JR.",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 16,
+        "candidate": "Andre Ramon McNEIL SR.",
+        "running_mate": "Roschelle McNEIL",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 17,
+        "candidate": "Future Madam POTUS",
+        "running_mate": "Jessica KENNEDY",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2024-president",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+    "page": 6,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                                                                                                            Michael G. Adams, Secretary of State                                                                                                                2024 General Election Results",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                       Write-In            Write-In             Write-In            Write-In               Write-In                 Write-In",
+      "",
+      "                                                                                                        Kentucky Party",
+      "                                                                                                                                                                                  Write-In                                Write-In",
+      "                                                                                Independent",
+      "                                                                                                                                Libertarian Party",
+      "                                                                                                                                                                                                      Write-In                                  Write-In",
+      "",
+      "",
+      "                       Republican Party           Democratic Party",
+      "                                                                                                                                                              Independent",
+      "                                                                                                                                                                                                                                                                   Write-In",
+      "",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                                                                                               Andre Ramon McNEIL SR.",
+      "                                                                     Robert F. KENNEDY JR.                                                                                                                                              James D. SODERNA                                                                                                                                 Future Madam POTUS",
+      "                                                                                                       Jill STEIN                                                                            Claudia DE LA CRUZ                                                                                          John CHENG",
+      "             Donald J. TRUMP              Kamala D. HARRIS                                                                                           Shiva AYYADURAI                                                   Cornel WEST                                                                                       Billy KELLEY JR.      Cherunda FOX",
+      "                                                                                                                          Chase OLIVER                                                                                                                      Jay J. BOWMAN     Jo sep h KISH O RE",
+      "                                                                                                                                                                            Peter SONSKI",
+      "",
+      "",
+      "                 J. D . V A N CE                 Tim WALZ               Nicole SHANAHAN       Samson KPADENOU            Mike TER MAAT                    Crystal ELLIS     Lauren ONAK           Karina GARCIA   Melina ABDULLAH    Matthew J. TREWHELLA     De BOWMAN            Jerry W H ITE   Wayne WALIGORSKI   Jason HOLDEMAN        Harlan McVAY JR.          Roschelle McNEIL        Jessica KENNEDY"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Donald J. TRUMP",
+        "running_mate": "J. D. VANCE",
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Kamala D. HARRIS",
+        "running_mate": "Tim WALZ",
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Robert F. KENNEDY JR.",
+        "running_mate": "Nicole SHANAHAN",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Jill STEIN",
+        "running_mate": "Samson KPADENOU",
+        "party_or_ballot_label": "Kentucky Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Chase OLIVER",
+        "running_mate": "Mike TER MAAT",
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Shiva AYYADURAI",
+        "running_mate": "Crystal ELLIS",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Peter SONSKI",
+        "running_mate": "Lauren ONAK",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Claudia DE LA CRUZ",
+        "running_mate": "Karina GARCIA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 9,
+        "candidate": "Cornel WEST",
+        "running_mate": "Melina ABDULLAH",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 10,
+        "candidate": "James D. SODERNA",
+        "running_mate": "Matthew J. TREWHELLA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 11,
+        "candidate": "Jay J. BOWMAN",
+        "running_mate": "De BOWMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 12,
+        "candidate": "Joseph KISHORE",
+        "running_mate": "Jerry WHITE",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 13,
+        "candidate": "John CHENG",
+        "running_mate": "Wayne WALIGORSKI",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 14,
+        "candidate": "Billy KELLEY JR.",
+        "running_mate": "Jason HOLDEMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 15,
+        "candidate": "Cherunda FOX",
+        "running_mate": "Harlan McVAY JR.",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 16,
+        "candidate": "Andre Ramon McNEIL SR.",
+        "running_mate": "Roschelle McNEIL",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 17,
+        "candidate": "Future Madam POTUS",
+        "running_mate": "Jessica KENNEDY",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2024-president",
+    "source_sha256": "69f32f69255f65c9e9ed7b05a1a60a7c17f6bcc8444548a1a34e6f936b42c6b1",
+    "page": 7,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                                                                                                              Michael G. Adams, Secretary of State                                                                                                                2024 General Election Results",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                         Write-In            Write-In             Write-In            Write-In               Write-In                 Write-In",
+      "",
+      "                                                                                                          Kentucky Party",
+      "                                                                                                                                                                                    Write-In                                Write-In",
+      "                                                                                  Independent",
+      "                                                                                                                                  Libertarian Party",
+      "                                                                                                                                                                                                        Write-In                                  Write-In",
+      "",
+      "",
+      "                         Republican Party           Democratic Party",
+      "                                                                                                                                                                Independent",
+      "                                                                                                                                                                                                                                                                     Write-In",
+      "",
+      "",
+      "",
+      "",
+      "                                                                                                                                                                                                                                                                                                                                                                 Andre Ramon McNEIL SR.",
+      "                                                                       Robert F. KENNEDY JR.                                                                                                                                              James D. SODERNA                                                                                                                                 Future Madam POTUS",
+      "                                                                                                         Jill STEIN                                                                            Claudia DE LA CRUZ                                                                                          John CHENG",
+      "               Donald J. TRUMP              Kamala D. HARRIS                                                                                           Shiva AYYADURAI                                                   Cornel WEST                                                                                       Billy KELLEY JR.      Cherunda FOX",
+      "                                                                                                                            Chase OLIVER                                                                                                                      Jay J. BOWMAN     Jo sep h KISH O RE",
+      "                                                                                                                                                                              Peter SONSKI",
+      "",
+      "",
+      "                   J. D . V A N CE                 Tim WALZ               Nicole SHANAHAN       Samson KPADENOU            Mike TER MAAT                    Crystal ELLIS     Lauren ONAK           Karina GARCIA   Melina ABDULLAH    Matthew J. TREWHELLA     De BOWMAN            Jerry W H ITE   Wayne WALIGORSKI   Jason HOLDEMAN        Harlan McVAY JR.          Roschelle McNEIL        Jessica KENNEDY"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Donald J. TRUMP",
+        "running_mate": "J. D. VANCE",
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Kamala D. HARRIS",
+        "running_mate": "Tim WALZ",
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Robert F. KENNEDY JR.",
+        "running_mate": "Nicole SHANAHAN",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Jill STEIN",
+        "running_mate": "Samson KPADENOU",
+        "party_or_ballot_label": "Kentucky Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Chase OLIVER",
+        "running_mate": "Mike TER MAAT",
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Shiva AYYADURAI",
+        "running_mate": "Crystal ELLIS",
+        "party_or_ballot_label": "Independent",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Peter SONSKI",
+        "running_mate": "Lauren ONAK",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Claudia DE LA CRUZ",
+        "running_mate": "Karina GARCIA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 9,
+        "candidate": "Cornel WEST",
+        "running_mate": "Melina ABDULLAH",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 10,
+        "candidate": "James D. SODERNA",
+        "running_mate": "Matthew J. TREWHELLA",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 11,
+        "candidate": "Jay J. BOWMAN",
+        "running_mate": "De BOWMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 12,
+        "candidate": "Joseph KISHORE",
+        "running_mate": "Jerry WHITE",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 13,
+        "candidate": "John CHENG",
+        "running_mate": "Wayne WALIGORSKI",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 14,
+        "candidate": "Billy KELLEY JR.",
+        "running_mate": "Jason HOLDEMAN",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 15,
+        "candidate": "Cherunda FOX",
+        "running_mate": "Harlan McVAY JR.",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 16,
+        "candidate": "Andre Ramon McNEIL SR.",
+        "running_mate": "Roschelle McNEIL",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 17,
+        "candidate": "Future Madam POTUS",
+        "running_mate": "Jessica KENNEDY",
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2022-senate",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+    "page": 2,
+    "raw_lines": [
+      "Commonwealth of Kentucky             Michael G. Adams, Secretary of State              2022 General Election Results",
+      "",
+      "",
+      "",
+      "                                               United States Senator",
+      "                                  Republican Party   Democratic Party       Write-In    Write-In",
+      "",
+      "                                            Rand            Charles      Charles Lee   Billy Ray",
+      "                                            PAUL           BOOKER       THOMASON       WILSON"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Rand PAUL",
+        "running_mate": null,
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Charles BOOKER",
+        "running_mate": null,
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Charles Lee THOMASON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Billy Ray WILSON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2022-senate",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+    "page": 3,
+    "raw_lines": [
+      "Commonwealth of Kentucky           Michael G. Adams, Secretary of State              2022 General Election Results",
+      "",
+      "                                Republican Party   Democratic Party       Write-In    Write-In",
+      "",
+      "                                          Rand            Charles      Charles Lee   Billy Ray",
+      "                                          PAUL           BOOKER       THOMASON       WILSON"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Rand PAUL",
+        "running_mate": null,
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Charles BOOKER",
+        "running_mate": null,
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Charles Lee THOMASON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Billy Ray WILSON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2022-senate",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+    "page": 4,
+    "raw_lines": [
+      "Commonwealth of Kentucky           Michael G. Adams, Secretary of State              2022 General Election Results",
+      "",
+      "                                Republican Party   Democratic Party       Write-In    Write-In",
+      "",
+      "                                          Rand            Charles      Charles Lee   Billy Ray",
+      "                                          PAUL           BOOKER       THOMASON       WILSON"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Rand PAUL",
+        "running_mate": null,
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Charles BOOKER",
+        "running_mate": null,
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Charles Lee THOMASON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Billy Ray WILSON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2022-senate",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+    "page": 5,
+    "raw_lines": [
+      "Commonwealth of Kentucky           Michael G. Adams, Secretary of State              2022 General Election Results",
+      "",
+      "                                Republican Party   Democratic Party       Write-In    Write-In",
+      "",
+      "                                          Rand            Charles      Charles Lee   Billy Ray",
+      "                                          PAUL           BOOKER       THOMASON       WILSON"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Rand PAUL",
+        "running_mate": null,
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Charles BOOKER",
+        "running_mate": null,
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Charles Lee THOMASON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Billy Ray WILSON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2022-senate",
+    "source_sha256": "46b46cbad74d2c6a7cc03a30a85bac02e2e8d0c60ed02cd4b9e9f66ccedd64e5",
+    "page": 6,
+    "raw_lines": [
+      "Commonwealth of Kentucky            Michael G. Adams, Secretary of State              2022 General Election Results",
+      "",
+      "                                 Republican Party   Democratic Party       Write-In    Write-In",
+      "",
+      "                                           Rand            Charles      Charles Lee   Billy Ray",
+      "                                           PAUL           BOOKER       THOMASON       WILSON"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Rand PAUL",
+        "running_mate": null,
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Charles BOOKER",
+        "running_mate": null,
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Charles Lee THOMASON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Billy Ray WILSON",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2020-senate",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773",
+    "page": 8,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                    Michael G. Adams, Secretary of State                            2020 General Election Results",
+      "",
+      "",
+      "",
+      "                                                                        United States Senator",
+      "                      Republican Party   Democratic Party    Libertarian Party    Write-In      Write-In         Write-In        Write-In       Write-In",
+      "",
+      "                                Mitch               Amy                  Brad    Paul John       Daniel       Randall Lee       Harold H.       Demetra",
+      "                     McCONNELL            McGRATH              BARRON FRANGEDAKIS            COBBLE        TEEGARDEN FITZPATRICK            WYSINGER"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Mitch McCONNELL",
+        "running_mate": null,
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Amy McGRATH",
+        "running_mate": null,
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Brad BARRON",
+        "running_mate": null,
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Paul John FRANGEDAKIS",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Daniel COBBLE",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Randall Lee TEEGARDEN",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Harold H. FITZPATRICK",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Demetra WYSINGER",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2020-senate",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773",
+    "page": 9,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                  Michael G. Adams, Secretary of State                           2020 General Election Results",
+      "",
+      "                    Republican Party   Democratic Party    Libertarian Party    Write-In     Write-In         Write-In        Write-In       Write-In",
+      "",
+      "                              Mitch               Amy                  Brad    Paul John      Daniel       Randall Lee       Harold H.       Demetra",
+      "                   McCONNELL            McGRATH              BARRON FRANGEDAKIS            COBBLE       TEEGARDEN FITZPATRICK            WYSINGER"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Mitch McCONNELL",
+        "running_mate": null,
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Amy McGRATH",
+        "running_mate": null,
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Brad BARRON",
+        "running_mate": null,
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Paul John FRANGEDAKIS",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Daniel COBBLE",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Randall Lee TEEGARDEN",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Harold H. FITZPATRICK",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Demetra WYSINGER",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  },
+  {
+    "contest": "2020-senate",
+    "source_sha256": "66bb0eedd13f43b09b2e42f9b6119bf292e6361b0657fc4e2ab56907c3511773",
+    "page": 10,
+    "raw_lines": [
+      "Commonwealth of Kentucky                                   Michael G. Adams, Secretary of State                           2020 General Election Results",
+      "",
+      "                     Republican Party   Democratic Party    Libertarian Party    Write-In     Write-In         Write-In        Write-In       Write-In",
+      "",
+      "                               Mitch               Amy                  Brad    Paul John      Daniel       Randall Lee       Harold H.       Demetra",
+      "                    McCONNELL            McGRATH              BARRON FRANGEDAKIS            COBBLE       TEEGARDEN FITZPATRICK            WYSINGER"
+    ],
+    "candidates_display_transcription": [
+      {
+        "column": 1,
+        "candidate": "Mitch McCONNELL",
+        "running_mate": null,
+        "party_or_ballot_label": "Republican Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 2,
+        "candidate": "Amy McGRATH",
+        "running_mate": null,
+        "party_or_ballot_label": "Democratic Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 3,
+        "candidate": "Brad BARRON",
+        "running_mate": null,
+        "party_or_ballot_label": "Libertarian Party",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 4,
+        "candidate": "Paul John FRANGEDAKIS",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 5,
+        "candidate": "Daniel COBBLE",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 6,
+        "candidate": "Randall Lee TEEGARDEN",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 7,
+        "candidate": "Harold H. FITZPATRICK",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      },
+      {
+        "column": 8,
+        "candidate": "Demetra WYSINGER",
+        "running_mate": null,
+        "party_or_ballot_label": "Write-In",
+        "transcription": "manual display from complete original header; literal positioned header retained"
+      }
+    ]
+  }
+]

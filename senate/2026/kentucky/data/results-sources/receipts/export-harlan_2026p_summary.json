@@ -1,0 +1,51 @@
+{
+  "label": "export-harlan_2026p_summary",
+  "started_utc": "2026-10-20T22:35:48.910157+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/HARLAN/Harlan_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/HARLAN/Harlan_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:48.910167+00:00",
+      "ended_utc": "2026-10-20T22:35:49.427800+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/4b55978a2e963744fbf44a698abfc656294150793eb5bd12397d891cf0e0a963.gz",
+        "raw_bytes": 1628,
+        "raw_sha256": "4b55978a2e963744fbf44a698abfc656294150793eb5bd12397d891cf0e0a963",
+        "stored_bytes": 888,
+        "stored_sha256": "1bd66aafaee72fbcec644e887301f4d39f35ee50093c696498a06fe0490e414f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:49 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 125271\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:49 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:15:17 GMT\r\netag: \"{4B13EF92-9300-483E-AD43-C5ABCBF8C26A},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:4B13EF92-9300-483E-AD43-C5ABCBF8C26A@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Harlan%5f2026p%5fsummary%2ecsv; filename=\"Harlan_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1bda46a2-cca2-b05c-6baa-2f0e92e9e56c\r\nrequest-id: 1bda46a2-cca2-b05c-6baa-2f0e92e9e56c\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 98\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223549Z-15f786f77844ctgghC1CHI854c0000001nd0000000005xd0\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/199e0ef3e8ef3c935dd25d42c53e83a82a9b9a8b5af0b836a1aa84e5bfed1b9a.gz",
+        "raw_bytes": 125271,
+        "raw_sha256": "199e0ef3e8ef3c935dd25d42c53e83a82a9b9a8b5af0b836a1aa84e5bfed1b9a",
+        "stored_bytes": 10986,
+        "stored_sha256": "5cccca6f2c2cbe15d8f310acd920d8e50407cadecb3513ce742590eb52e97042"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:49.434926+00:00"
+}

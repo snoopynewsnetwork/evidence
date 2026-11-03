@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/scripts/audit.py", line 27, in <module>
+    require(all(p.stat().st_size<40000000 for p in files),'strict artifact size');require(not any('__pycache__' in p.parts or p.suffix=='.pyc' or any(z in p.parts for z in ['node_modules','.cache','.venv']) for p in files),'no dependency/cache files');require(not any(p.is_symlink() for p in files),'no mutable symlink assets');checks['owned_size_cache_bounds']=len(files)
+                                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/scripts/audit.py", line 10, in require
+    if not ok:raise AssertionError(message)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: no dependency/cache files

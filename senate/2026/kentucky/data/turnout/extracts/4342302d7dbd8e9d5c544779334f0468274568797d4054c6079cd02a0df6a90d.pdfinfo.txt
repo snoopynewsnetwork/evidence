@@ -1,0 +1,17 @@
+Creator:         C1Reports Engine version 4.0.20151.38
+CreationDate:    Mon Jan  6 15:34:19 2025 CST
+ModDate:         Mon Jan  6 15:34:19 2025 CST
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           56
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       1285455 bytes
+Optimized:       no
+PDF version:     1.3

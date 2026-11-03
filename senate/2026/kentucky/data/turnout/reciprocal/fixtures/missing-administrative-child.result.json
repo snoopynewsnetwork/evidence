@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-administrative-child",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "all native/admin children retained",
+  "complete_packet_input_sha256": "e40ea8e434a74fcbd0bf94b8b717a9aadf32016a8ec6861a3f13e7c78bea7531",
+  "full_components": 382
+}

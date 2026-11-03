@@ -1,0 +1,83 @@
+{
+  "label": "office-109-elections",
+  "started_utc": "2026-10-20T22:36:12.646596+00:00",
+  "request": {
+    "url": "http://www.hendersoncountyky.gov/Search/Results",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "http://www.hendersoncountyky.gov/Search/Results",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:12.646600+00:00",
+      "ended_utc": "2026-10-20T22:36:12.729568+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "302",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/fe90d4a9e1fd9c63f978edef56f964d7feebd5d8e390d2ac86ed46e210de7340.gz",
+        "raw_bytes": 964,
+        "raw_sha256": "fe90d4a9e1fd9c63f978edef56f964d7feebd5d8e390d2ac86ed46e210de7340",
+        "stored_bytes": 598,
+        "stored_sha256": "22e6e65a7973a02414dea15630969f544fcd039a38307cfb449152d87ca41fab"
+      },
+      "headers_latin1": "HTTP/1.1 302 Found\r\nCache-Control: no-cache,no-transform\r\nPragma: no-cache\r\nContent-Type: text/html; charset=utf-8\r\nExpires: -1\r\nLocation: /Search/Index?departmentId=-1&module=0&page=1&perPage=10\r\np3p: CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"\r\nSet-Cookie: CP_IsMobile=false; path=/\r\nSet-Cookie: CP_IsMobile=false; path=/\r\nSet-Cookie: ASP.NET_SessionId=fdlqao045zyqmncvewudp0h5; path=/; HttpOnly; SameSite=Lax\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nPermissions-Policy: camera=(), microphone=()\r\nContent-Security-Policy: frame-ancestors 'self' https://*.granicus.com https://*.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *\r\nDate: Tue, 20 Oct 2026 22:36:12 GMT\r\nContent-Length: 185\r\n\r\n",
+      "response_body": {
+        "path": "bodies/84048f65205749ff4eb0dcd22871623fbce4e5969cf22ec57ef2fe0bc07a5c13.gz",
+        "raw_bytes": 185,
+        "raw_sha256": "84048f65205749ff4eb0dcd22871623fbce4e5969cf22ec57ef2fe0bc07a5c13",
+        "stored_bytes": 156,
+        "stored_sha256": "4c400fb4022cb04d250e3130c78473a65c39ab3371e3f5bb047f2d71b52a6eb1"
+      },
+      "body_availability": "captured",
+      "status": 302
+    },
+    {
+      "url": "http://www.hendersoncountyky.gov/Search/Index?departmentId=-1&module=0&page=1&perPage=10",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:12.730131+00:00",
+      "ended_utc": "2026-10-20T22:36:13.095004+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/21a270bae3a016ddfe882b9c439731222abe6f2adeba71b3c80a03d982d5a062.gz",
+        "raw_bytes": 877,
+        "raw_sha256": "21a270bae3a016ddfe882b9c439731222abe6f2adeba71b3c80a03d982d5a062",
+        "stored_bytes": 543,
+        "stored_sha256": "a538a00e1af392510f55ba2ff5c84d509c70d8d42006b292a758c63b7a66e967"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nCache-Control: private, s-maxage=600,no-transform\r\nContent-Type: text/html; charset=utf-8\r\np3p: CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"\r\nSet-Cookie: CP_IsMobile=false; path=/\r\nSet-Cookie: CP_IsMobile=false; path=/\r\nSet-Cookie: ASP.NET_SessionId=vuy2cqxvhftl2grke1101bj2; path=/; HttpOnly; SameSite=Lax\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nPermissions-Policy: camera=(), microphone=()\r\nContent-Security-Policy: frame-ancestors 'self' https://*.granicus.com https://*.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *\r\nDate: Tue, 20 Oct 2026 22:36:12 GMT\r\nContent-Length: 91350\r\n\r\n",
+      "response_body": {
+        "path": "bodies/d21284d1c4594431ce6f7057d39934ef9c781bde2454e777ef6c3c9418f1acec.gz",
+        "raw_bytes": 91350,
+        "raw_sha256": "d21284d1c4594431ce6f7057d39934ef9c781bde2454e777ef6c3c9418f1acec",
+        "stored_bytes": 20990,
+        "stored_sha256": "8f4911c5d55252b85d02277ae3f546803a2a5261bcfe664bb65329f7b1a01608"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:13.096956+00:00"
+}

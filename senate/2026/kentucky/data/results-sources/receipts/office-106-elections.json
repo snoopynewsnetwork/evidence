@@ -1,0 +1,51 @@
+{
+  "label": "office-106-elections",
+  "started_utc": "2026-10-20T22:36:11.701072+00:00",
+  "request": {
+    "url": "https://www.daviessky.org/elections/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.daviessky.org/elections/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:11.701076+00:00",
+      "ended_utc": "2026-10-20T22:36:12.028037+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/5e2646c6fc44357f61e45e95a59e9af458d4f4312f35e360e2621f1e88a413d5.gz",
+        "raw_bytes": 929,
+        "raw_sha256": "5e2646c6fc44357f61e45e95a59e9af458d4f4312f35e360e2621f1e88a413d5",
+        "stored_bytes": 634,
+        "stored_sha256": "3e18b502287c1607233e6988eaadba0e384d9b840310d7113a2f6b3241505852"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:11 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nserver: cloudflare\r\nvary: Accept-Encoding\r\nvary: Accept-Encoding,Cookie\r\ncache-control: max-age=3, must-revalidate\r\ncache-control: max-age=0, no-transform\r\nstrict-transport-security: max-age=16070400; includeSubDomains\r\nlast-modified: Tue, 20 Oct 2026 22:07:34 GMT\r\nexpires: Tue, 20 Oct 2026 22:36:08 GMT\r\nx-ua-compatible: IE=edge\r\nx-content-type-options: nosniff\r\nx-xss-protection: 1; mode=block\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=GtWIXHJUMV1pdLIgfwb36FAl7N8m76fyChsDszVhw8LwGvRJEIIpHtsX9IzfwwIEBAaBGU%2B6FZu93U7OCPsqFmFn%2Bo6fewwPzAqhLQDDYLNH5k%2BcTcs0eXP%2FS8Zsb%2B687Yew4d1N4J%2FTO94e1InN%2Fg%3D%3D\"}]}\r\ncf-cache-status: DYNAMIC\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\ncf-ray: a4db7ffdfa5f624e-EWR\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/c416e6dbe63d85663b6dc868320dd68e18b530c90b08e3af5901b2d63a6d5d9c.gz",
+        "raw_bytes": 174277,
+        "raw_sha256": "c416e6dbe63d85663b6dc868320dd68e18b530c90b08e3af5901b2d63a6d5d9c",
+        "stored_bytes": 26476,
+        "stored_sha256": "0840bc30f93b59b2b7af0ed84e0be7774ae3bab48f029ff748d4e0ae19735c89"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:12.030826+00:00"
+}

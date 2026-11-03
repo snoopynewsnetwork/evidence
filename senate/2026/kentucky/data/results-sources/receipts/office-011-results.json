@@ -1,0 +1,51 @@
+{
+  "label": "office-011-results",
+  "started_utc": "2026-10-20T22:39:13.614577+00:00",
+  "request": {
+    "url": "https://vrsws.sos.ky.gov/liveresults/County?id=13",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://vrsws.sos.ky.gov/liveresults/County?id=13",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:13.614580+00:00",
+      "ended_utc": "2026-10-20T22:39:13.672794+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/753ad5b5c574ff146ce0bde16122753a7fd0ce6e8715de01c413abe8b0838ec3.gz",
+        "raw_bytes": 389,
+        "raw_sha256": "753ad5b5c574ff146ce0bde16122753a7fd0ce6e8715de01c413abe8b0838ec3",
+        "stored_bytes": 249,
+        "stored_sha256": "6c61f7e06e899ee5d6d420f2c366f72fbf5f0372f96d9793bd826099c32bd284"
+      },
+      "headers_latin1": "HTTP/2 403 \r\nmime-version: 1.0\r\ncontent-length: 2468\r\ncache-control: no-cache, no-store, must-revalidate\r\npragma: no-cache\r\nexpires: 0\r\ncontent-type: text/html\r\nexpires: Tue, 20 Oct 2026 22:39:13 GMT\r\ncache-control: max-age=0, no-cache, no-store\r\npragma: no-cache\r\ndate: Tue, 20 Oct 2026 22:39:13 GMT\r\nstrict-transport-security: max-age=86400\r\nakamai-grn: 0.aa291eb8.1792535953.c4f15b9\r\n\r\n",
+      "response_body": {
+        "path": "bodies/33e2d23232edabe32e8b28fee1b55984fc47ab93a17e79a59a65106295fa5622.gz",
+        "raw_bytes": 2468,
+        "raw_sha256": "33e2d23232edabe32e8b28fee1b55984fc47ab93a17e79a59a65106295fa5622",
+        "stored_bytes": 1200,
+        "stored_sha256": "ce3a76bbadbb8f4aef99012bca020d54b6f0976c750340081916f509579caad9"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:13.673440+00:00"
+}

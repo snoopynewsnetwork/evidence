@@ -1,0 +1,51 @@
+{
+  "label": "current-voting-faq",
+  "started_utc": "2026-10-20T22:38:29.771612+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:38:29.771622+00:00",
+      "ended_utc": "2026-10-20T22:38:30.367118+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/f47382ee03fa01d4a3ec0e3c336f1f1ea36e0cdb648343be7a2fbd40f0082dc3.gz",
+        "raw_bytes": 1340,
+        "raw_sha256": "f47382ee03fa01d4a3ec0e3c336f1f1ea36e0cdb648343be7a2fbd40f0082dc3",
+        "stored_bytes": 734,
+        "stored_sha256": "0c100783e4cd6d534edeca05e49dc1b2c361db409e27d686599f73dec383c7ac"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:38:30 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 81577\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private, max-age=0\r\nexpires: Mon, 05 Oct 2026 22:38:29 GMT\r\nlast-modified: Tue, 20 Oct 2026 22:38:29 GMT\r\nx-sharepointhealthscore: 0\r\nx-aspnet-version: 4.0.30319\r\nsprequestguid: 42da46a2-8ce5-b05c-bfd1-879856938ca3\r\nrequest-id: 42da46a2-8ce5-b05c-bfd1-879856938ca3\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 254\r\nspiislatency: 15\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223829Z-174b95d58c8xjgpzhC1CH1a1p00000001eqg000000002z1v\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/2057f75fe5f40afdec6320164a59c56334cdde058d121b428c7064117e19d524.gz",
+        "raw_bytes": 81577,
+        "raw_sha256": "2057f75fe5f40afdec6320164a59c56334cdde058d121b428c7064117e19d524",
+        "stored_bytes": 35861,
+        "stored_sha256": "b99fc83f998c1b0c57632f54b29d96fa7b9857cc50e31727b4ab3060aea22e88"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:38:30.371570+00:00"
+}

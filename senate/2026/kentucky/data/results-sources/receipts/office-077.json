@@ -1,0 +1,51 @@
+{
+  "label": "office-077",
+  "started_utc": "2026-10-20T22:35:10.600471+00:00",
+  "request": {
+    "url": "https://perry.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://perry.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:10.600474+00:00",
+      "ended_utc": "2026-10-20T22:35:10.915546+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/c8284ca6749c9085565eb30cf5375f3396bc67a4a00426a20f9899a8ec212cc7.gz",
+        "raw_bytes": 932,
+        "raw_sha256": "c8284ca6749c9085565eb30cf5375f3396bc67a4a00426a20f9899a8ec212cc7",
+        "stored_bytes": 617,
+        "stored_sha256": "5be93efcf19fd67d49d1050d8043dd21648a8479789d111fd31f3d87ee7b738d"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:31:10 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://perry.countyclerk.us/wp-json/>; rel=\"https://api.w.org/\", <https://perry.countyclerk.us/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://perry.countyclerk.us/>; rel=shortlink\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 1822593 1822532\r\nAge: 232\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 149681\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914646016; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/95989928342ff9ddd410dade7e5aa3115ffd06e2da4b31b40edecd13d02b77f6.gz",
+        "raw_bytes": 149681,
+        "raw_sha256": "95989928342ff9ddd410dade7e5aa3115ffd06e2da4b31b40edecd13d02b77f6",
+        "stored_bytes": 28411,
+        "stored_sha256": "ca3ccabeaf13ccd6eda8134c7dc35a5f17dbe9fc35c58549c79a0364ff8313b5"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:10.918034+00:00"
+}

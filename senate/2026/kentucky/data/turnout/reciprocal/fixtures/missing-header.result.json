@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-header",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "complete original header",
+  "complete_packet_input_sha256": "e0bacc0e82c153ad3d5aad698b5963f799d6f23f2fa3cb686dd1308f57f89fc3",
+  "full_components": 382
+}

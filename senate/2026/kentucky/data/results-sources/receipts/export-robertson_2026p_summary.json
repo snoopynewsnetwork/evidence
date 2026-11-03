@@ -1,0 +1,51 @@
+{
+  "label": "export-robertson_2026p_summary",
+  "started_utc": "2026-10-20T22:35:57.156797+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/ROBERTSON/Robertson_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/ROBERTSON/Robertson_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:57.156805+00:00",
+      "ended_utc": "2026-10-20T22:35:57.459601+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/ea8493a17411c92c7f5529938141526e6e2e2fdbaa299bd3d4f5cee415785cfe.gz",
+        "raw_bytes": 1633,
+        "raw_sha256": "ea8493a17411c92c7f5529938141526e6e2e2fdbaa299bd3d4f5cee415785cfe",
+        "stored_bytes": 888,
+        "stored_sha256": "3df6b13e3944b7d3f64ba5f05b76bcd02fd98c88ef399f1db68fcf25cb81d678"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:57 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 16670\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:57 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:24:59 GMT\r\netag: \"{AB92FF5A-78F6-41EF-8B0E-A8421E18D683},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:AB92FF5A-78F6-41EF-8B0E-A8421E18D683@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Robertson%5f2026p%5fsummary%2ecsv; filename=\"Robertson_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-fca5-b05c-bfd1-836fe4b54521\r\nrequest-id: 1dda46a2-fca5-b05c-bfd1-836fe4b54521\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 38\r\nspiislatency: 10\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223557Z-174b95d58c8nqgh4hC1CH1v3fs0000001ft00000000012at\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/1730ce596941c423fa0a9a153326540198010d3ab79b8f2fd9e854491939baa5.gz",
+        "raw_bytes": 16670,
+        "raw_sha256": "1730ce596941c423fa0a9a153326540198010d3ab79b8f2fd9e854491939baa5",
+        "stored_bytes": 1971,
+        "stored_sha256": "fb716e3835447cf38697ac38f5f6daffffb7b96bc48a524ca91886b3225ef23a"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:57.462010+00:00"
+}

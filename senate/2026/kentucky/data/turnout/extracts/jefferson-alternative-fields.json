@@ -1,0 +1,455 @@
+[
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 1,
+    "label": "REP Donald J. TRUMP",
+    "kind": "candidate",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      144553,
+      91464,
+      6290,
+      1731,
+      45052,
+      16
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 2,
+    "label": "DEM Kamala D. HARRIS",
+    "kind": "candidate",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      203070,
+      122725,
+      13188,
+      1680,
+      65443,
+      34
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 3,
+    "label": "KEN Jill STEIN",
+    "kind": "candidate",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      2029,
+      1529,
+      120,
+      14,
+      366,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 4,
+    "label": "IND Robert F. KENNEDY JR.",
+    "kind": "candidate",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      2619,
+      1947,
+      101,
+      18,
+      553,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 5,
+    "label": "IND Shiva AYYADURAI",
+    "kind": "candidate",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      171,
+      119,
+      4,
+      1,
+      47,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 6,
+    "label": "LIB Chase OLIVER",
+    "kind": "candidate",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      1167,
+      850,
+      56,
+      11,
+      250,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 7,
+    "label": "Write-In Totals",
+    "kind": "writein_pool",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      2113,
+      1565,
+      87,
+      21,
+      440,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 8,
+    "label": "Write-In: Peter SONSKI",
+    "kind": "named_writein",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      198,
+      165,
+      8,
+      0,
+      25,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 9,
+    "label": "Write-In: Cornell WEST",
+    "kind": "named_writein",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      78,
+      57,
+      4,
+      1,
+      16,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 10,
+    "label": "Write-In: Claudia De La CRUZ",
+    "kind": "named_writein",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      204,
+      160,
+      9,
+      1,
+      34,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 11,
+    "label": "Write-In: Joseph KISHORE",
+    "kind": "named_writein",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      2,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 12,
+    "label": "Write-In: Jay J. BOWMAN",
+    "kind": "named_writein",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      2,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 13,
+    "label": "Write-In: John CHENG",
+    "kind": "named_writein",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 14,
+    "label": "Not Assigned",
+    "kind": "writein_unassigned",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      1628,
+      1183,
+      64,
+      19,
+      362,
+      0
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary",
+    "page": 2,
+    "row_in_president_block": 15,
+    "label": "Total Votes Cast",
+    "kind": "contest_total",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      355722,
+      220199,
+      19846,
+      3476,
+      112151,
+      50
+    ],
+    "extraction": "manual original image reading",
+    "page_image": "proof/jefferson-alternative-02.png",
+    "source_report_clock": "11/08/2024 3:35 PM; timezone not stated"
+  },
+  {
+    "source_sha256": "36437ddf36334f80d1018fc821a6f49a40eae1db5944164a2ccdf98d08f0a427",
+    "county": "Jefferson",
+    "scope": "2024 alternative county summary statistics",
+    "page": 1,
+    "label": "Ballots Cast - Total",
+    "method_headers": [
+      "TOTAL",
+      "Election Day",
+      "Mail",
+      "Walk-in Excuse",
+      "Walk-in Early",
+      "Provisional"
+    ],
+    "values": [
+      357876,
+      221632,
+      20011,
+      3490,
+      112691,
+      52
+    ],
+    "page_image": "proof/jefferson-alternative-01.png",
+    "precincts_reporting_source": [
+      "Election Day627of627",
+      "Precincts Complete627of627",
+      "Absentee/Early627of627"
+    ],
+    "registration": null,
+    "blank": null,
+    "under": null,
+    "over": null
+  }
+]

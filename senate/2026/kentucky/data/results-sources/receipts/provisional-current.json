@@ -1,0 +1,51 @@
+{
+  "label": "provisional-current",
+  "started_utc": "2026-10-20T22:39:00.927760+00:00",
+  "request": {
+    "url": "https://apps.legislature.ky.gov/law/kar/downloads/docs/16770/document.engrossed.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://apps.legislature.ky.gov/law/kar/downloads/docs/16770/document.engrossed.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:00.927901+00:00",
+      "ended_utc": "2026-10-20T22:39:01.079222+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/ec64be6f5cd7b4ad8d4490f5f300b6744652293a180e74e397339311088f506b.gz",
+        "raw_bytes": 252,
+        "raw_sha256": "ec64be6f5cd7b4ad8d4490f5f300b6744652293a180e74e397339311088f506b",
+        "stored_bytes": 214,
+        "stored_sha256": "28793fc9bafb77921aa13a3cd00131e86ac4c5c6d0985ab6d105c3d744a16fe7"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncontent-type: application/pdf\r\nlast-modified: Tue, 20 Oct 2026 22:24:14 GMT\r\naccept-ranges: bytes\r\netag: \"6d2e38bde160dd1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\ndate: Tue, 20 Oct 2026 22:39:00 GMT\r\ncontent-length: 86123\r\n\r\n",
+      "response_body": {
+        "path": "bodies/f57f2fe36282d71c1eeee001c9ca7e9da3cb49317645851cbf5decc240673e0f.gz",
+        "raw_bytes": 86123,
+        "raw_sha256": "f57f2fe36282d71c1eeee001c9ca7e9da3cb49317645851cbf5decc240673e0f",
+        "stored_bytes": 82617,
+        "stored_sha256": "915bb89556e6a940223161b4a9fb824530b8ef2aa141fa8a03953b64632fee64"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:01.080859+00:00"
+}

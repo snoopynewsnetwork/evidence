@@ -1,0 +1,51 @@
+{
+  "label": "office-111",
+  "started_utc": "2026-10-20T22:35:21.809988+00:00",
+  "request": {
+    "url": "https://www.jeffersoncountyclerk.org",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.jeffersoncountyclerk.org",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:21.809991+00:00",
+      "ended_utc": "2026-10-20T22:35:21.944925+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/202f42e4916c3147af7bc24f93fd9799fcd87f96cbe3ac585df7018335e76462.gz",
+        "raw_bytes": 376,
+        "raw_sha256": "202f42e4916c3147af7bc24f93fd9799fcd87f96cbe3ac585df7018335e76462",
+        "stored_bytes": 279,
+        "stored_sha256": "a54dc138ed64a38aecb65f0036b62267344389d1c9bdadda8f824083115e0ac9"
+      },
+      "headers_latin1": "HTTP/2 403 \r\nmime-version: 1.0\r\ncontent-type: text/html\r\ncontent-length: 382\r\nx-reference-error: 18.88291eb8.1792535721.29e1195b\r\ncache-control: max-age=0\r\ndate: Tue, 20 Oct 2026 22:35:21 GMT\r\nserver-timing: cdn-cache; desc=HIT\r\nserver-timing: edge; dur=1\r\nalt-svc: h3=\":443\"; ma=93600\r\nserver-timing: ak_p; desc=\"1792535721963_3088984456_702617947_27_10222_6_17_15\";dur=1\r\n\r\n",
+      "response_body": {
+        "path": "bodies/8ce1458a5cfd0f803b1c74515ceb8dfdffc8be184ca47d3b8b00c4770b162ea7.gz",
+        "raw_bytes": 382,
+        "raw_sha256": "8ce1458a5cfd0f803b1c74515ceb8dfdffc8be184ca47d3b8b00c4770b162ea7",
+        "stored_bytes": 254,
+        "stored_sha256": "830514261429869b93d8d68d870596877d50a79882f61c036e4f6f25562ed87d"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:21.945393+00:00"
+}

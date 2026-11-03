@@ -1,0 +1,51 @@
+{
+  "label": "export-owsley_2026p_summary",
+  "started_utc": "2026-10-20T22:35:56.168092+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/OWSLEY/Owsley_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/OWSLEY/Owsley_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:56.168100+00:00",
+      "ended_utc": "2026-10-20T22:35:56.501406+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/0fdcbd71566a9d1f40eec01801349c32f371461f65d2b524bdfd5a7e43b757ff.gz",
+        "raw_bytes": 1627,
+        "raw_sha256": "0fdcbd71566a9d1f40eec01801349c32f371461f65d2b524bdfd5a7e43b757ff",
+        "stored_bytes": 886,
+        "stored_sha256": "145e5fb26c22933243edce7a2f4cde2599b1960efcdc223fb9fa8e6232f56271"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:56 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 39820\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:56 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:24:29 GMT\r\netag: \"{5ABB7F04-C290-481D-A155-171512A54819},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:5ABB7F04-C290-481D-A155-171512A54819@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Owsley%5f2026p%5fsummary%2ecsv; filename=\"Owsley_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-0c67-b05c-6baa-268783c43e52\r\nrequest-id: 1dda46a2-0c67-b05c-6baa-268783c43e52\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 57\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223556Z-174b95d58c8dllt5hC1CH1nd0w00000003q0000000002n0k\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/7b73fde568341de56fc32588742770b14f9ea2eb3fab53b49893e997769663fc.gz",
+        "raw_bytes": 39820,
+        "raw_sha256": "7b73fde568341de56fc32588742770b14f9ea2eb3fab53b49893e997769663fc",
+        "stored_bytes": 4404,
+        "stored_sha256": "78c4723e1b8f9e7433ad336639f17d87c87f4444bf88746cca40c0ddd0381d3d"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:56.504401+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "fixture": "truncated-source-roles",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "complete individual source/receipt/role coverage",
+  "complete_packet_input_sha256": "05660733c67c49086c00491c39ec84862be6387355c8b4c9603fe4ebefe6ebf4",
+  "full_components": 382
+}

@@ -1,0 +1,51 @@
+{
+  "label": "office-102-elections",
+  "started_utc": "2026-10-20T22:36:11.220653+00:00",
+  "request": {
+    "url": "https://storage1.snappages.site/hsxbe61qrr/assets/files/Cumulative-Results-5-19-2026-07-28-55-PM-9.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://storage1.snappages.site/hsxbe61qrr/assets/files/Cumulative-Results-5-19-2026-07-28-55-PM-9.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:11.220657+00:00",
+      "ended_utc": "2026-10-20T22:36:12.174487+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a9845a0af7d43544a614c87233392836af86cbe72b8d16c21eb6dd425161cad5.gz",
+        "raw_bytes": 524,
+        "raw_sha256": "a9845a0af7d43544a614c87233392836af86cbe72b8d16c21eb6dd425161cad5",
+        "stored_bytes": 401,
+        "stored_sha256": "2b91a4ac0066267a751321b6df2a132e55a48296821412f91e595b8ab5a64c57"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncontent-type: application/pdf\r\ncontent-length: 10212770\r\ndate: Tue, 20 Oct 2026 22:36:12 GMT\r\nlast-modified: Tue, 02 Jun 2026 17:07:34 GMT\r\netag: \"073202cf665e2af6531f81846e3d5cc4\"\r\nx-amz-server-side-encryption: AES256\r\ncache-control: public, max-age=86400\r\naccept-ranges: bytes\r\nserver: AmazonS3\r\nx-cache: Miss from cloudfront\r\nvia: 1.1 55e086465e12e6469e9c736ea4ef0268.cloudfront.net (CloudFront)\r\nx-amz-cf-pop: ORD51-P1\r\nx-amz-cf-id: 1uosOarCVyqRJO-6gma-vnhAdzIlnCIuoxbNXq_dRk-67lLNA0npsQ==\r\nvary: Origin\r\n\r\n",
+      "response_body": {
+        "path": "bodies/ed9936801d37d640d75a5bc8d1d537058b2f502dba144a78a6040931204f31f2.gz",
+        "raw_bytes": 10212770,
+        "raw_sha256": "ed9936801d37d640d75a5bc8d1d537058b2f502dba144a78a6040931204f31f2",
+        "stored_bytes": 10049714,
+        "stored_sha256": "c7d384341e5e874bfd4d22a076d1a12bdd3678eecb5164a2800c28c95676c5fa"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:12.340660+00:00"
+}

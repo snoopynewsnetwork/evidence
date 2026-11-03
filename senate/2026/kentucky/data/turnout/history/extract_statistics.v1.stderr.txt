@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/history/extract_statistics.v1.failed.py", line 40, in <module>
+    assert len(out)==120,len(out);(R/'extracts/county-fips.json').write_text(json.dumps(out,indent=2)+'\n')
+           ^^^^^^^^^^^^^
+AssertionError: 121

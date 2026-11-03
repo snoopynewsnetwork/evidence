@@ -1,0 +1,51 @@
+{
+  "label": "office-108-results",
+  "started_utc": "2026-10-20T22:39:16.146887+00:00",
+  "request": {
+    "url": "https://hccoky.org/26PResults/display.html",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://hccoky.org/26PResults/display.html",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:16.146893+00:00",
+      "ended_utc": "2026-10-20T22:39:17.755855+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/fc084dc3591517c3fe5719ef6dfd917519a134e9886e8b21fdd3a0a5924b6fbd.gz",
+        "raw_bytes": 247,
+        "raw_sha256": "fc084dc3591517c3fe5719ef6dfd917519a134e9886e8b21fdd3a0a5924b6fbd",
+        "stored_bytes": 220,
+        "stored_sha256": "a22e60bbdd99333bb2ddcaedd7ea99f2f8b1df068c045517c2f1419f2c512edc"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncontent-type: text/html\r\nlast-modified: Wed, 20 May 2026 00:19:39 GMT\r\naccept-ranges: bytes\r\netag: \"64533d59eee7dc1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\ndate: Tue, 20 Oct 2026 22:39:16 GMT\r\ncontent-length: 248862\r\n\r\n",
+      "response_body": {
+        "path": "bodies/31698219bdefb344e13660c377e24620d238013977fb622a0c2c0033f0b76dab.gz",
+        "raw_bytes": 248862,
+        "raw_sha256": "31698219bdefb344e13660c377e24620d238013977fb622a0c2c0033f0b76dab",
+        "stored_bytes": 10741,
+        "stored_sha256": "3397027ba5b1b4d25216071ee64a57039b839636cedaf2135090247099ba0f54"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:17.757758+00:00"
+}

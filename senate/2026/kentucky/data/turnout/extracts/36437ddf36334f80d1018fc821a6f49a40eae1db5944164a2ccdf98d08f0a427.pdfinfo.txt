@@ -1,0 +1,19 @@
+Title:           SKM_558e24110816150
+Creator:         KM_558e
+Producer:        KONICA MINOLTA bizhub 558e
+CreationDate:    Fri Nov  8 15:15:59 2024 CST
+ModDate:         Fri Nov  8 15:15:59 2024 CST
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           34
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       1325076 bytes
+Optimized:       no
+PDF version:     1.4

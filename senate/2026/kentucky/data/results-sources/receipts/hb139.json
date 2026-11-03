@@ -1,0 +1,51 @@
+{
+  "label": "hb139",
+  "started_utc": "2026-10-20T22:36:59.516114+00:00",
+  "request": {
+    "url": "https://apps.legislature.ky.gov/record/26rs/hb139.html",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26rs/hb139.html",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:59.516118+00:00",
+      "ended_utc": "2026-10-20T22:36:59.826985+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/93f1db9cbb9117a46ee551947b4299b62b3cc7b3739e916f223ee788a588768e.gz",
+        "raw_bytes": 151,
+        "raw_sha256": "93f1db9cbb9117a46ee551947b4299b62b3cc7b3739e916f223ee788a588768e",
+        "stored_bytes": 154,
+        "stored_sha256": "c0eee882990dda2229e6e973af4a907ed86523048f01043c6c2f367173b3132f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncontent-type: text/html\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\ndate: Tue, 20 Oct 2026 22:36:58 GMT\r\ncontent-length: 61771\r\n\r\n",
+      "response_body": {
+        "path": "bodies/c409d3d2b48aec52fa71912769760260455c253974be6e916b8d7822d614ecfc.gz",
+        "raw_bytes": 61771,
+        "raw_sha256": "c409d3d2b48aec52fa71912769760260455c253974be6e916b8d7822d614ecfc",
+        "stored_bytes": 10030,
+        "stored_sha256": "7f34703cd9707024796c125ee598e36dd7510b4f965f36f45900e1f9f7af739f"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:59.828565+00:00"
+}

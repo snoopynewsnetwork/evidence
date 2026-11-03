@@ -1,0 +1,51 @@
+{
+  "label": "office-030",
+  "started_utc": "2026-10-20T22:35:02.977671+00:00",
+  "request": {
+    "url": "https://gallatin.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://gallatin.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:02.977674+00:00",
+      "ended_utc": "2026-10-20T22:35:03.364838+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/5a76c28d420170aa70fb4c67bf3a89c0b3643bd70a4280ea794bbc698a9de76e.gz",
+        "raw_bytes": 740,
+        "raw_sha256": "5a76c28d420170aa70fb4c67bf3a89c0b3643bd70a4280ea794bbc698a9de76e",
+        "stored_bytes": 568,
+        "stored_sha256": "5a7683cab205b1f8117e879e90190df1fe8d20124bfaf1526c63a533b1af09c6"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:35:03 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nexpires: Thu, 01 Jan 1970 00:00:01 GMT\r\nreferrer-policy: same-origin\r\nx-frame-options: SAMEORIGIN\r\nvary: accept-encoding\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kXTlwAMVMMJA2oflKw%2BdMv7sg9kWnLs%2F7WnH7fkYU3QbMkdo6hrKrSGokz4GGcNLPn8qdF0dLyYbHO4JlGqavjIiTpOKrdPmsMBWj9%2F73xrE%2FYE2ek8HsF1h5ApwiB2y8BwWOopUEwhoISHyW7nyaojuSZ0z\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7e51ac2848cc-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/7efa7eced6d2898b657ddb65c4b68a028c8f66266f661d9b2b3c51992e102116.gz",
+        "raw_bytes": 5513,
+        "raw_sha256": "7efa7eced6d2898b657ddb65c4b68a028c8f66266f661d9b2b3c51992e102116",
+        "stored_bytes": 2123,
+        "stored_sha256": "9e91524852054d88c707256017a3eb1b6052db6803c8309b443952b22b744312"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:03.365445+00:00"
+}

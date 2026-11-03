@@ -1,0 +1,51 @@
+{
+  "label": "export-bracken_2026p_summary",
+  "started_utc": "2026-10-20T22:35:43.010413+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/BRACKEN/Bracken_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/BRACKEN/Bracken_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:43.010418+00:00",
+      "ended_utc": "2026-10-20T22:35:43.376312+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/3a47a4949f105793211fda06e39ddf0082e0acd1e695e6b8ba7d31e94675e675.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "3a47a4949f105793211fda06e39ddf0082e0acd1e695e6b8ba7d31e94675e675",
+        "stored_bytes": 888,
+        "stored_sha256": "f5cc8a59e69f040cb28da804fa0f74d202940d0d38e7c09e1d5415e958f898a6"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:43 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 30460\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:43 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:10:50 GMT\r\netag: \"{1911F49E-B1F7-45B0-A42C-BA888D878D5C},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:1911F49E-B1F7-45B0-A42C-BA888D878D5C@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Bracken%5f2026p%5fsummary%2ecsv; filename=\"Bracken_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1ada46a2-bc34-b05c-bfd1-85df1af92fc3\r\nrequest-id: 1ada46a2-bc34-b05c-bfd1-85df1af92fc3\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 49\r\nspiislatency: 13\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223543Z-15f786f7784vmcqghC1CHIf0mn0000000gx0000000007qea\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/6dfd6d96a3b0f2c62484ef1f2fca43d4bdebf1762f5ba892373c202cbcf4ddad.gz",
+        "raw_bytes": 30460,
+        "raw_sha256": "6dfd6d96a3b0f2c62484ef1f2fca43d4bdebf1762f5ba892373c202cbcf4ddad",
+        "stored_bytes": 3522,
+        "stored_sha256": "7bfd507966e82948f37a939e43b326a45a2f9702436e459b9f12c523ff9c8c59"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:43.377604+00:00"
+}

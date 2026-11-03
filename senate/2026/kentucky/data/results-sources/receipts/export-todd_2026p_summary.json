@@ -1,0 +1,51 @@
+{
+  "label": "export-todd_2026p_summary",
+  "started_utc": "2026-10-20T22:35:58.387488+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/TODD/Todd_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/TODD/Todd_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:58.387498+00:00",
+      "ended_utc": "2026-10-20T22:35:58.808158+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/9d8148e82b93a439d4c309fe4cc6d2dad228978b54ac062063a23ead2de7bd04.gz",
+        "raw_bytes": 1623,
+        "raw_sha256": "9d8148e82b93a439d4c309fe4cc6d2dad228978b54ac062063a23ead2de7bd04",
+        "stored_bytes": 886,
+        "stored_sha256": "c808eb823c6c19427fc12fae2fefef8a9a7c25923474b7ed3abe6b4aafbfe08e"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:58 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 41453\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:58 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:26:05 GMT\r\netag: \"{D12BA242-F5F0-4098-9130-BC1EB6981858},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:D12BA242-F5F0-4098-9130-BC1EB6981858@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Todd%5f2026p%5fsummary%2ecsv; filename=\"Todd_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-ecf3-b05c-6baa-246f80331c23\r\nrequest-id: 1dda46a2-ecf3-b05c-6baa-246f80331c23\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 61\r\nspiislatency: 14\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223558Z-174b95d58c8q4mx4hC1CH1pke00000001f8g000000001tvx\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/a8a8940259b466b89b2bd7dcd0b20558a49b32801e93928c35f83b2586956104.gz",
+        "raw_bytes": 41453,
+        "raw_sha256": "a8a8940259b466b89b2bd7dcd0b20558a49b32801e93928c35f83b2586956104",
+        "stored_bytes": 4112,
+        "stored_sha256": "62ebfd5148e9d50120152f3b152c78e0b60424e27876e2ea3f62f3082ddcbd65"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:58.810048+00:00"
+}

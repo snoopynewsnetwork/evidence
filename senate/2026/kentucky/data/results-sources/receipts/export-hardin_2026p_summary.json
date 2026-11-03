@@ -1,0 +1,51 @@
+{
+  "label": "export-hardin_2026p_summary",
+  "started_utc": "2026-10-20T22:35:48.482498+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/HARDIN/Hardin_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/HARDIN/Hardin_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:48.482502+00:00",
+      "ended_utc": "2026-10-20T22:35:49.106563+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/9e48712b226e7b0f983de21bc4d04368da402062c5dc16c1bcf00fb55fb9768e.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "9e48712b226e7b0f983de21bc4d04368da402062c5dc16c1bcf00fb55fb9768e",
+        "stored_bytes": 892,
+        "stored_sha256": "643f2ae42838925c423baaef76fd64fe1ee74e3154bf574287c9883d09d4bf72"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:49 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 268197\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:48 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:15:12 GMT\r\netag: \"{C823E1D6-57B0-4B61-A3C9-C039A078C74C},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:C823E1D6-57B0-4B61-A3C9-C039A078C74C@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Hardin%5f2026p%5fsummary%2ecsv; filename=\"Hardin_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1bda46a2-2c89-b05c-bfd1-8e9587c8ad8f\r\nrequest-id: 1bda46a2-2c89-b05c-bfd1-8e9587c8ad8f\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 191\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223548Z-15f786f77845v2l9hC1CHImudw0000001p900000000013qz\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/f88f128d93c94a81307f13b541c74952b2040179de0ff095082911e33a764dbe.gz",
+        "raw_bytes": 268197,
+        "raw_sha256": "f88f128d93c94a81307f13b541c74952b2040179de0ff095082911e33a764dbe",
+        "stored_bytes": 23384,
+        "stored_sha256": "7eb141e71b04ede2e14e25c6b77cc8a2e18ab72d802cc18d1f8a1f72ab74661a"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:49.117376+00:00"
+}

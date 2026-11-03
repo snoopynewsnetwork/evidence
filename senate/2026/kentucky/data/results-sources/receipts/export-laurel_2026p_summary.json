@@ -1,0 +1,51 @@
+{
+  "label": "export-laurel_2026p_summary",
+  "started_utc": "2026-10-20T22:35:50.974133+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LAUREL/Laurel_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LAUREL/Laurel_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:50.974139+00:00",
+      "ended_utc": "2026-10-20T22:35:51.485377+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/c7b1024a5235b532db44ea1894dbdc8cc342da6603988915b1d46185c365aca4.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "c7b1024a5235b532db44ea1894dbdc8cc342da6603988915b1d46185c365aca4",
+        "stored_bytes": 889,
+        "stored_sha256": "1f56e46ed0c5df30c422020053fff92d63b404d6d74e52f7ffbcf78870b2ebe1"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:51 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 116596\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:51 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:17:00 GMT\r\netag: \"{34BFCD91-5698-4408-8B0D-87FF7EFEACA3},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:34BFCD91-5698-4408-8B0D-87FF7EFEACA3@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Laurel%5f2026p%5fsummary%2ecsv; filename=\"Laurel_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-dc24-b05c-bfd1-87956f18e469\r\nrequest-id: 1cda46a2-dc24-b05c-bfd1-87956f18e469\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 122\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223551Z-15f786f7784mzdffhC1CHIe4140000001p00000000004bsn\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/4743e7fda6d7036d4ccec097a2d154f537b4b6207b6db58b88da036700b853a9.gz",
+        "raw_bytes": 116596,
+        "raw_sha256": "4743e7fda6d7036d4ccec097a2d154f537b4b6207b6db58b88da036700b853a9",
+        "stored_bytes": 11848,
+        "stored_sha256": "36709cb77cf894d25b79776e0e7590302af7f01dca4889c3c3d33d95ee9c2fb7"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:51.491929+00:00"
+}

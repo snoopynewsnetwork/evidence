@@ -1,0 +1,83 @@
+{
+  "label": "office-118",
+  "started_utc": "2026-10-20T22:35:23.479852+00:00",
+  "request": {
+    "url": "https://www.pendleton.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.pendleton.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:23.479858+00:00",
+      "ended_utc": "2026-10-20T22:35:23.898735+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/6e2912469ef648f305b5fba984b07039bd86a01beeb93705b86c874e5d2c6b6b.gz",
+        "raw_bytes": 449,
+        "raw_sha256": "6e2912469ef648f305b5fba984b07039bd86a01beeb93705b86c874e5d2c6b6b",
+        "stored_bytes": 326,
+        "stored_sha256": "c84eb40623b7efd4f597c75277cf044388a755d021f1cd616deafe32e558d4a8"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:23 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 0\r\nno-vary-search: params=(\"PageSpeed\")\r\nx-redirect-by: WordPress\r\nlocation: https://pendleton.clerkinfo.net/\r\ncache-control: max-age=7200\r\nexpires: Tue, 20 Oct 2026 22:53:53 GMT\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-endurance-cache-level: 2\r\nx-nginx-cache: WordPress\r\nx-server-cache: true\r\nx-proxy-cache: HIT\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://pendleton.clerkinfo.net/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:23.899322+00:00",
+      "ended_utc": "2026-10-20T22:35:24.349151+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/61e5eef09b891ceda5913a8b3f91d0ab9cd9b30580f896096030df5111ff1864.gz",
+        "raw_bytes": 626,
+        "raw_sha256": "61e5eef09b891ceda5913a8b3f91d0ab9cd9b30580f896096030df5111ff1864",
+        "stored_bytes": 408,
+        "stored_sha256": "9624639556c55597fdd41950b47dd31050ca95c6a5037832f599225853f652f5"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:24 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nno-vary-search: params=(\"PageSpeed\")\r\nlink: <https://pendleton.clerkinfo.net/wp-json/>; rel=\"https://api.w.org/\", <https://pendleton.clerkinfo.net/wp-json/wp/v2/pages/1765>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://pendleton.clerkinfo.net/>; rel=shortlink\r\ncache-control: max-age=7200\r\nexpires: Tue, 20 Oct 2026 23:21:51 GMT\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-endurance-cache-level: 2\r\nx-nginx-cache: WordPress\r\nx-server-cache: true\r\nx-proxy-cache: HIT\r\n\r\n",
+      "response_body": {
+        "path": "bodies/0317c1a213b5882046fdec15a304f3cdc94fefb3de46a58ae8c0c2c7c6c0a95b.gz",
+        "raw_bytes": 147652,
+        "raw_sha256": "0317c1a213b5882046fdec15a304f3cdc94fefb3de46a58ae8c0c2c7c6c0a95b",
+        "stored_bytes": 26913,
+        "stored_sha256": "c1c17dd49c2373ad6e7d903cd7ad76472adca5fdb2d652401ed25fd63a5e5b79"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:24.352260+00:00"
+}

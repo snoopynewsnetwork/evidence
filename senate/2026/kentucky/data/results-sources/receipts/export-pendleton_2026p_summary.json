@@ -1,0 +1,51 @@
+{
+  "label": "export-pendleton_2026p_summary",
+  "started_utc": "2026-10-20T22:35:56.378285+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/PENDLETON/Pendleton_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/PENDLETON/Pendleton_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:56.378295+00:00",
+      "ended_utc": "2026-10-20T22:35:56.676165+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/5f1382a245fd74d994a0b7107dc1ea82d8c4e38e6a9b293a0007a30c18786bf5.gz",
+        "raw_bytes": 1633,
+        "raw_sha256": "5f1382a245fd74d994a0b7107dc1ea82d8c4e38e6a9b293a0007a30c18786bf5",
+        "stored_bytes": 890,
+        "stored_sha256": "6b0f4118af458c8636809fbefa2b6d850e22fbef57b9d51900ce599aa90baed1"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:56 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 48407\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:56 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:24:33 GMT\r\netag: \"{5ED82DC2-4B79-44B9-A825-A56CA861CC4E},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:5ED82DC2-4B79-44B9-A825-A56CA861CC4E@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Pendleton%5f2026p%5fsummary%2ecsv; filename=\"Pendleton_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-4c70-b05c-6baa-206bb5469856\r\nrequest-id: 1dda46a2-4c70-b05c-6baa-206bb5469856\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 61\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223556Z-174b95d58c8d6z4xhC1CH152x00000001ecg000000005rge\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/416b1c594931a585230300cdf6cdb6dc0fd907496da29623e693de2d9b2b28b8.gz",
+        "raw_bytes": 48407,
+        "raw_sha256": "416b1c594931a585230300cdf6cdb6dc0fd907496da29623e693de2d9b2b28b8",
+        "stored_bytes": 4900,
+        "stored_sha256": "64152db70b55b662aa4fd55c65ba2370a6746f11fb45932845e1bbda33e496a3"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:56.681448+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "export-woodford_2026p_summary",
+  "started_utc": "2026-10-20T22:35:59.885417+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WOODFORD/Woodford_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WOODFORD/Woodford_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:59.885421+00:00",
+      "ended_utc": "2026-10-20T22:36:00.110426+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/6e4441f3d17d406a5978ca3803b0dd861b9d4e522a7fe9a635880e73f434b5ef.gz",
+        "raw_bytes": 1631,
+        "raw_sha256": "6e4441f3d17d406a5978ca3803b0dd861b9d4e522a7fe9a635880e73f434b5ef",
+        "stored_bytes": 887,
+        "stored_sha256": "5e78e6f1ed89869cff232458fea31505dc29aed83761a24c016a5872e866e634"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:00 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 34400\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:36:00 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:27:13 GMT\r\netag: \"{DD93202C-1706-4DA0-B46B-600E0D6AE17F},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:DD93202C-1706-4DA0-B46B-600E0D6AE17F@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Woodford%5f2026p%5fsummary%2ecsv; filename=\"Woodford_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1eda46a2-ac4a-b05c-bfd1-8053fa1ee63a\r\nrequest-id: 1eda46a2-ac4a-b05c-bfd1-8053fa1ee63a\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 46\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223600Z-174b95d58c89vphkhC1CH152x80000001fc000000000b79x\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/5c6c31ed6ff0c31a9ec38c63d02da3118860c891eb0ba5495a9bef747c960150.gz",
+        "raw_bytes": 34400,
+        "raw_sha256": "5c6c31ed6ff0c31a9ec38c63d02da3118860c891eb0ba5495a9bef747c960150",
+        "stored_bytes": 3592,
+        "stored_sha256": "cecdcd2239a4f6e2d92d22ee4c649091f94c8450766904acf8088152225601ef"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:00.112172+00:00"
+}

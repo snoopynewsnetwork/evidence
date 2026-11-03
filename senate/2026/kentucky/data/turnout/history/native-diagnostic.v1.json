@@ -1,0 +1,3715 @@
+{
+  "unit_count": 3220,
+  "counties": {
+    "Adair": {
+      "units": 16,
+      "raw_total": 8974,
+      "trump": 7643,
+      "harris": 1257,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Allen": {
+      "units": 14,
+      "raw_total": 9418,
+      "trump": 7824,
+      "harris": 1505,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Anderson": {
+      "units": 8,
+      "raw_total": 13095,
+      "trump": 9650,
+      "harris": 3226,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Ballard": {
+      "units": 5,
+      "raw_total": 4088,
+      "trump": 3331,
+      "harris": 697,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Barren": {
+      "units": 14,
+      "raw_total": 19802,
+      "trump": 15019,
+      "harris": 4565,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Bath": {
+      "units": 14,
+      "raw_total": 5389,
+      "trump": 4041,
+      "harris": 1278,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Bell": {
+      "units": 30,
+      "raw_total": 9340,
+      "trump": 7831,
+      "harris": 1419,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Boone": {
+      "units": 64,
+      "raw_total": 67421,
+      "trump": 45650,
+      "harris": 20601,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Bourbon": {
+      "units": 7,
+      "raw_total": 9537,
+      "trump": 6284,
+      "harris": 3088,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Boyd": {
+      "units": 48,
+      "raw_total": 20951,
+      "trump": 14363,
+      "harris": 6291,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Boyle": {
+      "units": 25,
+      "raw_total": 14373,
+      "trump": 9159,
+      "harris": 4990,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Bracken": {
+      "units": 8,
+      "raw_total": 4153,
+      "trump": 3399,
+      "harris": 702,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Breathitt": {
+      "units": 21,
+      "raw_total": 5118,
+      "trump": 4036,
+      "harris": 1002,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 5
+    },
+    "Breckinridge": {
+      "units": 15,
+      "raw_total": 10048,
+      "trump": 7882,
+      "harris": 2038,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Bullitt": {
+      "units": 47,
+      "raw_total": 43209,
+      "trump": 32299,
+      "harris": 10280,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Butler": {
+      "units": 5,
+      "raw_total": 5943,
+      "trump": 4905,
+      "harris": 965,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Caldwell": {
+      "units": 13,
+      "raw_total": 6188,
+      "trump": 4860,
+      "harris": 1256,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Calloway": {
+      "units": 23,
+      "raw_total": 16945,
+      "trump": 11539,
+      "harris": 5111,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Campbell": {
+      "units": 46,
+      "raw_total": 48334,
+      "trump": 28450,
+      "harris": 18952,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Carlisle": {
+      "units": 6,
+      "raw_total": 2610,
+      "trump": 2182,
+      "harris": 408,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Carroll": {
+      "units": 3,
+      "raw_total": 4025,
+      "trump": 3014,
+      "harris": 963,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Carter": {
+      "units": 27,
+      "raw_total": 11422,
+      "trump": 8981,
+      "harris": 2305,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Casey": {
+      "units": 15,
+      "raw_total": 7080,
+      "trump": 6216,
+      "harris": 804,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Christian": {
+      "units": 42,
+      "raw_total": 21671,
+      "trump": 14332,
+      "harris": 7055,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Clark": {
+      "units": 26,
+      "raw_total": 17885,
+      "trump": 11950,
+      "harris": 5639,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Clay": {
+      "units": 20,
+      "raw_total": 7526,
+      "trump": 6729,
+      "harris": 692,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 9
+    },
+    "Clinton": {
+      "units": 13,
+      "raw_total": 4891,
+      "trump": 4276,
+      "harris": 549,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 11
+    },
+    "Crittenden": {
+      "units": 13,
+      "raw_total": 4769,
+      "trump": 3349,
+      "harris": 608,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 759
+    },
+    "Cumberland": {
+      "units": 10,
+      "raw_total": 3442,
+      "trump": 2922,
+      "harris": 483,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Daviess": {
+      "units": 56,
+      "raw_total": 47097,
+      "trump": 30705,
+      "harris": 15673,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Edmonson": {
+      "units": 10,
+      "raw_total": 6247,
+      "trump": 5048,
+      "harris": 1118,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Estill": {
+      "units": 15,
+      "raw_total": 6290,
+      "trump": 5091,
+      "harris": 1114,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Fayette": {
+      "units": 286,
+      "raw_total": 143932,
+      "trump": 57344,
+      "harris": 83387,
+      "trump_delta": -3,
+      "harris_delta": 0,
+      "total_delta": -3
+    },
+    "Fleming": {
+      "units": 18,
+      "raw_total": 7000,
+      "trump": 5578,
+      "harris": 1334,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Floyd": {
+      "units": 42,
+      "raw_total": 15673,
+      "trump": 12326,
+      "harris": 3061,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 21
+    },
+    "Franklin": {
+      "units": 22,
+      "raw_total": 25763,
+      "trump": 13246,
+      "harris": 11996,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Fulton": {
+      "units": 8,
+      "raw_total": 2145,
+      "trump": 1491,
+      "harris": 636,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Gallatin": {
+      "units": 8,
+      "raw_total": 3917,
+      "trump": 3109,
+      "harris": 761,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Garrard": {
+      "units": 14,
+      "raw_total": 8917,
+      "trump": 7086,
+      "harris": 1719,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Grant": {
+      "units": 3,
+      "raw_total": 11469,
+      "trump": 9372,
+      "harris": 1944,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Graves": {
+      "units": 11,
+      "raw_total": 16678,
+      "trump": 13378,
+      "harris": 3105,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Grayson": {
+      "units": 21,
+      "raw_total": 12095,
+      "trump": 9710,
+      "harris": 2235,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Green": {
+      "units": 10,
+      "raw_total": 5857,
+      "trump": 5033,
+      "harris": 782,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Greenup": {
+      "units": 29,
+      "raw_total": 17374,
+      "trump": 12961,
+      "harris": 4181,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Hancock": {
+      "units": 10,
+      "raw_total": 4633,
+      "trump": 3375,
+      "harris": 1173,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Hardin": {
+      "units": 58,
+      "raw_total": 48082,
+      "trump": 30672,
+      "harris": 16572,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Harlan": {
+      "units": 32,
+      "raw_total": 10388,
+      "trump": 9109,
+      "harris": 1199,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Harrison": {
+      "units": 18,
+      "raw_total": 9018,
+      "trump": 6639,
+      "harris": 2265,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Hart": {
+      "units": 5,
+      "raw_total": 8409,
+      "trump": 6691,
+      "harris": 1642,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Henderson": {
+      "units": 28,
+      "raw_total": 19688,
+      "trump": 12592,
+      "harris": 6837,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Henry": {
+      "units": 16,
+      "raw_total": 8074,
+      "trump": 6093,
+      "harris": 1857,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Hickman": {
+      "units": 6,
+      "raw_total": 2069,
+      "trump": 1656,
+      "harris": 394,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Hopkins": {
+      "units": 50,
+      "raw_total": 20537,
+      "trump": 15361,
+      "harris": 4916,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Jackson": {
+      "units": 11,
+      "raw_total": 5944,
+      "trump": 5358,
+      "harris": 506,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 10
+    },
+    "Jefferson": {
+      "units": 627,
+      "raw_total": 355722,
+      "trump": 144553,
+      "harris": 203070,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 1628
+    },
+    "Jessamine": {
+      "units": 35,
+      "raw_total": 26685,
+      "trump": 17854,
+      "harris": 8303,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Johnson": {
+      "units": 31,
+      "raw_total": 9637,
+      "trump": 8150,
+      "harris": 1350,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 15
+    },
+    "Kenton": {
+      "units": 72,
+      "raw_total": 81241,
+      "trump": 48444,
+      "harris": 30859,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 293
+    },
+    "Knott": {
+      "units": 30,
+      "raw_total": 6015,
+      "trump": 4732,
+      "harris": 1181,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 12
+    },
+    "Knox": {
+      "units": 30,
+      "raw_total": 13179,
+      "trump": 11178,
+      "harris": 1821,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 23
+    },
+    "LaRue": {
+      "units": 12,
+      "raw_total": 7259,
+      "trump": 5773,
+      "harris": 1389,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Laurel": {
+      "units": 23,
+      "raw_total": 27938,
+      "trump": 23516,
+      "harris": 4037,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 51
+    },
+    "Lawrence": {
+      "units": 18,
+      "raw_total": 6574,
+      "trump": 5464,
+      "harris": 1044,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Lee": {
+      "units": 10,
+      "raw_total": 2695,
+      "trump": 2227,
+      "harris": 406,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 5
+    },
+    "Leslie": {
+      "units": 17,
+      "raw_total": 4358,
+      "trump": 3908,
+      "harris": 382,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 1
+    },
+    "Letcher": {
+      "units": 30,
+      "raw_total": 8451,
+      "trump": 6848,
+      "harris": 1457,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 20
+    },
+    "Lewis": {
+      "units": 4,
+      "raw_total": 5721,
+      "trump": 4997,
+      "harris": 666,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Lincoln": {
+      "units": 18,
+      "raw_total": 11034,
+      "trump": 8833,
+      "harris": 2080,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Livingston": {
+      "units": 7,
+      "raw_total": 4972,
+      "trump": 4021,
+      "harris": 886,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Logan": {
+      "units": 7,
+      "raw_total": 12511,
+      "trump": 9620,
+      "harris": 2734,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Lyon": {
+      "units": 6,
+      "raw_total": 4187,
+      "trump": 3187,
+      "harris": 950,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Madison": {
+      "units": 47,
+      "raw_total": 44893,
+      "trump": 29130,
+      "harris": 15180,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": -295
+    },
+    "Magoffin": {
+      "units": 14,
+      "raw_total": 509,
+      "trump": 332,
+      "harris": 173,
+      "trump_delta": -3956,
+      "harris_delta": -736,
+      "total_delta": -4765
+    },
+    "Marion": {
+      "units": 5,
+      "raw_total": 9100,
+      "trump": 6473,
+      "harris": 2513,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": -2
+    },
+    "Marshall": {
+      "units": 25,
+      "raw_total": 17602,
+      "trump": 13677,
+      "harris": 3700,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Martin": {
+      "units": 14,
+      "raw_total": 3658,
+      "trump": 3343,
+      "harris": 287,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 3
+    },
+    "Mason": {
+      "units": 14,
+      "raw_total": 7901,
+      "trump": 5621,
+      "harris": 2170,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "McCracken": {
+      "units": 41,
+      "raw_total": 31947,
+      "trump": 21349,
+      "harris": 10191,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "McCreary": {
+      "units": 18,
+      "raw_total": 6212,
+      "trump": 5531,
+      "harris": 641,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "McLean": {
+      "units": 8,
+      "raw_total": 4634,
+      "trump": 3578,
+      "harris": 989,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Meade": {
+      "units": 19,
+      "raw_total": 14123,
+      "trump": 10630,
+      "harris": 3279,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Menifee": {
+      "units": 6,
+      "raw_total": 3300,
+      "trump": 2563,
+      "harris": 664,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 6
+    },
+    "Mercer": {
+      "units": 16,
+      "raw_total": 11851,
+      "trump": 8826,
+      "harris": 2838,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Metcalfe": {
+      "units": 12,
+      "raw_total": 5127,
+      "trump": 4197,
+      "harris": 884,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Monroe": {
+      "units": 12,
+      "raw_total": 5308,
+      "trump": 4679,
+      "harris": 576,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Montgomery": {
+      "units": 3,
+      "raw_total": 12821,
+      "trump": 9302,
+      "harris": 3329,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Morgan": {
+      "units": 12,
+      "raw_total": 5378,
+      "trump": 4353,
+      "harris": 939,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 5
+    },
+    "Muhlenberg": {
+      "units": 25,
+      "raw_total": 13692,
+      "trump": 10491,
+      "harris": 3048,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Nelson": {
+      "units": 24,
+      "raw_total": 22852,
+      "trump": 16052,
+      "harris": 6515,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Nicholas": {
+      "units": 5,
+      "raw_total": 3319,
+      "trump": 2451,
+      "harris": 824,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Ohio": {
+      "units": 19,
+      "raw_total": 10937,
+      "trump": 8679,
+      "harris": 2094,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Oldham": {
+      "units": 38,
+      "raw_total": 38210,
+      "trump": 23025,
+      "harris": 14402,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Owen": {
+      "units": 12,
+      "raw_total": 5500,
+      "trump": 4434,
+      "harris": 988,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Owsley": {
+      "units": 8,
+      "raw_total": 1839,
+      "trump": 1625,
+      "harris": 203,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Pendleton": {
+      "units": 12,
+      "raw_total": 6900,
+      "trump": 5593,
+      "harris": 1210,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Perry": {
+      "units": 37,
+      "raw_total": 9992,
+      "trump": 7913,
+      "harris": 1966,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Pike": {
+      "units": 57,
+      "raw_total": 23950,
+      "trump": 19684,
+      "harris": 4025,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Powell": {
+      "units": 7,
+      "raw_total": 5369,
+      "trump": 4092,
+      "harris": 1174,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 9
+    },
+    "Pulaski": {
+      "units": 19,
+      "raw_total": 31735,
+      "trump": 26051,
+      "harris": 5351,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Robertson": {
+      "units": 5,
+      "raw_total": 1144,
+      "trump": 915,
+      "harris": 215,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Rockcastle": {
+      "units": 15,
+      "raw_total": 7737,
+      "trump": 6635,
+      "harris": 986,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 13
+    },
+    "Rowan": {
+      "units": 18,
+      "raw_total": 9873,
+      "trump": 6224,
+      "harris": 3484,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Russell": {
+      "units": 16,
+      "raw_total": 8893,
+      "trump": 7622,
+      "harris": 1200,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Scott": {
+      "units": 1,
+      "raw_total": 29769,
+      "trump": 18747,
+      "harris": 10501,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Shelby": {
+      "units": 34,
+      "raw_total": 24620,
+      "trump": 16356,
+      "harris": 7822,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Simpson": {
+      "units": 13,
+      "raw_total": 8776,
+      "trump": 6253,
+      "harris": 2403,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Spencer": {
+      "units": 9,
+      "raw_total": 11480,
+      "trump": 8927,
+      "harris": 2415,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Taylor": {
+      "units": 20,
+      "raw_total": 12261,
+      "trump": 9523,
+      "harris": 2576,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Todd": {
+      "units": 13,
+      "raw_total": 5112,
+      "trump": 4009,
+      "harris": 1051,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Trigg": {
+      "units": 7,
+      "raw_total": 7196,
+      "trump": 5436,
+      "harris": 1667,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Trimble": {
+      "units": 12,
+      "raw_total": 4249,
+      "trump": 3283,
+      "harris": 923,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Union": {
+      "units": 12,
+      "raw_total": 6058,
+      "trump": 4758,
+      "harris": 1225,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Warren": {
+      "units": 53,
+      "raw_total": 56891,
+      "trump": 34862,
+      "harris": 21065,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Washington": {
+      "units": 13,
+      "raw_total": 6341,
+      "trump": 4720,
+      "harris": 1533,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Wayne": {
+      "units": 19,
+      "raw_total": 8733,
+      "trump": 7203,
+      "harris": 1444,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Webster": {
+      "units": 14,
+      "raw_total": 5556,
+      "trump": 4339,
+      "harris": 1153,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 0
+    },
+    "Whitley": {
+      "units": 36,
+      "raw_total": 15074,
+      "trump": 12687,
+      "harris": 2236,
+      "trump_delta": 0,
+      "harris_delta": -1,
+      "total_delta": -1
+    },
+    "Wolfe": {
+      "units": 8,
+      "raw_total": 2919,
+      "trump": 2163,
+      "harris": 689,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 4
+    },
+    "Woodford": {
+      "units": 11,
+      "raw_total": 21707,
+      "trump": 8419,
+      "harris": 6282,
+      "trump_delta": 0,
+      "harris_delta": 0,
+      "total_delta": 6714
+    }
+  },
+  "issues": [
+    {
+      "key": "KY|2024|Marion|5a1c2afa7539|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Marion|5a1c2afa7539|C101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Marion|5a1c2afa7539|D101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Marion|5a1c2afa7539|E101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Marion|5a1c2afa7539|H101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|A101                                                                                                                                           406 of 575 registered voters = 70.61%",
+      "cast": 405,
+      "candidate_sum": 2,
+      "labels": [
+        "Cherunda Fox/Harlan McVay Jr. (W)",
+        "Claudia De la Cruz/Karina Garcia (W)",
+        "Cornel West/Melina Abdullah (W)",
+        "Future Madam Potus/Jessica Kennedy",
+        "James D. Soderna/Matthew J.",
+        "Jay J. Bowman/De Bowman (W)",
+        "John Cheng/ Wayne Waligorski (W)",
+        "Joseph Kishore/Jerry White (W)",
+        "Peter Sonski/Lauren Onak (W)"
+      ]
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|A101                                                                                                                                           406 of 575 registered voters = 70.61%",
+      "candidate": "trump",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|A101                                                                                                                                           406 of 575 registered voters = 70.61%",
+      "candidate": "harris",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|A102                                                                                                                                            186 of 364 registered voters = 51.10%",
+      "cast": 186,
+      "candidate_sum": 0,
+      "labels": [
+        "Cherunda Fox/Harlan McVay Jr. (W)",
+        "Claudia De la Cruz/Karina Garcia (W)",
+        "Cornel West/Melina Abdullah (W)",
+        "Future Madam Potus/Jessica Kennedy",
+        "James D. Soderna/Matthew J.",
+        "Jay J. Bowman/De Bowman (W)",
+        "John Cheng/ Wayne Waligorski (W)",
+        "Joseph Kishore/Jerry White (W)",
+        "Peter Sonski/Lauren Onak (W)"
+      ]
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|A102                                                                                                                                            186 of 364 registered voters = 51.10%",
+      "candidate": "trump",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|A102                                                                                                                                            186 of 364 registered voters = 51.10%",
+      "candidate": "harris",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|D101                                                                                                                                            171 of 282 registered voters = 60.64%",
+      "cast": 170,
+      "candidate_sum": 0,
+      "labels": [
+        "Cherunda Fox/Harlan McVay Jr. (W)",
+        "Claudia De la Cruz/Karina Garcia (W)",
+        "Cornel West/Melina Abdullah (W)",
+        "Future Madam Potus/Jessica Kennedy",
+        "James D. Soderna/Matthew J.",
+        "Jay J. Bowman/De Bowman (W)",
+        "John Cheng/ Wayne Waligorski (W)",
+        "Joseph Kishore/Jerry White (W)",
+        "Peter Sonski/Lauren Onak (W)"
+      ]
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|D101                                                                                                                                            171 of 282 registered voters = 60.64%",
+      "candidate": "trump",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Crittenden|f1440c2ccff7|D101                                                                                                                                            171 of 282 registered voters = 60.64%",
+      "candidate": "harris",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|A103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|A107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|B103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|B105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|B109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|B110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|B111",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|C108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Graves|328b7ff9e22a|C110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|F101                                                                                                                                            1,974 of 0 registered voters = 0.00%",
+      "cast": 1943,
+      "candidate_sum": 3,
+      "labels": [
+        "Claudia DE LA CRUZ / Karina GARCIA",
+        "Cornel WEST / Melina ABDULLAH (W)",
+        "Future Madam POTUS / Jessica",
+        "James D. SODERNA / Matthew J.",
+        "Jay J. BOWMAN / De BOWMAN (W)",
+        "John CHENG / Wayne WALIGORSKI",
+        "Joseph KISHORE / Jerry WHITE (W)",
+        "Peter SONSKI / Lauren ONAK (W)"
+      ]
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|F101                                                                                                                                            1,974 of 0 registered voters = 0.00%",
+      "candidate": "trump",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|F101                                                                                                                                            1,974 of 0 registered voters = 0.00%",
+      "candidate": "harris",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|G101                                                                                                                                            2,500 of 0 registered voters = 0.00%",
+      "cast": 2464,
+      "candidate_sum": 1,
+      "labels": [
+        "Claudia DE LA CRUZ / Karina GARCIA",
+        "Cornel WEST / Melina ABDULLAH (W)",
+        "Future Madam POTUS / Jessica",
+        "James D. SODERNA / Matthew J.",
+        "Jay J. BOWMAN / De BOWMAN (W)",
+        "John CHENG / Wayne WALIGORSKI",
+        "Joseph KISHORE / Jerry WHITE (W)",
+        "Peter SONSKI / Lauren ONAK (W)"
+      ]
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|G101                                                                                                                                            2,500 of 0 registered voters = 0.00%",
+      "candidate": "trump",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|G101                                                                                                                                            2,500 of 0 registered voters = 0.00%",
+      "candidate": "harris",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|H101                                                                                                                                            2,340 of 0 registered voters = 0.00%",
+      "cast": 2312,
+      "candidate_sum": 1,
+      "labels": [
+        "Claudia DE LA CRUZ / Karina GARCIA",
+        "Cornel WEST / Melina ABDULLAH (W)",
+        "Future Madam POTUS / Jessica",
+        "James D. SODERNA / Matthew J.",
+        "Jay J. BOWMAN / De BOWMAN (W)",
+        "John CHENG / Wayne WALIGORSKI",
+        "Joseph KISHORE / Jerry WHITE (W)",
+        "Peter SONSKI / Lauren ONAK (W)"
+      ]
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|H101                                                                                                                                            2,340 of 0 registered voters = 0.00%",
+      "candidate": "trump",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Woodford|febaa13d8b12|H101                                                                                                                                            2,340 of 0 registered voters = 0.00%",
+      "candidate": "harris",
+      "matches": 0
+    },
+    {
+      "key": "KY|2024|Trigg|e551f21c75f3|A100",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Trigg|e551f21c75f3|B200",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Trigg|e551f21c75f3|C300",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Trigg|e551f21c75f3|D400",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Trigg|e551f21c75f3|E500",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Trigg|e551f21c75f3|F600",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Trigg|e551f21c75f3|G700",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Owsley|8a4e955a48f4|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Owsley|8a4e955a48f4|A102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Owsley|8a4e955a48f4|A103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Owsley|8a4e955a48f4|B101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Owsley|8a4e955a48f4|B102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Owsley|8a4e955a48f4|B103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Owsley|8a4e955a48f4|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Owsley|8a4e955a48f4|C103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|A103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|A104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|A105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|A106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|A107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|A109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|A111",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|B110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C111",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C112",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C113",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|C114",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|D101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|D102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|D104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|D105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Whitley|a5748c34fb7d|D106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|A102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|A103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|A104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|B101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|B102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|C101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|D101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Green|7429bf74f47a|D102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A111",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A112",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A113",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|A114",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B111",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B112",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|B113",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C111",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Perry|1859f3ae62d7|C114",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|A102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|B101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|B102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|B103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|C101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|D101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|D102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Hancock|08c8f4887697|D103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Carlisle|6db4d9f4f2af|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Carlisle|6db4d9f4f2af|A102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Carlisle|6db4d9f4f2af|B101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Carlisle|6db4d9f4f2af|B102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Carlisle|6db4d9f4f2af|C101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Carlisle|6db4d9f4f2af|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|A102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|A103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|A104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|A105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|A106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|B102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|B103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|B104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|C101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|C103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|C104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Bath|a25e65261433|C105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|A102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|A103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|A104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|B101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|B102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|B103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|C101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|C103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|C104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|D101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|D102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|D103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Casey|107d1c9ed99d|D104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                  REP",
+        "Kamala D. HARRIS                 DEM",
+        "Jill STEIN                       KY",
+        "Robert F. KENNEDY JR.            IND",
+        "Shiva AYYADURAI                  IND",
+        "Chase OLIVER                     LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A101",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A111",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A113",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A114A",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A115",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A116",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A118",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A119",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A121",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|A122",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B101A",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B102A",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B103A",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B106A",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B109",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B114",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B115",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B116",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B117",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B118",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B119",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|B121A",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C102",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C103",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C104",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C105",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C106",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C107",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C108",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C109A",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C110",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C111",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C112",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C113",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C114",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C115",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C116",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    },
+    {
+      "key": "KY|2024|Boyd|858c7e21ab74|C117",
+      "candidate_rows": 6,
+      "labels": [
+        "Donald J. TRUMP                     REP",
+        "Kamala D. HARRIS                    DEM",
+        "Jill STEIN                          KY",
+        "Robert F. KENNEDY JR.               IND",
+        "Shiva AYYADURAI                     IND",
+        "Chase OLIVER                        LIB"
+      ]
+    }
+  ]
+}

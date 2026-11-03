@@ -1,0 +1,80 @@
+{
+  "status": "resolved_coordinator_manual_transcription_error",
+  "error": "Assertion4835 at page11 whole source image",
+  "root_read_values": [
+    254,
+    134,
+    2,
+    3,
+    1,
+    0,
+    2,
+    2,
+    396,
+    621,
+    400,
+    0
+  ],
+  "whole_recorded_source_witness": {
+    "key": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958:manual-literal:E101 Crackersneck",
+    "unit_literal": "E101 Crackersneck",
+    "county": "Elliott",
+    "source_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+    "page": 11,
+    "method": "TOTAL only; no voting-method split printed",
+    "registered": 621,
+    "ballots_cast": 400,
+    "blank_ballots": 0,
+    "candidate_source_order": [
+      "REP Donald J. TRUMP/J.D. VANCE",
+      "DEM Kamala D. HARRIS/Tim WALZ",
+      "KEN Jill STEIN/Samson KPADENOU",
+      "IND Robert F. KENNEDY JR./Nicole SHANAHAN",
+      "IND Shiva AYYADURAI/Crystal ELLIS",
+      "LIB Chase OLIVER/Mike TER MAAT",
+      "Write-In Totals",
+      "Not Assigned (child overlaps Write-In Totals)"
+    ],
+    "source_values": [
+      309,
+      74,
+      1,
+      5,
+      0,
+      1,
+      2,
+      2
+    ],
+    "A": 74,
+    "B": 309,
+    "pair": 383,
+    "all_candidate_printed_total": 392,
+    "A_pair_share": 0.19321148825065274,
+    "pair_participation": 0.9770408163265306,
+    "total_basis": "printed Total Votes Cast; generic write-in parent counted once",
+    "full_named_field_closure": false,
+    "transcription": "Independent manual reading of all16complete rendered pages; presidential/admin values on listed7pages; OCR retained separately and not numeric input",
+    "source_clock": "Precinct Summary - 03/12/2025 9:07 AM",
+    "native_geographic_equivalence_2026": null
+  },
+  "scope": "Root manual reading compared with retained worker witness; original raster must resolve any difference. No worker/source repair/adoption.",
+  "resolution": "Fresh whole primary PDF was independently decompressed and rawSHA checked, then pages11/13/15 rerendered with pdftoppm -singlefile -scale-to2000 -png and actually viewed at original detail. Root manual notes corrected: p11 Trump309/Harris74/total392; p13 registered609/ballots389; p15 Trump291/Harris74/total371. Exact prior code/notes remain frozen. No worker/source/witness changed; no source-image mutation is inferred.",
+  "whole_primary_PDF_raw_sha256": "01aff8c233aaf53c76abeecc4ba547cbd82627dcf2d8665df797659043e9e958",
+  "fresh_whole_source_renders": [
+    {
+      "path": "data/coordinator-visual-review/elliott-fresh-p11.png",
+      "bytes": 143687,
+      "sha256": "e40b53084a855088f397dd91236dd7a65beef1cfb3d7dc92e7fe777198c48392"
+    },
+    {
+      "path": "data/coordinator-visual-review/elliott-fresh-p13.png",
+      "bytes": 151621,
+      "sha256": "65666ffb8d081b303c6700bcafbfe301e9d6deb6e3bf5a2400bfc83ec07ceab2"
+    },
+    {
+      "path": "data/coordinator-visual-review/elliott-fresh-p15.png",
+      "bytes": 133151,
+      "sha256": "4e6eca2d6f0123050f8ba7b04fb09d6ba8430cd4c10846d9732b6160822e3683"
+    }
+  ]
+}

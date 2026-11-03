@@ -1,0 +1,51 @@
+{
+  "label": "county-clerks",
+  "started_utc": "2026-10-20T22:33:22.010630+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:33:22.010836+00:00",
+      "ended_utc": "2026-10-20T22:33:22.525367+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/c23be6d33deb67eab783f46c21e47bc11f9efd9b315fe76b959cb82656a0afef.gz",
+        "raw_bytes": 1335,
+        "raw_sha256": "c23be6d33deb67eab783f46c21e47bc11f9efd9b315fe76b959cb82656a0afef",
+        "stored_bytes": 719,
+        "stored_sha256": "4cb80a9668c10659f8e1cf34c43c1b3e61bee3180110e7cf0d1cdc7732b774e3"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:33:22 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 111291\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private, max-age=0\r\nexpires: Mon, 05 Oct 2026 22:33:22 GMT\r\nlast-modified: Tue, 20 Oct 2026 22:33:22 GMT\r\nx-sharepointhealthscore: 0\r\nx-xss-protection: 0\r\nx-aspnet-version: 4.0.30319\r\nsprequestguid: f7d946a2-7cc3-b05c-6baa-2f6ea54811f6\r\nrequest-id: f7d946a2-7cc3-b05c-6baa-2f6ea54811f6\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 252\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223322Z-r1cf8987fd57c6zhhC1CHI37rc00000014r00000000008eq\r\nx-cache: CONFIG_NOCACHE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/34889e319862124bfce85f3f71aeba339425be43f4cce0fe7139e717a7df0351.gz",
+        "raw_bytes": 111291,
+        "raw_sha256": "34889e319862124bfce85f3f71aeba339425be43f4cce0fe7139e717a7df0351",
+        "stored_bytes": 51519,
+        "stored_sha256": "be8a576f07a9a9d03bfaf0aa1226c95e3b46832e4333ef832998cc212eb1a066"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:33:22.529411+00:00"
+}

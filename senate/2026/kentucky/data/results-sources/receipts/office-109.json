@@ -1,0 +1,83 @@
+{
+  "label": "office-109",
+  "started_utc": "2026-10-20T22:35:21.152073+00:00",
+  "request": {
+    "url": "https://www.hendersonky.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.hendersonky.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:21.152076+00:00",
+      "ended_utc": "2026-10-20T22:35:21.301318+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/e93cf10733481bdef07442c1a5667b720e7148aff3bccc5a34f24abdb81e1cc0.gz",
+        "raw_bytes": 750,
+        "raw_sha256": "e93cf10733481bdef07442c1a5667b720e7148aff3bccc5a34f24abdb81e1cc0",
+        "stored_bytes": 477,
+        "stored_sha256": "f3c9f116a4a1dab88950ae4ff64a2a5863d61917cc589806419a5e5f8657d2ba"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ncache-control: private, s-maxage=600,no-transform\r\ncontent-type: text/html; charset=utf-8\r\nlocation: http://www.hendersoncountyky.gov/\r\np3p: CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"\r\nx-content-type-options: nosniff\r\nx-frame-options: SAMEORIGIN\r\nreferrer-policy: strict-origin-when-cross-origin\r\npermissions-policy: camera=(), microphone=()\r\ncontent-security-policy: frame-ancestors 'self' https://*.granicus.com https://*.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *\r\ndate: Tue, 20 Oct 2026 22:35:20 GMT\r\ncontent-length: 150\r\n\r\n",
+      "response_body": {
+        "path": "bodies/492d4f2370226ff89e528f49712dcdc16da7aa6ceee94abcf29cf71e13908575.gz",
+        "raw_bytes": 150,
+        "raw_sha256": "492d4f2370226ff89e528f49712dcdc16da7aa6ceee94abcf29cf71e13908575",
+        "stored_bytes": 136,
+        "stored_sha256": "56f2901924dde91073406e414218932961ea45426fb2fc97e9acbe3c080cd031"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "http://www.hendersoncountyky.gov/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:21.301856+00:00",
+      "ended_utc": "2026-10-20T22:35:21.807767+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/c0c90dab88ae84afb17cd87db2b5befdf92ae6721704454d6eb025ee55d0dfbc.gz",
+        "raw_bytes": 877,
+        "raw_sha256": "c0c90dab88ae84afb17cd87db2b5befdf92ae6721704454d6eb025ee55d0dfbc",
+        "stored_bytes": 544,
+        "stored_sha256": "ed95b083bc155a3e0405fac3339753de3935e85c6a5977d53117b51979d10f98"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nCache-Control: private, s-maxage=600,no-transform\r\nContent-Type: text/html; charset=utf-8\r\np3p: CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"\r\nSet-Cookie: CP_IsMobile=false; path=/\r\nSet-Cookie: CP_IsMobile=false; path=/\r\nSet-Cookie: ASP.NET_SessionId=qhd4bpogsgunljp2a0g54tgr; path=/; HttpOnly; SameSite=Lax\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nPermissions-Policy: camera=(), microphone=()\r\nContent-Security-Policy: frame-ancestors 'self' https://*.granicus.com https://*.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *\r\nDate: Tue, 20 Oct 2026 22:35:21 GMT\r\nContent-Length: 94308\r\n\r\n",
+      "response_body": {
+        "path": "bodies/46e3cad29e0a67e84fcab0c7de584f59e067f5469de1d0a36ee9846b1081de91.gz",
+        "raw_bytes": 94308,
+        "raw_sha256": "46e3cad29e0a67e84fcab0c7de584f59e067f5469de1d0a36ee9846b1081de91",
+        "stored_bytes": 19056,
+        "stored_sha256": "d282e0bcc6918c3d06186130db6669020a6d11416710b12da1981e736e654a83"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:21.809742+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "office-090-elections",
+  "started_utc": "2026-10-20T22:36:10.717168+00:00",
+  "request": {
+    "url": "https://union.countyclerk.us/elections/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://union.countyclerk.us/elections/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:10.717172+00:00",
+      "ended_utc": "2026-10-20T22:36:10.992199+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/e54d3ffc545defa9f7d81e8878d654ee2e7d5f33a0d73836a2f60df9b257cbd0.gz",
+        "raw_bytes": 940,
+        "raw_sha256": "e54d3ffc545defa9f7d81e8878d654ee2e7d5f33a0d73836a2f60df9b257cbd0",
+        "stored_bytes": 627,
+        "stored_sha256": "7755fb4b7caa0808ca0df75365a0cf0fcf6bda0e14c9b38e3091329e8c955104"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:19:49 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://union.countyclerk.us/wp-json/>; rel=\"https://api.w.org/\", <https://union.countyclerk.us/wp-json/wp/v2/pages/14>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://union.countyclerk.us/?p=14>; rel=shortlink\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 24708966 17056322\r\nAge: 963\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 107871\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914707456; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/529b27a08cdbd8eab93516f06a9281626b77436638991674b04af5a593260d42.gz",
+        "raw_bytes": 107871,
+        "raw_sha256": "529b27a08cdbd8eab93516f06a9281626b77436638991674b04af5a593260d42",
+        "stored_bytes": 25432,
+        "stored_sha256": "de7613b9f5cf7c1b8442f5bded4aa7d977d1adf0dc601a8bbf84197b868bdfe0"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:10.994242+00:00"
+}

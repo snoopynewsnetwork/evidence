@@ -1,0 +1,51 @@
+{
+  "label": "export-warren_2026p_summary",
+  "started_utc": "2026-10-20T22:35:58.810239+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WARREN/Warren_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WARREN/Warren_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:58.810243+00:00",
+      "ended_utc": "2026-10-20T22:35:59.299091+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/bdbc4ac2b7789b7d3d1bd64a06fb0a9d7a848ad56a3edea1e4afba178a3e9c2f.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "bdbc4ac2b7789b7d3d1bd64a06fb0a9d7a848ad56a3edea1e4afba178a3e9c2f",
+        "stored_bytes": 891,
+        "stored_sha256": "bdbc15b7a7738eb9214f95cee1f4207fa19116dd8a181aec7923247c8b5a495f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:59 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 187512\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:59 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:26:33 GMT\r\netag: \"{D2BCF40C-0BFC-44F1-8673-A19478ECB998},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:D2BCF40C-0BFC-44F1-8673-A19478ECB998@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Warren%5f2026p%5fsummary%2ecsv; filename=\"Warren_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1eda46a2-dc0b-b05c-6baa-263b4c0f3dd9\r\nrequest-id: 1eda46a2-dc0b-b05c-6baa-263b4c0f3dd9\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 166\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223559Z-174b95d58c856zfphC1CH1rx5g00000002q00000000047rc\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/d483e7d8f84620de3fd68f4ae74f22c891b645f8d8a73068a28d98497b62faa6.gz",
+        "raw_bytes": 187512,
+        "raw_sha256": "d483e7d8f84620de3fd68f4ae74f22c891b645f8d8a73068a28d98497b62faa6",
+        "stored_bytes": 15640,
+        "stored_sha256": "890353f5302e8d8434f775e2a53db4254bd35bf4b668a230fc50fdfda49e4289"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:59.309390+00:00"
+}

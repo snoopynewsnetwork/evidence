@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-unknown-mask",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "complete explicit unknown mask",
+  "complete_packet_input_sha256": "7d085f84490d2b70c3bea8981363dbb591f8e890cf8940c3a88f1408dcce0895",
+  "full_components": 382
+}

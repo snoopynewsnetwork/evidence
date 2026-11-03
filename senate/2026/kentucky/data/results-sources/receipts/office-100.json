@@ -1,0 +1,115 @@
+{
+  "label": "office-100",
+  "started_utc": "2026-10-20T22:35:15.490898+00:00",
+  "request": {
+    "url": "https://www.bathwp.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.bathwp.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:15.490901+00:00",
+      "ended_utc": "2026-10-20T22:35:15.889076+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/d7feec17db929663b34d0b99cf1b34fa75fffddb4dbc1a6ef93851cec9647960.gz",
+        "raw_bytes": 266,
+        "raw_sha256": "d7feec17db929663b34d0b99cf1b34fa75fffddb4dbc1a6ef93851cec9647960",
+        "stored_bytes": 235,
+        "stored_sha256": "04afce02ab0f3c2fe0b90e8927ce831d5058bcb180d5e75c018e2d67e4f8e1f1"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:15 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=iso-8859-1\r\ncontent-length: 273\r\nlocation: http://bath.clerkinfo.net\r\nx-server-cache: true\r\nx-proxy-cache: EXPIRED\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\n\r\n",
+      "response_body": {
+        "path": "bodies/26e21d6563d22fdc66f76d9f82fc24f9b45175a46c7816f361a5e7ec21f942ac.gz",
+        "raw_bytes": 273,
+        "raw_sha256": "26e21d6563d22fdc66f76d9f82fc24f9b45175a46c7816f361a5e7ec21f942ac",
+        "stored_bytes": 220,
+        "stored_sha256": "9de023af083c1d80f2b74f5bf3fb384fc5f34fbb0ab9060a2c8ab5d4615f3b0f"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "http://bath.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:15.889603+00:00",
+      "ended_utc": "2026-10-20T22:35:16.172314+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/9bff5cb6e02c9b4e5f780a7bcd94fffc22bdc716c442dfc4532d54f9f8fc7931.gz",
+        "raw_bytes": 192,
+        "raw_sha256": "9bff5cb6e02c9b4e5f780a7bcd94fffc22bdc716c442dfc4532d54f9f8fc7931",
+        "stored_bytes": 183,
+        "stored_sha256": "3d4e7a3a283577e6272efef17416d17fe9872e933461fe048c3cb613f3739703"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nDate: Tue, 20 Oct 2026 22:35:16 GMT\r\nServer: Apache\r\nLocation: https://bath.clerkinfo.net/\r\nContent-Length: 275\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n",
+      "response_body": {
+        "path": "bodies/3f6e6366779fa16f13b3bf6e9307ae084a16ea771231c6da71dcb91b42bf60cc.gz",
+        "raw_bytes": 275,
+        "raw_sha256": "3f6e6366779fa16f13b3bf6e9307ae084a16ea771231c6da71dcb91b42bf60cc",
+        "stored_bytes": 223,
+        "stored_sha256": "004473b3efd34213d1ffefedac6999e1d8d37a374b3f93344d8682bea5bf03a5"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://bath.clerkinfo.net/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:16.172815+00:00",
+      "ended_utc": "2026-10-20T22:35:22.441713+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/f6345a3add55b52a559bac4f6ccb044973cc5200e150c4b790d0fe07ab91578c.gz",
+        "raw_bytes": 478,
+        "raw_sha256": "f6345a3add55b52a559bac4f6ccb044973cc5200e150c4b790d0fe07ab91578c",
+        "stored_bytes": 331,
+        "stored_sha256": "41142978907d224a163235d4d0b97b291fafb97a0a9c6b1083e8fae8be16349d"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:22 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nlink: <https://bathcoclerkky.gov/index.php?rest_route=/>; rel=\"https://api.w.org/\", <https://bathcoclerkky.gov/index.php?rest_route=/wp/v2/pages/104>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bathcoclerkky.gov/>; rel=shortlink\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: EXPIRED\r\n\r\n",
+      "response_body": {
+        "path": "bodies/ec11ab16e30d8f759d06bbbf0ec266d8e680fba3de5a61bfda50969794052231.gz",
+        "raw_bytes": 41733,
+        "raw_sha256": "ec11ab16e30d8f759d06bbbf0ec266d8e680fba3de5a61bfda50969794052231",
+        "stored_bytes": 9862,
+        "stored_sha256": "b6ffb121b8f47efbbf279a9018a6f232a29299670d5702b3b4c83d9458cf7e13"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:22.442785+00:00"
+}

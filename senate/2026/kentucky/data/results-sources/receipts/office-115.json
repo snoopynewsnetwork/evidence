@@ -1,0 +1,51 @@
+{
+  "label": "office-115",
+  "started_utc": "2026-10-20T22:35:22.794673+00:00",
+  "request": {
+    "url": "https://www.madisoncountyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.madisoncountyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:22.794676+00:00",
+      "ended_utc": "2026-10-20T22:35:22.999141+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/754aa91b87eefcafa704a4b6a2231b3a93e00129cd4d9b9b353ecb945ccb30c8.gz",
+        "raw_bytes": 1393,
+        "raw_sha256": "754aa91b87eefcafa704a4b6a2231b3a93e00129cd4d9b9b353ecb945ccb30c8",
+        "stored_bytes": 830,
+        "stored_sha256": "1a0b917c54cbc1ee950db06a959fd325334cb3a5f304d4cce317c4e07fbd65ab"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:22 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncf-ray: a4db7ecc7ead61b1-ORD\r\ncf-cache-status: HIT\r\nage: 481491\r\ncache-control: public,max-age=0,must-revalidate\r\nx-seen-by: bQAXdg/f3pWGCb3VI6q72A==,\r\ncontent-language: en-US\r\netag: W/\"424fe91eb8bb41846ea549c0e1c03210\"\r\nlink: <https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin\r\nserver: cloudflare\r\nx-wix-request-id: 1792535722.970609432054456492\r\nstrict-transport-security: max-age=31556952\r\nvary: Accept-Encoding\r\nserver-timing: cache;desc=hit, varnish;desc=hit_hit, dc;desc=cloudflare\r\nx-content-type-options: nosniff\r\nx-served-by: ORD\r\nset-cookie: ssr-caching=cache#desc=hit#varnish=hit_hit#dc#desc=cloudflare; Max-Age=20\r\nset-cookie: sec-fetch-unsupported=1; Path=/; Secure; SameSite=Lax;\r\nset-cookie: __cf_bm=ChBdr9tV2p.Z4Zl_rcPze0feho7n_QS97A8TXdfePys-1792535722.9593148-1.0.1.1-6wpRAGK9ngZQnr0f5w8gv3orHpAtgwt8pS5kC71I0xbtQCpAoR34EAyP14AKuXQk.nmwAEJVPYLNoEwkJIN6K9PJT3ZeHFL2yHFW55HRNalNNdaEt3uIOcXZugP4jHig; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.madisoncountyclerk.us; Expires=Tue, 20 Oct 2026 23:05:22 GMT\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/64345bb915f6b4d42d7d7bb47907f65fd0950a577fb9e4cbe3e169ad03fe5ada.gz",
+        "raw_bytes": 1163963,
+        "raw_sha256": "64345bb915f6b4d42d7d7bb47907f65fd0950a577fb9e4cbe3e169ad03fe5ada",
+        "stored_bytes": 221792,
+        "stored_sha256": "79bfd2f58eba081f57f4c497aefb5fc87ad75b623f3bd98dddb41d21ac523b37"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:23.015217+00:00"
+}

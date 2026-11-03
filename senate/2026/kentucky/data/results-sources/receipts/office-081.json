@@ -1,0 +1,115 @@
+{
+  "label": "office-081",
+  "started_utc": "2026-10-20T22:35:11.225414+00:00",
+  "request": {
+    "url": "https://rockcastlecountyclerk.com",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://rockcastlecountyclerk.com",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:11.225418+00:00",
+      "ended_utc": "2026-10-20T22:35:11.377189+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/4bef8bf0372b1b5bfc8d7a47d49ff96b0776e3c3ec767805961a1f0e0c51bfd3.gz",
+        "raw_bytes": 181,
+        "raw_sha256": "4bef8bf0372b1b5bfc8d7a47d49ff96b0776e3c3ec767805961a1f0e0c51bfd3",
+        "stored_bytes": 171,
+        "stored_sha256": "29860a0b400a622bfb145874dee3fd0e230584d403d08300cfc94019544abed3"
+      },
+      "headers_latin1": "HTTP/2 301 \r\nlocation: http://rockcastlecountyclerk.com/wp\r\ncontent-length: 283\r\ncontent-type: text/html; charset=iso-8859-1\r\ndate: Tue, 20 Oct 2026 22:35:11 GMT\r\nserver: Apache\r\n\r\n",
+      "response_body": {
+        "path": "bodies/b3d895c9e69f10b9b0ffb2c7bb0eee17c8e4eb0106b18d071cf7013a3b215136.gz",
+        "raw_bytes": 283,
+        "raw_sha256": "b3d895c9e69f10b9b0ffb2c7bb0eee17c8e4eb0106b18d071cf7013a3b215136",
+        "stored_bytes": 228,
+        "stored_sha256": "ce5d40b9ee6309d733953eee833b7d5da1b3da60e019cf201ad823c717dfbda1"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "http://rockcastlecountyclerk.com/wp",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:11.377719+00:00",
+      "ended_utc": "2026-10-20T22:35:11.442491+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/7a3f9e34f7dd800df5b8b5263de8fde7e00b44bede62def8ffb2e5bf8c8f359f.gz",
+        "raw_bytes": 201,
+        "raw_sha256": "7a3f9e34f7dd800df5b8b5263de8fde7e00b44bede62def8ffb2e5bf8c8f359f",
+        "stored_bytes": 187,
+        "stored_sha256": "fdf3708e8f4daea1a31108314cd2a5f4184bc51e04ec741117904ab8ab6cf689"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nDate: Tue, 20 Oct 2026 22:35:11 GMT\r\nServer: Apache\r\nLocation: http://rockcastlecountyclerk.com/wp/\r\nContent-Length: 284\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n",
+      "response_body": {
+        "path": "bodies/f6b5ebbb5d7b1d4d96ab7af5a678d2d85cf48a0bd433479e6790cdec57b8c8e4.gz",
+        "raw_bytes": 284,
+        "raw_sha256": "f6b5ebbb5d7b1d4d96ab7af5a678d2d85cf48a0bd433479e6790cdec57b8c8e4",
+        "stored_bytes": 228,
+        "stored_sha256": "4241c441767a46417c93c5ad393ff6342a522653696ed9de079c0e9798476ab2"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "http://rockcastlecountyclerk.com/wp/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:11.442959+00:00",
+      "ended_utc": "2026-10-20T22:35:12.390031+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/b21eec73e340105f1aa5ecd2b6fe0ab5eb33c8707dbef5db058e07d66f838400.gz",
+        "raw_bytes": 281,
+        "raw_sha256": "b21eec73e340105f1aa5ecd2b6fe0ab5eb33c8707dbef5db058e07d66f838400",
+        "stored_bytes": 240,
+        "stored_sha256": "710a65b31f806e0b70a528970d94b488711672d769c8f2776c0d7cf0d3390705"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:35:11 GMT\r\nServer: Apache\r\nLink: <http://rockcastlecountyclerk.com/wp/wp-json/>; rel=\"https://api.w.org/\"\r\nUpgrade: h2,h2c\r\nConnection: Upgrade\r\nVary: Accept-Encoding\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n",
+      "response_body": {
+        "path": "bodies/8d6ad3f166615a59e6ba161bb5f1d2eca845c72920b3ef8a93e36e164198e0a2.gz",
+        "raw_bytes": 92624,
+        "raw_sha256": "8d6ad3f166615a59e6ba161bb5f1d2eca845c72920b3ef8a93e36e164198e0a2",
+        "stored_bytes": 14992,
+        "stored_sha256": "61bbfd34fb3bd2ad3131d5659889e06060ed2c3eb5bc27b9eef25c050af6c07e"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:12.391540+00:00"
+}

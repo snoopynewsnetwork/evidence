@@ -1,0 +1,51 @@
+{
+  "label": "sos-elections",
+  "started_utc": "2026-10-20T22:33:23.749360+00:00",
+  "request": {
+    "url": "https://www.sos.ky.gov/elections/Pages/default.aspx",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.sos.ky.gov/elections/Pages/default.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:33:23.749364+00:00",
+      "ended_utc": "2026-10-20T22:33:25.279987+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "404",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/1f97f2405706eaef843bea3e40a10cddd129809cbb861d5626b61a82d16043e2.gz",
+        "raw_bytes": 676,
+        "raw_sha256": "1f97f2405706eaef843bea3e40a10cddd129809cbb861d5626b61a82d16043e2",
+        "stored_bytes": 442,
+        "stored_sha256": "8fe761147b018037ad7810ce36e23a2918ed870b8b82e81059e77ab0e51c207f"
+      },
+      "headers_latin1": "HTTP/2 404 \r\ndate: Tue, 20 Oct 2026 22:33:25 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 666\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\nx-sharepointhealthscore: 0\r\nsprequestduration: 34\r\nspiislatency: 34\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223325Z-r1cf8987fd5vkdzlhC1CHIq1dn00000005ug000000006xe5\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: TCP_MISS\r\n\r\n",
+      "response_body": {
+        "path": "bodies/ebdc62ac5d70b556622dbe428235780315811f22157983aa90b2ea6a4c6cdb49.gz",
+        "raw_bytes": 666,
+        "raw_sha256": "ebdc62ac5d70b556622dbe428235780315811f22157983aa90b2ea6a4c6cdb49",
+        "stored_bytes": 311,
+        "stored_sha256": "e45dc5cdf05ae831a64e9fea585e1c8de8e6eea10c66330182e0f060725e10b8"
+      },
+      "body_availability": "captured",
+      "status": 404
+    }
+  ],
+  "ended_utc": "2026-10-20T22:33:25.280500+00:00"
+}

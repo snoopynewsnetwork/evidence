@@ -1,0 +1,83 @@
+{
+  "label": "office-027",
+  "started_utc": "2026-10-20T22:35:02.312031+00:00",
+  "request": {
+    "url": "https://floyd.clerkinfo.net/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://floyd.clerkinfo.net/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:02.312035+00:00",
+      "ended_utc": "2026-10-20T22:35:03.961949+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/0ffa2a0e167db31ac376bbc0e3f6e7e6d1604eca65f8bcad64817b2782d500b8.gz",
+        "raw_bytes": 287,
+        "raw_sha256": "0ffa2a0e167db31ac376bbc0e3f6e7e6d1604eca65f8bcad64817b2782d500b8",
+        "stored_bytes": 248,
+        "stored_sha256": "05d403ad00011efa8d33631695a9b99805a4f3aac10464b4df6cf0e06ce583a9"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:03 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 0\r\nx-redirect-by: WordPress\r\nlocation: https://floydcoclerkky.gov/\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: EXPIRED\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://floydcoclerkky.gov/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:03.962466+00:00",
+      "ended_utc": "2026-10-20T22:35:04.297265+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a7a38f5b457bdf7e042c42264150497575b724ee5469c2166212e08c8ce26cf8.gz",
+        "raw_bytes": 2174,
+        "raw_sha256": "a7a38f5b457bdf7e042c42264150497575b724ee5469c2166212e08c8ce26cf8",
+        "stored_bytes": 1005,
+        "stored_sha256": "2bd2a0fc2f0a5c2c75629c5dc963d012e16adea4b7a885a8dd60762d16d26f0b"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:35:04 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 5423\r\naccept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA\r\ncf-mitigated: challenge\r\ncontent-security-policy: default-src 'none'; script-src 'nonce-nfeH3D1Q522Vw1SYA3PSk3' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'\r\nserver: cloudflare\r\ncritical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA\r\ncross-origin-embedder-policy: require-corp\r\ncross-origin-opener-policy: same-origin\r\ncross-origin-resource-policy: same-origin\r\norigin-agent-cluster: ?1\r\npermissions-policy: accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*\r\nreferrer-policy: same-origin\r\nserver-timing: chlray;desc=\"a4db7e579b4a4fa9\"\r\nx-content-type-options: nosniff\r\nx-frame-options: SAMEORIGIN\r\nvary: accept-encoding\r\nset-cookie: __cf_bm=jXVqqTlth19Ph7qajikf17SlNXjS_edlYtaWqyazlpQ-1792535704.2554708-1.0.1.1-eCT5ulGo1w1YCh_Lb_d5D7CNX2pACLr34GDBZQTRAaBdjl6Mgol4W8XBgBf63oEK1Pni_37lZ.O22G_ricUNiDDX0fkI2RxFY_cuOol1PldImt9zKRkV_yjRNmMGgWl8; HttpOnly; SameSite=None; Secure; Path=/; Domain=floydcoclerkky.gov; Expires=Tue, 20 Oct 2026 23:05:04 GMT\r\ncf-ray: a4db7e579b4a4fa9-ORD\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/34d5e67a073567febb1ae3da32844c33fe81c549ccce74c101286a8db026417f.gz",
+        "raw_bytes": 5423,
+        "raw_sha256": "34d5e67a073567febb1ae3da32844c33fe81c549ccce74c101286a8db026417f",
+        "stored_bytes": 3145,
+        "stored_sha256": "5f2aee5f35ea35c65fc967210a3db6f5cd92a8d0ce7debbf32360f2635450c64"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:04.298279+00:00"
+}

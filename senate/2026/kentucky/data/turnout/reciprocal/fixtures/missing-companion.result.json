@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-companion",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "complete source/context/order/companion component membership",
+  "complete_packet_input_sha256": "bc91e7baa3e119953268f6fb3c9219739e53a22000740467d803c9fdbdd79479",
+  "full_components": 382
+}

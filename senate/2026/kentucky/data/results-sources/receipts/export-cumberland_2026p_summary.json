@@ -1,0 +1,51 @@
+{
+  "label": "export-cumberland_2026p_summary",
+  "started_utc": "2026-10-20T22:35:45.877400+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/CUMBERLAND/Cumberland_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/CUMBERLAND/Cumberland_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:45.877404+00:00",
+      "ended_utc": "2026-10-20T22:35:46.214359+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/698fcb18eb94074ba907d5082a3e347bac325d72db6230c43a726397493e27c9.gz",
+        "raw_bytes": 1635,
+        "raw_sha256": "698fcb18eb94074ba907d5082a3e347bac325d72db6230c43a726397493e27c9",
+        "stored_bytes": 888,
+        "stored_sha256": "89d486c2b4121cb009e1924d8e57dc73980683a45f270c6bbf002f9fb4145654"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:46 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 40780\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:46 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:12:35 GMT\r\netag: \"{C31854A6-6EBA-491E-A5A6-3FF7026A0ED0},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:C31854A6-6EBA-491E-A5A6-3FF7026A0ED0@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Cumberland%5f2026p%5fsummary%2ecsv; filename=\"Cumberland_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1ada46a2-fce3-b05c-6baa-2ba4803d9b30\r\nrequest-id: 1ada46a2-fce3-b05c-6baa-2ba4803d9b30\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 56\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223545Z-15f786f7784vmcqghC1CHIf0mn0000000gz00000000065pr\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/d60f362009c61b470c22ebca449161fea1eedbcf14a87e65be41b64fb78e0c18.gz",
+        "raw_bytes": 40780,
+        "raw_sha256": "d60f362009c61b470c22ebca449161fea1eedbcf14a87e65be41b64fb78e0c18",
+        "stored_bytes": 4280,
+        "stored_sha256": "a0ee325027cf6a105d2207eed7c82870741a2d3275abd276aff255579118b6bb"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:46.218210+00:00"
+}

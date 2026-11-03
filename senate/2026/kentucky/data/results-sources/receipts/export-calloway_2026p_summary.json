@@ -1,0 +1,51 @@
+{
+  "label": "export-calloway_2026p_summary",
+  "started_utc": "2026-10-20T22:35:44.055892+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/CALLOWAY/Calloway_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/CALLOWAY/Calloway_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:44.055897+00:00",
+      "ended_utc": "2026-10-20T22:35:44.301963+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/44ddbf02e1c3da8da29b07086d929254e074db6dcb97de1ef6f0bd1b64cb2c6d.gz",
+        "raw_bytes": 1631,
+        "raw_sha256": "44ddbf02e1c3da8da29b07086d929254e074db6dcb97de1ef6f0bd1b64cb2c6d",
+        "stored_bytes": 890,
+        "stored_sha256": "870e93b20ac5fbb50a7fdd5c0df4efebf810dd9f99b9cc69ccf59bb1e8fea787"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:44 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 13027\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:44 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:11:22 GMT\r\netag: \"{8BB4FF26-2E04-4294-ABD8-7F3E30573459},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:8BB4FF26-2E04-4294-ABD8-7F3E30573459@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Calloway%5f2026p%5fsummary%2ecsv; filename=\"Calloway_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1ada46a2-ec70-b05c-6baa-2f9d5fb9150c\r\nrequest-id: 1ada46a2-ec70-b05c-6baa-2f9d5fb9150c\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 35\r\nspiislatency: 10\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223544Z-15f786f7784w7p44hC1CHI5tcw0000001nw0000000007gv9\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/a44f5887b9ee1209bf7ca488542d2ebd4b820191fedd81714c4f4ebe93f266e2.gz",
+        "raw_bytes": 13027,
+        "raw_sha256": "a44f5887b9ee1209bf7ca488542d2ebd4b820191fedd81714c4f4ebe93f266e2",
+        "stored_bytes": 1812,
+        "stored_sha256": "008714196b7ad3654d55573d0ee8115679f93ee3cd19967253bad12d4d2dfc2e"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:44.303147+00:00"
+}

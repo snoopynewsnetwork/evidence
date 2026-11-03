@@ -1,0 +1,51 @@
+{
+  "label": "export-magoffin_2026p_summary",
+  "started_utc": "2026-10-20T22:35:52.690116+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MAGOFFIN/Magoffin_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MAGOFFIN/Magoffin_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:52.690120+00:00",
+      "ended_utc": "2026-10-20T22:35:53.438491+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/1a817bf4d925ecee1641962e2ef928775c07d4b83245cc03cf103e762997df23.gz",
+        "raw_bytes": 1631,
+        "raw_sha256": "1a817bf4d925ecee1641962e2ef928775c07d4b83245cc03cf103e762997df23",
+        "stored_bytes": 888,
+        "stored_sha256": "46c7e1ad92849e0ae7483120ed7f1aa3d3dc35e6a98cc8df64aee2c7d903bbbd"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:53 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 67248\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:53 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:22:34 GMT\r\netag: \"{A785FFAA-4D26-4DCD-B540-410CD04A4484},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:A785FFAA-4D26-4DCD-B540-410CD04A4484@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Magoffin%5f2026p%5fsummary%2ecsv; filename=\"Magoffin_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-dc9d-b05c-6baa-247cd6239a89\r\nrequest-id: 1cda46a2-dc9d-b05c-6baa-247cd6239a89\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 66\r\nspiislatency: 10\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223553Z-174c78c4ddcqsqsdhC1CHIeqr80000001png000000003ats\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/9c05431798009de2c83219d945e00571f8f1f28777c531b1db891c635c610157.gz",
+        "raw_bytes": 67248,
+        "raw_sha256": "9c05431798009de2c83219d945e00571f8f1f28777c531b1db891c635c610157",
+        "stored_bytes": 6523,
+        "stored_sha256": "4c86366d62d844b0f0b39430c4fa72dcab07eb679f8e0454f2045769ec4dcfd3"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:53.443287+00:00"
+}

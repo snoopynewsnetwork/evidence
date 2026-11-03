@@ -1,0 +1,51 @@
+{
+  "label": "office-060-results",
+  "started_utc": "2026-10-20T22:39:13.758496+00:00",
+  "request": {
+    "url": "https://marion.clerkinfo.net/?page_id=1562",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://marion.clerkinfo.net/?page_id=1562",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:13.758501+00:00",
+      "ended_utc": "2026-10-20T22:39:16.143112+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/7c428a8fdea6d6831db2c33066a5a0aa00f9210c243c9628ec292fceab2c668b.gz",
+        "raw_bytes": 666,
+        "raw_sha256": "7c428a8fdea6d6831db2c33066a5a0aa00f9210c243c9628ec292fceab2c668b",
+        "stored_bytes": 449,
+        "stored_sha256": "69e22dd308fa1996d981def3d0992359e4fba5efbe9db81a294100b4b178e09f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:39:15 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nexpires: Thu, 19 Nov 1981 08:52:00 GMT\r\ncache-control: no-store, no-cache, must-revalidate\r\npragma: no-cache\r\nlink: <https://marion.clerkinfo.net/index.php?rest_route=/>; rel=\"https://api.w.org/\", <https://marion.clerkinfo.net/index.php?rest_route=/wp/v2/pages/1562>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://marion.clerkinfo.net/?p=1562>; rel=shortlink\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: MISS\r\nset-cookie: PHPSESSID=92fcd735e331722cb90d5e0df6ea7af3; path=/\r\n\r\n",
+      "response_body": {
+        "path": "bodies/2893a4d50ac708f7756df631b7e954f5e63f51d75d7ad5decdf93c26d9ae8e1d.gz",
+        "raw_bytes": 183022,
+        "raw_sha256": "2893a4d50ac708f7756df631b7e954f5e63f51d75d7ad5decdf93c26d9ae8e1d",
+        "stored_bytes": 27305,
+        "stored_sha256": "98632ba0a07562739c5890877a0e94233501b16b7c57f560b110a71a0e933ee0"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:16.146630+00:00"
+}

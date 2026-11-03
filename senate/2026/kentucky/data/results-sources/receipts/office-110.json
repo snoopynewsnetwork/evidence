@@ -1,0 +1,51 @@
+{
+  "label": "office-110",
+  "started_utc": "2026-10-20T22:35:21.348512+00:00",
+  "request": {
+    "url": "https://www.hopkinscounty.ky.gov",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.hopkinscounty.ky.gov",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:21.348515+00:00",
+      "ended_utc": "2026-10-20T22:35:23.478509+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/c03287f447ea46faae894f3f52e097eb5b7dee7632213d290cdc9b291a291d2d.gz",
+        "raw_bytes": 425,
+        "raw_sha256": "c03287f447ea46faae894f3f52e097eb5b7dee7632213d290cdc9b291a291d2d",
+        "stored_bytes": 316,
+        "stored_sha256": "acbc6e1b595889a7eba8daa47e4677d28c9f09dc3bc07d25b72f4f673874cc5c"
+      },
+      "headers_latin1": "HTTP/2 200 \r\nexpires: Wed, 17 Aug 2005 00:00:00 GMT\r\ncache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\npragma: no-cache\r\nset-cookie: eaa04dcccffb909863faf33eb7407cff=7e8bcbc5fc9dcb7662b144569e203fb1; path=/; secure; HttpOnly\r\nx-frame-options: SAMEORIGIN\r\nlast-modified: Tue, 20 Oct 2026 22:35:23 GMT\r\ncontent-type: text/html; charset=utf-8\r\ndate: Tue, 20 Oct 2026 22:35:23 GMT\r\nserver: Apache\r\n\r\n",
+      "response_body": {
+        "path": "bodies/a986ec28e2e4cb3f8ab2cc64619bcb5cdf4ae486badc2cb87008e3ee3f5b03d3.gz",
+        "raw_bytes": 43104,
+        "raw_sha256": "a986ec28e2e4cb3f8ab2cc64619bcb5cdf4ae486badc2cb87008e3ee3f5b03d3",
+        "stored_bytes": 10802,
+        "stored_sha256": "41fd917ba46d3150ebb04a70447605b076348be1fa7b9a8813cc15ecd094fc52"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:23.479660+00:00"
+}

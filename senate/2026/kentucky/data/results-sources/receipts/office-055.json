@@ -1,0 +1,45 @@
+{
+  "label": "office-055",
+  "started_utc": "2026-10-20T22:35:07.212088+00:00",
+  "request": {
+    "url": "https://lincoln.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://lincoln.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:07.212091+00:00",
+      "ended_utc": "2026-10-20T22:35:42.225109+00:00",
+      "curl_exit": 28,
+      "curl_stdout": "000",
+      "curl_stderr": "curl: (28) Operation timed out after 35003 milliseconds with 0 bytes received\n",
+      "header_bytes": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "headers_latin1": "",
+      "response_body": null,
+      "body_availability": "unavailable; no response entity observed",
+      "status": null
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:42.225343+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "label": "office-108-elections",
+  "started_utc": "2026-10-20T22:36:12.340924+00:00",
+  "request": {
+    "url": "http://hccoky.org/20elections.asp",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "http://hccoky.org/20elections.asp",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:12.340928+00:00",
+      "ended_utc": "2026-10-20T22:36:12.441383+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "303",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a8e47dab164ba39e31b5ddd2bc549afef1fdd5b8c83da24e6b61228157b2e356.gz",
+        "raw_bytes": 221,
+        "raw_sha256": "a8e47dab164ba39e31b5ddd2bc549afef1fdd5b8c83da24e6b61228157b2e356",
+        "stored_bytes": 207,
+        "stored_sha256": "dd82730c1a2ef12b859abe442154d83f7373f0b886b0f9d2bdac5ab3b0207b2f"
+      },
+      "headers_latin1": "HTTP/1.1 303 See Other\r\nContent-Type: text/html; charset=UTF-8\r\nLocation: https://hccoky.org/20elections.asp\r\nServer: Microsoft-IIS/10.0\r\nX-Powered-By: ASP.NET\r\nDate: Tue, 20 Oct 2026 22:36:11 GMT\r\nContent-Length: 157\r\n\r\n",
+      "response_body": {
+        "path": "bodies/502d23796bb86dfedd641efb8beaa97b73e9f06e57bcbc36a2b18861ba115f7f.gz",
+        "raw_bytes": 157,
+        "raw_sha256": "502d23796bb86dfedd641efb8beaa97b73e9f06e57bcbc36a2b18861ba115f7f",
+        "stored_bytes": 146,
+        "stored_sha256": "8d9f8bbe1ff0e3fa9ed1b2a6e58b27f02492a25ae605f0504615bb1756a13d3a"
+      },
+      "body_availability": "captured",
+      "status": 303
+    },
+    {
+      "url": "https://hccoky.org/20elections.asp",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:12.441945+00:00",
+      "ended_utc": "2026-10-20T22:36:12.737846+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/2495d134639b568cf448decfbb70c284fb8056bf941811c2d1b78281e8c530ac.gz",
+        "raw_bytes": 250,
+        "raw_sha256": "2495d134639b568cf448decfbb70c284fb8056bf941811c2d1b78281e8c530ac",
+        "stored_bytes": 229,
+        "stored_sha256": "8382d90288308575888663f444ac96534428b6f2fe1d3fe5e7bfe647ec04583f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncache-control: private\r\ncontent-type: text/html\r\nserver: Microsoft-IIS/10.0\r\nset-cookie: ASPSESSIONIDAGQSDDSS=OEDJMDODODILPCCPACKBJGFG; secure; path=/\r\nx-powered-by: ASP.NET\r\ndate: Tue, 20 Oct 2026 22:36:11 GMT\r\ncontent-length: 21228\r\n\r\n",
+      "response_body": {
+        "path": "bodies/638cda703b9607596a1a69a444660265b955be6c74181d2085596d1724307eca.gz",
+        "raw_bytes": 21228,
+        "raw_sha256": "638cda703b9607596a1a69a444660265b955be6c74181d2085596d1724307eca",
+        "stored_bytes": 4239,
+        "stored_sha256": "9d7b870957ef428b35a1daef7e8a808941092260cb049a5631d65f3113e275a7"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:12.738643+00:00"
+}

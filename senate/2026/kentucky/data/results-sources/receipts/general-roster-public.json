@@ -1,0 +1,51 @@
+{
+  "label": "general-roster-public",
+  "started_utc": "2026-10-20T22:31:59.136556+00:00",
+  "request": {
+    "url": "https://web.sos.ky.gov/candidatefilings/default.aspx?id=3",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://web.sos.ky.gov/candidatefilings/default.aspx?id=3",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:31:59.136561+00:00",
+      "ended_utc": "2026-10-20T22:32:00.770174+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a9d2bdfce0448fbee83d5ee160439fd0ab8f87f8aec2edf7f43c93ed652b5301.gz",
+        "raw_bytes": 307,
+        "raw_sha256": "a9d2bdfce0448fbee83d5ee160439fd0ab8f87f8aec2edf7f43c93ed652b5301",
+        "stored_bytes": 258,
+        "stored_sha256": "810cc27389fa85f2997346a2add3938bf7cf606270648950b10da1783cf21dc1"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:32:00 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 20135\r\ncache-control: private\r\nserver: Microsoft-IIS/10.0\r\nset-cookie: ASP.NET_SessionId=k0v5tqpuk0p34nk4uyq4ppa5; path=/; HttpOnly; SameSite=Lax\r\nx-aspnet-version: 4.0.30319\r\nx-powered-by: ASP.NET\r\n\r\n",
+      "response_body": {
+        "path": "bodies/141e6433d9b350be85aea2cb0f24cbb9f80696366999774e13c68814d0aaa605.gz",
+        "raw_bytes": 20135,
+        "raw_sha256": "141e6433d9b350be85aea2cb0f24cbb9f80696366999774e13c68814d0aaa605",
+        "stored_bytes": 4878,
+        "stored_sha256": "78c6041d5910402e6d75ee4bd0b67530176135503d068470caf7a84311d9494e"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:32:00.770970+00:00"
+}

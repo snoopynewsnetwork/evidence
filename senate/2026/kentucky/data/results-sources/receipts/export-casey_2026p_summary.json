@@ -1,0 +1,51 @@
+{
+  "label": "export-casey_2026p_summary",
+  "started_utc": "2026-10-20T22:35:44.600046+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/CASEY/Casey_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/CASEY/Casey_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:44.600053+00:00",
+      "ended_utc": "2026-10-20T22:35:45.063326+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/759ff9ec6ec7aa4a763a4fc35adf3b6002277c5f0b3d7269b42d1fad9b8d958c.gz",
+        "raw_bytes": 1625,
+        "raw_sha256": "759ff9ec6ec7aa4a763a4fc35adf3b6002277c5f0b3d7269b42d1fad9b8d958c",
+        "stored_bytes": 892,
+        "stored_sha256": "236f50e946437f1f0a92735461563ef547e13c2460756b803dfb298f4ff4b3cb"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:45 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 70854\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:44 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:11:59 GMT\r\netag: \"{620B1D02-1AED-4672-A5BC-23345315C662},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:620B1D02-1AED-4672-A5BC-23345315C662@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Casey%5f2026p%5fsummary%2ecsv; filename=\"Casey_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1ada46a2-dc96-b05c-6baa-29143ba0bf78\r\nrequest-id: 1ada46a2-dc96-b05c-6baa-29143ba0bf78\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 68\r\nspiislatency: 10\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223544Z-15f786f778457jqjhC1CHIpkp80000001nm0000000002xm7\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/ced88fb76a9ab5c39b2cd1ca9db725abd520bc16b508d216e324c6cecf93f309.gz",
+        "raw_bytes": 70854,
+        "raw_sha256": "ced88fb76a9ab5c39b2cd1ca9db725abd520bc16b508d216e324c6cecf93f309",
+        "stored_bytes": 7369,
+        "stored_sha256": "5fae8bfe7a50747b490b64f2d2b12249fb737f388e4cc72fa87ea7b6d007c578"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:45.068533+00:00"
+}

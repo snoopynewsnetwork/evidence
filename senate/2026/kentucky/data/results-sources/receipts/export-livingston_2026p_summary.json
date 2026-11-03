@@ -1,0 +1,51 @@
+{
+  "label": "export-livingston_2026p_summary",
+  "started_utc": "2026-10-20T22:35:51.904063+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LIVINGSTON/Livingston_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LIVINGSTON/Livingston_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:51.904067+00:00",
+      "ended_utc": "2026-10-20T22:35:52.262195+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/d7c795ec346045b390d22d1c41e34f9b5e071b4d8a3eba3badb0ad4f2b14e1fc.gz",
+        "raw_bytes": 1635,
+        "raw_sha256": "d7c795ec346045b390d22d1c41e34f9b5e071b4d8a3eba3badb0ad4f2b14e1fc",
+        "stored_bytes": 893,
+        "stored_sha256": "4ce8613ed8e4c9bf2ed51be0084f68c9b5e39978824318b8a559ce663eda8190"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:52 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 24932\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:52 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:17:31 GMT\r\netag: \"{FA7D4674-B20B-440E-9009-A97C9191FF0B},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:FA7D4674-B20B-440E-9009-A97C9191FF0B@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Livingston%5f2026p%5fsummary%2ecsv; filename=\"Livingston_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-8c5c-b05c-6baa-2f7ed49eb633\r\nrequest-id: 1cda46a2-8c5c-b05c-6baa-2f7ed49eb633\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 56\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223552Z-15f786f7784lgv5jhC1CHImn840000001ne0000000005kzf\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/66f9738373f420d9eb5b0cc22b7a2fc14d7fad2cc52f5061376f2f0ac930082e.gz",
+        "raw_bytes": 24932,
+        "raw_sha256": "66f9738373f420d9eb5b0cc22b7a2fc14d7fad2cc52f5061376f2f0ac930082e",
+        "stored_bytes": 2807,
+        "stored_sha256": "dd0c0f90ae7fe6ef25adf4f73be4c0a62852f7c87eef19d69973129d7bb2b6d0"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:52.263365+00:00"
+}

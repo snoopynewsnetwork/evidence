@@ -1,0 +1,23 @@
+{
+  "agent_id": "b2a7de63-14d6-4adf-9164-6a199028479d",
+  "same_original_worker": true,
+  "profile": "Verification",
+  "fresh_all_four_profile_notes_read": true,
+  "provider_draft_inspected": true,
+  "provider": "codex/gpt-6.1-sol",
+  "actual_agent_updated": true,
+  "settings": {
+    "model": "gpt-6.1-sol",
+    "modeId": "auto-review",
+    "thinkingOptionId": "medium"
+  },
+  "actual_resume_utc": "2026-10-20T22:01:44.866492+00:00",
+  "released_slot": "Louisiana original turnout50fd7a21-788d-47d2-b03a-2a379c81a18b actually finished sealed",
+  "sole_other_active_researcher": "Louisiana baseline4f625056-8184-4b03-97fb-4152b00397e3",
+  "prompt": {
+    "path": "senate/2026/kentucky/data/coordinator-launches/turnout-captured-final-peer-prompt.txt",
+    "bytes": 7248,
+    "sha256": "3ffd56291a8263da35dca82ce1fe6cbebf3931ab4ed9b7d86fa5d94b3fbaa424"
+  },
+  "scope": "Bounded captured-final-source reciprocal/preservation/replay/negative/seal only; no new source/model/Git/delegation/contact/status polling. Canonical native NULL/EMPTY retained."
+}

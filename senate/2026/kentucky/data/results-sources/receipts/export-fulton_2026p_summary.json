@@ -1,0 +1,51 @@
+{
+  "label": "export-fulton_2026p_summary",
+  "started_utc": "2026-10-20T22:35:47.201178+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/FULTON/Fulton_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/FULTON/Fulton_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:47.201185+00:00",
+      "ended_utc": "2026-10-20T22:35:47.534347+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/5102ea82a8a04d17cf44acfe1f015ccaa6354791553b0b7997f314c6862f2511.gz",
+        "raw_bytes": 1627,
+        "raw_sha256": "5102ea82a8a04d17cf44acfe1f015ccaa6354791553b0b7997f314c6862f2511",
+        "stored_bytes": 888,
+        "stored_sha256": "9828c09ae79bf80ec2e97ef26496432298b55f793920dd809cb2b58475c46f8e"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:47 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 27374\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:47 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:13:43 GMT\r\netag: \"{EF96A40E-8C3B-4E13-B43A-609161FA5365},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:EF96A40E-8C3B-4E13-B43A-609161FA5365@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Fulton%5f2026p%5fsummary%2ecsv; filename=\"Fulton_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1bda46a2-ac38-b05c-bfd1-8c230d3c6918\r\nrequest-id: 1bda46a2-ac38-b05c-bfd1-8c230d3c6918\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 54\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223547Z-15f786f7784qcbjchC1CHIsy7g0000001nug000000001q52\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/cf63255122d5e80b190603c1ae470b7ba3b714d451ccf2d9b8454ce27860468d.gz",
+        "raw_bytes": 27374,
+        "raw_sha256": "cf63255122d5e80b190603c1ae470b7ba3b714d451ccf2d9b8454ce27860468d",
+        "stored_bytes": 2890,
+        "stored_sha256": "f8353314caea398d6d0fedaba740f9a49268cd547ad18264f5a0d10579768067"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:47.535488+00:00"
+}

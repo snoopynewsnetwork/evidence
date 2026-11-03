@@ -1,0 +1,51 @@
+{
+  "label": "office-088",
+  "started_utc": "2026-10-20T22:35:12.391809+00:00",
+  "request": {
+    "url": "https://triggcountyclerk.ky.gov",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://triggcountyclerk.ky.gov",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:12.391813+00:00",
+      "ended_utc": "2026-10-20T22:35:13.224536+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/045d68a4d4cdbfb3651a4cc7929a48d34d63da7763fb5c09cb9ecb8ac8dc5ae2.gz",
+        "raw_bytes": 853,
+        "raw_sha256": "045d68a4d4cdbfb3651a4cc7929a48d34d63da7763fb5c09cb9ecb8ac8dc5ae2",
+        "stored_bytes": 479,
+        "stored_sha256": "c2b6309c9d0338b0b4f7e2848a80c4d87aabb2df8ec5715e9fab34f8ae0daf9a"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:13 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nset-cookie: ARRAffinity=31fb1a392f5f0054a6a0fdac8fdbc67ecfcc2e6fcd9a828d1dba2c737d0ed062;Path=/;HttpOnly;Secure;Domain=nicky-triggcountyclerk-triggclerkkygov-prod.azurewebsites.net\r\nset-cookie: ARRAffinitySameSite=31fb1a392f5f0054a6a0fdac8fdbc67ecfcc2e6fcd9a828d1dba2c737d0ed062;Path=/;HttpOnly;SameSite=None;Secure;Domain=nicky-triggcountyclerk-triggclerkkygov-prod.azurewebsites.net\r\nvary: Accept-Encoding\r\nx-powered-by: PHP/8.4.26\r\nlink: <https://triggcountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\"\r\nlink: <https://triggcountyclerk.ky.gov/wp-json/wp/v2/pages/7>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\r\nlink: </>; rel=shortlink\r\nx-azure-ref: 20261020T223512Z-r1cf8987fd55xct7hC1CHI2544000000013g000000008d0a\r\nx-cache: CONFIG_NOCACHE\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e26fbbc31c2c4ce9161d9c06064060d1f7ebdc3d88ce6c889d9fda2d6534ed62.gz",
+        "raw_bytes": 105281,
+        "raw_sha256": "e26fbbc31c2c4ce9161d9c06064060d1f7ebdc3d88ce6c889d9fda2d6534ed62",
+        "stored_bytes": 19570,
+        "stored_sha256": "2fefedbf3522a017d9cb6adfd3c031354caac0d5edb0c6938311cc9f39f0db85"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:13.226434+00:00"
+}

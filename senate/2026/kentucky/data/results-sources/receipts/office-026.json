@@ -1,0 +1,51 @@
+{
+  "label": "office-026",
+  "started_utc": "2026-10-20T22:35:02.268405+00:00",
+  "request": {
+    "url": "https://fleming.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://fleming.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:02.268407+00:00",
+      "ended_utc": "2026-10-20T22:35:03.364481+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/735ecc2aa9e814d89fd4a2654e2fa4cc3d49f4a2e268b912f02d6eb2c5b2c016.gz",
+        "raw_bytes": 1144,
+        "raw_sha256": "735ecc2aa9e814d89fd4a2654e2fa4cc3d49f4a2e268b912f02d6eb2c5b2c016",
+        "stored_bytes": 698,
+        "stored_sha256": "a8fa30f20c328e4737fada0dd3e13d4bd0c156f11a8805d8f90fb48d6d1b043e"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:29:41 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://fleming.countyclerk.us/wp-json/>; rel=\"https://api.w.org/\", <https://fleming.countyclerk.us/wp-json/wp/v2/pages/371>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://fleming.countyclerk.us/>; rel=shortlink\r\nCache-Control: s-maxage=31536000, max-age=60\r\nX-WP-SPC-Disk-Cache: DISABLED\r\nX-WP-CF-Super-Cache-Active: 1\r\nX-WP-CF-Super-Cache: cache\r\nX-WP-CF-Super-Cache-Cache-Control: s-maxage=31536000, max-age=60\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 24678194 18096826\r\nAge: 318\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 255462\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914635776; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e9b19f75cb3593d47b7d37f70f54aebf9b17451b97601b9ed15657e3497103f8.gz",
+        "raw_bytes": 255462,
+        "raw_sha256": "e9b19f75cb3593d47b7d37f70f54aebf9b17451b97601b9ed15657e3497103f8",
+        "stored_bytes": 43122,
+        "stored_sha256": "1069afc6bdb43475eeeef2f203e2951786bee0e436af4f27be557a104b6db3cf"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:03.370755+00:00"
+}

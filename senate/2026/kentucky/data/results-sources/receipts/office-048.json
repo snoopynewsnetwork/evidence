@@ -1,0 +1,51 @@
+{
+  "label": "office-048",
+  "started_utc": "2026-10-20T22:35:06.198614+00:00",
+  "request": {
+    "url": "https://kentuckycountyclerks.com/owsley/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://kentuckycountyclerks.com/owsley/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:06.198619+00:00",
+      "ended_utc": "2026-10-20T22:35:06.518966+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/3c72c5642d1d406c8e2809f1080eb4aeb3c6bdcf8ce4d056a8fb391874b17a16.gz",
+        "raw_bytes": 955,
+        "raw_sha256": "3c72c5642d1d406c8e2809f1080eb4aeb3c6bdcf8ce4d056a8fb391874b17a16",
+        "stored_bytes": 627,
+        "stored_sha256": "e4686d091b71dc3ff2ea266a124014f14be6e61e0c5bf2a0d9b530ef17b272c9"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 21:10:34 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://kentuckycountyclerks.com/wp-json/>; rel=\"https://api.w.org/\", <https://kentuckycountyclerks.com/wp-json/wp/v2/pages/184>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://kentuckycountyclerks.com/?p=184>; rel=shortlink\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 23807882 23607882\r\nAge: 5069\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 139331\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007691760.1914646016; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/6fac1daf6c2cb36738ca532d8c0467fb3db13c085da262eaaf37970e04d895e0.gz",
+        "raw_bytes": 139331,
+        "raw_sha256": "6fac1daf6c2cb36738ca532d8c0467fb3db13c085da262eaaf37970e04d895e0",
+        "stored_bytes": 21471,
+        "stored_sha256": "1a6d335ce82482f5fa9fd758f160222497bafe6c0e3fb12f375f8f0b30121d28"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:06.520993+00:00"
+}

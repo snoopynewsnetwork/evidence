@@ -1,0 +1,51 @@
+{
+  "label": "hb139-enacted",
+  "started_utc": "2026-10-20T22:37:33.012066+00:00",
+  "request": {
+    "url": "https://apps.legislature.ky.gov/law/acts/26RS/documents/0175.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://apps.legislature.ky.gov/law/acts/26RS/documents/0175.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:37:33.012198+00:00",
+      "ended_utc": "2026-10-20T22:37:33.399846+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a7c6e9a50134516c189541070cad04407aacdad03d20e1474ef2d96b3f865317.gz",
+        "raw_bytes": 252,
+        "raw_sha256": "a7c6e9a50134516c189541070cad04407aacdad03d20e1474ef2d96b3f865317",
+        "stored_bytes": 223,
+        "stored_sha256": "bcef6bd881c21770f40d18c6b4e1123c25fa2a243db2b451ef8cc4946519854c"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncontent-type: application/pdf\r\nlast-modified: Thu, 28 May 2026 14:00:44 GMT\r\naccept-ranges: bytes\r\netag: \"0ce3160aaeedc1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\ndate: Tue, 20 Oct 2026 22:37:32 GMT\r\ncontent-length: 362254\r\n\r\n",
+      "response_body": {
+        "path": "bodies/88ca9202606e50a5afec14334828b89254e03b4c0b91f1b299671ce5b2b530ea.gz",
+        "raw_bytes": 362254,
+        "raw_sha256": "88ca9202606e50a5afec14334828b89254e03b4c0b91f1b299671ce5b2b530ea",
+        "stored_bytes": 323190,
+        "stored_sha256": "5321c56e38ab2fc8a243253fb42cfe07682bce0bcd32b118377a10f2f5444057"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:37:33.411621+00:00"
+}

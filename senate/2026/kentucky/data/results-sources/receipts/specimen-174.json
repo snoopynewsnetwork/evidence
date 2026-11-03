@@ -1,0 +1,51 @@
+{
+  "label": "specimen-174",
+  "started_utc": "2026-10-20T22:37:07.049104+00:00",
+  "request": {
+    "url": "https://web.sos.ky.gov/ballots/Muhlenberg%202026G.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://web.sos.ky.gov/ballots/Muhlenberg%202026G.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:37:07.049107+00:00",
+      "ended_utc": "2026-10-20T22:37:07.340139+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/3dd1ed2998643ef925616204e8c9b68da53d4eac752a3e8965045232e415f701.gz",
+        "raw_bytes": 254,
+        "raw_sha256": "3dd1ed2998643ef925616204e8c9b68da53d4eac752a3e8965045232e415f701",
+        "stored_bytes": 221,
+        "stored_sha256": "e3b86699027e6074979b0e8f81fa34078be1aeb3eab769b2ddcd0faf48ddcefe"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:37:07 GMT\r\ncontent-type: application/pdf\r\ncontent-length: 1262528\r\nlast-modified: Tue, 29 Sep 2026 13:58:53 GMT\r\naccept-ranges: bytes\r\netag: \"83a64ea91a50dd1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\n\r\n",
+      "response_body": {
+        "path": "bodies/60d6d40d2e4a4990c83825016eb443cae9c960ff1d1b46a3d4a76cc105f5c786.gz",
+        "raw_bytes": 1262528,
+        "raw_sha256": "60d6d40d2e4a4990c83825016eb443cae9c960ff1d1b46a3d4a76cc105f5c786",
+        "stored_bytes": 1123556,
+        "stored_sha256": "5fee3a9ea0098814f006429b306d6aa0a9df80157d6f34a419abc886b1ba9db9"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:37:07.361553+00:00"
+}

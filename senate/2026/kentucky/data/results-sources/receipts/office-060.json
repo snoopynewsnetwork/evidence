@@ -1,0 +1,51 @@
+{
+  "label": "office-060",
+  "started_utc": "2026-10-20T22:35:07.781547+00:00",
+  "request": {
+    "url": "https://marion.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://marion.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:07.781551+00:00",
+      "ended_utc": "2026-10-20T22:35:09.625239+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a26924771b2a29a11834e7cc6d42afcdace9548c5d85d2cec9547abb44dae525.gz",
+        "raw_bytes": 658,
+        "raw_sha256": "a26924771b2a29a11834e7cc6d42afcdace9548c5d85d2cec9547abb44dae525",
+        "stored_bytes": 444,
+        "stored_sha256": "94f7c270075c660be244f33432d024f25b28f0945d033fe17b58db8980505c80"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:09 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nexpires: Thu, 19 Nov 1981 08:52:00 GMT\r\ncache-control: no-store, no-cache, must-revalidate\r\npragma: no-cache\r\nlink: <https://marion.clerkinfo.net/index.php?rest_route=/>; rel=\"https://api.w.org/\", <https://marion.clerkinfo.net/index.php?rest_route=/wp/v2/pages/104>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://marion.clerkinfo.net/>; rel=shortlink\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: MISS\r\nset-cookie: PHPSESSID=30cdc2dd0ec9af9227ceabc4da3566d4; path=/\r\n\r\n",
+      "response_body": {
+        "path": "bodies/825bcb9b9a65ba71ffb2dc23a77f6007db38e424158aee8e83e01c38a27a6ce6.gz",
+        "raw_bytes": 146037,
+        "raw_sha256": "825bcb9b9a65ba71ffb2dc23a77f6007db38e424158aee8e83e01c38a27a6ce6",
+        "stored_bytes": 26030,
+        "stored_sha256": "9bb000ddc0a740db1832b524beea5e304381bc5550143bfdea2ac9351f9325e2"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:09.628087+00:00"
+}

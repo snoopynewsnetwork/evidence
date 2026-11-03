@@ -1,0 +1,51 @@
+{
+  "label": "office-105-elections",
+  "started_utc": "2026-10-20T22:36:11.267106+00:00",
+  "request": {
+    "url": "https://crittenden.clerkinfo.net/wp-content/uploads/2026/08/2026P-Official-Election-Results-CUMULATIVE.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://crittenden.clerkinfo.net/wp-content/uploads/2026/08/2026P-Official-Election-Results-CUMULATIVE.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:11.267110+00:00",
+      "ended_utc": "2026-10-20T22:36:11.696699+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/43df8c32db2fa04af86dd1be3884586a0a692817e978889ec476f27d34b84fdf.gz",
+        "raw_bytes": 359,
+        "raw_sha256": "43df8c32db2fa04af86dd1be3884586a0a692817e978889ec476f27d34b84fdf",
+        "stored_bytes": 271,
+        "stored_sha256": "03f747d07edacf06ff112bf5c917a7900fe7f022208c9e92a167ea40419ec07a"
+      },
+      "headers_latin1": "HTTP/2 200 \r\nlast-modified: Wed, 26 Aug 2026 21:16:42 GMT\r\naccept-ranges: bytes\r\ncontent-length: 260799\r\ncache-control: max-age=604800\r\nexpires: Tue, 27 Oct 2026 22:36:11 GMT\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-endurance-cache-level: 2\r\nx-nginx-cache: WordPress\r\ncontent-type: application/pdf\r\ndate: Tue, 20 Oct 2026 22:36:11 GMT\r\nserver: Apache\r\n\r\n",
+      "response_body": {
+        "path": "bodies/2b25788993978b56edc927b65643faf34dbd1bd5ddd78cd4418ad181c09b000b.gz",
+        "raw_bytes": 260799,
+        "raw_sha256": "2b25788993978b56edc927b65643faf34dbd1bd5ddd78cd4418ad181c09b000b",
+        "stored_bytes": 252188,
+        "stored_sha256": "63f902d131e7b17043938b9b45b9c9dd720acf364a5043079ca8bdacf7974db8"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:11.700849+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "fixture": "wrong-full-order",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "descending complete order",
+  "complete_packet_input_sha256": "a6cc8d48c0f42e2cd809702a17183e3d4c819a33132727ce79d28a18b6efba15",
+  "full_components": 382
+}

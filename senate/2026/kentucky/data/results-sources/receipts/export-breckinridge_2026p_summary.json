@@ -1,0 +1,51 @@
+{
+  "label": "export-breckinridge_2026p_summary",
+  "started_utc": "2026-10-20T22:35:43.377786+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/BRECKINRIDGE/Breckinridge_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/BRECKINRIDGE/Breckinridge_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:43.377793+00:00",
+      "ended_utc": "2026-10-20T22:35:43.824291+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/b7bc0a3117c5a637a192098a7dd680c071f6f5857a6418cfaf017f8adf93efd2.gz",
+        "raw_bytes": 1639,
+        "raw_sha256": "b7bc0a3117c5a637a192098a7dd680c071f6f5857a6418cfaf017f8adf93efd2",
+        "stored_bytes": 894,
+        "stored_sha256": "431c07ab6b2cf1c26f4b3dc7509bfa3e7467b0f83a87076cf9fa40bd49b98f3d"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:43 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 72949\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:43 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:11:00 GMT\r\netag: \"{3F7A9835-154D-447B-B825-9BB6E4C1F064},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:3F7A9835-154D-447B-B825-9BB6E4C1F064@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Breckinridge%5f2026p%5fsummary%2ecsv; filename=\"Breckinridge_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1ada46a2-2c4b-b05c-6baa-226ed884f614\r\nrequest-id: 1ada46a2-2c4b-b05c-6baa-226ed884f614\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 74\r\nspiislatency: 17\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223543Z-15f786f7784htm7xhC1CHIa3qc0000001br0000000001ht9\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/d19b1edccab19611d40ca79d02cffe5eca21d6bd5d10a0e2ea58b9f60abf178e.gz",
+        "raw_bytes": 72949,
+        "raw_sha256": "d19b1edccab19611d40ca79d02cffe5eca21d6bd5d10a0e2ea58b9f60abf178e",
+        "stored_bytes": 6898,
+        "stored_sha256": "da5ee9743855add63563bcdc928e8a4298649f1eac81f9989284adea2e830b17"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:43.829633+00:00"
+}

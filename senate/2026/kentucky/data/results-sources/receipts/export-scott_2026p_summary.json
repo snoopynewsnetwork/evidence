@@ -1,0 +1,51 @@
+{
+  "label": "export-scott_2026p_summary",
+  "started_utc": "2026-10-20T22:35:57.677892+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/SCOTT/Scott_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/SCOTT/Scott_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:57.677900+00:00",
+      "ended_utc": "2026-10-20T22:35:58.001390+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/bf9aa5b855ea1a4dd7590301330431f46417c9266030f5da3f06cd8fa13a0065.gz",
+        "raw_bytes": 1625,
+        "raw_sha256": "bf9aa5b855ea1a4dd7590301330431f46417c9266030f5da3f06cd8fa13a0065",
+        "stored_bytes": 888,
+        "stored_sha256": "e4f58213d6f966a2a738c25b022e02b1715c3941c4159d1326c7deff810c4f3d"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:58 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 74737\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:57 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:25:17 GMT\r\netag: \"{678510CE-6B3A-4DA6-8528-478F74A6523E},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:678510CE-6B3A-4DA6-8528-478F74A6523E@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Scott%5f2026p%5fsummary%2ecsv; filename=\"Scott_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-0cc2-b05c-6baa-2fd31d0ba730\r\nrequest-id: 1dda46a2-0cc2-b05c-6baa-2fd31d0ba730\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 91\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223557Z-174b95d58c8l64hqhC1CH1g6c00000001f200000000013aa\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/32530c3c278fbba66ad9e549bde2a3b5aff5988a044ca5b77dde63db92770eca.gz",
+        "raw_bytes": 74737,
+        "raw_sha256": "32530c3c278fbba66ad9e549bde2a3b5aff5988a044ca5b77dde63db92770eca",
+        "stored_bytes": 7735,
+        "stored_sha256": "a46c0fb884184ae235acbdb96ce3ddec49275ce648f33c053c252367bab96751"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:58.006680+00:00"
+}

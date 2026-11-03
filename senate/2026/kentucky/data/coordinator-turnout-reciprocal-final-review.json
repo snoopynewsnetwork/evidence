@@ -1,0 +1,35 @@
+{
+  "status": "pass_complete_final_seals_and_immutable_oldbody_bridge",
+  "checks": 27913,
+  "final_producer_seals": [
+    {
+      "path": "data/turnout/asset-manifest.json",
+      "bytes": 1207430,
+      "sha256": "b72ab95194d9e748a7c15163a9f5eb13db1ff0596fc9e4d1d77fb84a9036946f"
+    },
+    {
+      "path": "data/baselines/asset-manifest.json",
+      "bytes": 559537,
+      "sha256": "9415e66193d21382abc5bc9f5ab97b3943ce2498c64e33acb3aade7dfdf5b2a4"
+    }
+  ],
+  "complete_old_turnout_bodies": 2735,
+  "complete_final_peer_bodies": 1972,
+  "changed_old_paths": [
+    "data/turnout/finalseal.json",
+    "data/turnout/priority-set.json",
+    "data/turnout/source/SCHEMA.md",
+    "data/turnout/validation.json",
+    "turnout.md",
+    "data/turnout/asset-manifest.json"
+  ],
+  "contract_metadata_exceptions": [
+    "captured_final_source_core_review",
+    "peer_agreement_status"
+  ],
+  "canonical_native_priority": null,
+  "dispatch_keys": [],
+  "scope": "Whole old body and every old manifest target verified at exact oldpath+SHA from immutable capture, never newer rewritten bodies. Full current contract except explicit peer-review metadata and full original CSV unchanged. Existing independent original/math/CLI/history checks retain their exact original-phase scope. No equality of future peer outcomes/calculators/scenarios inferred.",
+  "producer_write": false,
+  "network": false
+}

@@ -1,0 +1,51 @@
+{
+  "label": "office-093-elections",
+  "started_utc": "2026-10-20T22:36:10.782834+00:00",
+  "request": {
+    "url": "https://wayne.countyclerk.us/elections/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://wayne.countyclerk.us/elections/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:10.782838+00:00",
+      "ended_utc": "2026-10-20T22:36:11.261746+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/75be8482b7b474cb6fc7651d733b02c077c69151165805b6b1a47dc1b75631ef.gz",
+        "raw_bytes": 1143,
+        "raw_sha256": "75be8482b7b474cb6fc7651d733b02c077c69151165805b6b1a47dc1b75631ef",
+        "stored_bytes": 700,
+        "stored_sha256": "4d60707a4f5d1c7deeb7093863886f9ed655e52a57c68318402fd07377ac44ce"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:03:38 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://wayne.countyclerk.us/wp-json/>; rel=\"https://api.w.org/\", <https://wayne.countyclerk.us/wp-json/wp/v2/pages/89>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wayne.countyclerk.us/?p=89>; rel=shortlink\r\nCache-Control: s-maxage=31536000, max-age=60\r\nX-WP-SPC-Disk-Cache: DISABLED\r\nX-WP-CF-Super-Cache-Active: 1\r\nX-WP-CF-Super-Cache: cache\r\nX-WP-CF-Super-Cache-Cache-Control: s-maxage=31536000, max-age=60\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 19877580 17055663\r\nAge: 1949\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 334863\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914707456; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/9ad970f8d196ab5b2c9db41ea73b20a7d6ec4d4995c4ed38259ecbd748777bcd.gz",
+        "raw_bytes": 334863,
+        "raw_sha256": "9ad970f8d196ab5b2c9db41ea73b20a7d6ec4d4995c4ed38259ecbd748777bcd",
+        "stored_bytes": 57980,
+        "stored_sha256": "edc74e3fc434957eb61c06f0faded14a9276f69e3a525243e1adf02d64c70644"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:11.266886+00:00"
+}

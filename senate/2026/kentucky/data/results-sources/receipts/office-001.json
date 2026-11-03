@@ -1,0 +1,83 @@
+{
+  "label": "office-001",
+  "started_utc": "2026-10-20T22:34:58.402422+00:00",
+  "request": {
+    "url": "http://oldhamcountyclerkky.com",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "http://oldhamcountyclerkky.com",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:58.402601+00:00",
+      "ended_utc": "2026-10-20T22:34:58.486551+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/91ec0aca9c3fe46b9f8bae8a31b51b824eb997680fe8bea5e2f98f34f42c7c2d.gz",
+        "raw_bytes": 638,
+        "raw_sha256": "91ec0aca9c3fe46b9f8bae8a31b51b824eb997680fe8bea5e2f98f34f42c7c2d",
+        "stored_bytes": 509,
+        "stored_sha256": "fc5fb0aa7dfcec2112efe4665a209e8ab59b3b824b47c819c7ed1a404d09e707"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nDate: Tue, 20 Oct 2026 22:34:58 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nLocation: https://oldhamcountyclerkky.com/\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0vD5wUswXGucPIECgLVm4jxqDkr4TemFpWB43XD2biT2tM6p2h0xLzT9Qbtrn1uok%2FBrsVsPGaQypddJY0Trat9Yocphzal13L62hglaCBmaX%2BX0j1Ny3OhEpFsyhvcXR6w6VTDnZxUqVCRPeolLd8gc4E2p8g%3D%3D\"}]}\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nServer: cloudflare\r\nCF-RAY: a4db7e33ae0c5810-ORD\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/446a6087825fa73eadb045e5a2e9e2adf7df241b571228187728191d961dda1f.gz",
+        "raw_bytes": 167,
+        "raw_sha256": "446a6087825fa73eadb045e5a2e9e2adf7df241b571228187728191d961dda1f",
+        "stored_bytes": 119,
+        "stored_sha256": "a1decffd3e51a556c0a797cd92dc6469bd469fec9a5e53f3b460669decd45706"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://oldhamcountyclerkky.com/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:58.487223+00:00",
+      "ended_utc": "2026-10-20T22:34:58.606911+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a4019071e36f39de33c1aa5131d4e6a4600b31b2160309c110deef645d033a84.gz",
+        "raw_bytes": 2174,
+        "raw_sha256": "a4019071e36f39de33c1aa5131d4e6a4600b31b2160309c110deef645d033a84",
+        "stored_bytes": 993,
+        "stored_sha256": "785c97307b93f31016ff45e593c3f95822e2f46f0b74efa73ff950fa1b719a61"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:34:58 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 5492\r\naccept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA\r\ncf-mitigated: challenge\r\ncontent-security-policy: default-src 'none'; script-src 'nonce-MztnGmAUPPMXz8MHi3zZZo' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'\r\nserver: cloudflare\r\ncritical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA\r\ncross-origin-embedder-policy: require-corp\r\ncross-origin-opener-policy: same-origin\r\ncross-origin-resource-policy: same-origin\r\norigin-agent-cluster: ?1\r\npermissions-policy: accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*\r\nreferrer-policy: same-origin\r\nserver-timing: chlray;desc=\"a4db7e3469423d50\"\r\nx-content-type-options: nosniff\r\nx-frame-options: SAMEORIGIN\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VsmzicyF5gYlyxD1MzPm5nTLS15ZC7me4BxA8DK4FquBIXlYQjCLjr0BRLLeaFxgrgwSwDhQPLT71fXEnZnURQMWAJCV7Gv42mZL0dXGYBCJ%2BfpoMK%2BuFpvm4mVvYrgcSNpspd9mgNQHUGFB00mJOQngLg6Wbw%3D%3D\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\ncf-ray: a4db7e3469423d50-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/df5a5b0e016c09b66a20298da2e81c35c0dd86c8f591149659f4de97d6bc654a.gz",
+        "raw_bytes": 5492,
+        "raw_sha256": "df5a5b0e016c09b66a20298da2e81c35c0dd86c8f591149659f4de97d6bc654a",
+        "stored_bytes": 3196,
+        "stored_sha256": "e87016ca745518fcd43247a842b6bef5aa7a0d876c4863b93babd714767f1e8b"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:34:58.607508+00:00"
+}

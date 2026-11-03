@@ -1,0 +1,51 @@
+{
+  "label": "export-menifee_2026p_summary",
+  "started_utc": "2026-10-20T22:35:54.579939+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MENIFEE/Menifee_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MENIFEE/Menifee_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:54.579948+00:00",
+      "ended_utc": "2026-10-20T22:35:54.862196+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/3603cf9951cef4b62da0fa1af656c3c38d144d1b6c02a2cd7724a260e27e8790.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "3603cf9951cef4b62da0fa1af656c3c38d144d1b6c02a2cd7724a260e27e8790",
+        "stored_bytes": 888,
+        "stored_sha256": "73d2c540eb9769d5d0be981d30350251874a3cf2e7123dcebecd702867c2325d"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:54 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 25909\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:54 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:23:24 GMT\r\netag: \"{DB2B8964-D022-4F28-8696-BA5AC716C7D4},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:DB2B8964-D022-4F28-8696-BA5AC716C7D4@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Menifee%5f2026p%5fsummary%2ecsv; filename=\"Menifee_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-9cff-b05c-6baa-27adc56109fe\r\nrequest-id: 1cda46a2-9cff-b05c-6baa-27adc56109fe\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 94\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223554Z-15f786f7784dsm4mhC1CHI90d80000000h3g000000000her\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/adbb597bee72196895bab4196d400aad0c734639993cd4ab7888e871ae90ae92.gz",
+        "raw_bytes": 25909,
+        "raw_sha256": "adbb597bee72196895bab4196d400aad0c734639993cd4ab7888e871ae90ae92",
+        "stored_bytes": 3060,
+        "stored_sha256": "806c5f073933b1cf31bbe8b376d653ff6e7155b51cd8dcc69bda8ffb172d6098"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:54.863723+00:00"
+}

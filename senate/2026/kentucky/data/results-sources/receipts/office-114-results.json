@@ -1,0 +1,115 @@
+{
+  "label": "office-114-results",
+  "started_utc": "2026-10-20T22:39:16.828679+00:00",
+  "request": {
+    "url": "http://elect.ky.gov/results/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "http://elect.ky.gov/results/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:16.828683+00:00",
+      "ended_utc": "2026-10-20T22:39:16.862177+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/317c4faf50993505fe7b913bbacbb2708a070eb0ddaaedb2d75fb4533ca03849.gz",
+        "raw_bytes": 285,
+        "raw_sha256": "317c4faf50993505fe7b913bbacbb2708a070eb0ddaaedb2d75fb4533ca03849",
+        "stored_bytes": 246,
+        "stored_sha256": "cbc54d6f330a7cbe053eb0e5df662e077bca2ac149b27bf17ee518da5146f73c"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nDate: Tue, 20 Oct 2026 22:39:16 GMT\r\nContent-Type: text/html\r\nContent-Length: 0\r\nConnection: keep-alive\r\nLocation: https://elect.ky.gov/results/\r\nx-azure-ref: 20261020T223916Z-17d5c4ffc57wm57rhC1CH1zn940000001zh0000000001k24\r\nX-Cache: CONFIG_NOCACHE\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://elect.ky.gov/results/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:16.862679+00:00",
+      "ended_utc": "2026-10-20T22:39:17.043322+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "302",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/14af34e08c20f063bd1475912a4db1ddcdef7dba91ecdf75497bac76d8bf661f.gz",
+        "raw_bytes": 1194,
+        "raw_sha256": "14af34e08c20f063bd1475912a4db1ddcdef7dba91ecdf75497bac76d8bf661f",
+        "stored_bytes": 663,
+        "stored_sha256": "61753e1f4b9e2d704f13f2034a600791eeda0f054dd7d12a1ad76291d7ac4964"
+      },
+      "headers_latin1": "HTTP/2 302 \r\ndate: Tue, 20 Oct 2026 22:39:17 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 170\r\nlocation: https://elect.ky.gov/results/Pages/default.aspx\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\nx-sharepointhealthscore: 0\r\nsprequestguid: 4eda46a2-dc63-b05c-bfd1-836abd4a9255\r\nrequest-id: 4eda46a2-dc63-b05c-bfd1-836abd4a9255\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 23\r\nspiislatency: 10\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223917Z-17d5c4ffc57vz46jhC1CH1he8c0000000xfg000000003xb9\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: TCP_MISS\r\n\r\n",
+      "response_body": {
+        "path": "bodies/9517b8bc67f5cccb30bd0601b8563374629c45af81c612f1608120a08ae819b4.gz",
+        "raw_bytes": 170,
+        "raw_sha256": "9517b8bc67f5cccb30bd0601b8563374629c45af81c612f1608120a08ae819b4",
+        "stored_bytes": 153,
+        "stored_sha256": "0669ad8e1ad66c2f48f55686b4acbcb24df2be094dc879afa75418ec37a084fb"
+      },
+      "body_availability": "captured",
+      "status": 302
+    },
+    {
+      "url": "https://elect.ky.gov/results/Pages/default.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:17.043905+00:00",
+      "ended_utc": "2026-10-20T22:39:17.831078+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/adcc89a5c84f538e033db60934a2b2188723df09b9c39871707825cc7d6d0648.gz",
+        "raw_bytes": 1342,
+        "raw_sha256": "adcc89a5c84f538e033db60934a2b2188723df09b9c39871707825cc7d6d0648",
+        "stored_bytes": 729,
+        "stored_sha256": "da148222fe842edf4af99c39c8b3e652e0388ff9f5bfa09e4edd4a97e830c999"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:39:17 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 104794\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private, max-age=0\r\nexpires: Mon, 05 Oct 2026 22:39:17 GMT\r\nlast-modified: Tue, 20 Oct 2026 22:39:17 GMT\r\nx-sharepointhealthscore: 0\r\nx-aspnet-version: 4.0.30319\r\nsprequestguid: 4eda46a2-bc7e-b05c-bfd1-8c87e6b43dae\r\nrequest-id: 4eda46a2-bc7e-b05c-bfd1-8c87e6b43dae\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 272\r\nspiislatency: 182\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223917Z-17d5c4ffc57l86dxhC1CH1dgtn00000010dg0000000009gv\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/cb60a4e33801778783ec156542bc2ff584980f9b6b76467d43dd02b785f15d43.gz",
+        "raw_bytes": 104794,
+        "raw_sha256": "cb60a4e33801778783ec156542bc2ff584980f9b6b76467d43dd02b785f15d43",
+        "stored_bytes": 48644,
+        "stored_sha256": "eb1cdfe877f00e26f451986f3a940b1a47b2479543d7011eccc296d434015064"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:17.833164+00:00"
+}

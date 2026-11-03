@@ -1,0 +1,51 @@
+{
+  "label": "office-112-elections",
+  "started_utc": "2026-10-20T22:36:12.738865+00:00",
+  "request": {
+    "url": "https://kentonkyclerk.gov/election-results/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://kentonkyclerk.gov/election-results/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:12.738869+00:00",
+      "ended_utc": "2026-10-20T22:36:13.243914+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/b301caa9b19f5111d5b9a391511090bfda0a9ad879882bdae49502e3c1e3c42b.gz",
+        "raw_bytes": 1716,
+        "raw_sha256": "b301caa9b19f5111d5b9a391511090bfda0a9ad879882bdae49502e3c1e3c42b",
+        "stored_bytes": 1035,
+        "stored_sha256": "d1d0f7edfbfcdad3fb367298be7ba2ddd7dc80b51ada09b74eb0fef0034de09f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:13 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncf-ray: a4db80044934cc1a-ORD\r\ncf-cache-status: DYNAMIC\r\ncache-control: no-store, no-cache, must-revalidate\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}\r\nexpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nlink: <https://kentonkyclerk.gov/wp-json/>; rel=\"https://api.w.org/\", <https://kentonkyclerk.gov/wp-json/wp/v2/pages/134>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://kentonkyclerk.gov/?p=134>; rel=shortlink\r\nserver: cloudflare\r\nvary: Accept-Encoding\r\npragma: no-cache\r\nx-content-type-options: nosniff\r\nx-edge-location-klb: 1\r\nki-cache-type: None\r\nki-edge: v=28.5.2;mv=99.9.9\r\nki-origin: g1p\r\npermissions-policy: private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")\r\nx-kinsta-cache: MISS\r\nset-cookie: __cf_bm=QBXbCSfzQdt3nxRDmF5UGRINXbGkmbnyGr2H1A9HVEY-1792535772.842529-1.0.1.1-U.dGSUfs7b2POAsc6HOvrzVkeQ5pSl09ot8LlfgAZXKT93G4nTg1RLDa2_KT2YIkwrUou3_mdZFIYXTQJy48jJz8aygzxnb7u_UqhjDsRjp0L5Xd5qH8okJGuvYRv.pC; HttpOnly; SameSite=None; Secure; Path=/; Domain=kentonkyclerk.gov; Expires=Tue, 20 Oct 2026 23:06:13 GMT\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hMv1KMUvTGqQOhHV3DXhbt3vat%2BJ4QUKzNJEVQK4dOQA1Qod8aSjh34Bnxv9lhCBrWTcfXEwxWv7g2DMG2dvRZcCczCi6yhxYTUX79k7codnDoaSIrFKh3ohvGb9KLp55%2Fdu\"}]}\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/09b523a7bf5efaeadbd7cdb9aefedce8b86438a769dbc2d43aab1378766f259c.gz",
+        "raw_bytes": 123583,
+        "raw_sha256": "09b523a7bf5efaeadbd7cdb9aefedce8b86438a769dbc2d43aab1378766f259c",
+        "stored_bytes": 20290,
+        "stored_sha256": "d398942796ddcad733f448aaff45d78439b5f96abf8009681dde8ae377cec095"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:13.245792+00:00"
+}

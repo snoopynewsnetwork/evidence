@@ -1,0 +1,83 @@
+{
+  "label": "office-051",
+  "started_utc": "2026-10-20T22:35:06.703704+00:00",
+  "request": {
+    "url": "https://leecounty.ky.gov",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://leecounty.ky.gov",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:06.703709+00:00",
+      "ended_utc": "2026-10-20T22:35:07.575389+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "302",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/9d53a09699ac537495c5849f322a27f591db0f7e1611b4d9046f451ad2e79b16.gz",
+        "raw_bytes": 1167,
+        "raw_sha256": "9d53a09699ac537495c5849f322a27f591db0f7e1611b4d9046f451ad2e79b16",
+        "stored_bytes": 649,
+        "stored_sha256": "a8919833b9a34d0fbac6e753cdb956a78ae1d4dede1d82b29cbe00bebef4bbce"
+      },
+      "headers_latin1": "HTTP/2 302 \r\ndate: Tue, 20 Oct 2026 22:35:07 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 164\r\nlocation: https://leecounty.ky.gov/Pages/index.aspx\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\nx-sharepointhealthscore: 0\r\nsprequestguid: 11da46a2-5c7a-b05c-bfd1-82e9f78d82bd\r\nrequest-id: 11da46a2-5c7a-b05c-bfd1-82e9f78d82bd\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 57\r\nspiislatency: 0\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223507Z-r1cf8987fd57dt59hC1CHIfgdw0000000png000000007mq9\r\nx-cache: CONFIG_NOCACHE\r\n\r\n",
+      "response_body": {
+        "path": "bodies/2820f4313bd549adb546cb6008c25c8be0e231fd42ebad8e74aa3f28d8edb8d1.gz",
+        "raw_bytes": 164,
+        "raw_sha256": "2820f4313bd549adb546cb6008c25c8be0e231fd42ebad8e74aa3f28d8edb8d1",
+        "stored_bytes": 150,
+        "stored_sha256": "6f3323be9a13ebdd945b7a1132ceb7fa58dced74e682017b7771ac775ee13173"
+      },
+      "body_availability": "captured",
+      "status": 302
+    },
+    {
+      "url": "https://leecounty.ky.gov/Pages/index.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:07.575926+00:00",
+      "ended_utc": "2026-10-20T22:35:08.209890+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/89ad5385c4ce4abda2da16e620a4a214e415fff337c26b6165f7129a6f6df889.gz",
+        "raw_bytes": 1290,
+        "raw_sha256": "89ad5385c4ce4abda2da16e620a4a214e415fff337c26b6165f7129a6f6df889",
+        "stored_bytes": 701,
+        "stored_sha256": "a59f7ee983a37a0f17776957f9b3a3d5a2779db9138e0c6d7da3e4009c2a8e32"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:08 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 33585\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private, max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:07 GMT\r\nlast-modified: Tue, 20 Oct 2026 22:35:07 GMT\r\nx-sharepointhealthscore: 0\r\nx-aspnet-version: 4.0.30319\r\nsprequestguid: 11da46a2-fc88-b05c-6baa-23b262e2c73e\r\nrequest-id: 11da46a2-fc88-b05c-6baa-23b262e2c73e\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 431\r\nspiislatency: 13\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223507Z-r1cf8987fd5hkzlkhC1CHIymgc00000017t000000000hdv7\r\nx-cache: CONFIG_NOCACHE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/5b9afb82c254157fa32758d3022522071a31099358c594c1e69e74b01b92734c.gz",
+        "raw_bytes": 33585,
+        "raw_sha256": "5b9afb82c254157fa32758d3022522071a31099358c594c1e69e74b01b92734c",
+        "stored_bytes": 11796,
+        "stored_sha256": "d41b7db244cfee900a55304052cb74fc2e98db862cccba475fe7e133d23a838c"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:08.210913+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "specimen-182",
+  "started_utc": "2026-10-20T22:37:07.693877+00:00",
+  "request": {
+    "url": "https://web.sos.ky.gov/ballots/Owsley%202026G.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://web.sos.ky.gov/ballots/Owsley%202026G.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:37:07.693886+00:00",
+      "ended_utc": "2026-10-20T22:37:07.861109+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/185fde06be040cdb673c946d491f32910df37953a06e1f48b7f8ffc64542c599.gz",
+        "raw_bytes": 253,
+        "raw_sha256": "185fde06be040cdb673c946d491f32910df37953a06e1f48b7f8ffc64542c599",
+        "stored_bytes": 221,
+        "stored_sha256": "a8f953127ce3d7b406f6930af1addd44580965db864e0fd83731c77cda0949e7"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:37:07 GMT\r\ncontent-type: application/pdf\r\ncontent-length: 341695\r\nlast-modified: Tue, 29 Sep 2026 14:18:51 GMT\r\naccept-ranges: bytes\r\netag: \"cd4d7b731d50dd1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\n\r\n",
+      "response_body": {
+        "path": "bodies/daeb78082e1c042003ce72bda1aae9bead7e3f96c26a91b3b044d8e4da95a319.gz",
+        "raw_bytes": 341695,
+        "raw_sha256": "daeb78082e1c042003ce72bda1aae9bead7e3f96c26a91b3b044d8e4da95a319",
+        "stored_bytes": 306598,
+        "stored_sha256": "91ab7a209b3e3cb525da62af2a17b74a82386e88b92a2225356c2de52d0bc33e"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:37:07.867261+00:00"
+}

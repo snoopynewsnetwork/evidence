@@ -1,0 +1,51 @@
+{
+  "label": "office-011",
+  "started_utc": "2026-10-20T22:34:59.827542+00:00",
+  "request": {
+    "url": "https://boylecountyclerk.ky.gov/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://boylecountyclerk.ky.gov/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:59.827552+00:00",
+      "ended_utc": "2026-10-20T22:35:00.901082+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/def6ec401e4fe5ee8013aeb9ee64c33a2915d932434897909e9b312b935844c4.gz",
+        "raw_bytes": 1146,
+        "raw_sha256": "def6ec401e4fe5ee8013aeb9ee64c33a2915d932434897909e9b312b935844c4",
+        "stored_bytes": 697,
+        "stored_sha256": "9e4a2168881019a4b0cff66692bac2f13b5e4b04d89ad29890ff6da1705bb376"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:30:01 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://boylecountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\", <https://boylecountyclerk.ky.gov/wp-json/wp/v2/pages/91>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://boylecountyclerk.ky.gov/>; rel=shortlink\r\nCache-Control: s-maxage=31536000, max-age=60\r\nX-WP-SPC-Disk-Cache: DISABLED\r\nX-WP-CF-Super-Cache-Active: 1\r\nX-WP-CF-Super-Cache: cache\r\nX-WP-CF-Super-Cache-Cache-Control: s-maxage=31536000, max-age=60\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 23511373 22516943\r\nAge: 295\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 111171\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007691296.1914635776; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/db551cb4d3a24fc15e7b8f16b5a42c825e68aa839fb8617ee7fd058bad2aaad7.gz",
+        "raw_bytes": 111171,
+        "raw_sha256": "db551cb4d3a24fc15e7b8f16b5a42c825e68aa839fb8617ee7fd058bad2aaad7",
+        "stored_bytes": 23974,
+        "stored_sha256": "6eace6cdff2774332e57d89391dd7fd1dd325f244c248922361538a0972a261e"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:00.903034+00:00"
+}

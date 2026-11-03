@@ -1,0 +1,83 @@
+{
+  "label": "office-002",
+  "started_utc": "2026-10-20T22:34:58.402668+00:00",
+  "request": {
+    "url": "http://www.bullittcountyclerk.com",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "http://www.bullittcountyclerk.com",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:58.402671+00:00",
+      "ended_utc": "2026-10-20T22:34:58.696098+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a7f0fbf4ca7b5d3af1cfe7a08fabebf586fd37605be9d798e0564b52366bfcf2.gz",
+        "raw_bytes": 321,
+        "raw_sha256": "a7f0fbf4ca7b5d3af1cfe7a08fabebf586fd37605be9d798e0564b52366bfcf2",
+        "stored_bytes": 282,
+        "stored_sha256": "3c0bf1809dae402c3dc19a068d61f6c66fcf93496d3ce12713b56ca4fea3b760"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nDate: Tue, 20 Oct 2026 22:34:58 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Length: 167\r\nConnection: keep-alive\r\nLocation: https://www.bullittcountyclerk.com/\r\nx-seen-by: bQAXdg/f3pWGCb3VI6q72A==,\r\nServer: cloudflare\r\nCF-RAY: a4db7e351a9672cb-ORD\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/446a6087825fa73eadb045e5a2e9e2adf7df241b571228187728191d961dda1f.gz",
+        "raw_bytes": 167,
+        "raw_sha256": "446a6087825fa73eadb045e5a2e9e2adf7df241b571228187728191d961dda1f",
+        "stored_bytes": 119,
+        "stored_sha256": "a1decffd3e51a556c0a797cd92dc6469bd469fec9a5e53f3b460669decd45706"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://www.bullittcountyclerk.com/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:58.696634+00:00",
+      "ended_utc": "2026-10-20T22:34:58.920182+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/044d30c7b966aad9d3d24cc2422fb265d5e972135ce49d6ad1067a20a007ab55.gz",
+        "raw_bytes": 2099,
+        "raw_sha256": "044d30c7b966aad9d3d24cc2422fb265d5e972135ce49d6ad1067a20a007ab55",
+        "stored_bytes": 1278,
+        "stored_sha256": "bd5a567e93d530b9ecfa34205e88ed80924b1d98a646495172ee0d8bfe5c54f1"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:34:58 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncf-ray: a4db7e358aac10ec-ORD\r\ncf-cache-status: DYNAMIC\r\nx-served-by: cache-chi-kigq8000170-CHI\r\nage: 111995\r\ncache-control: private,max-age=0,must-revalidate\r\nset-cookie: XSRF-TOKEN=1792535698|EiL3ekXNx7Fz; Path=/; Domain=www.bullittcountyclerk.com; Secure; SameSite=None\r\nset-cookie: sec-fetch-unsupported=1; Path=/; Secure; SameSite=Lax;\r\nset-cookie: ssr-caching=cache#desc=hit#varnish=hit_miss#dc#desc=fastly_virginia-phy; max-age=20\r\nset-cookie: __cf_bm=DM9tMyFdQH_SEDBfpI1m04m5qxazxyWvepP9ha6naKk-1792535698.8033745-1.0.1.1-O1sXalvdGM9fHm5.pbsbEblRSiZGyBmo90UKK32i0jSFdfa9mod9U9fSarKWFvyohHiaxUmuoRm84xxvXWT16sfYoikJdai7IiaKqJdg2W6bpJ.lCejahjOcQSanw6U7; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.bullittcountyclerk.com; Expires=Tue, 20 Oct 2026 23:04:58 GMT\r\ncontent-language: zh-CN\r\netag: W/\"b1864280d24ede9843a80ecbd8bc255a\"\r\nlink: <https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin\r\nserver: cloudflare\r\nx-wix-request-id: 1792535698.8341478264691467\r\nstrict-transport-security: max-age=31556952\r\nvary: Accept-Encoding\r\nalt-svc: h3=\":443\"; ma=86400\r\nserver-timing: cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_virginia-phy_cf\r\nx-cache: MISS\r\nx-cache-status: HIT\r\nx-content-type-options: nosniff\r\nx-seen-by: bQAXdg/f3pWGCb3VI6q72A==,bQAXdg/f3pWGCb3VI6q72A==,Ct40diYObxC+je8ScvxEPQ==,pmHZlB45NPy7b1VBAukQrewfbs+7qUVAqsIx00yI78k=,AHc3TXLcXOul+t9LIbGg9ciHE4dbw+wewoJ5nvKoyjE=,Ua1iSBCTq7qSXjmRCGE1N5iHIlnFhF2nzzGiZhtks2fiILOPCsanDKlTtX0j55fCEpzrUii78VdYxnNKzUeyUYhIydfYCelFDfkrvUteY3ib+6VEmPRil8hck6YdnwCH,2d58ifebGbosy5xc+FRalsx8wcq+E7XLAdsKy4IvhRgUgFfT7vf5+2FIiVPFW7jCqdB/muy8W4xVdZyKL0M+VCbqa3GCOUpZ5+ByAY1KkNc=,2UNV7KOq4oGjA5+PKsX47G86grxW7YVbTxNaQeYTCEMFVd1lR1L8/yRoc88kq/ej,2UNV7KOq4oGjA5+PKsX47Efm2FDoAuZ3d2dZFPgraZgFVd1lR1L8/yRoc88kq/ej\r\n\r\n",
+      "response_body": {
+        "path": "bodies/531d0843deffcccbdbda6cacf8a19b671a9f4bff88b53fac03971797dbb876fc.gz",
+        "raw_bytes": 1197759,
+        "raw_sha256": "531d0843deffcccbdbda6cacf8a19b671a9f4bff88b53fac03971797dbb876fc",
+        "stored_bytes": 206085,
+        "stored_sha256": "311895a41e55300ae3e884b5a8856a529df252281f04c74819a644181c26fc4a"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:34:58.936278+00:00"
+}

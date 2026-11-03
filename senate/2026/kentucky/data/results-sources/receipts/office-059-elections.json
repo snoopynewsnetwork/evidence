@@ -1,0 +1,51 @@
+{
+  "label": "office-059-elections",
+  "started_utc": "2026-10-20T22:36:09.326726+00:00",
+  "request": {
+    "url": "https://magoffincountyclerk.ky.gov/elect/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://magoffincountyclerk.ky.gov/elect/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:09.326730+00:00",
+      "ended_utc": "2026-10-20T22:36:10.605344+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/93f98e7c2ba93d721ae8c06e39b6e90c75380eb216f0876daf1b89b4002aeefa.gz",
+        "raw_bytes": 867,
+        "raw_sha256": "93f98e7c2ba93d721ae8c06e39b6e90c75380eb216f0876daf1b89b4002aeefa",
+        "stored_bytes": 484,
+        "stored_sha256": "2fa56e6b59a503a82a1529818f5c5e9c119110f2eee4b23746a85fa93062257f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:10 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nset-cookie: ARRAffinity=31fb1a392f5f0054a6a0fdac8fdbc67ecfcc2e6fcd9a828d1dba2c737d0ed062;Path=/;HttpOnly;Secure;Domain=nicky-magoffinclerk-magoffinclerkkygov-prod.azurewebsites.net\r\nset-cookie: ARRAffinitySameSite=31fb1a392f5f0054a6a0fdac8fdbc67ecfcc2e6fcd9a828d1dba2c737d0ed062;Path=/;HttpOnly;SameSite=None;Secure;Domain=nicky-magoffinclerk-magoffinclerkkygov-prod.azurewebsites.net\r\nvary: Accept-Encoding\r\nx-powered-by: PHP/8.4.26\r\nlink: <https://magoffincountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\"\r\nlink: <https://magoffincountyclerk.ky.gov/wp-json/wp/v2/pages/392>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\r\nlink: </?p=392>; rel=shortlink\r\nx-azure-ref: 20261020T223609Z-15f786f7784mzdffhC1CHIe4140000001nrg000000006zh7\r\nx-cache: CONFIG_NOCACHE\r\n\r\n",
+      "response_body": {
+        "path": "bodies/71cc402b934d0fa49f0773ef00059d4fd2fab4453b4dbe4e174f58e482331810.gz",
+        "raw_bytes": 135711,
+        "raw_sha256": "71cc402b934d0fa49f0773ef00059d4fd2fab4453b4dbe4e174f58e482331810",
+        "stored_bytes": 19166,
+        "stored_sha256": "6637f8c83c814ea6e87de388a8397019ae8416236e983b0846c65385f14ca5e9"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:10.607130+00:00"
+}

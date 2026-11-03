@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-parent",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "all120 parent coverage",
+  "complete_packet_input_sha256": "68a8c2da6d1650b8d0f6ad1a439a72c865e79c06fe5302fdc5f43e5160716e57",
+  "full_components": 382
+}

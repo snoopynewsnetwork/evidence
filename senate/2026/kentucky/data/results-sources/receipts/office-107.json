@@ -1,0 +1,83 @@
+{
+  "label": "office-107",
+  "started_utc": "2026-10-20T22:35:20.396920+00:00",
+  "request": {
+    "url": "https://www.fayettekyclerk.gov",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.fayettekyclerk.gov",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:20.396923+00:00",
+      "ended_utc": "2026-10-20T22:35:20.643916+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/bae911044e5be48f15edb7af0485418c5c6dc5d49cc137a15cea2b25994930e0.gz",
+        "raw_bytes": 196,
+        "raw_sha256": "bae911044e5be48f15edb7af0485418c5c6dc5d49cc137a15cea2b25994930e0",
+        "stored_bytes": 189,
+        "stored_sha256": "73556ffce6ebc4bbf642bae2aec640fabe92893bceb55593ba1947db77406e8f"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:20 GMT\r\ncontent-type: text/html\r\nlocation: https://fayettekyclerk.gov:443/\r\nserver: cloudflare\r\ncf-cache-status: DYNAMIC\r\ncf-ray: a4db7ebd4834540f-ORD\r\n\r\n",
+      "response_body": {
+        "path": "bodies/34ccdc351dc93dbf30a8630521968421091e3ed19c31a16e32c2eabb55c6a73a.gz",
+        "raw_bytes": 134,
+        "raw_sha256": "34ccdc351dc93dbf30a8630521968421091e3ed19c31a16e32c2eabb55c6a73a",
+        "stored_bytes": 102,
+        "stored_sha256": "eceb04e10dfd75000f67a5bfb1b3efb53bd161e2558805771ce5896c92ab4773"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://fayettekyclerk.gov:443/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:20.644448+00:00",
+      "ended_utc": "2026-10-20T22:35:21.346058+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/840caf90df3e1a296f87966190e80c93c005f500ce504ed0b95e0152e686f3da.gz",
+        "raw_bytes": 636,
+        "raw_sha256": "840caf90df3e1a296f87966190e80c93c005f500ce504ed0b95e0152e686f3da",
+        "stored_bytes": 422,
+        "stored_sha256": "edf6b03a5b4f126d799e2775901a11a0b0e91df295acc1454c4a75164d552f5c"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:21 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nserver: cloudflare\r\nx-powered-by: \r\nreferrer-policy: strict-origin-when-cross-origin\r\nx-frame-options: SAMEORIGIN\r\nx-xss-protection: 1; mode=block\r\nx-content-type-options: nosniff\r\nstrict-transport-security: max-age=31536000\r\nlink: <https://fayettekyclerk.gov/wp-json/>; rel=\"https://api.w.org/\"\r\nlink: <https://fayettekyclerk.gov/wp-json/wp/v2/pages/616>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\r\nlink: <https://fayettekyclerk.gov/>; rel=shortlink\r\nvary: Accept-Encoding\r\ncf-cache-status: DYNAMIC\r\ncf-ray: a4db7ebeb84cd539-ORD\r\n\r\n",
+      "response_body": {
+        "path": "bodies/680376b670b0b4e4f4a4b6431ec4eaaa03203f5f82e061a0b2ee71ebc6e34e1d.gz",
+        "raw_bytes": 95631,
+        "raw_sha256": "680376b670b0b4e4f4a4b6431ec4eaaa03203f5f82e061a0b2ee71ebc6e34e1d",
+        "stored_bytes": 16434,
+        "stored_sha256": "e565cb7cebbac2ad142b090d29aa8adb68b9d6a6c161ed357de90ced95fddbdd"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:21.348296+00:00"
+}

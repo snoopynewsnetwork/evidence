@@ -1,0 +1,51 @@
+{
+  "label": "export-webster_2026p_summary",
+  "started_utc": "2026-10-20T22:35:59.309635+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WEBSTER/Webster_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WEBSTER/Webster_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:59.309642+00:00",
+      "ended_utc": "2026-10-20T22:35:59.882796+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/4468e02ec2a16a0d00fdcde62096ae885218d2cbe94c1fe2f48a7083b5f97e38.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "4468e02ec2a16a0d00fdcde62096ae885218d2cbe94c1fe2f48a7083b5f97e38",
+        "stored_bytes": 890,
+        "stored_sha256": "c61bdb85618ec8d255e74f790b09d7c3179195a9e569c671915f16ca7f2117e6"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:59 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 47921\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:59 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:26:49 GMT\r\netag: \"{2A101F8F-CDD4-4787-BE38-018C5939AEA8},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:2A101F8F-CDD4-4787-BE38-018C5939AEA8@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Webster%5f2026p%5fsummary%2ecsv; filename=\"Webster_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1eda46a2-6c34-b05c-6baa-217ff1bd9105\r\nrequest-id: 1eda46a2-6c34-b05c-6baa-217ff1bd9105\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 54\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223559Z-174b95d58c8rkndfhC1CH1axv80000001f90000000003a6r\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/1067a7bf457d2a226e2ac445fdd9dee50f6568b66e0dfdb0cb24da996e10bff3.gz",
+        "raw_bytes": 47921,
+        "raw_sha256": "1067a7bf457d2a226e2ac445fdd9dee50f6568b66e0dfdb0cb24da996e10bff3",
+        "stored_bytes": 4541,
+        "stored_sha256": "388d72583d16694514656601b3edfd0f422dd269889b7706383e2d30e85fdbeb"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:59.885183+00:00"
+}

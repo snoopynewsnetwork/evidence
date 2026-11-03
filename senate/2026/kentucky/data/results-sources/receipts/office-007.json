@@ -1,0 +1,83 @@
+{
+  "label": "office-007",
+  "started_utc": "2026-10-20T22:34:58.825416+00:00",
+  "request": {
+    "url": "https://bell.countyclerk.us/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://bell.countyclerk.us/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:58.825419+00:00",
+      "ended_utc": "2026-10-20T22:34:59.029793+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "302",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/23309298d75118432ae897dddf83c60a66aff4cd5a1b782a4dbd98c1673186d7.gz",
+        "raw_bytes": 564,
+        "raw_sha256": "23309298d75118432ae897dddf83c60a66aff4cd5a1b782a4dbd98c1673186d7",
+        "stored_bytes": 459,
+        "stored_sha256": "38aa8d69fcb100b9dff54a094663dded0debb825b74cbb7d89c633c8cad9d5fe"
+      },
+      "headers_latin1": "HTTP/2 302 \r\ndate: Tue, 20 Oct 2026 22:34:59 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nlocation: https://bellcountyclerk.ky.gov/\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KFokkaRVoYbXEmDsZgtEycJCFIoJryDRa4jyIfld%2BmC%2BO6FmRdeEVMIUqcmrOYFDc9ov5UV%2BQ%2Fh7ojxoaFt%2Fl5vuxW5%2FeJdKPPOXr824nmAQQoQvkMz236c9h7iXxE0fxeHJgHw3VEww42DvLrI3BaM%3D\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7e36d89db0ac-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/12755429beb15d5eb57eafa45b8dba326343dd099bf0552038694c3856e8860e.gz",
+        "raw_bytes": 143,
+        "raw_sha256": "12755429beb15d5eb57eafa45b8dba326343dd099bf0552038694c3856e8860e",
+        "stored_bytes": 107,
+        "stored_sha256": "9c9ec03d352741471c232bbfa9b7a95335acd4f1ec90cbb4b19fa02b94f9ef7f"
+      },
+      "body_availability": "captured",
+      "status": 302
+    },
+    {
+      "url": "https://bellcountyclerk.ky.gov/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:59.030304+00:00",
+      "ended_utc": "2026-10-20T22:34:59.905418+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/ba6806e1662ddbb17ddce27c0cb0fc9137f2ce8872ae72d23698e61d90790bef.gz",
+        "raw_bytes": 939,
+        "raw_sha256": "ba6806e1662ddbb17ddce27c0cb0fc9137f2ce8872ae72d23698e61d90790bef",
+        "stored_bytes": 624,
+        "stored_sha256": "92e705a66c944774a21ca6c8872535c08d7eb7af28e06f639975772c5b4f15a5"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:24:55 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://bellcountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bellcountyclerk.ky.gov/wp-json/wp/v2/pages/12>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bellcountyclerk.ky.gov/>; rel=shortlink\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 1822575 20697030\r\nAge: 601\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 90574\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007691296.1914635776; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/f1ddc5cc55649ae72094fb09d9deb80359cf39c86efd07701245fa15b52e03ce.gz",
+        "raw_bytes": 90574,
+        "raw_sha256": "f1ddc5cc55649ae72094fb09d9deb80359cf39c86efd07701245fa15b52e03ce",
+        "stored_bytes": 21147,
+        "stored_sha256": "37fd46af298e470504a210e2abd55924e4b4437986ddbc75d7abe2135e73dd57"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:34:59.907074+00:00"
+}

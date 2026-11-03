@@ -1,0 +1,51 @@
+{
+  "label": "office-073",
+  "started_utc": "2026-10-20T22:35:09.934575+00:00",
+  "request": {
+    "url": "https://nelson.kycountyclerk.us/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://nelson.kycountyclerk.us/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:09.934578+00:00",
+      "ended_utc": "2026-10-20T22:35:10.124444+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/8209a6451fda87e745d6cacf9faa3d5cf9d27d420a57056350247af4d3489894.gz",
+        "raw_bytes": 624,
+        "raw_sha256": "8209a6451fda87e745d6cacf9faa3d5cf9d27d420a57056350247af4d3489894",
+        "stored_bytes": 451,
+        "stored_sha256": "4cbbee27a4f778c3014829ad57413d51f2e914092c9fd69decba55a8b40044b5"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:35:10 GMT\r\nServer: Apache/2.4.46 (Win64) OpenSSL/1.1.1i PHP/8.0.1RC1\r\nX-Frame-Options: SAMEORIGIN\r\nVary: User-Agent\r\nLast-Modified: Thu, 15 Oct 2026 21:00:28 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 89466\r\nX-XSS-Protection: 1; mode=block\r\nX-Content-Type-Options: nosniff\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains; preload\r\nReferrer-Policy: no-referrer-when-downgrade\r\nPermissions-Policy: self\r\nCache-Control: max-age=0, no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: Mon, 29 Oct 1923 20:30:00 GMT\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n",
+      "response_body": {
+        "path": "bodies/aeb6f0b7f02a24ccad3b00cc7e60749c5bc1d6a324a94fbe5e751575cf9c388a.gz",
+        "raw_bytes": 89466,
+        "raw_sha256": "aeb6f0b7f02a24ccad3b00cc7e60749c5bc1d6a324a94fbe5e751575cf9c388a",
+        "stored_bytes": 16833,
+        "stored_sha256": "581bfc5ccefc8e6f7b43713cef8d6e46e7259d3f0b0a3fed47cd468b5c3329f0"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:10.126155+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "export-ohio_2026p_summary",
+  "started_utc": "2026-10-20T22:35:55.775355+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/OHIO/Ohio_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/OHIO/Ohio_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:55.775369+00:00",
+      "ended_utc": "2026-10-20T22:35:56.161624+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/caadb10dd99faad2961bf72ec0d3200f16383c39cba0d1e974012f2c096d1c11.gz",
+        "raw_bytes": 1623,
+        "raw_sha256": "caadb10dd99faad2961bf72ec0d3200f16383c39cba0d1e974012f2c096d1c11",
+        "stored_bytes": 887,
+        "stored_sha256": "be6dd87faaf5a97d43064636c2e39c6c2cb81440360baf6e1af619cc2f06d14c"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:56 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 78393\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:56 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:24:09 GMT\r\netag: \"{4AFC16D0-04D1-4EAB-A3F9-234FD285E05E},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:4AFC16D0-04D1-4EAB-A3F9-234FD285E05E@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Ohio%5f2026p%5fsummary%2ecsv; filename=\"Ohio_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-bc4f-b05c-bfd1-86c7a46c52cb\r\nrequest-id: 1dda46a2-bc4f-b05c-bfd1-86c7a46c52cb\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 74\r\nspiislatency: 10\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223555Z-15f786f7784dfz4nhC1CHIvz5s0000001nq0000000005fr2\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e7855c1ba9d16d95356531111ee40b3323a43a6bdf7cc241d2327a507331c2b8.gz",
+        "raw_bytes": 78393,
+        "raw_sha256": "e7855c1ba9d16d95356531111ee40b3323a43a6bdf7cc241d2327a507331c2b8",
+        "stored_bytes": 7394,
+        "stored_sha256": "a7176f4d62adec4f95d8cf9d15b05751bfdc292738ed6fcc595906aad2b111f4"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:56.167685+00:00"
+}

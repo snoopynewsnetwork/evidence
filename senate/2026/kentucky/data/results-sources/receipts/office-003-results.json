@@ -1,0 +1,51 @@
+{
+  "label": "office-003-results",
+  "started_utc": "2026-10-20T22:39:13.523422+00:00",
+  "request": {
+    "url": "https://pulaski.kycountyclerk.us/wp-content/uploads/2026/06/Candidate-list-for-website-2026-General.xlsx",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://pulaski.kycountyclerk.us/wp-content/uploads/2026/06/Candidate-list-for-website-2026-General.xlsx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:13.523426+00:00",
+      "ended_utc": "2026-10-20T22:39:13.625738+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/6c5af2f7dbe3529af71b54d47ccf7531a82c4eebfb6a7a1432cc8597bcb75256.gz",
+        "raw_bytes": 554,
+        "raw_sha256": "6c5af2f7dbe3529af71b54d47ccf7531a82c4eebfb6a7a1432cc8597bcb75256",
+        "stored_bytes": 423,
+        "stored_sha256": "b37defc6a511c783e6318a8de830e8ea36e68999e12ad9abd3252065a2a0eb78"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:39:13 GMT\r\nServer: Apache/2.4.46 (Win64) OpenSSL/1.1.1i PHP/8.0.1RC1\r\nX-Frame-Options: SAMEORIGIN\r\nLast-Modified: Fri, 05 Jun 2026 15:48:40 GMT\r\nETag: \"3d2c-6538398446f33\"\r\nAccept-Ranges: bytes\r\nContent-Length: 15660\r\nX-XSS-Protection: 1; mode=block\r\nX-Content-Type-Options: nosniff\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains; preload\r\nReferrer-Policy: no-referrer-when-downgrade\r\nPermissions-Policy: self\r\nContent-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet\r\n\r\n",
+      "response_body": {
+        "path": "bodies/dfc6ed7b4ba1acb2b5eca50e45f743e22d5f80677eb67454b571b61dd4865bb1.gz",
+        "raw_bytes": 15660,
+        "raw_sha256": "dfc6ed7b4ba1acb2b5eca50e45f743e22d5f80677eb67454b571b61dd4865bb1",
+        "stored_bytes": 12987,
+        "stored_sha256": "0048360613f512a46dfd5ddf8a588816bc144b6d0c4ad9dcf62e5e9194a5aea3"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:13.626599+00:00"
+}

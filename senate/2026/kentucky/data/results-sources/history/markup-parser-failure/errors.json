@@ -1,0 +1,14 @@
+[
+  {
+    "input_receipt": "receipts/office-102-elections.json",
+    "input_receipt_sha256": "567416e92cbb4dc9a05c027c4d43de25dd3c418974bcbf60acf528dd35e7181a",
+    "full_body_reference": {
+      "path": "bodies/ed9936801d37d640d75a5bc8d1d537058b2f502dba144a78a6040931204f31f2.gz",
+      "raw_bytes": 10212770,
+      "raw_sha256": "ed9936801d37d640d75a5bc8d1d537058b2f502dba144a78a6040931204f31f2",
+      "stored_bytes": 10049714,
+      "stored_sha256": "c7d384341e5e874bfd4d22a076d1a12bdd3678eecb5164a2800c28c95676c5fa"
+    },
+    "traceback": "Traceback (most recent call last):\n  File \"<stdin>\", line 7, in <module>\n  File \"/Users/tqbf/codebase/snn/senate/2026/kentucky/data/results-sources/scripts/inspect_html.py\", line 23, in load\n    r=json.loads((BASE/'receipts'/f'{label}.json').read_bytes());h=r['hops'][-1];b=gzip.decompress((BASE/h['response_body']['path']).read_bytes());s=HTML();s.feed(b.decode('utf-8','replace'));return r,s\n                                                                                                                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/tqbf/.pyenv/versions/3.11.8/lib/python3.11/html/parser.py\", line 110, in feed\n    self.goahead(0)\n  File \"/Users/tqbf/.pyenv/versions/3.11.8/lib/python3.11/html/parser.py\", line 178, in goahead\n    k = self.parse_html_declaration(i)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/tqbf/.pyenv/versions/3.11.8/lib/python3.11/html/parser.py\", line 263, in parse_html_declaration\n    return self.parse_marked_section(i)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/tqbf/.pyenv/versions/3.11.8/lib/python3.11/_markupbase.py\", line 154, in parse_marked_section\n    raise AssertionError(\nAssertionError: unknown status keyword 'U' in marked section\n"
+  }
+]

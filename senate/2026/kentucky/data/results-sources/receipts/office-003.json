@@ -1,0 +1,83 @@
+{
+  "label": "office-003",
+  "started_utc": "2026-10-20T22:34:58.402732+00:00",
+  "request": {
+    "url": "https://Pulaski.Kycountyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://Pulaski.Kycountyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:58.402734+00:00",
+      "ended_utc": "2026-10-20T22:34:59.732432+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/f3406058450aec2088535ba1de10790ba541a3234861bf74db1e882141cb81b8.gz",
+        "raw_bytes": 527,
+        "raw_sha256": "f3406058450aec2088535ba1de10790ba541a3234861bf74db1e882141cb81b8",
+        "stored_bytes": 394,
+        "stored_sha256": "97249b3fb8b8fb66e9ccece4782464ba1f6dba31078b29b6116a5d0d6727f762"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nDate: Tue, 20 Oct 2026 22:34:58 GMT\r\nServer: Apache/2.4.46 (Win64) OpenSSL/1.1.1i PHP/8.0.1RC1\r\nX-Frame-Options: SAMEORIGIN\r\nX-Powered-By: PHP/8.0.1RC1\r\nX-Redirect-By: WordPress\r\nLocation: https://pulaski.kycountyclerk.us/\r\nX-XSS-Protection: 1; mode=block\r\nX-Content-Type-Options: nosniff\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains; preload\r\nReferrer-Policy: no-referrer-when-downgrade\r\nPermissions-Policy: self\r\nContent-Length: 0\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://pulaski.kycountyclerk.us/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:34:59.733094+00:00",
+      "ended_utc": "2026-10-20T22:35:01.352097+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/521cc9c35d0e25ddea76189b3951a1cdb8024c283cbfc8f9030fdaa421524255.gz",
+        "raw_bytes": 691,
+        "raw_sha256": "521cc9c35d0e25ddea76189b3951a1cdb8024c283cbfc8f9030fdaa421524255",
+        "stored_bytes": 444,
+        "stored_sha256": "52f7738f1cb7b541f25eb3042f364aa928f27263def9f4ecbc17c55fb21381d0"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:34:59 GMT\r\nServer: Apache/2.4.46 (Win64) OpenSSL/1.1.1i PHP/8.0.1RC1\r\nX-Frame-Options: SAMEORIGIN\r\nX-Powered-By: PHP/8.0.1RC1\r\nLink: <https://pulaski.kycountyclerk.us/wp-json/>; rel=\"https://api.w.org/\"\r\nLink: <https://pulaski.kycountyclerk.us/wp-json/wp/v2/pages/6>; rel=\"alternate\"; type=\"application/json\"\r\nLink: <https://pulaski.kycountyclerk.us/>; rel=shortlink\r\nX-XSS-Protection: 1; mode=block\r\nX-Content-Type-Options: nosniff\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains; preload\r\nReferrer-Policy: no-referrer-when-downgrade\r\nPermissions-Policy: self\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n",
+      "response_body": {
+        "path": "bodies/babb67d44ce688661bb713f7fab3a261121bcf91d32dc727fb59be6b889599eb.gz",
+        "raw_bytes": 135621,
+        "raw_sha256": "babb67d44ce688661bb713f7fab3a261121bcf91d32dc727fb59be6b889599eb",
+        "stored_bytes": 19831,
+        "stored_sha256": "30bc1941493e2c2156f8400c209bfcf06e5164d20737707556a298265ab3b63f"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:01.354551+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "export-washington_2026p_summary",
+  "started_utc": "2026-10-20T22:35:59.205047+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WASHINGTON/Washington_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WASHINGTON/Washington_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:59.205061+00:00",
+      "ended_utc": "2026-10-20T22:35:59.652476+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/dadc88fb38c7f0411e0a7a598fa2c8b9f4b0623325d068c0d3b210deda072180.gz",
+        "raw_bytes": 1635,
+        "raw_sha256": "dadc88fb38c7f0411e0a7a598fa2c8b9f4b0623325d068c0d3b210deda072180",
+        "stored_bytes": 890,
+        "stored_sha256": "17df1a3b61987c90134a890086d6daf28c91ed20986ea3c8f7ad8db14413eb65"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:59 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 54280\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:59 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:26:39 GMT\r\netag: \"{442087D2-1BFC-4DF6-8B8E-AF5EFDF46296},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:442087D2-1BFC-4DF6-8B8E-AF5EFDF46296@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Washington%5f2026p%5fsummary%2ecsv; filename=\"Washington_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1eda46a2-0c29-b05c-bfd1-8e6ff322f1db\r\nrequest-id: 1eda46a2-0c29-b05c-bfd1-8e6ff322f1db\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 73\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223559Z-174b95d58c8fnrg7hC1CH1eyu80000001f40000000003xpu\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/93fb8c66f96f1b62dd8f766ebb445b581e0bf769f4e902e15999ae0d8da5bce3.gz",
+        "raw_bytes": 54280,
+        "raw_sha256": "93fb8c66f96f1b62dd8f766ebb445b581e0bf769f4e902e15999ae0d8da5bce3",
+        "stored_bytes": 4867,
+        "stored_sha256": "3191b5252506ae6d2a0210df19d5c48509241de0e5d537580090b2832bed6f8b"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:59.655153+00:00"
+}

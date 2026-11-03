@@ -1,0 +1,83 @@
+{
+  "label": "office-102",
+  "started_utc": "2026-10-20T22:35:16.666041+00:00",
+  "request": {
+    "url": "https://www.christiancountyky.gov",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.christiancountyky.gov",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:16.666045+00:00",
+      "ended_utc": "2026-10-20T22:35:17.117434+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/614f82f44f7b93dcf28a8566b0674c0ccc9a027fe70ca00ba702fa3af46f6e5b.gz",
+        "raw_bytes": 798,
+        "raw_sha256": "614f82f44f7b93dcf28a8566b0674c0ccc9a027fe70ca00ba702fa3af46f6e5b",
+        "stored_bytes": 596,
+        "stored_sha256": "d0d3562774664bede00e6d9d2bc4049ded000aa6a5c432301c397e8ae170d8fd"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:17 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nlocation: https://christiancountyky.gov/\r\naccess-control-allow-headers: x-sap-service\r\ncache-control: no-cache\r\norigin-agent-cluster: ?0\r\nstatus: 301 Moved Permanently\r\nvia: 0.0 Caddy\r\nx-content-type-options: nosniff\r\nx-xss-protection: 1; mode=block\r\ncf-cache-status: DYNAMIC\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0P%2Bu%2B8OPGYTjaTHKdoBwzGW1djwsx1VJpH3aLwXBc8Ahn8tnR2lOFundXYADueWY1NbHZAKbucVoRYM2tQL7XhPOkYhoNFUa6su8N3cmE5dBBgN5T1IQVpgVIcWYIWamMLMOCsL49cnxkxBhuDy%2Fn6mD84offTUj\"}]}\r\nserver: cloudflare\r\ncf-ray: a4db7ea62be34a1a-EWR\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/4dbcb754185d6f6efa64ca2e55d278e1011b17d865100b08cc58b18f1a82e186.gz",
+        "raw_bytes": 364,
+        "raw_sha256": "4dbcb754185d6f6efa64ca2e55d278e1011b17d865100b08cc58b18f1a82e186",
+        "stored_bytes": 198,
+        "stored_sha256": "38ef2443e6f79ede88ade39c6cd2d5fcd0759fd6e35c530dc83ed530fab2469b"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://christiancountyky.gov/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:17.117952+00:00",
+      "ended_utc": "2026-10-20T22:35:17.674155+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/2d5b64728eaa5d8e8e2cbe3e436cd35cd4abbc3a6fcf931d1bec087964ca7dcd.gz",
+        "raw_bytes": 879,
+        "raw_sha256": "2d5b64728eaa5d8e8e2cbe3e436cd35cd4abbc3a6fcf931d1bec087964ca7dcd",
+        "stored_bytes": 658,
+        "stored_sha256": "ea449716c81067f021025f0352ac9f377ed45c4e5033153268ecc9e0a5ba2069"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:17 GMT\r\ncontent-type: text/html; charset=UTF-8\r\naccess-control-allow-headers: x-sap-service\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sSCarWEOtLRdem%2Be%2FVqeeePY3WwISS8zUhONRpc4i8jxZHTrO0xa%2Fj1MifAye5JTAI2BwxDT9atCTRUje7THfqOwc3EwiAfrtrorwxa7PfRIp4LTU5%2BYedcg%2F13bW8pbuhoqrA6h3zbNe5RU5qKlVbS6gIs%3D\"}]}\r\norigin-agent-cluster: ?0\r\nset-cookie: SnapSess=4k6rk07p14p4sm9eeb6l1relgo; expires=Thu, 22-Oct-2026 22:35:17 GMT; Max-Age=172800; path=/; domain=.snappages.site; secure; HttpOnly\r\nvary: Accept-Encoding\r\nvia: 0.0 Caddy\r\nx-content-type-options: nosniff\r\nx-xss-protection: 1; mode=block\r\ncf-cache-status: DYNAMIC\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7ea909e4c62c-EWR\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/24a389e866006b472809d6175528a212163947f798a529abeb06a163f6a4525d.gz",
+        "raw_bytes": 36874,
+        "raw_sha256": "24a389e866006b472809d6175528a212163947f798a529abeb06a163f6a4525d",
+        "stored_bytes": 10535,
+        "stored_sha256": "b24a692fe6f07afa4f5a1ff6b3ef5925a013d566f3a31d3006e4a475e60d52b2"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:17.675240+00:00"
+}

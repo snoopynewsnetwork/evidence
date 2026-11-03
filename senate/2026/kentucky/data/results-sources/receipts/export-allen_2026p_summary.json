@@ -1,0 +1,51 @@
+{
+  "label": "export-allen_2026p_summary",
+  "started_utc": "2026-10-20T22:35:41.765141+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/ALLEN/Allen_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/ALLEN/Allen_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:41.765145+00:00",
+      "ended_utc": "2026-10-20T22:35:42.195282+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/209908af757dd8f4ba419e1ec9a0b590b1acb524046eb1fcc680741ca12b045c.gz",
+        "raw_bytes": 1625,
+        "raw_sha256": "209908af757dd8f4ba419e1ec9a0b590b1acb524046eb1fcc680741ca12b045c",
+        "stored_bytes": 885,
+        "stored_sha256": "3c732c86bb70c596d81af2374c372a055f4b2c7538c8d0a83b9d6103209fa820"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:42 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 47598\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:42 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:09:42 GMT\r\netag: \"{7F184178-87EC-4CF9-8397-C9CD1FD85A81},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:7F184178-87EC-4CF9-8397-C9CD1FD85A81@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Allen%5f2026p%5fsummary%2ecsv; filename=\"Allen_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 19da46a2-ece6-b05c-6baa-2e36ec9eb5cd\r\nrequest-id: 19da46a2-ece6-b05c-6baa-2e36ec9eb5cd\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 68\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223541Z-15f786f7784kqx6qhC1CHIr13g0000001nv000000000asfe\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/80c402c207847e754d315806dddda56cc159deae133ac16b387970696251878d.gz",
+        "raw_bytes": 47598,
+        "raw_sha256": "80c402c207847e754d315806dddda56cc159deae133ac16b387970696251878d",
+        "stored_bytes": 4818,
+        "stored_sha256": "bf8dedf938da3157fd864334d79ef6f32995152fb3aa73ff63d001ef85a83c97"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:42.198027+00:00"
+}

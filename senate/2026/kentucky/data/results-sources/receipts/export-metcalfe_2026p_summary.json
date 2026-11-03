@@ -1,0 +1,51 @@
+{
+  "label": "export-metcalfe_2026p_summary",
+  "started_utc": "2026-10-20T22:35:54.793268+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/METCALFE/Metcalfe_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/METCALFE/Metcalfe_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:54.793277+00:00",
+      "ended_utc": "2026-10-20T22:35:55.208983+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/22fe98cad45a38916f47749a9e811574dfbe5d435c02a077211a6bc2f2e853cb.gz",
+        "raw_bytes": 1632,
+        "raw_sha256": "22fe98cad45a38916f47749a9e811574dfbe5d435c02a077211a6bc2f2e853cb",
+        "stored_bytes": 891,
+        "stored_sha256": "d23f5c0f04c22f3f7ff2320024eee98c686dc14cbc7cb2de7bcfc0f761972704"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:55 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 43027\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:55 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:23:33 GMT\r\netag: \"{AF93A5E3-E116-4B0E-AEAD-5AA3053A7A53},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:AF93A5E3-E116-4B0E-AEAD-5AA3053A7A53@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Metcalfe%5f2026p%5fsummary%2ecsv; filename=\"Metcalfe_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-ec11-b05c-6baa-284d78ca3a94\r\nrequest-id: 1dda46a2-ec11-b05c-6baa-284d78ca3a94\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 119\r\nspiislatency: 17\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223554Z-15f786f7784vmhpthC1CHI0zmw00000017kg00000000s2pv\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/28b985c0369e983ed40bae3006136f3892929a9d8420630b8d89ff56e871a633.gz",
+        "raw_bytes": 43027,
+        "raw_sha256": "28b985c0369e983ed40bae3006136f3892929a9d8420630b8d89ff56e871a633",
+        "stored_bytes": 4407,
+        "stored_sha256": "3ec9ec8108b86404433b31fab2b1623f5709ec94ccbca1cb2afe98f2190374c0"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:55.216429+00:00"
+}

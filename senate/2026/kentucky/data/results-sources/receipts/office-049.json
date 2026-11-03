@@ -1,0 +1,51 @@
+{
+  "label": "office-049",
+  "started_utc": "2026-10-20T22:35:06.257654+00:00",
+  "request": {
+    "url": "https://knox.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://knox.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:06.257661+00:00",
+      "ended_utc": "2026-10-20T22:35:06.702859+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/cac53bff7945fe294cd2f9542d7be7569f554f41450db57d18e497cb38f8e872.gz",
+        "raw_bytes": 1135,
+        "raw_sha256": "cac53bff7945fe294cd2f9542d7be7569f554f41450db57d18e497cb38f8e872",
+        "stored_bytes": 693,
+        "stored_sha256": "92189397dd4c50ec072b17006c9c8e50b73641127997c2320fed70681f5cdf1f"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:24:56 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://knox.countyclerk.us/wp-json/>; rel=\"https://api.w.org/\", <https://knox.countyclerk.us/wp-json/wp/v2/pages/541>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://knox.countyclerk.us/>; rel=shortlink\r\nCache-Control: s-maxage=31536000, max-age=60\r\nX-WP-SPC-Disk-Cache: DISABLED\r\nX-WP-CF-Super-Cache-Active: 1\r\nX-WP-CF-Super-Cache: cache\r\nX-WP-CF-Super-Cache-Cache-Control: s-maxage=31536000, max-age=60\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 24359353 24070288\r\nAge: 606\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 208364\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914646016; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/cde6a8265236c2401307cf18a004fbeb5955e0dce079c0536c27c647e88f0669.gz",
+        "raw_bytes": 208364,
+        "raw_sha256": "cde6a8265236c2401307cf18a004fbeb5955e0dce079c0536c27c647e88f0669",
+        "stored_bytes": 40399,
+        "stored_sha256": "1d89d71a76ef9d844f2ee28ee7f0632c4f5fa392274c366bfa31587999487eee"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:06.706939+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "office-003-elections",
+  "started_utc": "2026-10-20T22:36:06.405420+00:00",
+  "request": {
+    "url": "https://pulaski.kycountyclerk.us/elections/becoming-a-candidate/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://pulaski.kycountyclerk.us/elections/becoming-a-candidate/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:06.405425+00:00",
+      "ended_utc": "2026-10-20T22:36:07.777581+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/67e327186d7ca7888f26ab0ad38280b242abc7546ff8e00ac4582807d91c6536.gz",
+        "raw_bytes": 699,
+        "raw_sha256": "67e327186d7ca7888f26ab0ad38280b242abc7546ff8e00ac4582807d91c6536",
+        "stored_bytes": 450,
+        "stored_sha256": "f0b393dd44668cd49dd85e779273a39e24bf46a70376c628aed7be1ce76a054a"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:36:06 GMT\r\nServer: Apache/2.4.46 (Win64) OpenSSL/1.1.1i PHP/8.0.1RC1\r\nX-Frame-Options: SAMEORIGIN\r\nX-Powered-By: PHP/8.0.1RC1\r\nLink: <https://pulaski.kycountyclerk.us/wp-json/>; rel=\"https://api.w.org/\"\r\nLink: <https://pulaski.kycountyclerk.us/wp-json/wp/v2/pages/850>; rel=\"alternate\"; type=\"application/json\"\r\nLink: <https://pulaski.kycountyclerk.us/?p=850>; rel=shortlink\r\nX-XSS-Protection: 1; mode=block\r\nX-Content-Type-Options: nosniff\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains; preload\r\nReferrer-Policy: no-referrer-when-downgrade\r\nPermissions-Policy: self\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n",
+      "response_body": {
+        "path": "bodies/19a23dbdad005fe164a9de2ba3daa7a92cd93154a9adeadde0dc532b69c3f08a.gz",
+        "raw_bytes": 121939,
+        "raw_sha256": "19a23dbdad005fe164a9de2ba3daa7a92cd93154a9adeadde0dc532b69c3f08a",
+        "stored_bytes": 16999,
+        "stored_sha256": "82d81c62b5309270b29fcf85f51b7dead6ba9218dcf1e9b33fea804155e28937"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:07.779782+00:00"
+}

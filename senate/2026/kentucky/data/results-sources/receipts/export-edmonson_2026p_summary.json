@@ -1,0 +1,51 @@
+{
+  "label": "export-edmonson_2026p_summary",
+  "started_utc": "2026-10-20T22:35:45.926021+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/EDMONSON/Edmonson_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/EDMONSON/Edmonson_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:45.926025+00:00",
+      "ended_utc": "2026-10-20T22:35:46.132479+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/5dfd619b967091902410f0a273781ad359b9a5d8c258678633b81de22a87c9e9.gz",
+        "raw_bytes": 1631,
+        "raw_sha256": "5dfd619b967091902410f0a273781ad359b9a5d8c258678633b81de22a87c9e9",
+        "stored_bytes": 888,
+        "stored_sha256": "3125562e4442bf155c8399d5c20c2ad1b18297c5befd68f73f819d5d993bf007"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:46 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 31327\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:46 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:12:46 GMT\r\netag: \"{B32F3FC5-46F8-4308-98B1-1BBD3CC755A6},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:B32F3FC5-46F8-4308-98B1-1BBD3CC755A6@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Edmonson%5f2026p%5fsummary%2ecsv; filename=\"Edmonson_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1ada46a2-0ce1-b05c-6baa-28aae1c3e75d\r\nrequest-id: 1ada46a2-0ce1-b05c-6baa-28aae1c3e75d\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 45\r\nspiislatency: 14\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223546Z-15f786f7784qnp4whC1CHI2p5s0000001ntg00000000rst1\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/5cdbd57cab11059883d60d4e8683aed877404381aa96dbae05c9d3d53c470798.gz",
+        "raw_bytes": 31327,
+        "raw_sha256": "5cdbd57cab11059883d60d4e8683aed877404381aa96dbae05c9d3d53c470798",
+        "stored_bytes": 2884,
+        "stored_sha256": "68f5f531b138192044a21eafaae056a6965b066ae58f1a19e4cfde269d84beae"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:46.135552+00:00"
+}

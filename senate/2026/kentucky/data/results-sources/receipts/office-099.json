@@ -1,0 +1,83 @@
+{
+  "label": "office-099",
+  "started_utc": "2026-10-20T22:35:14.868886+00:00",
+  "request": {
+    "url": "https://www.ballard.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.ballard.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:14.868890+00:00",
+      "ended_utc": "2026-10-20T22:35:16.217955+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/97fd82bcdf10077a96b524bcf923c511f2627e2f17cef98afd047efa4310011b.gz",
+        "raw_bytes": 290,
+        "raw_sha256": "97fd82bcdf10077a96b524bcf923c511f2627e2f17cef98afd047efa4310011b",
+        "stored_bytes": 249,
+        "stored_sha256": "0fa7d5d008a0ae27cdb07b00d389141f1e2b8ab4bf64d6a8839fd194bb25223d"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:16 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 0\r\nx-redirect-by: WordPress\r\nlocation: https://ballard.clerkinfo.net/\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: EXPIRED\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://ballard.clerkinfo.net/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:16.218462+00:00",
+      "ended_utc": "2026-10-20T22:35:16.662854+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/ccd91d0961f4d7e564cc8243f92d90db98d6cce05edc45edf5c41ee7ef27d983.gz",
+        "raw_bytes": 486,
+        "raw_sha256": "ccd91d0961f4d7e564cc8243f92d90db98d6cce05edc45edf5c41ee7ef27d983",
+        "stored_bytes": 329,
+        "stored_sha256": "8ceefb0c6311274a6266def59b46440ece1f8601a8f0028e2063c7474815d529"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:16 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nlink: <https://ballard.clerkinfo.net/index.php?rest_route=/>; rel=\"https://api.w.org/\", <https://ballard.clerkinfo.net/index.php?rest_route=/wp/v2/pages/104>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://ballard.clerkinfo.net/>; rel=shortlink\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: HIT\r\n\r\n",
+      "response_body": {
+        "path": "bodies/298cb3ca5415bbb8b70e2b75e885201d4ffdd314a4990e53da70de6de6c1be9c.gz",
+        "raw_bytes": 151709,
+        "raw_sha256": "298cb3ca5415bbb8b70e2b75e885201d4ffdd314a4990e53da70de6de6c1be9c",
+        "stored_bytes": 26537,
+        "stored_sha256": "907d907df2ec23ed3acfff74631c6b09c52e77b5d5edc51010517668f4371cd3"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:16.665802+00:00"
+}

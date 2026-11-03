@@ -1,0 +1,1 @@
+AssertionError: 121 at county-FIPS table length assertion. Exact Census HTML retained. Numeric statistics extraction was written before assertion and remains the complete prior body. Root cause investigated in original HTML, not a peer count repair.

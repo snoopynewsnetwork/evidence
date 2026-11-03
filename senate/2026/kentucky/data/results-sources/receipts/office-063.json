@@ -1,0 +1,51 @@
+{
+  "label": "office-063",
+  "started_utc": "2026-10-20T22:35:08.622447+00:00",
+  "request": {
+    "url": "https://mccracken.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://mccracken.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:08.622451+00:00",
+      "ended_utc": "2026-10-20T22:35:08.781137+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/3449f09dc372329a910a474c896e729b5a7892b40bb9d07ce291464731191944.gz",
+        "raw_bytes": 762,
+        "raw_sha256": "3449f09dc372329a910a474c896e729b5a7892b40bb9d07ce291464731191944",
+        "stored_bytes": 580,
+        "stored_sha256": "aa4c9f8b427f5bab52565ff03f91c7dab8466841591433d6b19e374e9c507691"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:35:08 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nexpires: Thu, 01 Jan 1970 00:00:01 GMT\r\nreferrer-policy: same-origin\r\nx-frame-options: SAMEORIGIN\r\nvary: accept-encoding\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vXl3w%2BmP2SnBP20%2B%2FYdhXHhqTMq%2FzJAqWwsXLKINFJejY%2FzzuAu0Lz5rRsiknFmcQgb5w3lHmV9HezmUl9%2F%2FR%2F%2BCySF4op1%2BafQW1Bls9n9dEirydsZh2OESIVqd2Iz81h5nbXiUD1bMG2O3gaG8hbdI%2BNgsXw%3D%3D\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7e73efa141bf-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/c504a6bbc95cd6dca23358d12effa5dba5026c477bcea606083d67f72def66bb.gz",
+        "raw_bytes": 5513,
+        "raw_sha256": "c504a6bbc95cd6dca23358d12effa5dba5026c477bcea606083d67f72def66bb",
+        "stored_bytes": 2123,
+        "stored_sha256": "733f034ba6edccad817119830e8fd1aa8cf13a32fd1709bbd9cae3785dd5a321"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:08.781743+00:00"
+}

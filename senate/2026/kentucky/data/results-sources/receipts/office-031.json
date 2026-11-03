@@ -1,0 +1,51 @@
+{
+  "label": "office-031",
+  "started_utc": "2026-10-20T22:35:03.365691+00:00",
+  "request": {
+    "url": "https://garrard.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://garrard.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:03.365695+00:00",
+      "ended_utc": "2026-10-20T22:35:04.306228+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/68be9eb6ab80292bd01c951c805670c0cc3f3b7e5168ddcc0060c1ba4bd0911c.gz",
+        "raw_bytes": 1142,
+        "raw_sha256": "68be9eb6ab80292bd01c951c805670c0cc3f3b7e5168ddcc0060c1ba4bd0911c",
+        "stored_bytes": 693,
+        "stored_sha256": "a15ee46bb86e98b7d6b57fe553d1eb7d34d601c05c18d8f0c49a76fb933c9fd4"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:32:18 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://garrard.countyclerk.us/wp-json/>; rel=\"https://api.w.org/\", <https://garrard.countyclerk.us/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://garrard.countyclerk.us/>; rel=shortlink\r\nCache-Control: s-maxage=31536000, max-age=60\r\nX-WP-SPC-Disk-Cache: DISABLED\r\nX-WP-CF-Super-Cache-Active: 1\r\nX-WP-CF-Super-Cache: cache\r\nX-WP-CF-Super-Cache-Cache-Control: s-maxage=31536000, max-age=60\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 21509522 18097018\r\nAge: 161\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 294151\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914646016; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/514c7f1d1befa401eb17a7ca93458851a29f7085df8d79bcb38081156803fa64.gz",
+        "raw_bytes": 294151,
+        "raw_sha256": "514c7f1d1befa401eb17a7ca93458851a29f7085df8d79bcb38081156803fa64",
+        "stored_bytes": 46930,
+        "stored_sha256": "0a3da43f760e44cabafdb96c3c219ae121c1520551821498af1ef8eecaef87e9"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:04.319542+00:00"
+}

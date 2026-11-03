@@ -1,0 +1,51 @@
+{
+  "label": "office-059-results",
+  "started_utc": "2026-10-20T22:39:13.730976+00:00",
+  "request": {
+    "url": "https://media-magoffincountyclerk.ky.gov/uploads/NOV-3-2015-ELECTION-RECAP-unofficial-results-print.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://media-magoffincountyclerk.ky.gov/uploads/NOV-3-2015-ELECTION-RECAP-unofficial-results-print.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:13.730981+00:00",
+      "ended_utc": "2026-10-20T22:39:14.877412+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/7f4e2c55d8d274a7ff3eb6c7967623bdbe071399f5cce27caa440e2d31be7673.gz",
+        "raw_bytes": 717,
+        "raw_sha256": "7f4e2c55d8d274a7ff3eb6c7967623bdbe071399f5cce27caa440e2d31be7673",
+        "stored_bytes": 445,
+        "stored_sha256": "e0ec5b2c2b2d430541f2aaca74face9c68497aa264d198cfaaa36b2ca5e5f03a"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:39:14 GMT\r\ncontent-type: application/pdf\r\ncontent-length: 161083\r\nvary: Accept-Encoding\r\ncache-control: public, max-age=3600\r\nlast-modified: Tue, 11 Aug 2026 19:41:55 GMT\r\netag: \"0x8DEF7E0998234FB\"\r\nx-ms-request-id: bc82bc49-b01e-0019-37e3-607c1a000000\r\nx-ms-version: 2025-05-05\r\nx-ms-creation-time: Tue, 11 Aug 2026 19:41:55 GMT\r\nx-ms-lease-status: unlocked\r\nx-ms-lease-state: available\r\nx-ms-blob-type: BlockBlob\r\nx-ms-server-encrypted: true\r\nx-ms-access-tier: Hot\r\nx-ms-access-tier-change-time: Tue, 11 Aug 2026 19:41:55 GMT\r\nx-azure-ref: 20261020T223914Z-174b95d58c8j2bk5hC1CH1c9dg0000001ep000000000670t\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: TCP_MISS\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/fbda23c382072fac49358179ac98c9fdab41b1a9c0a22a89d653fb36e901b950.gz",
+        "raw_bytes": 161083,
+        "raw_sha256": "fbda23c382072fac49358179ac98c9fdab41b1a9c0a22a89d653fb36e901b950",
+        "stored_bytes": 137025,
+        "stored_sha256": "00dccbc5977d230ffcb5902d58195d9ff09b1ee5598abfa674bb5bce93734a7a"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:14.880312+00:00"
+}

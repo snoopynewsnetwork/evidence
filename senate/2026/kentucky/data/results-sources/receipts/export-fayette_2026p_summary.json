@@ -1,0 +1,51 @@
+{
+  "label": "export-fayette_2026p_summary",
+  "started_utc": "2026-10-20T22:35:46.478404+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/FAYETTE/Fayette_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/FAYETTE/Fayette_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:46.478419+00:00",
+      "ended_utc": "2026-10-20T22:35:47.938394+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/84f511cfd1d934e4bb83b91044f3432925963f8572d8d69d72c4beb79007b39e.gz",
+        "raw_bytes": 1632,
+        "raw_sha256": "84f511cfd1d934e4bb83b91044f3432925963f8572d8d69d72c4beb79007b39e",
+        "stored_bytes": 894,
+        "stored_sha256": "2a62cf948c209ee0baeb7c1e9f0e5a467ea4329f6a885d70cefb2c89c4c224dd"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:47 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 1576226\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:46 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:13:17 GMT\r\netag: \"{C29C6EC2-416E-4F90-BEA2-8A23DED338E9},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:C29C6EC2-416E-4F90-BEA2-8A23DED338E9@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Fayette%5f2026p%5fsummary%2ecsv; filename=\"Fayette_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1bda46a2-1c07-b05c-bfd1-831cc92008d2\r\nrequest-id: 1bda46a2-1c07-b05c-bfd1-831cc92008d2\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 957\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223546Z-15f786f7784w7p44hC1CHI5tcw0000001p7000000000101d\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/b405f7f779603e4daa5a987e3af7299f8871ca333df7763f6cab28bff4a9e6c3.gz",
+        "raw_bytes": 1576226,
+        "raw_sha256": "b405f7f779603e4daa5a987e3af7299f8871ca333df7763f6cab28bff4a9e6c3",
+        "stored_bytes": 122834,
+        "stored_sha256": "35f2de21283d9e210b693d421993e6ea6f749d40f954d7f1f9c84411dda587db"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:48.015117+00:00"
+}

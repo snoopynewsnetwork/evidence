@@ -1,0 +1,83 @@
+{
+  "label": "office-094",
+  "started_utc": "2026-10-20T22:35:13.282300+00:00",
+  "request": {
+    "url": "https://webstercountyclerk.ky.gov",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://webstercountyclerk.ky.gov",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:13.282303+00:00",
+      "ended_utc": "2026-10-20T22:35:13.933147+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "302",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/9a18775e3d86257378bad9873f7aea1a39a3d81e2ffffc34e547b41954fde2de.gz",
+        "raw_bytes": 1178,
+        "raw_sha256": "9a18775e3d86257378bad9873f7aea1a39a3d81e2ffffc34e547b41954fde2de",
+        "stored_bytes": 656,
+        "stored_sha256": "8cc90db43ed047ee67c052776aa8f567ad96b5089549426abe2062bf9e4af2c5"
+      },
+      "headers_latin1": "HTTP/2 302 \r\ndate: Tue, 20 Oct 2026 22:35:13 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 175\r\nlocation: https://webstercountyclerk.ky.gov/Pages/default.aspx\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\nx-sharepointhealthscore: 0\r\nsprequestguid: 13da46a2-5c08-b05c-6baa-24e77269006e\r\nrequest-id: 13da46a2-5c08-b05c-6baa-24e77269006e\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 47\r\nspiislatency: 0\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223513Z-r1cf8987fd5mqnlwhC1CHIhczw0000000960000000004vcw\r\nx-cache: CONFIG_NOCACHE\r\n\r\n",
+      "response_body": {
+        "path": "bodies/996eafe40b34d895675f5792fd00fcacced56615f0cd17bac6e84784a09cbe0c.gz",
+        "raw_bytes": 175,
+        "raw_sha256": "996eafe40b34d895675f5792fd00fcacced56615f0cd17bac6e84784a09cbe0c",
+        "stored_bytes": 158,
+        "stored_sha256": "2a1dc9c2bda9022c9a9160b58b58cf4bf1b78d2ff2543a2efa8cbd5ed0290109"
+      },
+      "body_availability": "captured",
+      "status": 302
+    },
+    {
+      "url": "https://webstercountyclerk.ky.gov/Pages/default.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:13.933695+00:00",
+      "ended_utc": "2026-10-20T22:35:15.489104+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/49a693f0c8a2ea30243f79f529847afdf62f0571f7fdadadffb9186d6e2200e5.gz",
+        "raw_bytes": 1291,
+        "raw_sha256": "49a693f0c8a2ea30243f79f529847afdf62f0571f7fdadadffb9186d6e2200e5",
+        "stored_bytes": 700,
+        "stored_sha256": "3628d3437463727b52f75611ec8ffbc60f167c4e6a6165ee2378def188e4d141"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:15 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 68707\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private, max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:14 GMT\r\nlast-modified: Tue, 20 Oct 2026 22:35:14 GMT\r\nx-sharepointhealthscore: 0\r\nx-aspnet-version: 4.0.30319\r\nsprequestguid: 13da46a2-7c19-b05c-bfd1-81319d25a7ff\r\nrequest-id: 13da46a2-7c19-b05c-bfd1-81319d25a7ff\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 1291\r\nspiislatency: 18\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223514Z-r1cf8987fd5fbs2dhC1CHI0cvw000000140g00000000dtsg\r\nx-cache: CONFIG_NOCACHE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e0f9121cb481c49057306462006045c07f26c1d7b872d722cdb268ecca2c46ec.gz",
+        "raw_bytes": 68707,
+        "raw_sha256": "e0f9121cb481c49057306462006045c07f26c1d7b872d722cdb268ecca2c46ec",
+        "stored_bytes": 25468,
+        "stored_sha256": "bd5dcb2280e9ac21cee27af84948e231724b49a99d0a0b5a66d06a75cd8c7e9a"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:15.490662+00:00"
+}

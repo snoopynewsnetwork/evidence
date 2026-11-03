@@ -1,0 +1,51 @@
+{
+  "label": "specimen-159",
+  "started_utc": "2026-10-20T22:37:05.225395+00:00",
+  "request": {
+    "url": "https://web.sos.ky.gov/ballots/Magoffin%202026G.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://web.sos.ky.gov/ballots/Magoffin%202026G.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:37:05.225398+00:00",
+      "ended_utc": "2026-10-20T22:37:06.321652+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/53773bc35ec3822e743502a58242ed363a364ced4e31bce64b04b4cd9875dc79.gz",
+        "raw_bytes": 254,
+        "raw_sha256": "53773bc35ec3822e743502a58242ed363a364ced4e31bce64b04b4cd9875dc79",
+        "stored_bytes": 221,
+        "stored_sha256": "9fd8fca7ea129e7eaf2c7bf1d4eaa750cf9a30431ab525d96b104cecfebfe645"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:37:05 GMT\r\ncontent-type: application/pdf\r\ncontent-length: 8301978\r\nlast-modified: Thu, 01 Oct 2026 17:30:55 GMT\r\naccept-ranges: bytes\r\netag: \"80a28e9dca51dd1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\n\r\n",
+      "response_body": {
+        "path": "bodies/cbd537f64ff2e357ce698266c7d51582f056b480aef93ecfa988e729f3c99ccd.gz",
+        "raw_bytes": 8301978,
+        "raw_sha256": "cbd537f64ff2e357ce698266c7d51582f056b480aef93ecfa988e729f3c99ccd",
+        "stored_bytes": 7590946,
+        "stored_sha256": "a686260e46f3cfaa552a5b9290df75384e6bb151838950bbc9158e8c7b194287"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:37:06.454493+00:00"
+}

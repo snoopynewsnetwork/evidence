@@ -1,0 +1,115 @@
+{
+  "label": "office-078",
+  "started_utc": "2026-10-20T22:35:10.667910+00:00",
+  "request": {
+    "url": "https://pikewp.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://pikewp.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:10.667914+00:00",
+      "ended_utc": "2026-10-20T22:35:10.933932+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a9ddb314e0b7c10f0533c01c62868b75dbcd15f5c895934ca36f6bf8d220f0de.gz",
+        "raw_bytes": 335,
+        "raw_sha256": "a9ddb314e0b7c10f0533c01c62868b75dbcd15f5c895934ca36f6bf8d220f0de",
+        "stored_bytes": 270,
+        "stored_sha256": "f4153b42b60631992e1b0d56cfa645deaf8a0f5fefe1b8f8b7e13a1e5675d489"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:10 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=iso-8859-1\r\ncontent-length: 273\r\nlocation: http://pike.clerkinfo.net\r\ncache-control: max-age=7200\r\nexpires: Wed, 21 Oct 2026 00:35:10 GMT\r\nx-server-cache: true\r\nx-proxy-cache: EXPIRED\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\n\r\n",
+      "response_body": {
+        "path": "bodies/56457868baee6a3c542e52987a99c9b8cda84a9f25e63614c591b8559ba8b35b.gz",
+        "raw_bytes": 273,
+        "raw_sha256": "56457868baee6a3c542e52987a99c9b8cda84a9f25e63614c591b8559ba8b35b",
+        "stored_bytes": 220,
+        "stored_sha256": "b43736d8ac4ad5774e40ba748e4a210729ade053f2630367a94db823184634b0"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "http://pike.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:10.934494+00:00",
+      "ended_utc": "2026-10-20T22:35:12.271779+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/0d6bdeff9d985f9e098c6b3c9256882fe414b4b66fec528d3bc5591224700060.gz",
+        "raw_bytes": 343,
+        "raw_sha256": "0d6bdeff9d985f9e098c6b3c9256882fe414b4b66fec528d3bc5591224700060",
+        "stored_bytes": 292,
+        "stored_sha256": "97d5461557c4152f822dbda7ca6455b6f001c832b66182735a347e5e53bfcbe8"
+      },
+      "headers_latin1": "HTTP/1.1 301 Moved Permanently\r\nDate: Tue, 20 Oct 2026 22:35:12 GMT\r\nServer: nginx/1.29.8\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Length: 0\r\nNo-Vary-Search: params=(\"PageSpeed\")\r\nX-Redirect-By: WordPress\r\nLocation: https://pikecoclerkky.gov/\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nX-Server-Cache: true\r\nX-Proxy-Cache: EXPIRED\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://pikecoclerkky.gov/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:12.272262+00:00",
+      "ended_utc": "2026-10-20T22:35:16.253871+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/61d1cd7710a5c432f31acc2464ec0fe2ea3e845adcbcb3471d3e7f90c6dcabfc.gz",
+        "raw_bytes": 485,
+        "raw_sha256": "61d1cd7710a5c432f31acc2464ec0fe2ea3e845adcbcb3471d3e7f90c6dcabfc",
+        "stored_bytes": 342,
+        "stored_sha256": "3f090c6b9484b04936eca9bdd971eecd94ba6b70c6d6864f2da92a547a8c6af0"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:16 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nno-vary-search: params=(\"PageSpeed\")\r\nlink: <https://pikecoclerkky.gov/wp-json/>; rel=\"https://api.w.org/\", <https://pikecoclerkky.gov/wp-json/wp/v2/pages/104>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://pikecoclerkky.gov/>; rel=shortlink\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: MISS\r\n\r\n",
+      "response_body": {
+        "path": "bodies/ee3a31cbf826cca18fcd7d48e2e14abde9c5b89e525fd558614b68c76348fa36.gz",
+        "raw_bytes": 155027,
+        "raw_sha256": "ee3a31cbf826cca18fcd7d48e2e14abde9c5b89e525fd558614b68c76348fa36",
+        "stored_bytes": 28314,
+        "stored_sha256": "5787d00896538d90bb761176bb2e4d459f66839f29c1fb9e3f5b7d3cff3e0bac"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:16.256996+00:00"
+}

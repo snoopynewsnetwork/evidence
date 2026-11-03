@@ -1,0 +1,51 @@
+{
+  "label": "specimen-087",
+  "started_utc": "2026-10-20T22:36:57.939733+00:00",
+  "request": {
+    "url": "https://web.sos.ky.gov/ballots/Breckinridge%202026G.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://web.sos.ky.gov/ballots/Breckinridge%202026G.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:57.939738+00:00",
+      "ended_utc": "2026-10-20T22:36:58.155728+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/66aab42b9459d1c085de463e26207d65d8594b2e41e055aca59919a0c1e94291.gz",
+        "raw_bytes": 253,
+        "raw_sha256": "66aab42b9459d1c085de463e26207d65d8594b2e41e055aca59919a0c1e94291",
+        "stored_bytes": 220,
+        "stored_sha256": "59488f8d00649e46721167a6fb37d2d2590800d4d5a14403582b8af9489d60a3"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:58 GMT\r\ncontent-type: application/pdf\r\ncontent-length: 583742\r\nlast-modified: Tue, 29 Sep 2026 13:56:54 GMT\r\naccept-ranges: bytes\r\netag: \"72f0d0621a50dd1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\n\r\n",
+      "response_body": {
+        "path": "bodies/195abcbf33765c0f62a6cb65df5958a3ac4f62b17de380ca3cf38dc86121901b.gz",
+        "raw_bytes": 583742,
+        "raw_sha256": "195abcbf33765c0f62a6cb65df5958a3ac4f62b17de380ca3cf38dc86121901b",
+        "stored_bytes": 526041,
+        "stored_sha256": "e67ad85f168dedc1953d71cbc1e770ea314f5a508727fff4da14140315134806"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:58.165273+00:00"
+}

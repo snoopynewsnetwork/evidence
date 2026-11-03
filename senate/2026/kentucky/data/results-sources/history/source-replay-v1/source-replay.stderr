@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/results-sources/scripts/replay.py", line 102, in <module>
+    result=run(pathlib.Path(td));print(json.dumps(result,sort_keys=True))
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/results-sources/scripts/replay.py", line 94, in run
+    b=(STATE/r['path']).read_bytes();check(b,r,'stored_');rb=gzip.decompress(b) if r['path'].endswith('.gz') else b;check(rb,r,'raw_')
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/.pyenv/versions/3.11.8/lib/python3.11/pathlib.py", line 1050, in read_bytes
+    with self.open(mode='rb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/.pyenv/versions/3.11.8/lib/python3.11/pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/tqbf/codebase/snn/senate/2026/kentucky/source/bodies/fb0cc26f45f4942007d79a4c2b566ca541e13f531e6c13bef9d01fa7400df395.gz'

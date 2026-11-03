@@ -1,0 +1,13 @@
+{
+  "kind": "original-source visual observations by this worker",
+  "certificate_pages": {"2024": [2, 7], "2022": [2, 6], "2020": [8, 10]},
+  "certificate_observations": "All selected first/final table pages inspected. Tickets occupy one candidate column. Every named write-in column remains separate. Display text transcriptions distinguish original positional glyphs. No manual reading claim for every county cell.",
+  "elliott_pages_with_presidential_statistics": [1, 4, 7, 9, 11, 13, 15],
+  "elliott_observations": "Seven original precinct blocks visually inspected, six ballot candidates plus generic write-in/unassigned and contest totals, registration/ballots/blank; all16 full page renders retained. OCR errors such as ti} in a zero field are preserved separately and not used.",
+  "historical_estill_pages": [1, 2, 3],
+  "historical_lyon_pages": [1, 2],
+  "historical_observations": "All five full original pages visually inspected. Estill PDF2 sideways, PDF3 local write-in sheet. Absentee totals overlap early/scan columns. Blanks versus zeros versus ambiguous handwriting retained; no arithmetic repair or priority use.",
+  "jefferson_alternative_pages": [1, 2],
+  "jefferson_alternative_observations": "Complete34-page original retained. Selected county statistics/presidential block visually read; TOTAL and all five methods retain generic/named/unassigned distinctions. These county summary rows are not added to source-native rows.",
+  "poppler_render_status": "exit0 with original-source flate warnings; full stderr retained in renderer history/proof, original bytes unchanged"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "office-081-elections",
+  "started_utc": "2026-10-20T22:36:10.607338+00:00",
+  "request": {
+    "url": "http://rockcastlecountyclerk.com/wp/election-results/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "http://rockcastlecountyclerk.com/wp/election-results/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:10.607343+00:00",
+      "ended_utc": "2026-10-20T22:36:10.781052+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/345c4ba3ae2cebaab37b4808323a10336f3bf170d3a61b66e77e614bdc0ac598.gz",
+        "raw_bytes": 461,
+        "raw_sha256": "345c4ba3ae2cebaab37b4808323a10336f3bf170d3a61b66e77e614bdc0ac598",
+        "stored_bytes": 302,
+        "stored_sha256": "07dda2023ebeaabe48c6343d10a71c05f28b1e494af07b4924760c470a154989"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:36:10 GMT\r\nServer: Apache\r\nLink: <http://rockcastlecountyclerk.com/wp/wp-json/>; rel=\"https://api.w.org/\", <http://rockcastlecountyclerk.com/wp/wp-json/wp/v2/pages/329>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <http://rockcastlecountyclerk.com/wp/?p=329>; rel=shortlink\r\nUpgrade: h2,h2c\r\nConnection: Upgrade\r\nVary: Accept-Encoding\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n",
+      "response_body": {
+        "path": "bodies/dbfde2323ea13a6c540c06e1e02ce2e6c9d5a1bb6de1806dade4f7b621c4e761.gz",
+        "raw_bytes": 98233,
+        "raw_sha256": "dbfde2323ea13a6c540c06e1e02ce2e6c9d5a1bb6de1806dade4f7b621c4e761",
+        "stored_bytes": 15423,
+        "stored_sha256": "7e740d92a3ce2bb1d0ab072b6693d1c2735b33c8363e77cc115a0fddcfef6490"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:10.782625+00:00"
+}

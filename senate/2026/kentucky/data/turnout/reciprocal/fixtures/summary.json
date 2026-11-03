@@ -1,0 +1,145 @@
+{
+  "status": "PASS",
+  "positive_complete_actual_source_packet": "accepted",
+  "full_component_bodies": 382,
+  "corrupt_complete_packets_rejected": 17,
+  "fixtures": [
+    {
+      "fixture": "missing-companion",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "complete source/context/order/companion component membership",
+      "complete_packet_input_sha256": "bc91e7baa3e119953268f6fb3c9219739e53a22000740467d803c9fdbdd79479",
+      "full_components": 382
+    },
+    {
+      "fixture": "truncated-source-roles",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "complete individual source/receipt/role coverage",
+      "complete_packet_input_sha256": "05660733c67c49086c00491c39ec84862be6387355c8b4c9603fe4ebefe6ebf4",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-candidate-position",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "all120 candidate positions",
+      "complete_packet_input_sha256": "2f294ef16d5f3c7ec045ad78522a1389f89ffd47b2bcae3006c54c3b490a2b4b",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-header",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "complete original header",
+      "complete_packet_input_sha256": "e0bacc0e82c153ad3d5aad698b5963f799d6f23f2fa3cb686dd1308f57f89fc3",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-party",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "candidate party/runningmate/header mask",
+      "complete_packet_input_sha256": "3d779b5812f8209e3e031e185c50f0b7f111e0c2663115bef91d7d2b2a869d10",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-method",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "native full source/position/method companion",
+      "complete_packet_input_sha256": "dabe38030b27b49d6e56933e1260ac2c8a9cd24d249d08e5717f14f297aa14cd",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-position",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "native full source/position/method companion",
+      "complete_packet_input_sha256": "4ac839de3adb54ddd8d01134f4993adec14ac869df334f826e207a48030215b1",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-native-context",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "complete native/admin source entity coverage/duplicates",
+      "complete_packet_input_sha256": "3b8354b646358c7e51e2bfa8cc52ecd5ee9749dd8edfa654b8731b6f963cc420",
+      "full_components": 382
+    },
+    {
+      "fixture": "duplicate-native-context",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "complete native/admin source entity coverage/duplicates",
+      "complete_packet_input_sha256": "eb87d84ef222374377efd16a05bf66ba1aa2ac2ac064ea84cda2dbfd4f945b03",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-parent",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "all120 parent coverage",
+      "complete_packet_input_sha256": "68a8c2da6d1650b8d0f6ad1a439a72c865e79c06fe5302fdc5f43e5160716e57",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-administrative-child",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "all native/admin children retained",
+      "complete_packet_input_sha256": "e40ea8e434a74fcbd0bf94b8b717a9aadf32016a8ec6861a3f13e7c78bea7531",
+      "full_components": 382
+    },
+    {
+      "fixture": "missing-unknown-mask",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "complete explicit unknown mask",
+      "complete_packet_input_sha256": "7d085f84490d2b70c3bea8981363dbb591f8e890cf8940c3a88f1408dcce0895",
+      "full_components": 382
+    },
+    {
+      "fixture": "wrong-full-order",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "descending complete order",
+      "complete_packet_input_sha256": "a6cc8d48c0f42e2cd809702a17183e3d4c819a33132727ce79d28a18b6efba15",
+      "full_components": 382
+    },
+    {
+      "fixture": "wrong-integer80",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "minimum certified/source-scoped integer80 crossing",
+      "complete_packet_input_sha256": "79f691544de96bb8444bbfdc4b7045f3d041c423424d3afd59970779dd694be6",
+      "full_components": 382
+    },
+    {
+      "fixture": "county-substitution",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "canonical NULL/county substitution rejection",
+      "complete_packet_input_sha256": "576182c0993a72528a3754d62701b0a6a4780f68d3bca207b58f31d8264d4da5",
+      "full_components": 382
+    },
+    {
+      "fixture": "wrong-certified-minimum",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "minimum certified/source-scoped integer80 crossing",
+      "complete_packet_input_sha256": "39b18df25d476d56cdf5bbedfba563071d6ebec7428714951139114310f093b4",
+      "full_components": 382
+    },
+    {
+      "fixture": "current-admission",
+      "expected": "REJECT",
+      "actual": "REJECT",
+      "reason": "no current/legal/geographic/feed admission",
+      "complete_packet_input_sha256": "15fea15512c5e8789f1b1aef346ac39d1c111dceb4b01ec942eb5d15919d73ca",
+      "full_components": 382
+    }
+  ],
+  "scope": "source/count/order/context/companion/null/admin/party/method/position only; no calculator checks"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "export-meade_2026p_summary",
+  "started_utc": "2026-10-20T22:35:54.315278+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MEADE/Meade_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MEADE/Meade_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:54.315283+00:00",
+      "ended_utc": "2026-10-20T22:35:54.757284+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/d5109d9c849bcb8e1c50fde86f7d148d45186f4fa7e40e5456aab2097905bfe4.gz",
+        "raw_bytes": 1626,
+        "raw_sha256": "d5109d9c849bcb8e1c50fde86f7d148d45186f4fa7e40e5456aab2097905bfe4",
+        "stored_bytes": 887,
+        "stored_sha256": "7ade59997b0dd2f8a365273c12f1abba1c2c02ecf05fcd43fdfa384ceb075517"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:54 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 84635\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:54 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:23:18 GMT\r\netag: \"{0EC2B6F0-4515-4A0A-8735-FF3362115F7A},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:0EC2B6F0-4515-4A0A-8735-FF3362115F7A@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Meade%5f2026p%5fsummary%2ecsv; filename=\"Meade_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-7ced-b05c-bfd1-8cdebb9ecef8\r\nrequest-id: 1cda46a2-7ced-b05c-bfd1-8cdebb9ecef8\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 256\r\nspiislatency: 10\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223554Z-15f786f7784jhdgshC1CHIbykc00000019300000000073a4\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/60063c32f8877183efcd8f5a60ff5a1a82ec7ac780ede3bb2eeba4870055e9c6.gz",
+        "raw_bytes": 84635,
+        "raw_sha256": "60063c32f8877183efcd8f5a60ff5a1a82ec7ac780ede3bb2eeba4870055e9c6",
+        "stored_bytes": 7923,
+        "stored_sha256": "e0a952b1b43a8b55cc00827698361b74d837cf68e62b768313438756a6b64cde"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:54.767207+00:00"
+}

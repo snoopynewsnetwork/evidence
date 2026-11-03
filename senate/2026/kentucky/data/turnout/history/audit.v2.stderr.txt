@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/scripts/audit.py", line 77, in <module>
+    require(not method_exceptions,'source native method balance exceptions '+str(method_exceptions[:2]));checks['native_positioned_rows']=len(native)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/scripts/audit.py", line 10, in require
+    if not ok:raise AssertionError(message)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: source native method balance exceptions [{'source_sha256': 'cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132', 'page': 1, 'line': 39, 'label': '5', 'source_values': [0, 0, 1, 4]}, {'source_sha256': 'cd47043ffefffe5055dca0d94bfd0e993a6359bde71bad39fb31c365f716b132', 'page': 4, 'line': 39, 'label': '9', 'source_values': [0, 0, 4, 5]}]

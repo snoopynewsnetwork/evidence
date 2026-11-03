@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/history/diagnose_native.v1.failed.py", line 24, in <module>
+    for c,z in counties.items():z['trump_delta']=z['trump']-target[c][1];z['harris_delta']=z['harris']-target[c][2];z['total_delta']=z['raw_total']-sum(target[c].values())
+                                                            ~~~~~~~~~^^^
+KeyError: 1

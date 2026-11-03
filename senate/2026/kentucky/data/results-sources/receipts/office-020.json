@@ -1,0 +1,51 @@
+{
+  "label": "office-020",
+  "started_utc": "2026-10-20T22:35:01.641568+00:00",
+  "request": {
+    "url": "https://carter.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://carter.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:01.641572+00:00",
+      "ended_utc": "2026-10-20T22:35:02.309647+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/594e0690e231d9917a07cd1af1223f89fb9fbdbde92db40742165492bf689c1d.gz",
+        "raw_bytes": 1141,
+        "raw_sha256": "594e0690e231d9917a07cd1af1223f89fb9fbdbde92db40742165492bf689c1d",
+        "stored_bytes": 695,
+        "stored_sha256": "8bd7341e05f338f5ccc48e1b08ecaea59890a31951fa47c85b1c63ffcee64426"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:21:55 GMT\r\nServer: Apache\r\nP3P: CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"\r\nLink: <https://cdn.gtranslate.net/>; rel=dns-prefetch, <https://carter.countyclerk.us/wp-json/>; rel=\"https://api.w.org/\", <https://carter.countyclerk.us/wp-json/wp/v2/pages/332>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://carter.countyclerk.us/>; rel=shortlink\r\nCache-Control: s-maxage=31536000, max-age=60\r\nX-WP-SPC-Disk-Cache: DISABLED\r\nX-WP-CF-Super-Cache-Active: 1\r\nX-WP-CF-Super-Cache: cache\r\nX-WP-CF-Super-Cache-Cache-Control: s-maxage=31536000, max-age=60\r\nVary: Accept-Encoding\r\nX-Served-By: WEB1\r\nContent-Type: text/html; charset=UTF-8\r\nX-Varnish: 24678191 21117080\r\nAge: 783\r\nVia: 1.1 varnish (Varnish/7.1)\r\nAccept-Ranges: bytes\r\nContent-Length: 138270\r\nConnection: keep-alive\r\nSet-Cookie: JSESSIONID=131151720.1.4007690832.1914635776; path=/; httponly;secure ;\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+      "response_body": {
+        "path": "bodies/52015d3b68455f45ac95916256b5bd316dbf26b9628b266cd9e53aec37e5fc21.gz",
+        "raw_bytes": 138270,
+        "raw_sha256": "52015d3b68455f45ac95916256b5bd316dbf26b9628b266cd9e53aec37e5fc21",
+        "stored_bytes": 26940,
+        "stored_sha256": "308064631f01dea0cf14c41ac2c55a2864d7d0baa00d4764e11601b53ee4a186"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:02.311763+00:00"
+}

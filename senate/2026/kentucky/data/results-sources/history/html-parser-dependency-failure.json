@@ -1,0 +1,8 @@
+{
+  "phase": "initial read-only HTML adapter inspection",
+  "command": "python3 stdin adapter: import gzip,json; from pathlib import Path; from bs4 import BeautifulSoup",
+  "stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 3, in <module>\nModuleNotFoundError: No module named 'bs4'\n",
+  "exit_code": 1,
+  "source_bytes_changed": false,
+  "correction": "Use Python standard-library HTMLParser; retain whole original HTTP entities and receipts. No dependencies installed."
+}

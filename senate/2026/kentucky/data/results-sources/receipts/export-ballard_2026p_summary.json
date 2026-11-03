@@ -1,0 +1,51 @@
+{
+  "label": "export-ballard_2026p_summary",
+  "started_utc": "2026-10-20T22:35:42.089615+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/BALLARD/Ballard_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/BALLARD/Ballard_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:42.089618+00:00",
+      "ended_utc": "2026-10-20T22:35:42.400901+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/dcfe5006bd888554a9cb906e465346a8d945cac69714a364dfcd29f6f8e74766.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "dcfe5006bd888554a9cb906e465346a8d945cac69714a364dfcd29f6f8e74766",
+        "stored_bytes": 889,
+        "stored_sha256": "dc2917b533c5029ba6cf91517e69d2938dea734c480ae77dd4387181d5775121"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:42 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 18051\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:42 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:09:52 GMT\r\netag: \"{4B458E85-CB00-4469-B48E-F641F6E7EF0F},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:4B458E85-CB00-4469-B48E-F641F6E7EF0F@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Ballard%5f2026p%5fsummary%2ecsv; filename=\"Ballard_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 19da46a2-bcf8-b05c-6baa-2c0e792236de\r\nrequest-id: 19da46a2-bcf8-b05c-6baa-2c0e792236de\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 45\r\nspiislatency: 13\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223542Z-15f786f77845l7sbhC1CHIbb9w0000001n400000000198q3\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/4ebab8fd2166fb03ded9855de76a559971872076958470c771ee81f96102502e.gz",
+        "raw_bytes": 18051,
+        "raw_sha256": "4ebab8fd2166fb03ded9855de76a559971872076958470c771ee81f96102502e",
+        "stored_bytes": 2303,
+        "stored_sha256": "66e75de8f28af44275a76654c6b1190e2bb1fbc25021735c66b90a3cee80103f"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:42.403296+00:00"
+}

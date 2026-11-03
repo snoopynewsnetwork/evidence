@@ -1,0 +1,7 @@
+{
+  "command_fragment": "krs117a=https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42744",
+  "stderr": "zsh:1: no matches found: krs117a=https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42744\n",
+  "exit_code": 1,
+  "request_sent": false,
+  "correction": "quote the literal selector argument"
+}

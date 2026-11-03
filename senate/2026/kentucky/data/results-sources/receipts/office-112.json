@@ -1,0 +1,83 @@
+{
+  "label": "office-112",
+  "started_utc": "2026-10-20T22:35:21.945598+00:00",
+  "request": {
+    "url": "https://www.kentoncountykyclerk.com",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.kentoncountykyclerk.com",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:21.945602+00:00",
+      "ended_utc": "2026-10-20T22:35:22.298828+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/7971bbc7258b0d8cadeedfe45d8732d99bdad1b20048904934d11ebc152bf843.gz",
+        "raw_bytes": 1882,
+        "raw_sha256": "7971bbc7258b0d8cadeedfe45d8732d99bdad1b20048904934d11ebc152bf843",
+        "stored_bytes": 1093,
+        "stored_sha256": "409869c3fa7f4b4f07d9a0dd97489ef673bc064e994f68dc69631655ca8d2923"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:22 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nlocation: https://kentonkyclerk.gov/\r\ncf-ray: a4db7ec70aec0ed2-ORD\r\ncf-cache-status: DYNAMIC\r\ncache-control: public, max-age=0, s-maxage=900\r\nexpires: Tue, 20 Oct 2026 11:12:36 GMT\r\nserver: cloudflare\r\npragma: no-cache\r\ncache-tag: 9981110a-3d2a-447f-bf00-98edc7fe41f5,b15921b8f76d05e2ce4e939d0af971732b298d47c556f155ccd524666167a0f2\r\nki-cf-cache-status: SAVING\r\nx-content-type-options: nosniff\r\nx-edge-location-klb: 1\r\nki-cache-tag: 9981110a-3d2a-447f-bf00-98edc7fe41f5,b15921b8f76d05e2ce4e939d0af971732b298d47c556f155ccd524666167a0f2\r\nki-cache-type: None\r\nki-edge: v=28.5.2;mv=99.9.9\r\nki-origin: g1p\r\npermissions-policy: private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")\r\nx-kinsta-cache: HIT\r\nx-pingback: https://kentonkyclerk.gov/xmlrpc.php\r\nx-redirect-by: WordPress\r\nset-cookie: __cf_bm=5..y5MbIL3YYs2KBSgE6E.VrZpmjapkA7R1r6k7ZVFA-1792535722.0846965-1.0.1.1-NoeM.ZyBY4IIIY0rArL9WPA1iW0_cjlLoS.rOZ6j5XO4yKDzg1HDcpEd887R14ef3zBpLXiElXS_vqNN1hoV.Aejo2lQ21mvui3.vhPqDvE8e1KkAlLTgIr8HUPbQfE9; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.kentoncountykyclerk.com; Expires=Tue, 20 Oct 2026 23:05:22 GMT\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=oi1Vnw7pi0skwfFavYxz4rhcmh2Xf7GCyvXrSTq2GxId3grxl%2BL23WM6MI60fcMqHsUlTCDAOA6iB%2BsTZ89kJFV3m%2BZuVZhcbsbUm3GahyoIiJbS1NwCxAPU%2FobSnQSWJH2vge5QChNblNWCSCsKJselrxireASb5w%3D%3D\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://kentonkyclerk.gov/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:22.299364+00:00",
+      "ended_utc": "2026-10-20T22:35:22.477534+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/f2b6c5e2f7cdce28070fec1583b65db4011fedac22451d3186ad22fdc70d1d7c.gz",
+        "raw_bytes": 1952,
+        "raw_sha256": "f2b6c5e2f7cdce28070fec1583b65db4011fedac22451d3186ad22fdc70d1d7c",
+        "stored_bytes": 1150,
+        "stored_sha256": "61ca33f004ff0a220195088f5f851432266b32c6fcd044c0a7b399ca415843fb"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:22 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncf-ray: a4db7ec93f83eae7-ORD\r\ncf-cache-status: HIT\r\nage: 36850\r\ncache-control: public, max-age=0, s-maxage=86400\r\nexpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nlast-modified: Tue, 20 Oct 2026 12:21:11 GMT\r\nlink: <https://kentonkyclerk.gov/wp-json/>; rel=\"https://api.w.org/\", <https://kentonkyclerk.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://kentonkyclerk.gov/>; rel=shortlink\r\nserver: cloudflare\r\nvary: Accept-Encoding\r\npragma: no-cache\r\nki-cf-cache-status: HIT\r\nx-content-type-options: nosniff\r\nx-edge-location-klb: 1\r\nki-cache-tag: 9981110a-3d2a-447f-bf00-98edc7fe41f5,da3049e2e18e663d2748591bdcffcf3fd8e168130acc259051a40a72f9e53231\r\nki-cache-type: Edge\r\nki-edge: v=28.5.2;mv=99.9.9\r\nki-origin: g1p\r\npermissions-policy: private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")\r\nx-kinsta-cache: HIT\r\nx-pingback: https://kentonkyclerk.gov/xmlrpc.php\r\nset-cookie: __cf_bm=CrFMeIgtXgaVfrGS_OdmQUc4kep5EJfYDGpesN548RU-1792535722.4368687-1.0.1.1-4aHDWJNfzkAvfftzewe9SxBJGQ.Y1OJK4EQmIX_oOtmlyU4tXykAMXTLfFjqlzVoey28odp.u8pO7gjR7BpoI8jVwAQkazdoBCD8TYR5rYww0xBiDG1ruCGADVnGiL2N; HttpOnly; SameSite=None; Secure; Path=/; Domain=kentonkyclerk.gov; Expires=Tue, 20 Oct 2026 23:05:22 GMT\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=x6m8a05OrqiudCEHGo%2B2KnBMeYL47PaOTUc6AMfBMgIGP3iQwO0hrZTgk6b7lYdISwVX3%2B0FvLLdku6Dl65W5kdwS5hkO3W9KUYxIBfhUAtDZw8u40Tq9wvbrtiTOcnwcdvl\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/36b62a5e9119313e5aaa64449d464a3ec1d8d6930327efe694c57d81aae02484.gz",
+        "raw_bytes": 150672,
+        "raw_sha256": "36b62a5e9119313e5aaa64449d464a3ec1d8d6930327efe694c57d81aae02484",
+        "stored_bytes": 27626,
+        "stored_sha256": "3f6a2f7b0d5b3b52d37e7d36c15a56933b79f704f2712d87ad549444f9b46135"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:22.479855+00:00"
+}

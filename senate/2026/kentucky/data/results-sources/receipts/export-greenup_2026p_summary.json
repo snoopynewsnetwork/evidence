@@ -1,0 +1,51 @@
+{
+  "label": "export-greenup_2026p_summary",
+  "started_utc": "2026-10-20T22:35:48.364008+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/GREENUP/Greenup_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/GREENUP/Greenup_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:48.364012+00:00",
+      "ended_utc": "2026-10-20T22:35:48.932150+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/b3a28fdc7b6f84daad04ebe476f21bea83b2df21b38859b619090006248d5904.gz",
+        "raw_bytes": 1630,
+        "raw_sha256": "b3a28fdc7b6f84daad04ebe476f21bea83b2df21b38859b619090006248d5904",
+        "stored_bytes": 888,
+        "stored_sha256": "aeb67bba80b32011e524edf0c5c1b2f5a9d58c331acc1c2a067638d53a9710dc"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:48 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 83520\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:48 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:15:03 GMT\r\netag: \"{CE75D710-E7DD-4DFE-B64B-956B9968E022},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:CE75D710-E7DD-4DFE-B64B-956B9968E022@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Greenup%5f2026p%5fsummary%2ecsv; filename=\"Greenup_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1bda46a2-4c87-b05c-bfd1-83cbbab5be99\r\nrequest-id: 1bda46a2-4c87-b05c-bfd1-83cbbab5be99\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 122\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223548Z-15f786f7784kfsffhC1CHInfnn0000001e2g000000008y58\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/922b048e961c31f669c1c2e27c1ab10f3f895625b30076ceeaeed995d2df04d5.gz",
+        "raw_bytes": 83520,
+        "raw_sha256": "922b048e961c31f669c1c2e27c1ab10f3f895625b30076ceeaeed995d2df04d5",
+        "stored_bytes": 7123,
+        "stored_sha256": "0987a181fac67909c433c3b91441e7dd30a3bf03a5302ee45ac2326dc108fcef"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:48.937135+00:00"
+}

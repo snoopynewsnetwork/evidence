@@ -1,0 +1,51 @@
+{
+  "label": "office-106-results",
+  "started_utc": "2026-10-20T22:39:14.880625+00:00",
+  "request": {
+    "url": "https://www.daviessky.org/election-results/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.daviessky.org/election-results/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:39:14.880632+00:00",
+      "ended_utc": "2026-10-20T22:39:16.662375+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/8bcacbb7894cda2dcb8e92834b07a4220efc1d6de4f50c8734e26e5612b4f53a.gz",
+        "raw_bytes": 1756,
+        "raw_sha256": "8bcacbb7894cda2dcb8e92834b07a4220efc1d6de4f50c8734e26e5612b4f53a",
+        "stored_bytes": 1000,
+        "stored_sha256": "8a1384d66e401c51b5024fab54777afd912e731d503c78ed0f4b611e105c8a8d"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:39:16 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nserver: cloudflare\r\nvary: Accept-Encoding\r\nvary: Accept-Encoding,Cookie\r\nx-frame-options: sameorigin\r\nx-xss-protection: 1\r\nx-xss-protection: 1; mode=block\r\nx-content-type-options: nosniff\r\nx-content-type-options: nosniff\r\nstrict-transport-security: max-age=16070400; includeSubDomains\r\nreferrer-policy: origin-when-cross-origin\r\npermissions-policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)\r\nlink: <https://www.daviessky.org/wp-json/>; rel=\"https://api.w.org/\", <https://www.daviessky.org/wp-json/wp/v2/pages/13304>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.daviessky.org/?p=13304>; rel=shortlink\r\nx-tec-api-version: v1\r\nx-tec-api-root: https://www.daviessky.org/wp-json/tribe/events/v1/\r\nx-tec-api-origin: https://www.daviessky.org\r\nserver-timing: wp-before-template;dur=1268.99, wp-before-template-db-queries;dur=0\r\nset-cookie: return_visitor=true; expires=Tue, 27 Oct 2026 22:39:13 GMT; Max-Age=604800; secure; HttpOnly\r\ncache-control: max-age=0, no-transform\r\nexpires: Tue, 20 Oct 2026 22:39:12 GMT\r\nx-ua-compatible: IE=edge\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=miahATT4KFGIt50zZo2DLY9d%2FaEp6ZlUJCsj%2BHXRmJFnTC9nbWgwnsDyI4uW7UVPiQhHySq7NRcg5j7tQ7AgmyCR18dKQyQ8isIbj40J3xzwLi%2BEEbxAV3tfk14XHyjcbB%2Bz8MzfkO0jHpGyL3pNIg%3D%3D\"}]}\r\ncf-cache-status: DYNAMIC\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\ncf-ray: a4db8476c8f4ac3a-YYZ\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/7f966453228a6675cf89dab41b3d95093177ee840bd9db666b4cc9ef6f60ff06.gz",
+        "raw_bytes": 178292,
+        "raw_sha256": "7f966453228a6675cf89dab41b3d95093177ee840bd9db666b4cc9ef6f60ff06",
+        "stored_bytes": 26025,
+        "stored_sha256": "1380795943d7b3d902d7655e457b6d31bb50fbdc28b86e9837be15911c20fc82"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:39:16.664968+00:00"
+}

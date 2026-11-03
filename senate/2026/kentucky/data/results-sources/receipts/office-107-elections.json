@@ -1,0 +1,51 @@
+{
+  "label": "office-107-elections",
+  "started_utc": "2026-10-20T22:36:12.031092+00:00",
+  "request": {
+    "url": "https://fayettekyclerk.gov/elections/election-results/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://fayettekyclerk.gov/elections/election-results/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:12.031098+00:00",
+      "ended_utc": "2026-10-20T22:36:12.760220+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/a865c6e17fe0607472cf6914cf85550f333cff9abe52379075dfaf42470ccf41.gz",
+        "raw_bytes": 648,
+        "raw_sha256": "a865c6e17fe0607472cf6914cf85550f333cff9abe52379075dfaf42470ccf41",
+        "stored_bytes": 426,
+        "stored_sha256": "86e280e5621f23d656b75f2f28753e30b15afd13565dd50825550485ce984d02"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:12 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nserver: cloudflare\r\nx-powered-by: \r\nreferrer-policy: strict-origin-when-cross-origin\r\nx-frame-options: SAMEORIGIN\r\nx-xss-protection: 1; mode=block\r\nx-content-type-options: nosniff\r\nstrict-transport-security: max-age=31536000\r\nlink: <https://fayettekyclerk.gov/wp-json/>; rel=\"https://api.w.org/\"\r\nlink: <https://fayettekyclerk.gov/wp-json/wp/v2/elections/4345>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\r\nlink: <https://fayettekyclerk.gov/?p=4345>; rel=shortlink\r\nvary: Accept-Encoding\r\ncf-cache-status: DYNAMIC\r\ncf-ray: a4db800088b9eb56-ORD\r\n\r\n",
+      "response_body": {
+        "path": "bodies/9f54d60a0d29d97ee2bacc67f08c5c9afb7a5afffdddb91421ad51288a790d02.gz",
+        "raw_bytes": 67252,
+        "raw_sha256": "9f54d60a0d29d97ee2bacc67f08c5c9afb7a5afffdddb91421ad51288a790d02",
+        "stored_bytes": 11996,
+        "stored_sha256": "c314e6fe55ee813fc611a36b952771594fc3fb511f8e6400f609dba8c16f045d"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:12.761953+00:00"
+}

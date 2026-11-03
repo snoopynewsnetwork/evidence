@@ -1,0 +1,51 @@
+{
+  "label": "export-marion_2026p_summary",
+  "started_utc": "2026-10-20T22:35:53.057781+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MARION/Marion_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MARION/Marion_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:53.057784+00:00",
+      "ended_utc": "2026-10-20T22:35:53.380093+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/3bfa03bd12ab701f022121a6235c50606a3a72ef115b209b3b717bda5a9057ef.gz",
+        "raw_bytes": 1627,
+        "raw_sha256": "3bfa03bd12ab701f022121a6235c50606a3a72ef115b209b3b717bda5a9057ef",
+        "stored_bytes": 888,
+        "stored_sha256": "5f88cbc49dabfa4792622a480854c2baefe8e02012f6cd972ac425ffc0c49f10"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:53 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 21274\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:53 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:22:39 GMT\r\netag: \"{CFEAF316-518D-4C72-9E79-43C8F4C2D74A},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:CFEAF316-518D-4C72-9E79-43C8F4C2D74A@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Marion%5f2026p%5fsummary%2ecsv; filename=\"Marion_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-2ca5-b05c-bfd1-85c4d03d9106\r\nrequest-id: 1cda46a2-2ca5-b05c-bfd1-85c4d03d9106\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 44\r\nspiislatency: 10\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223553Z-15f786f77849g9lvhC1CHIh5bw000000137g000000004tm4\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/a36ae650433f2af237104b66dfdd37d1b26c66e5a63918f1f4f83a8bd4d822a3.gz",
+        "raw_bytes": 21274,
+        "raw_sha256": "a36ae650433f2af237104b66dfdd37d1b26c66e5a63918f1f4f83a8bd4d822a3",
+        "stored_bytes": 2653,
+        "stored_sha256": "f3a1a64d5a77c47256c28721bac61ae16df6d8c7e2e0a11f3fe720f12e1c2c35"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:53.382000+00:00"
+}

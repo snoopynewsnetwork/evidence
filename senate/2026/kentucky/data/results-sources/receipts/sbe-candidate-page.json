@@ -1,0 +1,51 @@
+{
+  "label": "sbe-candidate-page",
+  "started_utc": "2026-10-20T22:36:04.254049+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/Candidates/Pages/default.aspx",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/Candidates/Pages/default.aspx",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:04.254054+00:00",
+      "ended_utc": "2026-10-20T22:36:04.869060+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/9064d8ffe1e7a520db2facd9c760bb9c274a8dc5e71314c86e3e6889eab6cb7b.gz",
+        "raw_bytes": 1340,
+        "raw_sha256": "9064d8ffe1e7a520db2facd9c760bb9c274a8dc5e71314c86e3e6889eab6cb7b",
+        "stored_bytes": 728,
+        "stored_sha256": "13b5d5b7756a1824b253b889462e43198dda7eefd5652899abefae5ada188858"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:04 GMT\r\ncontent-type: text/html; charset=utf-8\r\ncontent-length: 81931\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private, max-age=0\r\nexpires: Mon, 05 Oct 2026 22:36:04 GMT\r\nlast-modified: Tue, 20 Oct 2026 22:36:04 GMT\r\nx-sharepointhealthscore: 0\r\nx-aspnet-version: 4.0.30319\r\nsprequestguid: 1fda46a2-6c63-b05c-6baa-2290f60dd218\r\nrequest-id: 1fda46a2-6c63-b05c-6baa-2290f60dd218\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 231\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223604Z-174b95d58c8q68v5hC1CH1d89c0000001et0000000004yu9\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/3415aaae1a8f1a7ddba7f1927980840dbc069d853bcd593ff1990186f2163d85.gz",
+        "raw_bytes": 81931,
+        "raw_sha256": "3415aaae1a8f1a7ddba7f1927980840dbc069d853bcd593ff1990186f2163d85",
+        "stored_bytes": 35943,
+        "stored_sha256": "e7d21bb5b7bd602e707cf1a9dfd0102c1afde3853bc169a353921f90920d0f4a"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:04.873693+00:00"
+}

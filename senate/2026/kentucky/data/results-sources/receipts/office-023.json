@@ -1,0 +1,51 @@
+{
+  "label": "office-023",
+  "started_utc": "2026-10-20T22:35:01.814540+00:00",
+  "request": {
+    "url": "https://edmonson.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://edmonson.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:01.814563+00:00",
+      "ended_utc": "2026-10-20T22:35:02.267209+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/93b3fae6f0d449c5b4f12974927bf3e14b8686676bbebe7232734eb4a8924c75.gz",
+        "raw_bytes": 744,
+        "raw_sha256": "93b3fae6f0d449c5b4f12974927bf3e14b8686676bbebe7232734eb4a8924c75",
+        "stored_bytes": 570,
+        "stored_sha256": "e8b11980081a720b6302872f2099698d9c5e5e8fc6cbe37bfc1c7a44cbef84d4"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:35:02 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nexpires: Thu, 01 Jan 1970 00:00:01 GMT\r\nreferrer-policy: same-origin\r\nx-frame-options: SAMEORIGIN\r\nvary: accept-encoding\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=di2btg8AIgpu46q8KvZjTq1f9lK8hM83Y8TirKdJyewyDon5o7kA7JUtNdYzU6%2BcHpI%2BR2p1cM%2BLU9weWcj1I4%2F4DZvYlD7NVOLLsEpRVTRc31Agp4WOq6STHjfnJv6%2BonHYekxXJdykFXEbCd6eTw%2F8JdRh\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7e4acf5d2c90-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/9b62323780052b4908b5d55baa7e81ff1ba1c5f3b551fb41c7f7953d0dd0a244.gz",
+        "raw_bytes": 5513,
+        "raw_sha256": "9b62323780052b4908b5d55baa7e81ff1ba1c5f3b551fb41c7f7953d0dd0a244",
+        "stored_bytes": 2123,
+        "stored_sha256": "43985970a400a093be5b4c98bd9c3a6a4ef353452b78c234909a31afdb3c5505"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:02.267952+00:00"
+}

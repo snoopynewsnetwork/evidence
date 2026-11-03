@@ -1,0 +1,26 @@
+[
+  {
+    "input_receipt": "receipts/office-109-elections.json",
+    "input_receipt_sha256": "de0963da482715718355ede8fe70aca91e2e01222b1c7a6262b6394813d0248b",
+    "full_body_reference": {
+      "path": "bodies/d21284d1c4594431ce6f7057d39934ef9c781bde2454e777ef6c3c9418f1acec.gz",
+      "raw_bytes": 91350,
+      "raw_sha256": "d21284d1c4594431ce6f7057d39934ef9c781bde2454e777ef6c3c9418f1acec",
+      "stored_bytes": 20990,
+      "stored_sha256": "8f4911c5d55252b85d02277ae3f546803a2a5261bcfe664bb65329f7b1a01608"
+    },
+    "traceback": "Traceback (most recent call last):\n  File \"<stdin>\", line 5, in <module>\n  File \"/Users/tqbf/codebase/snn/senate/2026/kentucky/data/results-sources/scripts/research_counties.py\", line 21, in candidates\n    href=a['attrs'].get('href','');url=urllib.parse.urljoin(base,href);words=(a['text']+' '+href).lower()\n                                                                              ~~~~~~~~~~~~~^~~~~\nTypeError: can only concatenate str (not \"NoneType\") to str\n"
+  },
+  {
+    "input_receipt": "receipts/office-116-elections.json",
+    "input_receipt_sha256": "50643d2fca6533224a40beed0a1b23c467c25ac0bb136e439422ba63a36fbdee",
+    "full_body_reference": {
+      "path": "bodies/9afd8bf421e945b30a9146498bfb23c1d4811601564436ace09972d07f1b9411.gz",
+      "raw_bytes": 84555,
+      "raw_sha256": "9afd8bf421e945b30a9146498bfb23c1d4811601564436ace09972d07f1b9411",
+      "stored_bytes": 19415,
+      "stored_sha256": "2c3afde032138aa722468e8d312d6189c41274e6246f07a93ae3c2cf4e0970ff"
+    },
+    "traceback": "Traceback (most recent call last):\n  File \"<stdin>\", line 5, in <module>\n  File \"/Users/tqbf/codebase/snn/senate/2026/kentucky/data/results-sources/scripts/research_counties.py\", line 21, in candidates\n    href=a['attrs'].get('href','');url=urllib.parse.urljoin(base,href);words=(a['text']+' '+href).lower()\n                                                                              ~~~~~~~~~~~~~^~~~~\nTypeError: can only concatenate str (not \"NoneType\") to str\n"
+  }
+]

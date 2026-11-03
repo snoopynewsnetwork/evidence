@@ -1,0 +1,51 @@
+{
+  "label": "export-oldham_2026p_summary",
+  "started_utc": "2026-10-20T22:35:55.935222+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/OLDHAM/Oldham_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/OLDHAM/Oldham_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:55.935231+00:00",
+      "ended_utc": "2026-10-20T22:35:56.361528+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/37afec63135ae28637e8bc517c49bbc2ac81f336dc8ab3e0828dace77caedfd0.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "37afec63135ae28637e8bc517c49bbc2ac81f336dc8ab3e0828dace77caedfd0",
+        "stored_bytes": 891,
+        "stored_sha256": "1c38afcc89b91d16048be985185791551c594555bd8dd01761d3bbbe4f529b0c"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:56 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 166047\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:56 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:24:17 GMT\r\netag: \"{D27908F3-08CE-42F8-B702-3CD9EE2A3F09},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:D27908F3-08CE-42F8-B702-3CD9EE2A3F09@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Oldham%5f2026p%5fsummary%2ecsv; filename=\"Oldham_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-ac58-b05c-6baa-2d88cbe76c96\r\nrequest-id: 1dda46a2-ac58-b05c-6baa-2d88cbe76c96\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 110\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223556Z-15f786f77845q85xhC1CHIfw6c0000001mr0000000003k4q\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/37a0339fb8005aafb31ccaf39c5a76b404d3605afc438d251d13f8859c8cd231.gz",
+        "raw_bytes": 166047,
+        "raw_sha256": "37a0339fb8005aafb31ccaf39c5a76b404d3605afc438d251d13f8859c8cd231",
+        "stored_bytes": 15322,
+        "stored_sha256": "5d5dd15f4298bb8d085e9aff3b236352ae5ad465dbad5ba62cce1a2fc3a697b7"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:56.377754+00:00"
+}

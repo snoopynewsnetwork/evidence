@@ -1,0 +1,51 @@
+{
+  "label": "office-032",
+  "started_utc": "2026-10-20T22:35:03.371036+00:00",
+  "request": {
+    "url": "https://grant.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://grant.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:03.371042+00:00",
+      "ended_utc": "2026-10-20T22:35:03.812167+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/b57f9a2a513045b7c8be2b5b98c457726600897dcd0f14c17fc9480b8442298b.gz",
+        "raw_bytes": 732,
+        "raw_sha256": "b57f9a2a513045b7c8be2b5b98c457726600897dcd0f14c17fc9480b8442298b",
+        "stored_bytes": 566,
+        "stored_sha256": "dc47d2109ccecab4571e64fba569d32316172e45e95e78106a739a15eb9d2701"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:35:03 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nexpires: Thu, 01 Jan 1970 00:00:01 GMT\r\nreferrer-policy: same-origin\r\nx-frame-options: SAMEORIGIN\r\nvary: accept-encoding\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=2whvQVIsRf9ILHmomUOotFU5r2htMeViV21aebTzwTITzDG0uCYNjEZ7yfFXkrV3meLL98SpYvwZqaCVbSS6EcNy9Y9bhZcoNQ%2BXiSSOzSoiXFegmPFzu576X0J%2FFjBxT28VIXbZUIVvKbGveWf9uklZ\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7e5449addab0-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/21152c557180d61fa644f961fec45534656044d5f77c65d5609fc7a472ce6fe5.gz",
+        "raw_bytes": 5513,
+        "raw_sha256": "21152c557180d61fa644f961fec45534656044d5f77c65d5609fc7a472ce6fe5",
+        "stored_bytes": 2123,
+        "stored_sha256": "4d53110129976a086bb75671531ec229817bb2291a5b7bcca23e2284ce919ba1"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:03.812762+00:00"
+}

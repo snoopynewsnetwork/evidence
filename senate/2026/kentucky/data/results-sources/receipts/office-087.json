@@ -1,0 +1,51 @@
+{
+  "label": "office-087",
+  "started_utc": "2026-10-20T22:35:12.279678+00:00",
+  "request": {
+    "url": "https://todd.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://todd.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:12.279683+00:00",
+      "ended_utc": "2026-10-20T22:35:12.539072+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/99dd5399dd5c928f7ac7352319c8b425bff1688f0443a89d1d3b903dd8c597e5.gz",
+        "raw_bytes": 271,
+        "raw_sha256": "99dd5399dd5c928f7ac7352319c8b425bff1688f0443a89d1d3b903dd8c597e5",
+        "stored_bytes": 232,
+        "stored_sha256": "217566fd1971694a9fec6c06b7b945f6cc343628cf58f0dcc899ed19a9a431f4"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:12 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html\r\ncontent-length: 0\r\nlast-modified: Wed, 10 Apr 2019 19:24:22 GMT\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: HIT\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:12.539492+00:00"
+}

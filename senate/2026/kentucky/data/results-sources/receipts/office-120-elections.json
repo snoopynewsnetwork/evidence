@@ -1,0 +1,51 @@
+{
+  "label": "office-120-elections",
+  "started_utc": "2026-10-20T22:36:13.512660+00:00",
+  "request": {
+    "url": "https://tcclerk.com/elections-2/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://tcclerk.com/elections-2/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:13.512666+00:00",
+      "ended_utc": "2026-10-20T22:36:15.510808+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/4b76d11ee70751589cbdb395fdd1151d878b2196c44f172f60e64b64cfb78d2e.gz",
+        "raw_bytes": 352,
+        "raw_sha256": "4b76d11ee70751589cbdb395fdd1151d878b2196c44f172f60e64b64cfb78d2e",
+        "stored_bytes": 260,
+        "stored_sha256": "3b376a443db69398dd5264d76cbd83eadaf95249a794e218648c44488b64b469"
+      },
+      "headers_latin1": "HTTP/1.1 200 OK\r\nDate: Tue, 20 Oct 2026 22:36:13 GMT\r\nServer: Apache\r\nLink: <https://tcclerk.com/wp-json/>; rel=\"https://api.w.org/\", <https://tcclerk.com/wp-json/wp/v2/pages/218>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://tcclerk.com/?p=218>; rel=shortlink\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n",
+      "response_body": {
+        "path": "bodies/adeb4f8112ea6bfab928478a0df1551f78d3c7d4d8cb31eacf407134750651b9.gz",
+        "raw_bytes": 47696,
+        "raw_sha256": "adeb4f8112ea6bfab928478a0df1551f78d3c7d4d8cb31eacf407134750651b9",
+        "stored_bytes": 10621,
+        "stored_sha256": "e3e9ac36e6441fcf4b9613761538c5a7d037209d4bfa7c53ca0f0ebc6f4ea1c1"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:15.513154+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "office-114-elections",
+  "started_utc": "2026-10-20T22:36:13.017044+00:00",
+  "request": {
+    "url": "https://lawrencekyclerk.com/voter-information-elections/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://lawrencekyclerk.com/voter-information-elections/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:13.017047+00:00",
+      "ended_utc": "2026-10-20T22:36:13.489145+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/82f98513921e4da329310ad5b90276411d4dea3135f0f396075301054b05dc70.gz",
+        "raw_bytes": 430,
+        "raw_sha256": "82f98513921e4da329310ad5b90276411d4dea3135f0f396075301054b05dc70",
+        "stored_bytes": 292,
+        "stored_sha256": "1424b79df56b56354ea97bf387d45d29d308ef11f5d66e394c228a9128047b95"
+      },
+      "headers_latin1": "HTTP/2 200 \r\nserver: nginx/1.31.7\r\ndate: Tue, 20 Oct 2026 22:36:13 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nvary: Accept-Encoding\r\nlink: <https://lawrencekyclerk.com/wp-json/>; rel=\"https://api.w.org/\", <https://lawrencekyclerk.com/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lawrencekyclerk.com/?p=10>; rel=shortlink\r\nvary: Accept-Encoding,User-Agent\r\nx-proxy-cache: DISABLED\r\n\r\n",
+      "response_body": {
+        "path": "bodies/89cf132c284cfcaa9462fa3795e424a7e79b3b44fe1274e80cc628fe2a45ab71.gz",
+        "raw_bytes": 55302,
+        "raw_sha256": "89cf132c284cfcaa9462fa3795e424a7e79b3b44fe1274e80cc628fe2a45ab71",
+        "stored_bytes": 12576,
+        "stored_sha256": "39632834e16bc781723e3aa061029d6fae11b532a121c572e3a7d5324e3dafc1"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:13.490279+00:00"
+}

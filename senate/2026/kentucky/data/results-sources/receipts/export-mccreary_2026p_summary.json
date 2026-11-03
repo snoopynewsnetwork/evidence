@@ -1,0 +1,51 @@
+{
+  "label": "export-mccreary_2026p_summary",
+  "started_utc": "2026-10-20T22:35:53.895584+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MCCREARY/Mccreary_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/MCCREARY/Mccreary_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:53.895595+00:00",
+      "ended_utc": "2026-10-20T22:35:54.569783+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/45dd2d58d515b050a316d164d02f05c277127d28b5eaa5d1402c8e641040c12b.gz",
+        "raw_bytes": 1632,
+        "raw_sha256": "45dd2d58d515b050a316d164d02f05c277127d28b5eaa5d1402c8e641040c12b",
+        "stored_bytes": 890,
+        "stored_sha256": "85495f61007585a6d354b17a4a0dd0e4fb5e01e05f6f6604f7a2dee90aa4f87f"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:54 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 91294\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:54 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:23:05 GMT\r\netag: \"{7D3D5F2A-F164-44D4-AA17-DAACC2A9828F},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:7D3D5F2A-F164-44D4-AA17-DAACC2A9828F@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Mccreary%5f2026p%5fsummary%2ecsv; filename=\"Mccreary_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-ccdc-b05c-6baa-2217361fcb44\r\nrequest-id: 1cda46a2-ccdc-b05c-6baa-2217361fcb44\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 320\r\nspiislatency: 12\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223554Z-15f786f7784mzdffhC1CHIe4140000001p1g000000009gzv\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/7bd19e7d164376c57c249bf8170dc342dcaef774d5780266a8b2b6141ba0fc53.gz",
+        "raw_bytes": 91294,
+        "raw_sha256": "7bd19e7d164376c57c249bf8170dc342dcaef774d5780266a8b2b6141ba0fc53",
+        "stored_bytes": 8699,
+        "stored_sha256": "c276b5e76d408dd5c050443dfa55fc0cb2a6e5e71d6e3a6c674d42c16aa67276"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:54.579414+00:00"
+}

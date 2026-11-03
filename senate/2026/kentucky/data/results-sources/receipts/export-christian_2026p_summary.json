@@ -1,0 +1,51 @@
+{
+  "label": "export-christian_2026p_summary",
+  "started_utc": "2026-10-20T22:35:44.713785+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/CHRISTIAN/Christian_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/CHRISTIAN/Christian_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:44.713794+00:00",
+      "ended_utc": "2026-10-20T22:35:45.316095+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/ca0fb900eb871e5a204ca3d42e6a0af82d644e98e059a4a11bdddf54f85cd8cd.gz",
+        "raw_bytes": 1635,
+        "raw_sha256": "ca0fb900eb871e5a204ca3d42e6a0af82d644e98e059a4a11bdddf54f85cd8cd",
+        "stored_bytes": 891,
+        "stored_sha256": "c2535fd3bbf3f077f26f2ecf927430fdfb053ce118fafa11a70cdaaf90fcfac8"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:45 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 147844\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=41d789b93ba2269aad70a031cb02f253; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=41d789b93ba2269aad70a031cb02f253; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:45 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:12:04 GMT\r\netag: \"{E749E67E-BEF2-4824-B3A8-3BC80BAAA509},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:E749E67E-BEF2-4824-B3A8-3BC80BAAA509@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Christian%5f2026p%5fsummary%2ecsv; filename=\"Christian_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1ada46a2-0c9e-b05c-6baa-2cdb9dbbcf7d\r\nrequest-id: 1ada46a2-0c9e-b05c-6baa-2cdb9dbbcf7d\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 122\r\nspiislatency: 13\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223544Z-15f786f7784lgv5jhC1CHImn840000001nr0000000001esa\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/27c98426466cb315f4dbb4f88d0d34a391b3723c64bc429571fde97a8e2a2fa6.gz",
+        "raw_bytes": 147844,
+        "raw_sha256": "27c98426466cb315f4dbb4f88d0d34a391b3723c64bc429571fde97a8e2a2fa6",
+        "stored_bytes": 12488,
+        "stored_sha256": "7c6e1c65b0b8e47b9de43541874453ea0f457a1d132ccc0b9a9d181993807613"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:45.328493+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "label": "office-101",
+  "started_utc": "2026-10-20T22:35:16.257237+00:00",
+  "request": {
+    "url": "https://www.calloway.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.calloway.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:16.257240+00:00",
+      "ended_utc": "2026-10-20T22:35:16.766203+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/552e28293580c363d02914c280f150fc2b6bc4151897296b7b9d592f34c06789.gz",
+        "raw_bytes": 525,
+        "raw_sha256": "552e28293580c363d02914c280f150fc2b6bc4151897296b7b9d592f34c06789",
+        "stored_bytes": 356,
+        "stored_sha256": "529134f7934229b50a0bc26936678872dfc995216887352009ea0f06d66e408c"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:16 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nno-vary-search: params=(\"PageSpeed\")\r\nlink: <https://callowaycoclerkky.gov/index.php?rest_route=/>; rel=\"https://api.w.org/\", <https://callowaycoclerkky.gov/index.php?rest_route=/wp/v2/pages/2399>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://callowaycoclerkky.gov/>; rel=shortlink\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: HIT\r\n\r\n",
+      "response_body": {
+        "path": "bodies/c1f43b3e279760c7f65e32eb9a86a961403194303ff900373ed0a4e47c66c4a5.gz",
+        "raw_bytes": 183958,
+        "raw_sha256": "c1f43b3e279760c7f65e32eb9a86a961403194303ff900373ed0a4e47c66c4a5",
+        "stored_bytes": 31289,
+        "stored_sha256": "62bc5957f0a0bd369ea780a84d5ac007051a60765af4a0487364e6b9d099cf1d"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:16.769482+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "label": "office-114",
+  "started_utc": "2026-10-20T22:35:22.480112+00:00",
+  "request": {
+    "url": "https://www.lawrencekyclerk.com",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.lawrencekyclerk.com",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:22.480115+00:00",
+      "ended_utc": "2026-10-20T22:35:22.967519+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/d9d8d5645b67a39d0d466a58a468c0c5f035eaf84497fcf611b5aa173289fba9.gz",
+        "raw_bytes": 294,
+        "raw_sha256": "d9d8d5645b67a39d0d466a58a468c0c5f035eaf84497fcf611b5aa173289fba9",
+        "stored_bytes": 239,
+        "stored_sha256": "cf8894e7cecd85fcce55dd46f85227c1eaa0bfe7e2f93a9b9ffbbf7f96806941"
+      },
+      "headers_latin1": "HTTP/2 301 \r\nserver: nginx/1.31.7\r\ndate: Tue, 20 Oct 2026 22:35:22 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 0\r\nx-pingback: https://lawrencekyclerk.com/xmlrpc.php\r\nx-redirect-by: WordPress\r\nlocation: https://lawrencekyclerk.com/\r\nvary: User-Agent\r\nx-proxy-cache: DISABLED\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://lawrencekyclerk.com/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:22.968134+00:00",
+      "ended_utc": "2026-10-20T22:35:23.364966+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/823adca9adb5c98128b365e11b06cca657b366dea3643b67b8cf6e422ade8b1a.gz",
+        "raw_bytes": 476,
+        "raw_sha256": "823adca9adb5c98128b365e11b06cca657b366dea3643b67b8cf6e422ade8b1a",
+        "stored_bytes": 304,
+        "stored_sha256": "8f4873c2e079db8749ea5a6053dfea0aa3a863761a5ffc2ed1a6121800a034fd"
+      },
+      "headers_latin1": "HTTP/2 200 \r\nserver: nginx/1.31.7\r\ndate: Tue, 20 Oct 2026 22:35:23 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nvary: Accept-Encoding\r\nx-pingback: https://lawrencekyclerk.com/xmlrpc.php\r\nlink: <https://lawrencekyclerk.com/wp-json/>; rel=\"https://api.w.org/\", <https://lawrencekyclerk.com/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lawrencekyclerk.com/>; rel=shortlink\r\nvary: Accept-Encoding,User-Agent\r\nx-proxy-cache: DISABLED\r\n\r\n",
+      "response_body": {
+        "path": "bodies/d647312a0aa0bf3913e0349eaed654d7a1e8a6c0e3e9603ae0009edd7ba75536.gz",
+        "raw_bytes": 40876,
+        "raw_sha256": "d647312a0aa0bf3913e0349eaed654d7a1e8a6c0e3e9603ae0009edd7ba75536",
+        "stored_bytes": 9435,
+        "stored_sha256": "f651dd78b86adb2d90586f1a17e06975ced963c0de8a16b0982cefcf6f5dc3aa"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:23.366070+00:00"
+}

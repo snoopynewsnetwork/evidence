@@ -1,0 +1,51 @@
+{
+  "label": "office-059",
+  "started_utc": "2026-10-20T22:35:07.597702+00:00",
+  "request": {
+    "url": "https://magoffincountyclerk.ky.gov",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://magoffincountyclerk.ky.gov",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:07.597707+00:00",
+      "ended_utc": "2026-10-20T22:35:09.650169+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/61e8e66c48ad1e34a07ebdf56482e7c5463191d225963306e1c4dc329fdfd5e5.gz",
+        "raw_bytes": 859,
+        "raw_sha256": "61e8e66c48ad1e34a07ebdf56482e7c5463191d225963306e1c4dc329fdfd5e5",
+        "stored_bytes": 480,
+        "stored_sha256": "ddd6b40f7ef45930c9e01f6d2a10b5941b8dd2b6790c21fca1489c16ea388284"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:09 GMT\r\ncontent-type: text/html; charset=UTF-8\r\nset-cookie: ARRAffinity=31fb1a392f5f0054a6a0fdac8fdbc67ecfcc2e6fcd9a828d1dba2c737d0ed062;Path=/;HttpOnly;Secure;Domain=nicky-magoffinclerk-magoffinclerkkygov-prod.azurewebsites.net\r\nset-cookie: ARRAffinitySameSite=31fb1a392f5f0054a6a0fdac8fdbc67ecfcc2e6fcd9a828d1dba2c737d0ed062;Path=/;HttpOnly;SameSite=None;Secure;Domain=nicky-magoffinclerk-magoffinclerkkygov-prod.azurewebsites.net\r\nvary: Accept-Encoding\r\nx-powered-by: PHP/8.4.26\r\nlink: <https://magoffincountyclerk.ky.gov/wp-json/>; rel=\"https://api.w.org/\"\r\nlink: <https://magoffincountyclerk.ky.gov/wp-json/wp/v2/pages/7>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\r\nlink: </>; rel=shortlink\r\nx-azure-ref: 20261020T223508Z-r1cf8987fd5vkdzlhC1CHIq1dn00000005ug0000000071dh\r\nx-cache: CONFIG_NOCACHE\r\n\r\n",
+      "response_body": {
+        "path": "bodies/8883e84bac2f255eacabf8f61b447606911f42b243b73d6792c6b09443dee59f.gz",
+        "raw_bytes": 135198,
+        "raw_sha256": "8883e84bac2f255eacabf8f61b447606911f42b243b73d6792c6b09443dee59f",
+        "stored_bytes": 18451,
+        "stored_sha256": "7c2dd6df62ff2d1b0d8b5ffbfacedbf03ef7b61738951685fb925eb38d0431ae"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:09.652001+00:00"
+}

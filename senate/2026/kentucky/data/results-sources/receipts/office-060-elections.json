@@ -1,0 +1,51 @@
+{
+  "label": "office-060-elections",
+  "started_utc": "2026-10-20T22:36:09.365271+00:00",
+  "request": {
+    "url": "https://marion.clerkinfo.net/?page_id=1685",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://marion.clerkinfo.net/?page_id=1685",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:09.365275+00:00",
+      "ended_utc": "2026-10-20T22:36:10.838257+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/aef7348fbc45174a12bd18fe6f870120256a10e49e2483e59c3d6d85653fc635.gz",
+        "raw_bytes": 666,
+        "raw_sha256": "aef7348fbc45174a12bd18fe6f870120256a10e49e2483e59c3d6d85653fc635",
+        "stored_bytes": 449,
+        "stored_sha256": "9b3a7e0ea24bd3421a19f828f30d6fd643f3cf2081d36501e06bfc003a2a4aaa"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:10 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nexpires: Thu, 19 Nov 1981 08:52:00 GMT\r\ncache-control: no-store, no-cache, must-revalidate\r\npragma: no-cache\r\nlink: <https://marion.clerkinfo.net/index.php?rest_route=/>; rel=\"https://api.w.org/\", <https://marion.clerkinfo.net/index.php?rest_route=/wp/v2/pages/1685>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://marion.clerkinfo.net/?p=1685>; rel=shortlink\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-server-cache: true\r\nx-proxy-cache: MISS\r\nset-cookie: PHPSESSID=b773b9ecc7abd81e48da42da523f088b; path=/\r\n\r\n",
+      "response_body": {
+        "path": "bodies/a12384edd070364c38206e0ae9c43f7f0af06c05a6bfdabc9218f47e01000ac6.gz",
+        "raw_bytes": 143185,
+        "raw_sha256": "a12384edd070364c38206e0ae9c43f7f0af06c05a6bfdabc9218f47e01000ac6",
+        "stored_bytes": 24570,
+        "stored_sha256": "60bd6fd8d60e12a622d29dd8dbe123fbbec71a9d45fe69d36878faa12f0e3109"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:10.840883+00:00"
+}

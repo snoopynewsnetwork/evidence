@@ -1,0 +1,51 @@
+{
+  "label": "office-042",
+  "started_utc": "2026-10-20T22:35:05.212444+00:00",
+  "request": {
+    "url": "https://hickman.countyclerk.us",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://hickman.countyclerk.us",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:05.212447+00:00",
+      "ended_utc": "2026-10-20T22:35:05.590168+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "403",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/7408515b0b82b0793f9a55b931720111e4c4b60352b7474ef05a0b947d364eb0.gz",
+        "raw_bytes": 746,
+        "raw_sha256": "7408515b0b82b0793f9a55b931720111e4c4b60352b7474ef05a0b947d364eb0",
+        "stored_bytes": 571,
+        "stored_sha256": "a5216dcd260b3dabb76c165b5105729dbefe421d20d42dc1b3752c536e4155ae"
+      },
+      "headers_latin1": "HTTP/2 403 \r\ndate: Tue, 20 Oct 2026 22:35:05 GMT\r\ncontent-type: text/html; charset=UTF-8\r\ncache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nexpires: Thu, 01 Jan 1970 00:00:01 GMT\r\nreferrer-policy: same-origin\r\nx-frame-options: SAMEORIGIN\r\nvary: accept-encoding\r\nreport-to: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bkj%2F1hw9ShAc%2BgTqfzTosUny0fvYdG8gYMUq%2BhBUylmBvk%2B1A3nsgFcElrlwN2fCbwN90i8buo0nrAM8fJ4dai0S6oBarvD%2FA7nG3j3WNRCOsqJoX5O0P8ggYEsT9x2LI%2Fj8kReprwOuKMI0HoNh8PfAZps%3D\"}]}\r\nnel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nserver: cloudflare\r\ncf-ray: a4db7e5fdf9ec027-ATL\r\nalt-svc: h3=\":443\"; ma=86400\r\n\r\n",
+      "response_body": {
+        "path": "bodies/ccd84de033a822e8cb8ab29f0cda212cc2e97815c68a9f0956da10ed36cb5a68.gz",
+        "raw_bytes": 5513,
+        "raw_sha256": "ccd84de033a822e8cb8ab29f0cda212cc2e97815c68a9f0956da10ed36cb5a68",
+        "stored_bytes": 2123,
+        "stored_sha256": "583de5d38679e53316f52ce91a456f995473851fcf82c58ae0b4eeedf15f400b"
+      },
+      "body_availability": "captured",
+      "status": 403
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:05.590767+00:00"
+}

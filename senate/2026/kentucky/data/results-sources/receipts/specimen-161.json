@@ -1,0 +1,51 @@
+{
+  "label": "specimen-161",
+  "started_utc": "2026-10-20T22:37:05.421626+00:00",
+  "request": {
+    "url": "https://web.sos.ky.gov/ballots/Marshall%202026G.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://web.sos.ky.gov/ballots/Marshall%202026G.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:37:05.421629+00:00",
+      "ended_utc": "2026-10-20T22:37:05.736192+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/87c632a6aaa029aa6c3e9bb095592ebae3319476257cd9115e977b0e8be0b427.gz",
+        "raw_bytes": 253,
+        "raw_sha256": "87c632a6aaa029aa6c3e9bb095592ebae3319476257cd9115e977b0e8be0b427",
+        "stored_bytes": 220,
+        "stored_sha256": "53510ba3a391061f3d58bf858781ae3fe766b2c2dfb5400db9c1075939bde076"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:37:05 GMT\r\ncontent-type: application/pdf\r\ncontent-length: 504090\r\nlast-modified: Tue, 29 Sep 2026 13:58:32 GMT\r\naccept-ranges: bytes\r\netag: \"9159fc9c1a50dd1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\n\r\n",
+      "response_body": {
+        "path": "bodies/ebc5af5e264a1e6e7b6d3de3306299d10f0b66fa022c3c4d632e8648bd84ef95.gz",
+        "raw_bytes": 504090,
+        "raw_sha256": "ebc5af5e264a1e6e7b6d3de3306299d10f0b66fa022c3c4d632e8648bd84ef95",
+        "stored_bytes": 455963,
+        "stored_sha256": "77588a33cecea2910d6989a7f2dc723d576ef2ecf74ddb610094be9c755b247f"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:37:05.744537+00:00"
+}

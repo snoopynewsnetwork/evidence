@@ -1,0 +1,51 @@
+{
+  "label": "export-letcher_2026p_summary",
+  "started_utc": "2026-10-20T22:35:51.492113+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LETCHER/Letcher_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/LETCHER/Letcher_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:51.492117+00:00",
+      "ended_utc": "2026-10-20T22:35:51.898473+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/58e27c06e2bcfc3f96746cdff11c6c890a458c3af2d20495caa8dca964fdfe14.gz",
+        "raw_bytes": 1630,
+        "raw_sha256": "58e27c06e2bcfc3f96746cdff11c6c890a458c3af2d20495caa8dca964fdfe14",
+        "stored_bytes": 885,
+        "stored_sha256": "9ad9647495bcf75d704203c7ec9a4d7bceb50f35394ef56a6a8cc3858ee7944d"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:51 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 122457\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:51 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:17:18 GMT\r\netag: \"{CE54A7EA-F3FC-4668-80E4-8398830D0E39},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:CE54A7EA-F3FC-4668-80E4-8398830D0E39@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Letcher%5f2026p%5fsummary%2ecsv; filename=\"Letcher_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1cda46a2-cc3d-b05c-bfd1-8be8030863f1\r\nrequest-id: 1cda46a2-cc3d-b05c-bfd1-8be8030863f1\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 97\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223551Z-15f786f77848fm5xhC1CHI82g00000001p50000000001bdy\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/f4234481fadb07bd0d54a5c19ce305911f4b82b6086c3bcc21ddf34a527a7119.gz",
+        "raw_bytes": 122457,
+        "raw_sha256": "f4234481fadb07bd0d54a5c19ce305911f4b82b6086c3bcc21ddf34a527a7119",
+        "stored_bytes": 10729,
+        "stored_sha256": "33afed4e8c58ce52c3b4b5016587a614a4c88042ba8eefb3c65ce21a91039c41"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:51.903846+00:00"
+}

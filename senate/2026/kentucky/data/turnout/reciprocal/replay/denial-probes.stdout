@@ -1,0 +1,47 @@
+[
+  {
+    "probe": "network DNS/socket",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:network sockets/DNS"
+  },
+  {
+    "probe": "mutable newsroom aggregate",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:mutable producer/peer/news/coordinator read"
+  },
+  {
+    "probe": "coordinator numerical aggregate",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:mutable producer/peer/news/coordinator read"
+  },
+  {
+    "probe": "peer discovery",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:peer/producer discovery"
+  },
+  {
+    "probe": "current peer body",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:mutable producer/peer/news/coordinator read"
+  },
+  {
+    "probe": "producer helper read",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:mutable producer/peer/news/coordinator read"
+  },
+  {
+    "probe": "producer writer execution",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:producer helper/writer execution"
+  },
+  {
+    "probe": "unapproved acquisition helper",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:unapproved subprocess/network helper"
+  },
+  {
+    "probe": "write outside temp",
+    "denied": true,
+    "error": "KY_EXERCISED_DENIAL:writes outside isolated temporary root"
+  }
+]

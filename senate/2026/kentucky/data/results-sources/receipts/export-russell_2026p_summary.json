@@ -1,0 +1,51 @@
+{
+  "label": "export-russell_2026p_summary",
+  "started_utc": "2026-10-20T22:35:57.593951+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/RUSSELL/Russell_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/RUSSELL/Russell_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:57.593961+00:00",
+      "ended_utc": "2026-10-20T22:35:57.988187+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/05984683c73f572c20880796d4f2763f3029317f75680027d7c61dc6fe7e75ba.gz",
+        "raw_bytes": 1629,
+        "raw_sha256": "05984683c73f572c20880796d4f2763f3029317f75680027d7c61dc6fe7e75ba",
+        "stored_bytes": 893,
+        "stored_sha256": "a50d7407746c8729186bfe33be64c51e81d894118c72838df363ef32d3ed2f77"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:58 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 66104\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:57 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:25:13 GMT\r\netag: \"{79804A35-C9FF-475D-AC21-2ED54CEB3BEE},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:79804A35-C9FF-475D-AC21-2ED54CEB3BEE@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Russell%5f2026p%5fsummary%2ecsv; filename=\"Russell_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1dda46a2-9cc2-b05c-bfd1-8fd8abe10bf6\r\nrequest-id: 1dda46a2-9cc2-b05c-bfd1-8fd8abe10bf6\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 71\r\nspiislatency: 18\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223557Z-174b95d58c8s2t7whC1CH1fdww0000000zm0000000005ed8\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/2ab41505c13488f4e3f4a4399512f79d36448888212d478926e152149a1aacd5.gz",
+        "raw_bytes": 66104,
+        "raw_sha256": "2ab41505c13488f4e3f4a4399512f79d36448888212d478926e152149a1aacd5",
+        "stored_bytes": 6635,
+        "stored_sha256": "269bd7adb12da37f76545177dffd89bf011a2a2971edad622b12aa58a7f390e9"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:57.995618+00:00"
+}

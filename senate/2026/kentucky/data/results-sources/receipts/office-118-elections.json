@@ -1,0 +1,51 @@
+{
+  "label": "office-118-elections",
+  "started_utc": "2026-10-20T22:36:13.490494+00:00",
+  "request": {
+    "url": "https://pendleton.clerkinfo.net/2026-general-candidates/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://pendleton.clerkinfo.net/2026-general-candidates/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:36:13.490498+00:00",
+      "ended_utc": "2026-10-20T22:36:21.701586+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/acca59b88647b7b7bdc1523e015d34c79d1715d900d520289c82e855e99a926a.gz",
+        "raw_bytes": 634,
+        "raw_sha256": "acca59b88647b7b7bdc1523e015d34c79d1715d900d520289c82e855e99a926a",
+        "stored_bytes": 418,
+        "stored_sha256": "973e8808afeb11353145c0ae537b11da6e8c1ae3e2c33ecc786d8ede91352da4"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:36:21 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nno-vary-search: params=(\"PageSpeed\")\r\nlink: <https://pendleton.clerkinfo.net/wp-json/>; rel=\"https://api.w.org/\", <https://pendleton.clerkinfo.net/wp-json/wp/v2/pages/1955>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://pendleton.clerkinfo.net/?p=1955>; rel=shortlink\r\ncache-control: max-age=7200\r\nexpires: Wed, 21 Oct 2026 00:36:13 GMT\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-endurance-cache-level: 2\r\nx-nginx-cache: WordPress\r\nx-server-cache: true\r\nx-proxy-cache: MISS\r\n\r\n",
+      "response_body": {
+        "path": "bodies/47c9516b9eae4d1cf65749a5f4ce6c3f22e12ca7d78d99bb30950cfba7b50bd7.gz",
+        "raw_bytes": 129007,
+        "raw_sha256": "47c9516b9eae4d1cf65749a5f4ce6c3f22e12ca7d78d99bb30950cfba7b50bd7",
+        "stored_bytes": 24426,
+        "stored_sha256": "32db30f80742806292af022a077511e343197fa94c4398deb0fba633b8904675"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:21.704308+00:00"
+}

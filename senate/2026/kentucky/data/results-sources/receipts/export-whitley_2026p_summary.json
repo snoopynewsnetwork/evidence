@@ -1,0 +1,51 @@
+{
+  "label": "export-whitley_2026p_summary",
+  "started_utc": "2026-10-20T22:35:59.655394+00:00",
+  "request": {
+    "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WHITLEY/Whitley_2026p_summary.csv",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://elect.ky.gov/results/2020-2029/2026ElectionReports/Primary/WHITLEY/Whitley_2026p_summary.csv",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:59.655400+00:00",
+      "ended_utc": "2026-10-20T22:35:59.999837+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/5044637960b4ce920b66adfabe533a8053342b83221204a466f52c4dd57fd12a.gz",
+        "raw_bytes": 1630,
+        "raw_sha256": "5044637960b4ce920b66adfabe533a8053342b83221204a466f52c4dd57fd12a",
+        "stored_bytes": 892,
+        "stored_sha256": "40da8c0b40547536d2a1b7f9cbff3caded719b42eec3e398220572f633641ec7"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:59 GMT\r\ncontent-type: application/octet-stream\r\ncontent-length: 137845\r\nvary: Accept-Encoding\r\nset-cookie: ApplicationGatewayAffinityCORS=294e9cf61c1e5d3da448ce53c4a2546e; Path=/; SameSite=None; Secure\r\nset-cookie: ApplicationGatewayAffinity=294e9cf61c1e5d3da448ce53c4a2546e; Path=/\r\ncache-control: private,max-age=0\r\nexpires: Mon, 05 Oct 2026 22:35:59 GMT\r\nlast-modified: Tue, 30 Jun 2026 15:26:54 GMT\r\netag: \"{6E04A868-0773-4FDC-87B5-66449FC7C4EA},1\"\r\nx-sharepointhealthscore: 0\r\nresourcetag: rt:6E04A868-0773-4FDC-87B5-66449FC7C4EA@00000000001\r\ncontent-disposition: attachment; filename*=utf-8''Whitley%5f2026p%5fsummary%2ecsv; filename=\"Whitley_2026p_summary.csv\"\r\nx-download-options: noopen\r\npublic-extension: http://schemas.microsoft.com/repl-2\r\nsprequestguid: 1eda46a2-0c3b-b05c-bfd1-88ae3e2b9411\r\nrequest-id: 1eda46a2-0c3b-b05c-bfd1-88ae3e2b9411\r\nx-frame-options: SAMEORIGIN\r\ncontent-security-policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;\r\nsprequestduration: 99\r\nspiislatency: 11\r\nset-cookie: _InfoPath_Sentinel=; path=/\r\nx-powered-by: ASP.NET\r\nmicrosoftsharepointteamservices: 16.0.0.20326\r\nx-content-type-options: nosniff\r\nx-ms-invokeapp: 1; RequireReadOnly\r\nx-azure-ref: 20261020T223559Z-174b95d58c8r55nwhC1CH1yxen0000000bsg000000002qax\r\nx-fd-int-roxy-purgeid: 0\r\nx-cache: PRIVATE_NOSTORE\r\naccept-ranges: bytes\r\n\r\n",
+      "response_body": {
+        "path": "bodies/0c7167d6f2082a4d100827dddb999bda6562ce9f49795a4352bb1556ea57e955.gz",
+        "raw_bytes": 137845,
+        "raw_sha256": "0c7167d6f2082a4d100827dddb999bda6562ce9f49795a4352bb1556ea57e955",
+        "stored_bytes": 11993,
+        "stored_sha256": "5384e29cd7eb657e1976a68bfa347a33499179137b28e39629d982af116179a9"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:36:00.008964+00:00"
+}

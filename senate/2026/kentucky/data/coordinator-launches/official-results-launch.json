@@ -1,0 +1,25 @@
+{
+  "agent_id": "7d4dabfc-c9c1-4c91-9b93-8c604cae1a9c",
+  "actual_original_question": 3,
+  "profile": "Research",
+  "fresh_all_four_profile_notes_read": true,
+  "provider_draft_inspected": true,
+  "provider": "codex/gpt-6.1-sol",
+  "settings": {
+    "modeId": "auto-review",
+    "thinkingOptionId": "high"
+  },
+  "actual_launch_utc": "2026-10-20T22:30:36.743747+00:00",
+  "released_slots": [
+    "Kentucky original turnout b2a7de63 actually finished bounded reciprocal",
+    "Louisiana original turnout50fd7a21 actually finished packaging/source review"
+  ],
+  "prompt": {
+    "path": "senate/2026/kentucky/data/coordinator-launches/official-results-initial-prompt.txt",
+    "bytes": 9247,
+    "sha256": "42e14ff6f4cd85f8a16a194ed25a5246fddf4c31b4c6b4c0ce4c8321c8086dd9"
+  },
+  "complete_authority_validated_before_launch": true,
+  "canonical_native_priority": null,
+  "whole_state_parent_research_scope": 120
+}

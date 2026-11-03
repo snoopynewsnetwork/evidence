@@ -1,0 +1,83 @@
+{
+  "label": "office-105",
+  "started_utc": "2026-10-20T22:35:17.675495+00:00",
+  "request": {
+    "url": "https://www.crittenden.clerkinfo.net",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://www.crittenden.clerkinfo.net",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:17.675498+00:00",
+      "ended_utc": "2026-10-20T22:35:19.884272+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "301",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/783fa329eee16378e2fdc30e796129dbeb28203da1e2c4afc765848cd3f3a094.gz",
+        "raw_bytes": 416,
+        "raw_sha256": "783fa329eee16378e2fdc30e796129dbeb28203da1e2c4afc765848cd3f3a094",
+        "stored_bytes": 310,
+        "stored_sha256": "694e1d0d7a96ccbbc796343714a68c888e31cd2299da0015dbdf00883ce16e53"
+      },
+      "headers_latin1": "HTTP/2 301 \r\ndate: Tue, 20 Oct 2026 22:35:19 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\ncontent-length: 0\r\nx-redirect-by: WordPress\r\nlocation: https://crittenden.clerkinfo.net/\r\ncache-control: max-age=7200\r\nexpires: Wed, 21 Oct 2026 00:35:18 GMT\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-endurance-cache-level: 2\r\nx-nginx-cache: WordPress\r\nx-server-cache: true\r\nx-proxy-cache: EXPIRED\r\n\r\n",
+      "response_body": {
+        "path": "bodies/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.gz",
+        "raw_bytes": 0,
+        "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stored_bytes": 20,
+        "stored_sha256": "f1b651238a58fe290baec6c5e32f3bdb1943dd2bd582f02569231f7a757c7837"
+      },
+      "body_availability": "captured",
+      "status": 301
+    },
+    {
+      "url": "https://crittenden.clerkinfo.net/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:35:19.884787+00:00",
+      "ended_utc": "2026-10-20T22:35:20.395290+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/c02617ff0c13ea23b94242ec0aec0fdc414cbe8cdc0fbb58b04166f26e4891a9.gz",
+        "raw_bytes": 590,
+        "raw_sha256": "c02617ff0c13ea23b94242ec0aec0fdc414cbe8cdc0fbb58b04166f26e4891a9",
+        "stored_bytes": 380,
+        "stored_sha256": "b2328b931a5a73c63a63db21f7592b49f18338052444a6a8e273a69f3bcece39"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ndate: Tue, 20 Oct 2026 22:35:20 GMT\r\nserver: nginx/1.29.8\r\ncontent-type: text/html; charset=UTF-8\r\nlink: <https://crittenden.clerkinfo.net/wp-json/>; rel=\"https://api.w.org/\", <https://crittenden.clerkinfo.net/wp-json/wp/v2/pages/104>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://crittenden.clerkinfo.net/>; rel=shortlink\r\ncache-control: max-age=7200\r\nexpires: Tue, 20 Oct 2026 23:38:08 GMT\r\nvary: Accept-Encoding\r\nhost-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==\r\nx-endurance-cache-level: 2\r\nx-nginx-cache: WordPress\r\nx-server-cache: true\r\nx-proxy-cache: HIT\r\n\r\n",
+      "response_body": {
+        "path": "bodies/b1867a28caf38e5949c33121e3bf0beadf12483d713227f085af7e16a34d4d4b.gz",
+        "raw_bytes": 62977,
+        "raw_sha256": "b1867a28caf38e5949c33121e3bf0beadf12483d713227f085af7e16a34d4d4b",
+        "stored_bytes": 14853,
+        "stored_sha256": "c92975bc34b709922603dffe8788b49493e4fb78f186f10f6affd93e8331331b"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:35:20.396606+00:00"
+}

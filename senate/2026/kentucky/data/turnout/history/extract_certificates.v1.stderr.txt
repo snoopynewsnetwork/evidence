@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/history/extract_certificates.v1.failed.py", line 33, in <module>
+    a,b,c=extract()
+          ^^^^^^^^^
+  File "/Users/tqbf/codebase/snn/senate/2026/kentucky/data/turnout/history/extract_certificates.v1.failed.py", line 27, in extract
+    assert len(seen)==120,(contest,len(seen));assert footer is not None
+           ^^^^^^^^^^^^^^
+AssertionError: ('2024-president', 116)

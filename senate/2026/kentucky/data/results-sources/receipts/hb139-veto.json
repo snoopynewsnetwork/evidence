@@ -1,0 +1,51 @@
+{
+  "label": "hb139-veto",
+  "started_utc": "2026-10-20T22:37:34.303981+00:00",
+  "request": {
+    "url": "https://apps.legislature.ky.gov/record/26rs/hb139/veto.pdf",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://apps.legislature.ky.gov/record/26rs/hb139/veto.pdf",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:37:34.303989+00:00",
+      "ended_utc": "2026-10-20T22:37:34.828875+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/16bc1ab3c03281a5ceb53e52c45f16d4b8277bd92fae8a32c45ce7879673b3ce.gz",
+        "raw_bytes": 252,
+        "raw_sha256": "16bc1ab3c03281a5ceb53e52c45f16d4b8277bd92fae8a32c45ce7879673b3ce",
+        "stored_bytes": 221,
+        "stored_sha256": "28383d3ff8248a88097f77b629d57271d6f321a1fae02d3962780a86d26c8b31"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncontent-type: application/pdf\r\nlast-modified: Fri, 10 Apr 2026 21:07:44 GMT\r\naccept-ranges: bytes\r\netag: \"09013132ec9dc1:0\"\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\ndate: Tue, 20 Oct 2026 22:37:34 GMT\r\ncontent-length: 793134\r\n\r\n",
+      "response_body": {
+        "path": "bodies/37ad0652ee7a2389623d3767fdf5f14fe3ea1b6a754a6b3ed5243371c4457e48.gz",
+        "raw_bytes": 793134,
+        "raw_sha256": "37ad0652ee7a2389623d3767fdf5f14fe3ea1b6a754a6b3ed5243371c4457e48",
+        "stored_bytes": 587171,
+        "stored_sha256": "1765e9ac398733edeb69d1ae01b7da04e958c7825758828aa7214de25998d99b"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:37:34.844995+00:00"
+}

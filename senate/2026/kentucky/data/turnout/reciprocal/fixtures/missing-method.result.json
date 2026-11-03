@@ -1,0 +1,8 @@
+{
+  "fixture": "missing-method",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "native full source/position/method companion",
+  "complete_packet_input_sha256": "dabe38030b27b49d6e56933e1260ac2c8a9cd24d249d08e5717f14f297aa14cd",
+  "full_components": 382
+}

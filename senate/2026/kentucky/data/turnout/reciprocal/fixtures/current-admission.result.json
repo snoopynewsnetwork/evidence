@@ -1,0 +1,8 @@
+{
+  "fixture": "current-admission",
+  "expected": "REJECT",
+  "actual": "REJECT",
+  "reason": "no current/legal/geographic/feed admission",
+  "complete_packet_input_sha256": "15fea15512c5e8789f1b1aef346ac39d1c111dceb4b01ec942eb5d15919d73ca",
+  "full_components": 382
+}

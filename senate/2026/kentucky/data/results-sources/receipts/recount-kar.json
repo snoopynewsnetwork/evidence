@@ -1,0 +1,51 @@
+{
+  "label": "recount-kar",
+  "started_utc": "2026-10-20T22:37:00.212866+00:00",
+  "request": {
+    "url": "https://apps.legislature.ky.gov/law/kar/titles/031/004/220/16521/",
+    "method": "GET",
+    "body": null,
+    "configured_headers": {
+      "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+      "Accept": "*/*",
+      "Accept-Encoding": "identity"
+    },
+    "timeout_seconds": 35,
+    "maximum_redirects": 8
+  },
+  "hops": [
+    {
+      "url": "https://apps.legislature.ky.gov/law/kar/titles/031/004/220/16521/",
+      "method": "GET",
+      "body": null,
+      "configured_headers": {
+        "User-Agent": "KentuckyOfficialSourceResearch/1.0",
+        "Accept": "*/*",
+        "Accept-Encoding": "identity"
+      },
+      "started_utc": "2026-10-20T22:37:00.212869+00:00",
+      "ended_utc": "2026-10-20T22:37:00.582692+00:00",
+      "curl_exit": 0,
+      "curl_stdout": "200",
+      "curl_stderr": "",
+      "header_bytes": {
+        "path": "bodies/009060245fd0abe4146f2e5e1f824dd257f1287043c727cf52f4f653637738b2.gz",
+        "raw_bytes": 152,
+        "raw_sha256": "009060245fd0abe4146f2e5e1f824dd257f1287043c727cf52f4f653637738b2",
+        "stored_bytes": 154,
+        "stored_sha256": "52bd795db3ea9c026b305faf3196066e2a62805ec0e312e0a06ec2d9f9927208"
+      },
+      "headers_latin1": "HTTP/2 200 \r\ncontent-type: text/html\r\nserver: Microsoft-IIS/10.0\r\nx-powered-by: ASP.NET\r\ndate: Tue, 20 Oct 2026 22:36:59 GMT\r\ncontent-length: 121707\r\n\r\n",
+      "response_body": {
+        "path": "bodies/8018716a4f7ba5b06c94cd0f23b2f1a081429c5bde3153491b0dd38f551352ad.gz",
+        "raw_bytes": 121707,
+        "raw_sha256": "8018716a4f7ba5b06c94cd0f23b2f1a081429c5bde3153491b0dd38f551352ad",
+        "stored_bytes": 20847,
+        "stored_sha256": "97d02422e7895ef56325dd707971ac2641182fa865599c3f28f44752a12840c2"
+      },
+      "body_availability": "captured",
+      "status": 200
+    }
+  ],
+  "ended_utc": "2026-10-20T22:37:00.585482+00:00"
+}
